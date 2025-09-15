@@ -1,0 +1,147 @@
+[
+ {
+  "property": "RarityData",
+  "offset": "0x1040",
+  "size": "0x120"
+ },
+ {
+  "property": "NoAmmoSwitcherIndex",
+  "offset": "0x1160",
+  "size": "0x4"
+ },
+ {
+  "property": "bMinimalAmmoTooltip",
+  "offset": "0x1164",
+  "size": "0x1"
+ },
+ {
+  "property": "RarityBorderMID",
+  "offset": "0x1168",
+  "size": "0x8"
+ },
+ {
+  "property": "LevelBarMID",
+  "offset": "0x1176",
+  "size": "0x8"
+ },
+ {
+  "property": "CommonWidgetSwitcher_Stack",
+  "offset": "0x1184",
+  "size": "0x8"
+ },
+ {
+  "property": "RarityBorder",
+  "offset": "0x1192",
+  "size": "0x8"
+ },
+ {
+  "property": "TagListBox",
+  "offset": "0x1200",
+  "size": "0x8"
+ },
+ {
+  "property": "IconSpacer",
+  "offset": "0x1208",
+  "size": "0x8"
+ },
+ {
+  "property": "LevelBar",
+  "offset": "0x1216",
+  "size": "0x8"
+ },
+ {
+  "property": "RatingSwitcher",
+  "offset": "0x1224",
+  "size": "0x8"
+ },
+ {
+  "property": "TierIndicator",
+  "offset": "0x1232",
+  "size": "0x8"
+ },
+ {
+  "property": "SlotsCount",
+  "offset": "0x1240",
+  "size": "0x8"
+ },
+ {
+  "property": "TertiaryRow",
+  "offset": "0x1248",
+  "size": "0x8"
+ },
+ {
+  "property": "CategoryIndicatorTertiary",
+  "offset": "0x1256",
+  "size": "0x8"
+ },
+ {
+  "property": "AmmoLoadedText",
+  "offset": "0x1264",
+  "size": "0x8"
+ },
+ {
+  "property": "ItemCostWidget",
+  "offset": "0x1272",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_MinimalIconPreview",
+  "offset": "0x1280",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_ItemNameShort",
+  "offset": "0x1288",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_ItemNameShort_Amount",
+  "offset": "0x1296",
+  "size": "0x8"
+ },
+ {
+  "property": "CraftingIngredientBox",
+  "offset": "0x1304",
+  "size": "0x8"
+ },
+ {
+  "property": "ItemCostWidgetShort",
+  "offset": "0x1312",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_WeaponName",
+  "offset": "0x1320",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_RarityGlow",
+  "offset": "0x1328",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_WeaponRarityValue",
+  "offset": "0x1336",
+  "size": "0x8"
+ },
+ {
+  "property": "HorizontalBox_Tertiary2",
+  "offset": "0x1344",
+  "size": "0x8"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x1352",
+  "size": "0x8"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x1360",
+  "size": "0x8"
+ },
+ {
+  "property": "DurabilityStatus",
+  "offset": "0x1368",
+  "size": "0x8"
+ }
+]

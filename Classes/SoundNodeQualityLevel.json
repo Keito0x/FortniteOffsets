@@ -1,0 +1,7 @@
+[
+ {
+  "property": "CookedQualityLevelIndex",
+  "offset": "0x72",
+  "size": "0x4"
+ }
+]

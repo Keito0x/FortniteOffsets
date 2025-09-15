@@ -1,0 +1,17 @@
+[
+ {
+  "property": "MainRegion",
+  "offset": "0x40",
+  "size": "0x8"
+ },
+ {
+  "property": "ManagerPlayer",
+  "offset": "0x48",
+  "size": "0x8"
+ },
+ {
+  "property": "StateChartResources",
+  "offset": "0x56",
+  "size": "0x8"
+ }
+]

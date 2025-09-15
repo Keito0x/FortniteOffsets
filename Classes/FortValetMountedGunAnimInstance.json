@@ -1,0 +1,32 @@
+[
+ {
+  "property": "VehicleActor",
+  "offset": "0x1496",
+  "size": "0x8"
+ },
+ {
+  "property": "bIsUsingMountedGun",
+  "offset": "0x1504",
+  "size": "0x1"
+ },
+ {
+  "property": "SeatIndexCached",
+  "offset": "0x1508",
+  "size": "0x4"
+ },
+ {
+  "property": "AimingYaw",
+  "offset": "0x1512",
+  "size": "0x4"
+ },
+ {
+  "property": "AimingPitch",
+  "offset": "0x1516",
+  "size": "0x4"
+ },
+ {
+  "property": "MountedWeapon",
+  "offset": "0x1520",
+  "size": "0x8"
+ }
+]

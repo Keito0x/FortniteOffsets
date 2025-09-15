@@ -1,0 +1,12 @@
+[
+ {
+  "property": "SlotValidWithin",
+  "offset": "0x1112",
+  "size": "0x2"
+ },
+ {
+  "property": "Parameter",
+  "offset": "0x1120",
+  "size": "0x32"
+ }
+]

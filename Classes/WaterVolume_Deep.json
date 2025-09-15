@@ -1,0 +1,17 @@
+[
+ {
+  "property": "EntrySound",
+  "offset": "0x752",
+  "size": "0x8"
+ },
+ {
+  "property": "ExitSound",
+  "offset": "0x760",
+  "size": "0x8"
+ },
+ {
+  "property": "DamagePerSec",
+  "offset": "0x768",
+  "size": "0x4"
+ }
+]

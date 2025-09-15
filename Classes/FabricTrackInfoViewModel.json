@@ -1,0 +1,22 @@
+[
+ {
+  "property": "TrackInfoState",
+  "offset": "0x104",
+  "size": "0x1"
+ },
+ {
+  "property": "Artist",
+  "offset": "0x112",
+  "size": "0x16"
+ },
+ {
+  "property": "Title",
+  "offset": "0x128",
+  "size": "0x16"
+ },
+ {
+  "property": "bLoading",
+  "offset": "0x144",
+  "size": "0x1"
+ }
+]

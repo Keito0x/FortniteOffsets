@@ -1,0 +1,52 @@
+[
+ {
+  "property": "Text",
+  "offset": "0x392",
+  "size": "0x16"
+ },
+ {
+  "property": "TextStyleSet",
+  "offset": "0x408",
+  "size": "0x8"
+ },
+ {
+  "property": "DecoratorClasses",
+  "offset": "0x416",
+  "size": "0x16"
+ },
+ {
+  "property": "DefaultTextStyleOverride",
+  "offset": "0x432",
+  "size": "0x736"
+ },
+ {
+  "property": "MinDesiredWidth",
+  "offset": "0x1168",
+  "size": "0x4"
+ },
+ {
+  "property": "bOverrideDefaultStyle",
+  "offset": "0x1172",
+  "size": "0x1"
+ },
+ {
+  "property": "TextTransformPolicy",
+  "offset": "0x1173",
+  "size": "0x1"
+ },
+ {
+  "property": "TextOverflowPolicy",
+  "offset": "0x1174",
+  "size": "0x1"
+ },
+ {
+  "property": "DefaultTextStyle",
+  "offset": "0x1184",
+  "size": "0x736"
+ },
+ {
+  "property": "InstanceDecorators",
+  "offset": "0x1920",
+  "size": "0x16"
+ }
+]

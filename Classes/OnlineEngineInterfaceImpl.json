@@ -1,0 +1,27 @@
+[
+ {
+  "property": "MappedUniqueNetIdTypes",
+  "offset": "0x40",
+  "size": "0x80"
+ },
+ {
+  "property": "CompatibleUniqueNetIdTypes",
+  "offset": "0x120",
+  "size": "0x16"
+ },
+ {
+  "property": "VoiceSubsystemNameOverride",
+  "offset": "0x136",
+  "size": "0x4"
+ },
+ {
+  "property": "bOnlineServicesCompatibilityEnabled",
+  "offset": "0x392",
+  "size": "0x1"
+ },
+ {
+  "property": "OnlineServicesCompatibilityInterface",
+  "offset": "0x400",
+  "size": "0x8"
+ }
+]

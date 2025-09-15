@@ -1,0 +1,47 @@
+[
+ {
+  "property": "Dictionaries",
+  "offset": "0x216",
+  "size": "0x80"
+ },
+ {
+  "property": "HorizontalScanDistance",
+  "offset": "0x296",
+  "size": "0x4"
+ },
+ {
+  "property": "VerticalScanDistance",
+  "offset": "0x300",
+  "size": "0x4"
+ },
+ {
+  "property": "TotalCeilingCountRequiredAlongHorizontalScan",
+  "offset": "0x304",
+  "size": "0x4"
+ },
+ {
+  "property": "HorizontalLineTraceDistance",
+  "offset": "0x308",
+  "size": "0x4"
+ },
+ {
+  "property": "VerticalLineTraceDistance",
+  "offset": "0x312",
+  "size": "0x4"
+ },
+ {
+  "property": "TraceCollisionChannel",
+  "offset": "0x316",
+  "size": "0x1"
+ },
+ {
+  "property": "Player",
+  "offset": "0x320",
+  "size": "0x240"
+ },
+ {
+  "property": "BuildingGrid",
+  "offset": "0x560",
+  "size": "0x8"
+ }
+]

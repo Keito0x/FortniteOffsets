@@ -1,0 +1,42 @@
+[
+ {
+  "property": "FuelAmount",
+  "offset": "0x2912",
+  "size": "0x4"
+ },
+ {
+  "property": "PetrolTemplate",
+  "offset": "0x2920",
+  "size": "0x8"
+ },
+ {
+  "property": "FortSplineGroundPathTemplate",
+  "offset": "0x2928",
+  "size": "0x8"
+ },
+ {
+  "property": "bImpacted",
+  "offset": "0x2936",
+  "size": "0x1"
+ },
+ {
+  "property": "MaxLifeSpanOnCollision",
+  "offset": "0x2940",
+  "size": "0x4"
+ },
+ {
+  "property": "GroundSlopeAngleThreshold",
+  "offset": "0x2944",
+  "size": "0x4"
+ },
+ {
+  "property": "CachedImpactDir",
+  "offset": "0x2952",
+  "size": "0x24"
+ },
+ {
+  "property": "SplatterSourceActor",
+  "offset": "0x2976",
+  "size": "0x8"
+ }
+]

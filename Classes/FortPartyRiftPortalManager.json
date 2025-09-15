@@ -1,0 +1,97 @@
+[
+ {
+  "property": "MinimumSpawnSeparation",
+  "offset": "0x680",
+  "size": "0x40"
+ },
+ {
+  "property": "PortalSpawnDistance",
+  "offset": "0x720",
+  "size": "0x40"
+ },
+ {
+  "property": "VerticalSpawnDistance",
+  "offset": "0x760",
+  "size": "0x40"
+ },
+ {
+  "property": "MaxHeightFromPawn",
+  "offset": "0x800",
+  "size": "0x40"
+ },
+ {
+  "property": "MaxHeightAboveTerrain",
+  "offset": "0x840",
+  "size": "0x40"
+ },
+ {
+  "property": "BoxHalfSize",
+  "offset": "0x880",
+  "size": "0x24"
+ },
+ {
+  "property": "PrivacyErrorTags",
+  "offset": "0x904",
+  "size": "0x32"
+ },
+ {
+  "property": "CollisionErrorTags",
+  "offset": "0x936",
+  "size": "0x32"
+ },
+ {
+  "property": "TooCloseErrorTags",
+  "offset": "0x968",
+  "size": "0x32"
+ },
+ {
+  "property": "NotLeaderErrorTags",
+  "offset": "0x1000",
+  "size": "0x32"
+ },
+ {
+  "property": "GuestErrorTags",
+  "offset": "0x1032",
+  "size": "0x32"
+ },
+ {
+  "property": "HubErrorTags",
+  "offset": "0x1064",
+  "size": "0x32"
+ },
+ {
+  "property": "PartyFullErrorTags",
+  "offset": "0x1096",
+  "size": "0x32"
+ },
+ {
+  "property": "AwayErrorTags",
+  "offset": "0x1128",
+  "size": "0x32"
+ },
+ {
+  "property": "LongRangeInteractionMinimumDistance",
+  "offset": "0x1192",
+  "size": "0x4"
+ },
+ {
+  "property": "LongRangeInteractionMaximumDistance",
+  "offset": "0x1196",
+  "size": "0x4"
+ },
+ {
+  "property": "LongRangeInteractionCutoffAngle",
+  "offset": "0x1200",
+  "size": "0x4"
+ },
+ {
+  "property": "AllPortals",
+  "offset": "0x1208",
+  "size": "0x16"
+ },
+ {
+  "property": "PortalMap",
+  "offset": "0x1224",
+  "size": "0x80"
+ }
+]

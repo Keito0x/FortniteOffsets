@@ -1,0 +1,62 @@
+[
+ {
+  "property": "CircleRadius",
+  "offset": "0x144",
+  "size": "0x56"
+ },
+ {
+  "property": "PointOnCircleSpacingMethod",
+  "offset": "0x200",
+  "size": "0x1"
+ },
+ {
+  "property": "SpaceBetween",
+  "offset": "0x208",
+  "size": "0x56"
+ },
+ {
+  "property": "NumberOfPoints",
+  "offset": "0x264",
+  "size": "0x56"
+ },
+ {
+  "property": "ArcDirection",
+  "offset": "0x320",
+  "size": "0x32"
+ },
+ {
+  "property": "ArcDirectionOffsetDegrees",
+  "offset": "0x352",
+  "size": "0x56"
+ },
+ {
+  "property": "ArcAngle",
+  "offset": "0x408",
+  "size": "0x56"
+ },
+ {
+  "property": "CircleCenter",
+  "offset": "0x464",
+  "size": "0x8"
+ },
+ {
+  "property": "bIgnoreAnyContextActorsWhenGeneratingCircle",
+  "offset": "0x472",
+  "size": "0x1"
+ },
+ {
+  "property": "CircleCenterZOffset",
+  "offset": "0x480",
+  "size": "0x56"
+ },
+ {
+  "property": "TraceData",
+  "offset": "0x536",
+  "size": "0x56"
+ },
+ {
+  "property": "bDefineArc",
+  "offset": "0x592",
+  "size": "0x1"
+ }
+]

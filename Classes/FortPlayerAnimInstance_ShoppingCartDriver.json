@@ -1,0 +1,57 @@
+[
+ {
+  "property": "ShoppingCartInput",
+  "offset": "0x4888",
+  "size": "0x92"
+ },
+ {
+  "property": "VelocityImpact",
+  "offset": "0x4984",
+  "size": "0x240"
+ },
+ {
+  "property": "PedalingRelevancyData",
+  "offset": "0x5224",
+  "size": "0x20"
+ },
+ {
+  "property": "ImpactDisplacement",
+  "offset": "0x5248",
+  "size": "0x24"
+ },
+ {
+  "property": "bIsInAirFarFromGround",
+  "offset": "0x5272",
+  "size": "0x1"
+ },
+ {
+  "property": "bForwardVelocityGT400",
+  "offset": "0x5273",
+  "size": "0x1"
+ },
+ {
+  "property": "bForwardSpeedKmHLT5",
+  "offset": "0x5274",
+  "size": "0x1"
+ },
+ {
+  "property": "bTransitionFallToFallSuperman",
+  "offset": "0x5275",
+  "size": "0x1"
+ },
+ {
+  "property": "bTransitionPedalingToCoasting",
+  "offset": "0x5276",
+  "size": "0x1"
+ },
+ {
+  "property": "bTransitionJogStopToJog",
+  "offset": "0x5277",
+  "size": "0x1"
+ },
+ {
+  "property": "bWasCoastingOnFallingStart",
+  "offset": "0x5278",
+  "size": "0x1"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "property": "SubGraphName",
+  "offset": "0x288",
+  "size": "0x4"
+ },
+ {
+  "property": "DefaultComponentPin",
+  "offset": "0x292",
+  "size": "0x8"
+ }
+]

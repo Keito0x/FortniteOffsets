@@ -1,0 +1,12 @@
+[
+ {
+  "property": "DebugExecBindings",
+  "offset": "0x416",
+  "size": "0x16"
+ },
+ {
+  "property": "InvertedAxis",
+  "offset": "0x480",
+  "size": "0x16"
+ }
+]

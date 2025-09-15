@@ -1,0 +1,32 @@
+[
+ {
+  "property": "Material",
+  "offset": "0x1312",
+  "size": "0x8"
+ },
+ {
+  "property": "WireframeMaterial",
+  "offset": "0x1320",
+  "size": "0x8"
+ },
+ {
+  "property": "bCreateMeshProxySections",
+  "offset": "0x1328",
+  "size": "0x1"
+ },
+ {
+  "property": "bUpdateNavMeshOnMeshUpdate",
+  "offset": "0x1329",
+  "size": "0x1"
+ },
+ {
+  "property": "bNeverCreateCollisionMesh",
+  "offset": "0x1331",
+  "size": "0x1"
+ },
+ {
+  "property": "BodyHolders",
+  "offset": "0x1400",
+  "size": "0x16"
+ }
+]

@@ -1,0 +1,47 @@
+[
+ {
+  "property": "CranePitch",
+  "offset": "0x680",
+  "size": "0x4"
+ },
+ {
+  "property": "CraneYaw",
+  "offset": "0x684",
+  "size": "0x4"
+ },
+ {
+  "property": "CraneArmLength",
+  "offset": "0x688",
+  "size": "0x4"
+ },
+ {
+  "property": "bLockMountPitch",
+  "offset": "0x692",
+  "size": "0x1"
+ },
+ {
+  "property": "bLockMountYaw",
+  "offset": "0x693",
+  "size": "0x1"
+ },
+ {
+  "property": "¦ΩY¦¦¦¦¦¦¦¦QYYYYYYYYYYYYYYYQYYYYYYYYYYYYYYYQYYYYYYYYYYYYYYYQYYYYYYYYYYYYYYYQYYYYYYYYYYYYYYYQYYYYYYYYYYYYYYYQYYYYYYYYYYYYYYYQYYYYYYYYYYYYYYY]YYYYYYYUYYYYYYYQYYYYYYYYYYYYYYYQYYYYYYY]YYYYYYY]YYYYYYYUYYYYYYYU)]¦¦YAS]¦¦Y)]¦¦YYYYYYYYΩY¦XΗXYΐΎτ_yYΩσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσYYyYYYΩYy[YYYΩ[QYYyYYYΩYY[YYYYYQYYyYYYΩYY[Y[YYYQYYyYYYΩYY[YY!¦¦¦_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_YΩY¦¦ΩY¦¦XY¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦",
+  "offset": "0x696",
+  "size": "0x8"
+ },
+ {
+  "property": "CraneYawControl",
+  "offset": "0x704",
+  "size": "0x8"
+ },
+ {
+  "property": "CranePitchControl",
+  "offset": "0x712",
+  "size": "0x8"
+ },
+ {
+  "property": "CraneCameraMount",
+  "offset": "0x720",
+  "size": "0x8"
+ }
+]

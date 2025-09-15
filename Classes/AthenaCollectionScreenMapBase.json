@@ -1,0 +1,17 @@
+[
+ {
+  "property": "MapWidget",
+  "offset": "0x1704",
+  "size": "0x8"
+ },
+ {
+  "property": "CollectionIconType",
+  "offset": "0x1720",
+  "size": "0x8"
+ },
+ {
+  "property": "MapCollectionIcons",
+  "offset": "0x1728",
+  "size": "0x80"
+ }
+]

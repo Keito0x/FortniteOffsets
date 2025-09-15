@@ -1,0 +1,17 @@
+[
+ {
+  "property": "IsDataRegistryLoaded",
+  "offset": "0x144",
+  "size": "0x1"
+ },
+ {
+  "property": "PersistenceFrameworkStorageEnvironment",
+  "offset": "0x145",
+  "size": "0x1"
+ },
+ {
+  "property": "Services",
+  "offset": "0x152",
+  "size": "0x80"
+ }
+]

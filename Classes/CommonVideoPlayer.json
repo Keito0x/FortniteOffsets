@@ -1,0 +1,37 @@
+[
+ {
+  "property": "Video",
+  "offset": "0x360",
+  "size": "0x8"
+ },
+ {
+  "property": "bMatchSize",
+  "offset": "0x368",
+  "size": "0x1"
+ },
+ {
+  "property": "MediaPlayer",
+  "offset": "0x376",
+  "size": "0x8"
+ },
+ {
+  "property": "MediaTexture",
+  "offset": "0x384",
+  "size": "0x8"
+ },
+ {
+  "property": "VideoMaterial",
+  "offset": "0x392",
+  "size": "0x8"
+ },
+ {
+  "property": "SoundComponent",
+  "offset": "0x400",
+  "size": "0x8"
+ },
+ {
+  "property": "VideoBrush",
+  "offset": "0x416",
+  "size": "0x176"
+ }
+]

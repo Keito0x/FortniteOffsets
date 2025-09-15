@@ -1,0 +1,62 @@
+[
+ {
+  "property": "CurieComponentClass",
+  "offset": "0x192",
+  "size": "0x8"
+ },
+ {
+  "property": "CurieManagerRegistryName",
+  "offset": "0x200",
+  "size": "0x4"
+ },
+ {
+  "property": "MaterialDataRegistryName",
+  "offset": "0x204",
+  "size": "0x4"
+ },
+ {
+  "property": "ElementDataRegistryName",
+  "offset": "0x208",
+  "size": "0x4"
+ },
+ {
+  "property": "EntityStateDataRegistryName",
+  "offset": "0x212",
+  "size": "0x4"
+ },
+ {
+  "property": "ElementAllocationHandlers",
+  "offset": "0x880",
+  "size": "0x80"
+ },
+ {
+  "property": "ElementAttachmentHandlers",
+  "offset": "0x960",
+  "size": "0x80"
+ },
+ {
+  "property": "ElementAttachmentConditionHandlers",
+  "offset": "0x1040",
+  "size": "0x80"
+ },
+ {
+  "property": "ElementInteractWithElementHandlers",
+  "offset": "0x1120",
+  "size": "0x80"
+ },
+ {
+  "property": "ElementInteractWithMaterialHandlers",
+  "offset": "0x1200",
+  "size": "0x80"
+ },
+ {
+  "property": "ElementInteractWithContainerHandlers",
+  "offset": "0x1280",
+  "size": "0x80"
+ },
+ {
+  "property": "CurieManagerComponents",
+  "offset": "0x1360",
+  "size": "0x16"
+ }
+]

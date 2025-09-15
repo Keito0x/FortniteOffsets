@@ -1,0 +1,12 @@
+[
+ {
+  "property": "SingleAIUnitCost",
+  "offset": "0x40",
+  "size": "0x40"
+ },
+ {
+  "property": "Priority",
+  "offset": "0x80",
+  "size": "0x40"
+ }
+]

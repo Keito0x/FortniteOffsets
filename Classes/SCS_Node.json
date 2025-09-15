@@ -1,0 +1,57 @@
+[
+ {
+  "property": "ComponentClass",
+  "offset": "0x40",
+  "size": "0x8"
+ },
+ {
+  "property": "ComponentTemplate",
+  "offset": "0x48",
+  "size": "0x8"
+ },
+ {
+  "property": "CookedComponentInstancingData",
+  "offset": "0x56",
+  "size": "0x64"
+ },
+ {
+  "property": "AttachToName",
+  "offset": "0x120",
+  "size": "0x4"
+ },
+ {
+  "property": "ParentComponentOrVariableName",
+  "offset": "0x124",
+  "size": "0x4"
+ },
+ {
+  "property": "ParentComponentOwnerClassName",
+  "offset": "0x128",
+  "size": "0x4"
+ },
+ {
+  "property": "bIsParentComponentNative",
+  "offset": "0x132",
+  "size": "0x1"
+ },
+ {
+  "property": "ChildNodes",
+  "offset": "0x136",
+  "size": "0x16"
+ },
+ {
+  "property": "MetaDataArray",
+  "offset": "0x152",
+  "size": "0x16"
+ },
+ {
+  "property": "VariableGuid",
+  "offset": "0x168",
+  "size": "0x16"
+ },
+ {
+  "property": "InternalVariableName",
+  "offset": "0x184",
+  "size": "0x4"
+ }
+]

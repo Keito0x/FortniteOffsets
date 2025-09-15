@@ -1,0 +1,117 @@
+[
+ {
+  "property": "OctopusVehicle",
+  "offset": "0x1704",
+  "size": "0x8"
+ },
+ {
+  "property": "ShellRotation",
+  "offset": "0x1712",
+  "size": "0x24"
+ },
+ {
+  "property": "SeatRotation",
+  "offset": "0x1736",
+  "size": "0x24"
+ },
+ {
+  "property": "SeatRotationVelocity",
+  "offset": "0x1760",
+  "size": "0x24"
+ },
+ {
+  "property": "SeatRotationTorque",
+  "offset": "0x1784",
+  "size": "0x24"
+ },
+ {
+  "property": "SeatSteerYawDelta",
+  "offset": "0x1808",
+  "size": "0x4"
+ },
+ {
+  "property": "SeatSteerPitchDelta",
+  "offset": "0x1812",
+  "size": "0x4"
+ },
+ {
+  "property": "SeatSteerRollDelta",
+  "offset": "0x1816",
+  "size": "0x4"
+ },
+ {
+  "property": "FwdBwd",
+  "offset": "0x1820",
+  "size": "0x4"
+ },
+ {
+  "property": "LeftRight",
+  "offset": "0x1824",
+  "size": "0x4"
+ },
+ {
+  "property": "TowhookRotation",
+  "offset": "0x1832",
+  "size": "0x24"
+ },
+ {
+  "property": "TargetHeading",
+  "offset": "0x1856",
+  "size": "0x24"
+ },
+ {
+  "property": "AimPoint",
+  "offset": "0x1880",
+  "size": "0x24"
+ },
+ {
+  "property": "PivotDir",
+  "offset": "0x1904",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsBoosting",
+  "offset": "0x1905",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsTowhookExtending",
+  "offset": "0x1905",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsTowhookAttached",
+  "offset": "0x1905",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsTowhookContracting",
+  "offset": "0x1905",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsTowhookHolstered",
+  "offset": "0x1905",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsLowerVelocity",
+  "offset": "0x1905",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsDriverFemale",
+  "offset": "0x1905",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldPlayPivotTransition",
+  "offset": "0x1905",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldPlayGrappleFire",
+  "offset": "0x1906",
+  "size": "0x1"
+ }
+]

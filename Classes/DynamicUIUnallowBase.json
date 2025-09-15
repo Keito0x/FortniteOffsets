@@ -1,0 +1,17 @@
+[
+ {
+  "property": "Behavior",
+  "offset": "0x40",
+  "size": "0x4"
+ },
+ {
+  "property": "ExcludeConditions",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "bUseExclude",
+  "offset": "0x64",
+  "size": "0x1"
+ }
+]

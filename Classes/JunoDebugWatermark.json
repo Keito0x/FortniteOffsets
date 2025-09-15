@@ -1,0 +1,22 @@
+[
+ {
+  "property": "ElementTag",
+  "offset": "0x824",
+  "size": "0x4"
+ },
+ {
+  "property": "HUDElementTag",
+  "offset": "0x832",
+  "size": "0x32"
+ },
+ {
+  "property": "HiddenVisibility",
+  "offset": "0x864",
+  "size": "0x1"
+ },
+ {
+  "property": "TutorialHighlight",
+  "offset": "0x872",
+  "size": "0x8"
+ }
+]

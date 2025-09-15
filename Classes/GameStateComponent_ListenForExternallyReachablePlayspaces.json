@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Requests",
+  "offset": "0x376",
+  "size": "0x16"
+ },
+ {
+  "property": "PendingRequests",
+  "offset": "0x392",
+  "size": "0x16"
+ }
+]

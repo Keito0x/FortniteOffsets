@@ -1,0 +1,42 @@
+[
+ {
+  "property": "TorqueAccel",
+  "offset": "0x320",
+  "size": "0x24"
+ },
+ {
+  "property": "TorqueDamping",
+  "offset": "0x344",
+  "size": "0x24"
+ },
+ {
+  "property": "DisableForDodgeTime",
+  "offset": "0x368",
+  "size": "0x4"
+ },
+ {
+  "property": "bAnyWheelsOnGround",
+  "offset": "0x372",
+  "size": "0x1"
+ },
+ {
+  "property": "bDodgeActive",
+  "offset": "0x373",
+  "size": "0x1"
+ },
+ {
+  "property": "bAutoUprightActive",
+  "offset": "0x374",
+  "size": "0x1"
+ },
+ {
+  "property": "DodgeAbility",
+  "offset": "0x376",
+  "size": "0x8"
+ },
+ {
+  "property": "AutoUprightAbility",
+  "offset": "0x384",
+  "size": "0x8"
+ }
+]

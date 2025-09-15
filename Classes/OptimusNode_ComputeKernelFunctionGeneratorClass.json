@@ -1,0 +1,37 @@
+[
+ {
+  "property": "Category",
+  "offset": "0x528",
+  "size": "0x4"
+ },
+ {
+  "property": "KernelName",
+  "offset": "0x532",
+  "size": "0x4"
+ },
+ {
+  "property": "ExecutionDomain",
+  "offset": "0x536",
+  "size": "0x24"
+ },
+ {
+  "property": "GroupSize",
+  "offset": "0x560",
+  "size": "0x12"
+ },
+ {
+  "property": "InputBindings",
+  "offset": "0x576",
+  "size": "0x16"
+ },
+ {
+  "property": "OutputBindings",
+  "offset": "0x592",
+  "size": "0x16"
+ },
+ {
+  "property": "ShaderSource",
+  "offset": "0x608",
+  "size": "0x16"
+ }
+]

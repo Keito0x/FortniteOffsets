@@ -1,0 +1,12 @@
+[
+ {
+  "property": "ModularBlocks",
+  "offset": "0x5544",
+  "size": "0x16"
+ },
+ {
+  "property": "bEnableOnClickedAnalytics",
+  "offset": "0x5560",
+  "size": "0x1"
+ }
+]

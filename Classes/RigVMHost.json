@@ -1,0 +1,42 @@
+[
+ {
+  "property": "VMRuntimeSettings",
+  "offset": "0x48",
+  "size": "0x24"
+ },
+ {
+  "property": "VM",
+  "offset": "0x88",
+  "size": "0x8"
+ },
+ {
+  "property": "UserDefinedStructGuidToPathName",
+  "offset": "0x96",
+  "size": "0x80"
+ },
+ {
+  "property": "UserDefinedEnumToPathName",
+  "offset": "0x176",
+  "size": "0x80"
+ },
+ {
+  "property": "UserDefinedTypesInUse",
+  "offset": "0x256",
+  "size": "0x80"
+ },
+ {
+  "property": "DrawContainer",
+  "offset": "0x344",
+  "size": "0x24"
+ },
+ {
+  "property": "EventQueue",
+  "offset": "0x392",
+  "size": "0x16"
+ },
+ {
+  "property": "AssetUserData",
+  "offset": "0x512",
+  "size": "0x16"
+ }
+]

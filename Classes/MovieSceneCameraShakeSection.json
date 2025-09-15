@@ -1,0 +1,27 @@
+[
+ {
+  "property": "ShakeData",
+  "offset": "0x272",
+  "size": "0x40"
+ },
+ {
+  "property": "ShakeClass",
+  "offset": "0x312",
+  "size": "0x8"
+ },
+ {
+  "property": "PlayScale",
+  "offset": "0x320",
+  "size": "0x4"
+ },
+ {
+  "property": "Playspace",
+  "offset": "0x324",
+  "size": "0x1"
+ },
+ {
+  "property": "UserDefinedPlaySpace",
+  "offset": "0x328",
+  "size": "0x24"
+ }
+]

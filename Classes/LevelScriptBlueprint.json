@@ -1,0 +1,57 @@
+[
+ {
+  "property": "ParentClass",
+  "offset": "0x88",
+  "size": "0x8"
+ },
+ {
+  "property": "BlueprintType",
+  "offset": "0x96",
+  "size": "0x1"
+ },
+ {
+  "property": "bRecompileOnLoad",
+  "offset": "0x97",
+  "size": "0x1"
+ },
+ {
+  "property": "bHasBeenRegenerated",
+  "offset": "0x97",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsRegeneratingOnLoad",
+  "offset": "0x97",
+  "size": "0x1"
+ },
+ {
+  "property": "BlueprintSystemVersion",
+  "offset": "0x100",
+  "size": "0x4"
+ },
+ {
+  "property": "SimpleConstructionScript",
+  "offset": "0x104",
+  "size": "0x8"
+ },
+ {
+  "property": "ComponentTemplates",
+  "offset": "0x112",
+  "size": "0x16"
+ },
+ {
+  "property": "Timelines",
+  "offset": "0x128",
+  "size": "0x16"
+ },
+ {
+  "property": "ComponentClassOverrides",
+  "offset": "0x144",
+  "size": "0x16"
+ },
+ {
+  "property": "InheritableComponentHandler",
+  "offset": "0x160",
+  "size": "0x8"
+ }
+]

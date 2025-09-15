@@ -1,0 +1,72 @@
+[
+ {
+  "property": "OnMcpWorldItemsChanged",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "OnMcpOutpostItemsChanged",
+  "offset": "0x64",
+  "size": "0x16"
+ },
+ {
+  "property": "OnWorldItemListChanged",
+  "offset": "0x80",
+  "size": "0x16"
+ },
+ {
+  "property": "OnOutpostItemListChanged",
+  "offset": "0x96",
+  "size": "0x16"
+ },
+ {
+  "property": "OnItemPickedUp",
+  "offset": "0x112",
+  "size": "0x16"
+ },
+ {
+  "property": "OnQuickbarContentsChanged",
+  "offset": "0x128",
+  "size": "0x16"
+ },
+ {
+  "property": "OnQuickbarRecordsChanged",
+  "offset": "0x144",
+  "size": "0x16"
+ },
+ {
+  "property": "OnQuickbarSlotFocusChanged",
+  "offset": "0x160",
+  "size": "0x16"
+ },
+ {
+  "property": "OnQuickbarSecondarySlotFocusChanged",
+  "offset": "0x176",
+  "size": "0x16"
+ },
+ {
+  "property": "OnQuickbarForceFullUpdate",
+  "offset": "0x192",
+  "size": "0x16"
+ },
+ {
+  "property": "OnWorldItemsChanged",
+  "offset": "0x208",
+  "size": "0x16"
+ },
+ {
+  "property": "OnCraftItemFailed",
+  "offset": "0x256",
+  "size": "0x16"
+ },
+ {
+  "property": "OnVaultItemLimitStateChangedEvent",
+  "offset": "0x288",
+  "size": "0x16"
+ },
+ {
+  "property": "SchematicLockedStates",
+  "offset": "0x376",
+  "size": "0x80"
+ }
+]

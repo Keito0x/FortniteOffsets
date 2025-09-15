@@ -1,0 +1,27 @@
+[
+ {
+  "property": "bKeepPassengersUpright",
+  "offset": "0x2576",
+  "size": "0x1"
+ },
+ {
+  "property": "bAdjustSpeedOnWaterEntry",
+  "offset": "0x2577",
+  "size": "0x1"
+ },
+ {
+  "property": "MaxVerticalWaterEntrySpeedUp",
+  "offset": "0x2580",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxVerticalWaterEntrySpeedDown",
+  "offset": "0x2584",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxHorizontalWaterEntrySpeed",
+  "offset": "0x2588",
+  "size": "0x4"
+ }
+]

@@ -1,0 +1,7 @@
+[
+ {
+  "property": "ShadowmapFlags",
+  "offset": "0x352",
+  "size": "0x1"
+ }
+]

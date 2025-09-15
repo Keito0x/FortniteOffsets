@@ -1,0 +1,27 @@
+[
+ {
+  "property": "BlockingInputComp",
+  "offset": "0x1168",
+  "size": "0x8"
+ },
+ {
+  "property": "bBlockLegacyInputWhileActive",
+  "offset": "0x1176",
+  "size": "0x1"
+ },
+ {
+  "property": "bBlockLegacyInputWhileInactive",
+  "offset": "0x1177",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableLookWhileActive",
+  "offset": "0x1178",
+  "size": "0x1"
+ },
+ {
+  "property": "DefaultNpcDataAsset",
+  "offset": "0x1184",
+  "size": "0x32"
+ }
+]

@@ -1,0 +1,27 @@
+[
+ {
+  "property": "CatalogByUid",
+  "offset": "0x96",
+  "size": "0x80"
+ },
+ {
+  "property": "CatalogByShortName",
+  "offset": "0x176",
+  "size": "0x80"
+ },
+ {
+  "property": "CatalogByTemplateId",
+  "offset": "0x256",
+  "size": "0x80"
+ },
+ {
+  "property": "CatalogObjectPool",
+  "offset": "0x336",
+  "size": "0x16"
+ },
+ {
+  "property": "HFManager",
+  "offset": "0x352",
+  "size": "0x8"
+ }
+]

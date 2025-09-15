@@ -1,0 +1,12 @@
+[
+ {
+  "property": "bIsPassthrough",
+  "offset": "0x2424",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsUsingP2PSockets",
+  "offset": "0x2425",
+  "size": "0x1"
+ }
+]

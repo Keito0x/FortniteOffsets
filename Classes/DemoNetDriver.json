@@ -1,0 +1,22 @@
+[
+ {
+  "property": "RollbackNetStartupActors",
+  "offset": "0x2304",
+  "size": "0x80"
+ },
+ {
+  "property": "CheckpointSaveMaxMSPerFrame",
+  "offset": "0x2612",
+  "size": "0x4"
+ },
+ {
+  "property": "MulticastRecordOptions",
+  "offset": "0x2640",
+  "size": "0x16"
+ },
+ {
+  "property": "SpectatorControllers",
+  "offset": "0x2656",
+  "size": "0x16"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "property": "PrioritizationData",
+  "offset": "0x952",
+  "size": "0x2"
+ },
+ {
+  "property": "AssociatedComponent",
+  "offset": "0x960",
+  "size": "0x8"
+ }
+]

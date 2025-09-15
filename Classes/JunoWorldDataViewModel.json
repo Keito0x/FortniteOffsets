@@ -1,0 +1,172 @@
+[
+ {
+  "property": "WorldName",
+  "offset": "0x104",
+  "size": "0x16"
+ },
+ {
+  "property": "WorldSlotNumber",
+  "offset": "0x120",
+  "size": "0x4"
+ },
+ {
+  "property": "WorldOwner",
+  "offset": "0x128",
+  "size": "0x16"
+ },
+ {
+  "property": "WorldOwnerId",
+  "offset": "0x144",
+  "size": "0x48"
+ },
+ {
+  "property": "CreationDate",
+  "offset": "0x192",
+  "size": "0x8"
+ },
+ {
+  "property": "LastPlayed",
+  "offset": "0x200",
+  "size": "0x8"
+ },
+ {
+  "property": "TimePlayed",
+  "offset": "0x208",
+  "size": "0x16"
+ },
+ {
+  "property": "bIsEliminated",
+  "offset": "0x224",
+  "size": "0x1"
+ },
+ {
+  "property": "NumSurvivingKeyholders",
+  "offset": "0x228",
+  "size": "0x4"
+ },
+ {
+  "property": "bIsCreateFlow",
+  "offset": "0x232",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsEmptyWorldSlot",
+  "offset": "0x233",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsNewInvitation",
+  "offset": "0x234",
+  "size": "0x1"
+ },
+ {
+  "property": "WorldImageObj",
+  "offset": "0x240",
+  "size": "0x8"
+ },
+ {
+  "property": "ActivePlayers",
+  "offset": "0x248",
+  "size": "0x4"
+ },
+ {
+  "property": "GrantedKeys",
+  "offset": "0x252",
+  "size": "0x4"
+ },
+ {
+  "property": "NameVM",
+  "offset": "0x256",
+  "size": "0x8"
+ },
+ {
+  "property": "ModeVM",
+  "offset": "0x264",
+  "size": "0x8"
+ },
+ {
+  "property": "ImageVM",
+  "offset": "0x272",
+  "size": "0x8"
+ },
+ {
+  "property": "SeedVM",
+  "offset": "0x280",
+  "size": "0x8"
+ },
+ {
+  "property": "bSettingsLocked",
+  "offset": "0x288",
+  "size": "0x1"
+ },
+ {
+  "property": "bSettingsChangedAfterGeneration",
+  "offset": "0x289",
+  "size": "0x1"
+ },
+ {
+  "property": "MaxPlayersInWorld",
+  "offset": "0x292",
+  "size": "0x4"
+ },
+ {
+  "property": "MatchmakingError",
+  "offset": "0x296",
+  "size": "0x1"
+ },
+ {
+  "property": "SanctionType",
+  "offset": "0x297",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsSharedWorld",
+  "offset": "0x298",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsCustom",
+  "offset": "0x299",
+  "size": "0x1"
+ },
+ {
+  "property": "bCanBeSaved",
+  "offset": "0x300",
+  "size": "0x1"
+ },
+ {
+  "property": "bAllowWorldUGCCreation",
+  "offset": "0x301",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsInCabinMode",
+  "offset": "0x302",
+  "size": "0x1"
+ },
+ {
+  "property": "AdvancedSettingsList",
+  "offset": "0x344",
+  "size": "0x16"
+ },
+ {
+  "property": "WorldImageList",
+  "offset": "0x360",
+  "size": "0x16"
+ },
+ {
+  "property": "WorldId",
+  "offset": "0x392",
+  "size": "0x16"
+ },
+ {
+  "property": "OriginalData",
+  "offset": "0x408",
+  "size": "0x8"
+ },
+ {
+  "property": "WidgetOwnerPC",
+  "offset": "0x416",
+  "size": "0x8"
+ }
+]

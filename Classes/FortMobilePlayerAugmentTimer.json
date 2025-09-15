@@ -1,0 +1,22 @@
+[
+ {
+  "property": "AugmentControllerComponent",
+  "offset": "0x960",
+  "size": "0x8"
+ },
+ {
+  "property": "PlayerAugmentGranterWidgetClass",
+  "offset": "0x968",
+  "size": "0x8"
+ },
+ {
+  "property": "PlayerAugmentGranterWidget",
+  "offset": "0x976",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_PlayerAugmentTimer",
+  "offset": "0x984",
+  "size": "0x8"
+ }
+]

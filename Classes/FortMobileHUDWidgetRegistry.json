@@ -1,0 +1,37 @@
+[
+ {
+  "property": "HUDWidgetBehaviorRegistry",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "HUDWidgetRegistry",
+  "offset": "0x64",
+  "size": "0x16"
+ },
+ {
+  "property": "ContextLayoutModels",
+  "offset": "0x80",
+  "size": "0x16"
+ },
+ {
+  "property": "ContextLayoutModelExtensions",
+  "offset": "0x96",
+  "size": "0x16"
+ },
+ {
+  "property": "HUDWidgetBehaviorExtensions",
+  "offset": "0x112",
+  "size": "0x16"
+ },
+ {
+  "property": "HUDWidgetExceptions",
+  "offset": "0x128",
+  "size": "0x16"
+ },
+ {
+  "property": "bIsRegistryUsedInHUDLayoutTool",
+  "offset": "0x144",
+  "size": "0x1"
+ }
+]

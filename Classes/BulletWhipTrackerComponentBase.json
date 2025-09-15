@@ -1,0 +1,22 @@
+[
+ {
+  "property": "WhipTrackerData",
+  "offset": "0x192",
+  "size": "0x16"
+ },
+ {
+  "property": "bEnableGravityCheck",
+  "offset": "0x208",
+  "size": "0x1"
+ },
+ {
+  "property": "FadeTimeOnProjectileStop",
+  "offset": "0x212",
+  "size": "0x4"
+ },
+ {
+  "property": "CachedPassByPawn",
+  "offset": "0x264",
+  "size": "0x8"
+ }
+]

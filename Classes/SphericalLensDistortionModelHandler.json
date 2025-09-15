@@ -1,0 +1,57 @@
+[
+ {
+  "property": "LensModelClass",
+  "offset": "0x40",
+  "size": "0x8"
+ },
+ {
+  "property": "DistortionPostProcessMID",
+  "offset": "0x48",
+  "size": "0x8"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x56",
+  "size": "0x48"
+ },
+ {
+  "property": "CameraFilmback",
+  "offset": "0x104",
+  "size": "0x20"
+ },
+ {
+  "property": "DisplayName",
+  "offset": "0x128",
+  "size": "0x16"
+ },
+ {
+  "property": "OverscanFactor",
+  "offset": "0x144",
+  "size": "0x4"
+ },
+ {
+  "property": "UndistortionDisplacementMapMID",
+  "offset": "0x152",
+  "size": "0x8"
+ },
+ {
+  "property": "DistortionDisplacementMapMID",
+  "offset": "0x160",
+  "size": "0x8"
+ },
+ {
+  "property": "UndistortionDisplacementMapRT",
+  "offset": "0x168",
+  "size": "0x8"
+ },
+ {
+  "property": "DistortionDisplacementMapRT",
+  "offset": "0x176",
+  "size": "0x8"
+ },
+ {
+  "property": "DistortionProducerID",
+  "offset": "0x184",
+  "size": "0x16"
+ }
+]

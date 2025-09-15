@@ -1,0 +1,22 @@
+[
+ {
+  "property": "ActionDomains",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "InputMode",
+  "offset": "0x64",
+  "size": "0x1"
+ },
+ {
+  "property": "MouseCaptureMode",
+  "offset": "0x65",
+  "size": "0x1"
+ },
+ {
+  "property": "bHideCursorDuringViewportCapture",
+  "offset": "0x66",
+  "size": "0x1"
+ }
+]

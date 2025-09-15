@@ -1,0 +1,52 @@
+[
+ {
+  "property": "ImpactLocation",
+  "offset": "0x680",
+  "size": "0x24"
+ },
+ {
+  "property": "Color",
+  "offset": "0x704",
+  "size": "0x16"
+ },
+ {
+  "property": "MID_Main",
+  "offset": "0x720",
+  "size": "0x8"
+ },
+ {
+  "property": "MID_Target",
+  "offset": "0x728",
+  "size": "0x8"
+ },
+ {
+  "property": "SpawnMarkerAnimLength",
+  "offset": "0x736",
+  "size": "0x4"
+ },
+ {
+  "property": "SpawnMarkerAnim_Opacity",
+  "offset": "0x744",
+  "size": "0x8"
+ },
+ {
+  "property": "SpawnMarkerAnim_SpawnScale",
+  "offset": "0x752",
+  "size": "0x8"
+ },
+ {
+  "property": "SpawnMarkerAnim_SpawnVerticalScale",
+  "offset": "0x760",
+  "size": "0x8"
+ },
+ {
+  "property": "CurrentMarkerData",
+  "offset": "0x912",
+  "size": "0x224"
+ },
+ {
+  "property": "StaticMeshComponent",
+  "offset": "0x1136",
+  "size": "0x8"
+ }
+]

@@ -1,0 +1,32 @@
+[
+ {
+  "property": "LocalInputState",
+  "offset": "0x4008",
+  "size": "0x24"
+ },
+ {
+  "property": "LastInputState",
+  "offset": "0x4032",
+  "size": "0x24"
+ },
+ {
+  "property": "ReplicatedAcceleration",
+  "offset": "0x4056",
+  "size": "0x24"
+ },
+ {
+  "property": "StrafeInputMultiplier",
+  "offset": "0x4080",
+  "size": "0x40"
+ },
+ {
+  "property": "BacktrackingInputMultiplier",
+  "offset": "0x4120",
+  "size": "0x40"
+ },
+ {
+  "property": "VerticalMovementInputMultiplier",
+  "offset": "0x4160",
+  "size": "0x40"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "property": "CurrentSessionParams",
+  "offset": "0x296",
+  "size": "0x48"
+ },
+ {
+  "property": "SessionHelper",
+  "offset": "0x344",
+  "size": "0x8"
+ }
+]

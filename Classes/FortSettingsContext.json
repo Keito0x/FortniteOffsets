@@ -1,0 +1,12 @@
+[
+ {
+  "property": "MinGammaValue",
+  "offset": "0x60",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxGammaValue",
+  "offset": "0x64",
+  "size": "0x4"
+ }
+]

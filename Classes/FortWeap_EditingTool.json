@@ -1,0 +1,12 @@
+[
+ {
+  "property": "EditActor",
+  "offset": "0x7328",
+  "size": "0x8"
+ },
+ {
+  "property": "bEditConfirmed",
+  "offset": "0x7336",
+  "size": "0x1"
+ }
+]

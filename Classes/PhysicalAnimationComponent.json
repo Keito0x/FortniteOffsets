@@ -1,0 +1,12 @@
+[
+ {
+  "property": "StrengthMultiplyer",
+  "offset": "0x192",
+  "size": "0x4"
+ },
+ {
+  "property": "SkeletalMeshComponent",
+  "offset": "0x200",
+  "size": "0x8"
+ }
+]

@@ -1,0 +1,247 @@
+[
+ {
+  "property": "Material",
+  "offset": "0x168",
+  "size": "0x8"
+ },
+ {
+  "property": "MaterialUserParamBinding",
+  "offset": "0x176",
+  "size": "0x24"
+ },
+ {
+  "property": "UV0Settings",
+  "offset": "0x200",
+  "size": "0x40"
+ },
+ {
+  "property": "UV1Settings",
+  "offset": "0x240",
+  "size": "0x40"
+ },
+ {
+  "property": "FacingMode",
+  "offset": "0x280",
+  "size": "0x1"
+ },
+ {
+  "property": "MaxNumRibbons",
+  "offset": "0x284",
+  "size": "0x4"
+ },
+ {
+  "property": "DrawDirection",
+  "offset": "0x288",
+  "size": "0x1"
+ },
+ {
+  "property": "Shape",
+  "offset": "0x289",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableAccurateGeometry",
+  "offset": "0x290",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseMaterialBackfaceCulling",
+  "offset": "0x290",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseGeometryNormals",
+  "offset": "0x290",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseGPUInit",
+  "offset": "0x290",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseConstantFactor",
+  "offset": "0x290",
+  "size": "0x1"
+ },
+ {
+  "property": "bScreenSpaceTessellation",
+  "offset": "0x290",
+  "size": "0x1"
+ },
+ {
+  "property": "bLinkOrderUseUniqueID",
+  "offset": "0x290",
+  "size": "0x1"
+ },
+ {
+  "property": "bCastShadows",
+  "offset": "0x290",
+  "size": "0x1"
+ },
+ {
+  "property": "WidthSegmentationCount",
+  "offset": "0x292",
+  "size": "0x4"
+ },
+ {
+  "property": "MultiPlaneCount",
+  "offset": "0x296",
+  "size": "0x4"
+ },
+ {
+  "property": "TubeSubdivisions",
+  "offset": "0x300",
+  "size": "0x4"
+ },
+ {
+  "property": "CustomVertices",
+  "offset": "0x304",
+  "size": "0x16"
+ },
+ {
+  "property": "TessellationMode",
+  "offset": "0x320",
+  "size": "0x1"
+ },
+ {
+  "property": "CurveTension",
+  "offset": "0x324",
+  "size": "0x4"
+ },
+ {
+  "property": "TessellationFactor",
+  "offset": "0x328",
+  "size": "0x4"
+ },
+ {
+  "property": "TessellationAngle",
+  "offset": "0x332",
+  "size": "0x4"
+ },
+ {
+  "property": "PositionBinding",
+  "offset": "0x336",
+  "size": "0x40"
+ },
+ {
+  "property": "ColorBinding",
+  "offset": "0x376",
+  "size": "0x40"
+ },
+ {
+  "property": "VelocityBinding",
+  "offset": "0x416",
+  "size": "0x40"
+ },
+ {
+  "property": "NormalizedAgeBinding",
+  "offset": "0x456",
+  "size": "0x40"
+ },
+ {
+  "property": "RibbonTwistBinding",
+  "offset": "0x496",
+  "size": "0x40"
+ },
+ {
+  "property": "RibbonWidthBinding",
+  "offset": "0x536",
+  "size": "0x40"
+ },
+ {
+  "property": "RibbonFacingBinding",
+  "offset": "0x576",
+  "size": "0x40"
+ },
+ {
+  "property": "RibbonIdBinding",
+  "offset": "0x616",
+  "size": "0x40"
+ },
+ {
+  "property": "RibbonLinkOrderBinding",
+  "offset": "0x656",
+  "size": "0x40"
+ },
+ {
+  "property": "MaterialRandomBinding",
+  "offset": "0x696",
+  "size": "0x40"
+ },
+ {
+  "property": "DynamicMaterialBinding",
+  "offset": "0x736",
+  "size": "0x40"
+ },
+ {
+  "property": "DynamicMaterial1Binding",
+  "offset": "0x776",
+  "size": "0x40"
+ },
+ {
+  "property": "DynamicMaterial2Binding",
+  "offset": "0x816",
+  "size": "0x40"
+ },
+ {
+  "property": "DynamicMaterial3Binding",
+  "offset": "0x856",
+  "size": "0x40"
+ },
+ {
+  "property": "RibbonUVDistance",
+  "offset": "0x896",
+  "size": "0x40"
+ },
+ {
+  "property": "U0OverrideBinding",
+  "offset": "0x936",
+  "size": "0x40"
+ },
+ {
+  "property": "V0RangeOverrideBinding",
+  "offset": "0x976",
+  "size": "0x40"
+ },
+ {
+  "property": "U1OverrideBinding",
+  "offset": "0x1016",
+  "size": "0x40"
+ },
+ {
+  "property": "V1RangeOverrideBinding",
+  "offset": "0x1056",
+  "size": "0x40"
+ },
+ {
+  "property": "MaterialParameters",
+  "offset": "0x1096",
+  "size": "0x80"
+ },
+ {
+  "property": "PrevPositionBinding",
+  "offset": "0x1176",
+  "size": "0x40"
+ },
+ {
+  "property": "PrevRibbonWidthBinding",
+  "offset": "0x1216",
+  "size": "0x40"
+ },
+ {
+  "property": "PrevRibbonFacingBinding",
+  "offset": "0x1256",
+  "size": "0x40"
+ },
+ {
+  "property": "PrevRibbonTwistBinding",
+  "offset": "0x1296",
+  "size": "0x40"
+ },
+ {
+  "property": "MaterialParamValidMask",
+  "offset": "0x1336",
+  "size": "0x4"
+ }
+]

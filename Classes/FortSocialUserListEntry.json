@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Image_Lock",
+  "offset": "0x5800",
+  "size": "0x8"
+ },
+ {
+  "property": "SocialTagList",
+  "offset": "0x5808",
+  "size": "0x8"
+ }
+]

@@ -1,0 +1,47 @@
+[
+ {
+  "property": "StageMarks",
+  "offset": "0x192",
+  "size": "0x16"
+ },
+ {
+  "property": "PlayerAirtime",
+  "offset": "0x208",
+  "size": "0x80"
+ },
+ {
+  "property": "StaticShots",
+  "offset": "0x288",
+  "size": "0x16"
+ },
+ {
+  "property": "bAutomaticallyRegisterStageMarks",
+  "offset": "0x304",
+  "size": "0x1"
+ },
+ {
+  "property": "RuntimeFilter",
+  "offset": "0x312",
+  "size": "0x96"
+ },
+ {
+  "property": "bLMPIsActive",
+  "offset": "0x408",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseRuntimeFilter",
+  "offset": "0x409",
+  "size": "0x1"
+ },
+ {
+  "property": "RuntimeLMPFilter",
+  "offset": "0x416",
+  "size": "0x96"
+ },
+ {
+  "property": "RuntimeNoLMPFilter",
+  "offset": "0x512",
+  "size": "0x96"
+ }
+]

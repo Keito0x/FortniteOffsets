@@ -1,0 +1,122 @@
+[
+ {
+  "property": "CurrentMode",
+  "offset": "0x992",
+  "size": "0x1"
+ },
+ {
+  "property": "AmountConsideredInfinite",
+  "offset": "0x1016",
+  "size": "0x4"
+ },
+ {
+  "property": "DefaultOutOfAmmoText",
+  "offset": "0x1024",
+  "size": "0x16"
+ },
+ {
+  "property": "Switcher_Content",
+  "offset": "0x1040",
+  "size": "0x8"
+ },
+ {
+  "property": "Panel_ResourceContent",
+  "offset": "0x1048",
+  "size": "0x8"
+ },
+ {
+  "property": "Panel_AmmoContent",
+  "offset": "0x1056",
+  "size": "0x8"
+ },
+ {
+  "property": "Panel_UtilityContent",
+  "offset": "0x1064",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_AmmoIcon",
+  "offset": "0x1072",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_AmmoSplit",
+  "offset": "0x1080",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_UtilityIcon",
+  "offset": "0x1088",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_ResourceIcon",
+  "offset": "0x1096",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_UtilitySplit",
+  "offset": "0x1104",
+  "size": "0x8"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x1112",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_MagazineAmmoCount",
+  "offset": "0x1120",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_SurplusAmmoCount",
+  "offset": "0x1128",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_ResourceCount",
+  "offset": "0x1136",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_SurplusUtilityAmmoCount",
+  "offset": "0x1144",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_UtilityAmmoCount",
+  "offset": "0x1152",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_OutOfAmmo",
+  "offset": "0x1160",
+  "size": "0x8"
+ },
+ {
+  "property": "Overlay_UtilityAmmoIcon",
+  "offset": "0x1168",
+  "size": "0x8"
+ },
+ {
+  "property": "RootScaleBox",
+  "offset": "0x1176",
+  "size": "0x8"
+ },
+ {
+  "property": "WeaponEquipVisibility",
+  "offset": "0x1184",
+  "size": "0x1"
+ },
+ {
+  "property": "OutOfAmmoCol",
+  "offset": "0x1188",
+  "size": "0x16"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x1208",
+  "size": "0x16"
+ }
+]

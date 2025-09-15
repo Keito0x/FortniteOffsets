@@ -1,0 +1,17 @@
+[
+ {
+  "property": "ReconnectionInitialTimeout",
+  "offset": "0x1104",
+  "size": "0x4"
+ },
+ {
+  "property": "ReconnectionTimeout",
+  "offset": "0x1108",
+  "size": "0x4"
+ },
+ {
+  "property": "bHasReconnected",
+  "offset": "0x1112",
+  "size": "0x1"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "property": "MinValue",
+  "offset": "0x3704",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxValue",
+  "offset": "0x3708",
+  "size": "0x4"
+ }
+]

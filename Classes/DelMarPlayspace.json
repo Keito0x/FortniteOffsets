@@ -1,0 +1,62 @@
+[
+ {
+  "property": "MRSPlaylistData",
+  "offset": "0x1856",
+  "size": "0x8"
+ },
+ {
+  "property": "MRSLinkId",
+  "offset": "0x1864",
+  "size": "0x16"
+ },
+ {
+  "property": "PrimaryStateMachine",
+  "offset": "0x1896",
+  "size": "0x8"
+ },
+ {
+  "property": "bShouldShowLoadingScreen",
+  "offset": "0x1904",
+  "size": "0x1"
+ },
+ {
+  "property": "DefaultRaceLevelConfigs",
+  "offset": "0x1912",
+  "size": "0x80"
+ },
+ {
+  "property": "ActiveRaceManager",
+  "offset": "0x1992",
+  "size": "0x8"
+ },
+ {
+  "property": "PlaylistData",
+  "offset": "0x2000",
+  "size": "0x8"
+ },
+ {
+  "property": "LevelManager",
+  "offset": "0x2008",
+  "size": "0x8"
+ },
+ {
+  "property": "LevelStreamComponent",
+  "offset": "0x2016",
+  "size": "0x8"
+ },
+ {
+  "property": "ServerExpirationComponent",
+  "offset": "0x2024",
+  "size": "0x8"
+ },
+ {
+  "property": "MapSet",
+  "offset": "0x2032",
+  "size": "0x24"
+ },
+ {
+  "property": "PlaylistDefinedMapTags",
+  "offset": "0x2056",
+  "size": "0x32"
+ }
+]

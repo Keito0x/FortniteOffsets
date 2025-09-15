@@ -1,0 +1,17 @@
+[
+ {
+  "property": "Style",
+  "offset": "0x736",
+  "size": "0x8"
+ },
+ {
+  "property": "bReducePaddingBySafezone",
+  "offset": "0x744",
+  "size": "0x1"
+ },
+ {
+  "property": "MinimumPadding",
+  "offset": "0x748",
+  "size": "0x16"
+ }
+]

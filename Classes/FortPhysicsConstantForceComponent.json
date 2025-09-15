@@ -1,0 +1,17 @@
+[
+ {
+  "property": "bActivateFortPhysicsObjectOnBeginConstantForce",
+  "offset": "0x192",
+  "size": "0x1"
+ },
+ {
+  "property": "ForcesToApply",
+  "offset": "0x232",
+  "size": "0x16"
+ },
+ {
+  "property": "bUseLegacyDeltaSecondsBehavior",
+  "offset": "0x248",
+  "size": "0x1"
+ }
+]

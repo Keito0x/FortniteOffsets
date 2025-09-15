@@ -1,0 +1,12 @@
+[
+ {
+  "property": "ResourceID",
+  "offset": "0x304",
+  "size": "0x16"
+ },
+ {
+  "property": "MediaSource",
+  "offset": "0x320",
+  "size": "0x8"
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "property": "bUseTimeSynchronization",
+  "offset": "0x136",
+  "size": "0x1"
+ },
+ {
+  "property": "FrameDelay",
+  "offset": "0x140",
+  "size": "0x4"
+ },
+ {
+  "property": "TimeDelay",
+  "offset": "0x144",
+  "size": "0x8"
+ },
+ {
+  "property": "bAutoDetectInput",
+  "offset": "0x152",
+  "size": "0x1"
+ }
+]

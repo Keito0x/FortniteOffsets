@@ -1,0 +1,22 @@
+[
+ {
+  "property": "DesiredSize",
+  "offset": "0x408",
+  "size": "0x16"
+ },
+ {
+  "property": "ImageColorAndOpacity",
+  "offset": "0x424",
+  "size": "0x20"
+ },
+ {
+  "property": "PartyStatusMaterial",
+  "offset": "0x448",
+  "size": "0x8"
+ },
+ {
+  "property": "StatusBrush",
+  "offset": "0x464",
+  "size": "0x176"
+ }
+]

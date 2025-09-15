@@ -1,0 +1,112 @@
+[
+ {
+  "property": "Friction",
+  "offset": "0x40",
+  "size": "0x4"
+ },
+ {
+  "property": "StaticFriction",
+  "offset": "0x44",
+  "size": "0x4"
+ },
+ {
+  "property": "FrictionCombineMode",
+  "offset": "0x48",
+  "size": "0x1"
+ },
+ {
+  "property": "bOverrideFrictionCombineMode",
+  "offset": "0x49",
+  "size": "0x1"
+ },
+ {
+  "property": "Restitution",
+  "offset": "0x52",
+  "size": "0x4"
+ },
+ {
+  "property": "RestitutionCombineMode",
+  "offset": "0x56",
+  "size": "0x1"
+ },
+ {
+  "property": "bOverrideRestitutionCombineMode",
+  "offset": "0x57",
+  "size": "0x1"
+ },
+ {
+  "property": "Density",
+  "offset": "0x60",
+  "size": "0x4"
+ },
+ {
+  "property": "SleepLinearVelocityThreshold",
+  "offset": "0x64",
+  "size": "0x4"
+ },
+ {
+  "property": "SleepAngularVelocityThreshold",
+  "offset": "0x68",
+  "size": "0x4"
+ },
+ {
+  "property": "SleepCounterThreshold",
+  "offset": "0x72",
+  "size": "0x4"
+ },
+ {
+  "property": "RaiseMassToPower",
+  "offset": "0x76",
+  "size": "0x4"
+ },
+ {
+  "property": "DestructibleDamageThresholdScale",
+  "offset": "0x80",
+  "size": "0x4"
+ },
+ {
+  "property": "PhysicalMaterialProperty",
+  "offset": "0x88",
+  "size": "0x8"
+ },
+ {
+  "property": "SurfaceType",
+  "offset": "0x96",
+  "size": "0x1"
+ },
+ {
+  "property": "Strength",
+  "offset": "0x100",
+  "size": "0x12"
+ },
+ {
+  "property": "DamageModifier",
+  "offset": "0x112",
+  "size": "0x4"
+ },
+ {
+  "property": "DebugColor",
+  "offset": "0x116",
+  "size": "0x16"
+ },
+ {
+  "property": "bShowExperimentalProperties",
+  "offset": "0x132",
+  "size": "0x1"
+ },
+ {
+  "property": "SoftCollisionMode",
+  "offset": "0x133",
+  "size": "0x1"
+ },
+ {
+  "property": "SoftCollisionThickness",
+  "offset": "0x136",
+  "size": "0x4"
+ },
+ {
+  "property": "BaseFrictionImpulse",
+  "offset": "0x140",
+  "size": "0x4"
+ }
+]

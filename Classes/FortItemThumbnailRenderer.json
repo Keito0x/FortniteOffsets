@@ -1,0 +1,22 @@
+[
+ {
+  "property": "PreviewMaterial",
+  "offset": "0x136",
+  "size": "0x8"
+ },
+ {
+  "property": "CaptureEnvironmentActorClass",
+  "offset": "0x144",
+  "size": "0x8"
+ },
+ {
+  "property": "ItemDefinition",
+  "offset": "0x152",
+  "size": "0x8"
+ },
+ {
+  "property": "PreviewMaterialInstance",
+  "offset": "0x160",
+  "size": "0x8"
+ }
+]

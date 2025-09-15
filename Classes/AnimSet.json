@@ -1,0 +1,47 @@
+[
+ {
+  "property": "bAnimRotationOnly",
+  "offset": "0x40",
+  "size": "0x1"
+ },
+ {
+  "property": "TrackBoneNames",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "LinkupCache",
+  "offset": "0x64",
+  "size": "0x16"
+ },
+ {
+  "property": "BoneUseAnimTranslation",
+  "offset": "0x80",
+  "size": "0x16"
+ },
+ {
+  "property": "ForceUseMeshTranslation",
+  "offset": "0x96",
+  "size": "0x16"
+ },
+ {
+  "property": "UseTranslationBoneNames",
+  "offset": "0x112",
+  "size": "0x16"
+ },
+ {
+  "property": "ForceMeshTranslationBoneNames",
+  "offset": "0x128",
+  "size": "0x16"
+ },
+ {
+  "property": "PreviewSkelMeshName",
+  "offset": "0x144",
+  "size": "0x4"
+ },
+ {
+  "property": "BestRatioSkelMeshName",
+  "offset": "0x148",
+  "size": "0x4"
+ }
+]

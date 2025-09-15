@@ -1,0 +1,32 @@
+[
+ {
+  "property": "Actor",
+  "offset": "0x40",
+  "size": "0x8"
+ },
+ {
+  "property": "BaseEventName",
+  "offset": "0x48",
+  "size": "0x4"
+ },
+ {
+  "property": "bForwardToActorOwner",
+  "offset": "0x52",
+  "size": "0x1"
+ },
+ {
+  "property": "bForwardToAttachedActors",
+  "offset": "0x53",
+  "size": "0x1"
+ },
+ {
+  "property": "bAutoResetContext",
+  "offset": "0x54",
+  "size": "0x1"
+ },
+ {
+  "property": "PlaybackTags",
+  "offset": "0x56",
+  "size": "0x32"
+ }
+]

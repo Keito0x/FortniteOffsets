@@ -1,0 +1,92 @@
+[
+ {
+  "property": "bFeetHasLanded",
+  "offset": "0x2504",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableNativeAudioUpdate",
+  "offset": "0x2505",
+  "size": "0x1"
+ },
+ {
+  "property": "ForwardChangedValueThreshold",
+  "offset": "0x2508",
+  "size": "0x4"
+ },
+ {
+  "property": "Speed",
+  "offset": "0x2512",
+  "size": "0x56"
+ },
+ {
+  "property": "Forward",
+  "offset": "0x2568",
+  "size": "0x56"
+ },
+ {
+  "property": "Boost",
+  "offset": "0x2624",
+  "size": "0x56"
+ },
+ {
+  "property": "Curve",
+  "offset": "0x2680",
+  "size": "0x56"
+ },
+ {
+  "property": "IsGrinding",
+  "offset": "0x2736",
+  "size": "0x56"
+ },
+ {
+  "property": "IsSlowDown",
+  "offset": "0x2792",
+  "size": "0x56"
+ },
+ {
+  "property": "LeanForwardSpeedName",
+  "offset": "0x2848",
+  "size": "0x4"
+ },
+ {
+  "property": "TurnOnSpeedFXName",
+  "offset": "0x2852",
+  "size": "0x4"
+ },
+ {
+  "property": "RailJumpingFXName",
+  "offset": "0x2856",
+  "size": "0x4"
+ },
+ {
+  "property": "SprintingFXName",
+  "offset": "0x2860",
+  "size": "0x4"
+ },
+ {
+  "property": "TurnOnSpeedFXThreshold",
+  "offset": "0x2864",
+  "size": "0x4"
+ },
+ {
+  "property": "EffectsComponent",
+  "offset": "0x2868",
+  "size": "0x8"
+ },
+ {
+  "property": "AudioComponent",
+  "offset": "0x2880",
+  "size": "0x8"
+ },
+ {
+  "property": "PlayerPawn",
+  "offset": "0x2888",
+  "size": "0x8"
+ },
+ {
+  "property": "GrindingProvider",
+  "offset": "0x2896",
+  "size": "0x8"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "property": "bAlwaysPerformOcclusionTest",
+  "offset": "0x224",
+  "size": "0x1"
+ },
+ {
+  "property": "MaximumOcclusionTestScoreMultiplier",
+  "offset": "0x228",
+  "size": "0x4"
+ }
+]

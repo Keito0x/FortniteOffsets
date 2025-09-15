@@ -1,0 +1,22 @@
+[
+ {
+  "property": "OnInstanceTakePointDamage",
+  "offset": "0x2872",
+  "size": "0x16"
+ },
+ {
+  "property": "OnInstanceTakeRadialDamage",
+  "offset": "0x2888",
+  "size": "0x16"
+ },
+ {
+  "property": "bEnableDiscardOnLoad",
+  "offset": "0x2904",
+  "size": "0x1"
+ },
+ {
+  "property": "GenerationGuid",
+  "offset": "0x2908",
+  "size": "0x16"
+ }
+]

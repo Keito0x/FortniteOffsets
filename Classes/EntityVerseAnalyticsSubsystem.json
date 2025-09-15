@@ -1,0 +1,27 @@
+[
+ {
+  "property": "VerseEntityPrefabCountMap",
+  "offset": "0x48",
+  "size": "0x80"
+ },
+ {
+  "property": "CurrentEntityCount",
+  "offset": "0x128",
+  "size": "0x4"
+ },
+ {
+  "property": "TotalEntityCount",
+  "offset": "0x132",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxEntityCount",
+  "offset": "0x136",
+  "size": "0x4"
+ },
+ {
+  "property": "CrashContextUpdateHandle",
+  "offset": "0x144",
+  "size": "0x8"
+ }
+]

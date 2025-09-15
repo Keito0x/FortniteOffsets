@@ -1,0 +1,57 @@
+[
+ {
+  "property": "GeneratedViewClass",
+  "offset": "0x40",
+  "size": "0x8"
+ },
+ {
+  "property": "Sources",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "Extensions",
+  "offset": "0x80",
+  "size": "0x16"
+ },
+ {
+  "property": "ValidSources",
+  "offset": "0x96",
+  "size": "0x8"
+ },
+ {
+  "property": "NumberOfSourceWithTickBinding",
+  "offset": "0x104",
+  "size": "0x1"
+ },
+ {
+  "property": "bLogBinding",
+  "offset": "0x105",
+  "size": "0x1"
+ },
+ {
+  "property": "bConstructed",
+  "offset": "0x106",
+  "size": "0x1"
+ },
+ {
+  "property": "bSourcesInitialized",
+  "offset": "0x107",
+  "size": "0x1"
+ },
+ {
+  "property": "bBindingsInitialized",
+  "offset": "0x108",
+  "size": "0x1"
+ },
+ {
+  "property": "bEventsInitialized",
+  "offset": "0x109",
+  "size": "0x1"
+ },
+ {
+  "property": "bHasDefaultTickBinding",
+  "offset": "0x110",
+  "size": "0x1"
+ }
+]

@@ -1,0 +1,167 @@
+[
+ {
+  "property": "FogDensity",
+  "offset": "0x576",
+  "size": "0x4"
+ },
+ {
+  "property": "FogHeightFalloff",
+  "offset": "0x580",
+  "size": "0x4"
+ },
+ {
+  "property": "SecondFogData",
+  "offset": "0x584",
+  "size": "0x12"
+ },
+ {
+  "property": "FogInscatteringColor",
+  "offset": "0x596",
+  "size": "0x16"
+ },
+ {
+  "property": "FogInscatteringLuminance",
+  "offset": "0x612",
+  "size": "0x16"
+ },
+ {
+  "property": "SkyAtmosphereAmbientContributionColorScale",
+  "offset": "0x628",
+  "size": "0x16"
+ },
+ {
+  "property": "InscatteringColorCubemap",
+  "offset": "0x648",
+  "size": "0x8"
+ },
+ {
+  "property": "InscatteringColorCubemapAngle",
+  "offset": "0x656",
+  "size": "0x4"
+ },
+ {
+  "property": "InscatteringTextureTint",
+  "offset": "0x660",
+  "size": "0x16"
+ },
+ {
+  "property": "FullyDirectionalInscatteringColorDistance",
+  "offset": "0x676",
+  "size": "0x4"
+ },
+ {
+  "property": "NonDirectionalInscatteringColorDistance",
+  "offset": "0x680",
+  "size": "0x4"
+ },
+ {
+  "property": "DirectionalInscatteringExponent",
+  "offset": "0x684",
+  "size": "0x4"
+ },
+ {
+  "property": "DirectionalInscatteringStartDistance",
+  "offset": "0x688",
+  "size": "0x4"
+ },
+ {
+  "property": "DirectionalInscatteringColor",
+  "offset": "0x692",
+  "size": "0x16"
+ },
+ {
+  "property": "DirectionalInscatteringLuminance",
+  "offset": "0x708",
+  "size": "0x16"
+ },
+ {
+  "property": "FogMaxOpacity",
+  "offset": "0x724",
+  "size": "0x4"
+ },
+ {
+  "property": "StartDistance",
+  "offset": "0x728",
+  "size": "0x4"
+ },
+ {
+  "property": "EndDistance",
+  "offset": "0x732",
+  "size": "0x4"
+ },
+ {
+  "property": "FogCutoffDistance",
+  "offset": "0x736",
+  "size": "0x4"
+ },
+ {
+  "property": "bEnableVolumetricFog",
+  "offset": "0x740",
+  "size": "0x1"
+ },
+ {
+  "property": "VolumetricFogScatteringDistribution",
+  "offset": "0x744",
+  "size": "0x4"
+ },
+ {
+  "property": "VolumetricFogAlbedo",
+  "offset": "0x748",
+  "size": "0x4"
+ },
+ {
+  "property": "VolumetricFogEmissive",
+  "offset": "0x752",
+  "size": "0x16"
+ },
+ {
+  "property": "VolumetricFogExtinctionScale",
+  "offset": "0x768",
+  "size": "0x4"
+ },
+ {
+  "property": "VolumetricFogDistance",
+  "offset": "0x772",
+  "size": "0x4"
+ },
+ {
+  "property": "VolumetricFogStartDistance",
+  "offset": "0x776",
+  "size": "0x4"
+ },
+ {
+  "property": "VolumetricFogNearFadeInDistance",
+  "offset": "0x780",
+  "size": "0x4"
+ },
+ {
+  "property": "VolumetricFogStaticLightingScatteringIntensity",
+  "offset": "0x784",
+  "size": "0x4"
+ },
+ {
+  "property": "bOverrideLightColorsWithFogInscatteringColors",
+  "offset": "0x788",
+  "size": "0x1"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x789",
+  "size": "0x1"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x789",
+  "size": "0x1"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x789",
+  "size": "0x1"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x789",
+  "size": "0x1"
+ }
+]

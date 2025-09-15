@@ -1,0 +1,107 @@
+[
+ {
+  "property": "SocialUser",
+  "offset": "0x104",
+  "size": "0x8"
+ },
+ {
+  "property": "NameInfo",
+  "offset": "0x112",
+  "size": "0x8"
+ },
+ {
+  "property": "PartyInfo",
+  "offset": "0x120",
+  "size": "0x8"
+ },
+ {
+  "property": "UserInfo",
+  "offset": "0x128",
+  "size": "0x8"
+ },
+ {
+  "property": "OnlineStatusInfo",
+  "offset": "0x136",
+  "size": "0x8"
+ },
+ {
+  "property": "RankedInfo",
+  "offset": "0x144",
+  "size": "0x8"
+ },
+ {
+  "property": "BannerInfo",
+  "offset": "0x152",
+  "size": "0x8"
+ },
+ {
+  "property": "OutfitShopOfferId",
+  "offset": "0x160",
+  "size": "0x16"
+ },
+ {
+  "property": "bIsLocalPlayer",
+  "offset": "0x176",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsTalking",
+  "offset": "0x177",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsVoiceMutedByLocalPlayer",
+  "offset": "0x178",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsTextMutedByLocalPlayer",
+  "offset": "0x179",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsTextChatMutingAvailable",
+  "offset": "0x180",
+  "size": "0x1"
+ },
+ {
+  "property": "VolumeLevel",
+  "offset": "0x184",
+  "size": "0x4"
+ },
+ {
+  "property": "MatchmakingStatus",
+  "offset": "0x188",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsInLobby",
+  "offset": "0x189",
+  "size": "0x1"
+ },
+ {
+  "property": "CurrentAvailableAction",
+  "offset": "0x190",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsActionInProgress",
+  "offset": "0x191",
+  "size": "0x1"
+ },
+ {
+  "property": "DownloadProgress",
+  "offset": "0x192",
+  "size": "0x4"
+ },
+ {
+  "property": "OpenProfileActionMenuClass",
+  "offset": "0x200",
+  "size": "0x8"
+ },
+ {
+  "property": "OpenSTWActionMenuClass",
+  "offset": "0x208",
+  "size": "0x8"
+ }
+]

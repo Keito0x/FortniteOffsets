@@ -1,0 +1,17 @@
+[
+ {
+  "property": "FortPlayerPawn",
+  "offset": "0x40",
+  "size": "0x8"
+ },
+ {
+  "property": "AnimInstancePropertyDebugs",
+  "offset": "0x48",
+  "size": "0x80"
+ },
+ {
+  "property": "MonospaceFont",
+  "offset": "0x128",
+  "size": "0x8"
+ }
+]

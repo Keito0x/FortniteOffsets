@@ -1,0 +1,187 @@
+[
+ {
+  "property": "SectionBaseX",
+  "offset": "0x1304",
+  "size": "0x4"
+ },
+ {
+  "property": "SectionBaseY",
+  "offset": "0x1308",
+  "size": "0x4"
+ },
+ {
+  "property": "ComponentSizeQuads",
+  "offset": "0x1312",
+  "size": "0x4"
+ },
+ {
+  "property": "SubsectionSizeQuads",
+  "offset": "0x1316",
+  "size": "0x4"
+ },
+ {
+  "property": "NumSubsections",
+  "offset": "0x1320",
+  "size": "0x4"
+ },
+ {
+  "property": "OverrideMaterial",
+  "offset": "0x1328",
+  "size": "0x8"
+ },
+ {
+  "property": "OverrideHoleMaterial",
+  "offset": "0x1336",
+  "size": "0x8"
+ },
+ {
+  "property": "MaterialInstances",
+  "offset": "0x1344",
+  "size": "0x16"
+ },
+ {
+  "property": "MaterialInstancesDynamic",
+  "offset": "0x1360",
+  "size": "0x16"
+ },
+ {
+  "property": "LODIndexToMaterialIndex",
+  "offset": "0x1376",
+  "size": "0x16"
+ },
+ {
+  "property": "XYOffsetmapTexture",
+  "offset": "0x1392",
+  "size": "0x8"
+ },
+ {
+  "property": "WeightmapScaleBias",
+  "offset": "0x1408",
+  "size": "0x32"
+ },
+ {
+  "property": "WeightmapSubsectionOffset",
+  "offset": "0x1440",
+  "size": "0x4"
+ },
+ {
+  "property": "HeightmapScaleBias",
+  "offset": "0x1456",
+  "size": "0x32"
+ },
+ {
+  "property": "CachedLocalBox",
+  "offset": "0x1488",
+  "size": "0x56"
+ },
+ {
+  "property": "MipToMipMaxDeltas",
+  "offset": "0x1544",
+  "size": "0x16"
+ },
+ {
+  "property": "CollisionComponentRef",
+  "offset": "0x1560",
+  "size": "0x8"
+ },
+ {
+  "property": "bUserTriggeredChangeRequested",
+  "offset": "0x1568",
+  "size": "0x1"
+ },
+ {
+  "property": "bNaniteActive",
+  "offset": "0x1569",
+  "size": "0x1"
+ },
+ {
+  "property": "HeightmapTexture",
+  "offset": "0x1576",
+  "size": "0x8"
+ },
+ {
+  "property": "WeightmapLayerAllocations",
+  "offset": "0x1584",
+  "size": "0x16"
+ },
+ {
+  "property": "WeightmapTextures",
+  "offset": "0x1600",
+  "size": "0x16"
+ },
+ {
+  "property": "PerLODOverrideMaterials",
+  "offset": "0x1616",
+  "size": "0x16"
+ },
+ {
+  "property": "GrassTypes",
+  "offset": "0x1632",
+  "size": "0x16"
+ },
+ {
+  "property": "MapBuildDataId",
+  "offset": "0x1664",
+  "size": "0x16"
+ },
+ {
+  "property": "CollisionMipLevel",
+  "offset": "0x1680",
+  "size": "0x4"
+ },
+ {
+  "property": "SimpleCollisionMipLevel",
+  "offset": "0x1684",
+  "size": "0x4"
+ },
+ {
+  "property": "NegativeZBoundsExtension",
+  "offset": "0x1688",
+  "size": "0x4"
+ },
+ {
+  "property": "PositiveZBoundsExtension",
+  "offset": "0x1692",
+  "size": "0x4"
+ },
+ {
+  "property": "StaticLightingResolution",
+  "offset": "0x1696",
+  "size": "0x4"
+ },
+ {
+  "property": "ForcedLOD",
+  "offset": "0x1700",
+  "size": "0x4"
+ },
+ {
+  "property": "LODBias",
+  "offset": "0x1704",
+  "size": "0x4"
+ },
+ {
+  "property": "RegisteredEdgeFixup",
+  "offset": "0x1712",
+  "size": "0x8"
+ },
+ {
+  "property": "MobileMaterialInterfaces",
+  "offset": "0x1728",
+  "size": "0x16"
+ },
+ {
+  "property": "MobileWeightmapTextures",
+  "offset": "0x1744",
+  "size": "0x16"
+ },
+ {
+  "property": "MobileWeightmapTextureArray",
+  "offset": "0x1760",
+  "size": "0x8"
+ },
+ {
+  "property": "MobileWeightmapLayerAllocations",
+  "offset": "0x1768",
+  "size": "0x16"
+ }
+]

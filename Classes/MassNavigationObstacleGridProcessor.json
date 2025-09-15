@@ -1,0 +1,37 @@
+[
+ {
+  "property": "ExecutionOrder",
+  "offset": "0x40",
+  "size": "0x40"
+ },
+ {
+  "property": "ProcessingPhase",
+  "offset": "0x80",
+  "size": "0x1"
+ },
+ {
+  "property": "ExecutionFlags",
+  "offset": "0x81",
+  "size": "0x1"
+ },
+ {
+  "property": "bAutoRegisterWithProcessingPhases",
+  "offset": "0x82",
+  "size": "0x1"
+ },
+ {
+  "property": "bRequiresGameThreadExecution",
+  "offset": "0x82",
+  "size": "0x1"
+ },
+ {
+  "property": "ActivationState",
+  "offset": "0x83",
+  "size": "0x1"
+ },
+ {
+  "property": "ExecutionPriority",
+  "offset": "0x84",
+  "size": "0x2"
+ }
+]

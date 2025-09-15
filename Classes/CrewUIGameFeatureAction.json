@@ -1,0 +1,42 @@
+[
+ {
+  "property": "CrewContentContainerClass",
+  "offset": "0x40",
+  "size": "0x32"
+ },
+ {
+  "property": "CrewStandaloneContentContainerClass",
+  "offset": "0x72",
+  "size": "0x32"
+ },
+ {
+  "property": "ProgressionScreenClass",
+  "offset": "0x104",
+  "size": "0x32"
+ },
+ {
+  "property": "CrewPriceChangeAcknowledgeModalClass",
+  "offset": "0x136",
+  "size": "0x32"
+ },
+ {
+  "property": "MultiSubAlertModalClass",
+  "offset": "0x168",
+  "size": "0x32"
+ },
+ {
+  "property": "ProgressiveCosmeticSets",
+  "offset": "0x200",
+  "size": "0x16"
+ },
+ {
+  "property": "CustomCrewPreviewData",
+  "offset": "0x216",
+  "size": "0x16"
+ },
+ {
+  "property": "HeaderImage",
+  "offset": "0x232",
+  "size": "0x32"
+ }
+]

@@ -1,0 +1,102 @@
+[
+ {
+  "property": "PickerOverlay_RadioMenu",
+  "offset": "0x1128",
+  "size": "0x8"
+ },
+ {
+  "property": "DelayedSelectionTime",
+  "offset": "0x1136",
+  "size": "0x4"
+ },
+ {
+  "property": "DelayedSelectionRetryMax",
+  "offset": "0x1140",
+  "size": "0x4"
+ },
+ {
+  "property": "bShowBackgroundBlur",
+  "offset": "0x1144",
+  "size": "0x1"
+ },
+ {
+  "property": "bShowBackgroundGlow",
+  "offset": "0x1145",
+  "size": "0x1"
+ },
+ {
+  "property": "bShowInputHintsBottomBar",
+  "offset": "0x1146",
+  "size": "0x1"
+ },
+ {
+  "property": "bShowRadioStationDetailsPanel",
+  "offset": "0x1147",
+  "size": "0x1"
+ },
+ {
+  "property": "MaxNumberOfRadioStationsSupported",
+  "offset": "0x1148",
+  "size": "0x4"
+ },
+ {
+  "property": "PrimaryContentSetup",
+  "offset": "0x1152",
+  "size": "0x4"
+ },
+ {
+  "property": "Text_RadioStationName",
+  "offset": "0x1160",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_RadioStationCurrentSong",
+  "offset": "0x1168",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_RadioStationCurrentArtist",
+  "offset": "0x1176",
+  "size": "0x8"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x1184",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_QuickAccess_Slash",
+  "offset": "0x1192",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_QuickAccess_Q_Y",
+  "offset": "0x1200",
+  "size": "0x8"
+ },
+ {
+  "property": "Keybind_Confirm",
+  "offset": "0x1208",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_Cancel",
+  "offset": "0x1216",
+  "size": "0x8"
+ },
+ {
+  "property": "RadioStations",
+  "offset": "0x1224",
+  "size": "0x16"
+ },
+ {
+  "property": "QuickSelectBindings",
+  "offset": "0x1240",
+  "size": "0x16"
+ },
+ {
+  "property": "CachedRadioPlayerComponent",
+  "offset": "0x1256",
+  "size": "0x8"
+ }
+]

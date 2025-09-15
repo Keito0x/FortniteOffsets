@@ -1,0 +1,12 @@
+[
+ {
+  "property": "PluginName",
+  "offset": "0x40",
+  "size": "0x16"
+ },
+ {
+  "property": "AssociatedMnemonics",
+  "offset": "0x56",
+  "size": "0x16"
+ }
+]

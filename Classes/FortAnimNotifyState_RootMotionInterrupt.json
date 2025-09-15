@@ -1,0 +1,12 @@
+[
+ {
+  "property": "MontageInterrupt",
+  "offset": "0x48",
+  "size": "0x1"
+ },
+ {
+  "property": "bAllowMoveInput",
+  "offset": "0x52",
+  "size": "0x1"
+ }
+]

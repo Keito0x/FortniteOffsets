@@ -1,0 +1,87 @@
+[
+ {
+  "property": "MissionName",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "MissionDescription",
+  "offset": "0x64",
+  "size": "0x16"
+ },
+ {
+  "property": "MissionIcon",
+  "offset": "0x80",
+  "size": "0x176"
+ },
+ {
+  "property": "MissionIcons",
+  "offset": "0x256",
+  "size": "0x1056"
+ },
+ {
+  "property": "LoadingScreenConfig",
+  "offset": "0x1312",
+  "size": "0x216"
+ },
+ {
+  "property": "AthenaLTMConfig",
+  "offset": "0x1528",
+  "size": "0x64"
+ },
+ {
+  "property": "PrimaryMissionInfo",
+  "offset": "0x1592",
+  "size": "0x32"
+ },
+ {
+  "property": "bUseNewMissionGeneration",
+  "offset": "0x1624",
+  "size": "0x1"
+ },
+ {
+  "property": "OptionalRequirementsForAllOtherMissions",
+  "offset": "0x1632",
+  "size": "0x72"
+ },
+ {
+  "property": "MissionGenerationList",
+  "offset": "0x1704",
+  "size": "0x32"
+ },
+ {
+  "property": "MissionGenerationChance",
+  "offset": "0x1736",
+  "size": "0x16"
+ },
+ {
+  "property": "SecondaryMissionList",
+  "offset": "0x1752",
+  "size": "0x16"
+ },
+ {
+  "property": "TertiaryMissionList",
+  "offset": "0x1768",
+  "size": "0x16"
+ },
+ {
+  "property": "SurvivorMissionList",
+  "offset": "0x1784",
+  "size": "0x16"
+ },
+ {
+  "property": "bUseOverridePlayerSpawnPadPlacementData",
+  "offset": "0x1800",
+  "size": "0x1"
+ },
+ {
+  "property": "OverridePlayerSpawnPadPlacementData",
+  "offset": "0x1808",
+  "size": "0x80"
+ },
+ {
+  "property": "Enabled",
+  "offset": "0x1888",
+  "size": "0x40"
+ }
+]

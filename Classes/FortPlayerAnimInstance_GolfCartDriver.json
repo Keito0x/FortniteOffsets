@@ -1,0 +1,27 @@
+[
+ {
+  "property": "GolfCartInput",
+  "offset": "0x4888",
+  "size": "0x104"
+ },
+ {
+  "property": "VelocityImpact",
+  "offset": "0x4992",
+  "size": "0x240"
+ },
+ {
+  "property": "ImpactDisplacement",
+  "offset": "0x5232",
+  "size": "0x24"
+ },
+ {
+  "property": "RightHandIKTarget",
+  "offset": "0x5256",
+  "size": "0x64"
+ },
+ {
+  "property": "LeftHandIKTarget",
+  "offset": "0x5320",
+  "size": "0x64"
+ }
+]

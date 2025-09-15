@@ -1,0 +1,17 @@
+[
+ {
+  "property": "DefaultStyle",
+  "offset": "0x800",
+  "size": "0x312"
+ },
+ {
+  "property": "RichText_Message",
+  "offset": "0x1112",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_MessageButton",
+  "offset": "0x1120",
+  "size": "0x8"
+ }
+]

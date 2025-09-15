@@ -1,0 +1,27 @@
+[
+ {
+  "property": "GraphType",
+  "offset": "0x48",
+  "size": "0x4"
+ },
+ {
+  "property": "Nodes",
+  "offset": "0x56",
+  "size": "0x16"
+ },
+ {
+  "property": "Links",
+  "offset": "0x72",
+  "size": "0x16"
+ },
+ {
+  "property": "NodePairs",
+  "offset": "0x88",
+  "size": "0x16"
+ },
+ {
+  "property": "Subgraphs",
+  "offset": "0x104",
+  "size": "0x16"
+ }
+]

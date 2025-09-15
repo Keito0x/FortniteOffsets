@@ -1,0 +1,62 @@
+[
+ {
+  "property": "SportBikeWheelieEarlyOut",
+  "offset": "0x2496",
+  "size": "0x1"
+ },
+ {
+  "property": "StateRuleFromWheelieToGroundTrickOutro",
+  "offset": "0x2497",
+  "size": "0x1"
+ },
+ {
+  "property": "EarlyExitFromGroundTrick",
+  "offset": "0x2498",
+  "size": "0x1"
+ },
+ {
+  "property": "IsBoostingWithNoPassenger",
+  "offset": "0x2499",
+  "size": "0x1"
+ },
+ {
+  "property": "MotorcycleGear",
+  "offset": "0x2500",
+  "size": "0x4"
+ },
+ {
+  "property": "CurrentGear",
+  "offset": "0x2504",
+  "size": "0x4"
+ },
+ {
+  "property": "PreviousGear",
+  "offset": "0x2508",
+  "size": "0x4"
+ },
+ {
+  "property": "IsChangingGear",
+  "offset": "0x2512",
+  "size": "0x1"
+ },
+ {
+  "property": "SuperSlideBlendAlpha",
+  "offset": "0x2516",
+  "size": "0x4"
+ },
+ {
+  "property": "SuperSlideBlendStart",
+  "offset": "0x2520",
+  "size": "0x4"
+ },
+ {
+  "property": "SuperSlideBlendEnd",
+  "offset": "0x2524",
+  "size": "0x4"
+ },
+ {
+  "property": "IsSuperSliding",
+  "offset": "0x2528",
+  "size": "0x1"
+ }
+]

@@ -1,0 +1,57 @@
+[
+ {
+  "property": "GameplayTag",
+  "offset": "0x48",
+  "size": "0x4"
+ },
+ {
+  "property": "DisplayName",
+  "offset": "0x56",
+  "size": "0x16"
+ },
+ {
+  "property": "GeneralDescription",
+  "offset": "0x72",
+  "size": "0x16"
+ },
+ {
+  "property": "AdditionalDescription",
+  "offset": "0x88",
+  "size": "0x16"
+ },
+ {
+  "property": "BehaviorDescription",
+  "offset": "0x104",
+  "size": "0x16"
+ },
+ {
+  "property": "ToastIcon",
+  "offset": "0x120",
+  "size": "0x32"
+ },
+ {
+  "property": "EntryListIcon",
+  "offset": "0x152",
+  "size": "0x32"
+ },
+ {
+  "property": "SidePanelIcon",
+  "offset": "0x184",
+  "size": "0x32"
+ },
+ {
+  "property": "PunchCardIcon",
+  "offset": "0x216",
+  "size": "0x32"
+ },
+ {
+  "property": "PrimaryColor",
+  "offset": "0x248",
+  "size": "0x16"
+ },
+ {
+  "property": "SecondaryColor",
+  "offset": "0x264",
+  "size": "0x16"
+ }
+]

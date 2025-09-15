@@ -1,0 +1,12 @@
+[
+ {
+  "property": "LandscapeClampingHelper",
+  "offset": "0x48",
+  "size": "0x8"
+ },
+ {
+  "property": "LandscapeHelperClass",
+  "offset": "0x56",
+  "size": "0x8"
+ }
+]

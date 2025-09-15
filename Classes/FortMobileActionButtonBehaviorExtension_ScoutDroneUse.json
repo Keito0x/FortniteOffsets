@@ -1,0 +1,7 @@
+[
+ {
+  "property": "ContextTagToCheck",
+  "offset": "0x128",
+  "size": "0x32"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "property": "LocalPlayer",
+  "offset": "0x384",
+  "size": "0x8"
+ },
+ {
+  "property": "QuestContent",
+  "offset": "0x392",
+  "size": "0x8"
+ }
+]

@@ -1,0 +1,207 @@
+[
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x2504",
+  "size": "0x4"
+ },
+ {
+  "property": "ÛÛÛÛÛÛÛÛÛÛÛYYYYYYYYYYYYYYYYYYYYYYYYYYYYyy[YYYYYY%YYYYYaM9)Yõ¶¶YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYZYYYYYaNIà]å¶¶aNIà]å¶¶YYYYYYYYYYYYYYYYNIà]å¶¶NIà]å¶¶YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYŸYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYQYYYYYYYYYYYYYYYQYYYYYYYYYYYYYYYQYYYYYYYYYYYYYYYQYYYYYYYYYYYYYYYQYYYYYYYYYYYYYYYQYYYYYYYYYYYYYYYQYYYYYYYYYYYYYYYQYYYYYYYYYYYYYYYQYYYYYYYYYYYYYYYQYYYYYYYYYYYYYYYQYYYYYYYYYYYYYYYQYYYYYYYYYYYYYYYQYYYYYYYYYYYYYYYQYYYYYYYYYYYYYYY]YYYYYYYUYYYYYYYQYYYYYYYYYYYYYYYQYYYYYYY]YYYYYYY]YYYYYYYUYYYYYYYYAsÉ]å¶¶Yy[]å¶¶Y)]å¶¶YYYYYYYYYY¶X»ÿŸ¿öæÙ_yYŸÛÛÛÛÛÛÛ",
+  "offset": "0x2512",
+  "size": "0x8"
+ },
+ {
+  "property": "OverrideImageUrl",
+  "offset": "0x2520",
+  "size": "0x16"
+ },
+ {
+  "property": "MarkerDetailsPointerOrigin",
+  "offset": "0x2536",
+  "size": "0x24"
+ },
+ {
+  "property": "MaxInstantTeleportDistance",
+  "offset": "0x2560",
+  "size": "0x4"
+ },
+ {
+  "property": "LoadingText",
+  "offset": "0x2568",
+  "size": "0x16"
+ },
+ {
+  "property": "UnloadingText",
+  "offset": "0x2584",
+  "size": "0x16"
+ },
+ {
+  "property": "SavingText",
+  "offset": "0x2600",
+  "size": "0x16"
+ },
+ {
+  "property": "TeleportingPlayersText",
+  "offset": "0x2616",
+  "size": "0x16"
+ },
+ {
+  "property": "TeleportingVehiclesText",
+  "offset": "0x2632",
+  "size": "0x16"
+ },
+ {
+  "property": "LinkedVolume",
+  "offset": "0x2648",
+  "size": "0x8"
+ },
+ {
+  "property": "bReturnToCreativeHub",
+  "offset": "0x2656",
+  "size": "0x1"
+ },
+ {
+  "property": "bInErrorState",
+  "offset": "0x2657",
+  "size": "0x1"
+ },
+ {
+  "property": "bUserInitiatedLoad",
+  "offset": "0x2658",
+  "size": "0x1"
+ },
+ {
+  "property": "CachedEditIslandData",
+  "offset": "0x2664",
+  "size": "0x96"
+ },
+ {
+  "property": "IslandInfo",
+  "offset": "0x2760",
+  "size": "0x696"
+ },
+ {
+  "property": "VolumeStatus",
+  "offset": "0x3456",
+  "size": "0x16"
+ },
+ {
+  "property": "EditOverridePlaylist",
+  "offset": "0x3472",
+  "size": "0x16"
+ },
+ {
+  "property": "bIsPlotLoadTimeOut",
+  "offset": "0x3520",
+  "size": "0x1"
+ },
+ {
+  "property": "SanitizedTitle",
+  "offset": "0x3528",
+  "size": "0x16"
+ },
+ {
+  "property": "SanitizedTagline",
+  "offset": "0x3544",
+  "size": "0x16"
+ },
+ {
+  "property": "SanitizedCreatorName",
+  "offset": "0x3560",
+  "size": "0x16"
+ },
+ {
+  "property": "InteractComponent",
+  "offset": "0x3584",
+  "size": "0x8"
+ },
+ {
+  "property": "OverlapComponent",
+  "offset": "0x3592",
+  "size": "0x8"
+ },
+ {
+  "property": "CurrentPopulation",
+  "offset": "0x3600",
+  "size": "0x1"
+ },
+ {
+  "property": "MaxAvailablePopulation",
+  "offset": "0x3601",
+  "size": "0x1"
+ },
+ {
+  "property": "Unknown_ffield",
+  "offset": "0x3608",
+  "size": "0x48"
+ },
+ {
+  "property": "PlayersReady",
+  "offset": "0x3656",
+  "size": "0x16"
+ },
+ {
+  "property": "bIsPublishedPortal",
+  "offset": "0x3672",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsUsingUGC",
+  "offset": "0x3673",
+  "size": "0x1"
+ },
+ {
+  "property": "TeleportLocation",
+  "offset": "0x3680",
+  "size": "0x24"
+ },
+ {
+  "property": "TeleportExitDistance",
+  "offset": "0x3704",
+  "size": "0x40"
+ },
+ {
+  "property": "bTeleportLocationIsIslandStart",
+  "offset": "0x3744",
+  "size": "0x1"
+ },
+ {
+  "property": "bDisallowPortalInteract",
+  "offset": "0x3745",
+  "size": "0x1"
+ },
+ {
+  "property": "bLocalClientLacksPermission",
+  "offset": "0x3746",
+  "size": "0x1"
+ },
+ {
+  "property": "bPortalOpen",
+  "offset": "0x3747",
+  "size": "0x1"
+ },
+ {
+  "property": "PortalStateForLocalPlayer",
+  "offset": "0x3752",
+  "size": "0x24"
+ },
+ {
+  "property": "CachedOwningPlayerState",
+  "offset": "0x3792",
+  "size": "0x8"
+ },
+ {
+  "property": "ThumbnailTexture",
+  "offset": "0x3816",
+  "size": "0x8"
+ },
+ {
+  "property": "InteractIconPlacementCapsule",
+  "offset": "0x3840",
+  "size": "0x8"
+ },
+ {
+  "property": "bForceUpdateInteraction",
+  "offset": "0x3866",
+  "size": "0x1"
+ }
+]

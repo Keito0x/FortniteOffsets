@@ -1,0 +1,32 @@
+[
+ {
+  "property": "TrapProjectileClass",
+  "offset": "0x2920",
+  "size": "0x8"
+ },
+ {
+  "property": "TrapCostClass",
+  "offset": "0x2928",
+  "size": "0x8"
+ },
+ {
+  "property": "ActivateTrapTag",
+  "offset": "0x2936",
+  "size": "0x4"
+ },
+ {
+  "property": "DelayBeginTag",
+  "offset": "0x2940",
+  "size": "0x4"
+ },
+ {
+  "property": "ReloadBeginTag",
+  "offset": "0x2944",
+  "size": "0x4"
+ },
+ {
+  "property": "ProjectileSpawnDelay",
+  "offset": "0x2948",
+  "size": "0x4"
+ }
+]

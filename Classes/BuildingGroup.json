@@ -1,0 +1,27 @@
+[
+ {
+  "property": "GroupName",
+  "offset": "0x48",
+  "size": "0x4"
+ },
+ {
+  "property": "FallbackGroup",
+  "offset": "0x56",
+  "size": "0x8"
+ },
+ {
+  "property": "FoundationType",
+  "offset": "0x64",
+  "size": "0x1"
+ },
+ {
+  "property": "AllBuildingLevelTags",
+  "offset": "0x72",
+  "size": "0x32"
+ },
+ {
+  "property": "BuildingLevelData",
+  "offset": "0x104",
+  "size": "0x16"
+ }
+]

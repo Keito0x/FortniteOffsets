@@ -1,0 +1,27 @@
+[
+ {
+  "property": "ForegroundMetadataName",
+  "offset": "0x48",
+  "size": "0x4"
+ },
+ {
+  "property": "BodyImageMetadataName",
+  "offset": "0x52",
+  "size": "0x4"
+ },
+ {
+  "property": "DisplayFilteringContextOverride",
+  "offset": "0x56",
+  "size": "0x4"
+ },
+ {
+  "property": "CompatibilityFilteringContextOverride",
+  "offset": "0x60",
+  "size": "0x4"
+ },
+ {
+  "property": "bShowInAllContexts",
+  "offset": "0x64",
+  "size": "0x1"
+ }
+]

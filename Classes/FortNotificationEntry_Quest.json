@@ -1,0 +1,92 @@
+[
+ {
+  "property": "TrackQuestDisabledProducts",
+  "offset": "0x880",
+  "size": "0x32"
+ },
+ {
+  "property": "BoundActions",
+  "offset": "0x912",
+  "size": "0x16"
+ },
+ {
+  "property": "GoalCount",
+  "offset": "0x928",
+  "size": "0x4"
+ },
+ {
+  "property": "CurrentCount",
+  "offset": "0x932",
+  "size": "0x4"
+ },
+ {
+  "property": "PreviousCount",
+  "offset": "0x936",
+  "size": "0x4"
+ },
+ {
+  "property": "bNeedsStagedNotification",
+  "offset": "0x940",
+  "size": "0x1"
+ },
+ {
+  "property": "bPreferRewardIcon",
+  "offset": "0x941",
+  "size": "0x1"
+ },
+ {
+  "property": "Text_Header",
+  "offset": "0x944",
+  "size": "0x8"
+ },
+ {
+  "property": "DateTimeText_TimeRemaining",
+  "offset": "0x952",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_Description",
+  "offset": "0x960",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_CategoryDisplay",
+  "offset": "0x968",
+  "size": "0x8"
+ },
+ {
+  "property": "RichText_ObjectivesCompleted",
+  "offset": "0x976",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_FlavorText",
+  "offset": "0x984",
+  "size": "0x8"
+ },
+ {
+  "property": "Panel_AssistedBy",
+  "offset": "0x992",
+  "size": "0x8"
+ },
+ {
+  "property": "XpSubNotification",
+  "offset": "0x1000",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_MobileClickCatcher",
+  "offset": "0x1008",
+  "size": "0x8"
+ },
+ {
+  "property": "QuestViewData",
+  "offset": "0x1016",
+  "size": "0x104"
+ },
+ {
+  "property": "ObjectiveID",
+  "offset": "0x1120",
+  "size": "0x4"
+ }
+]

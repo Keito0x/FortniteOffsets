@@ -1,0 +1,27 @@
+[
+ {
+  "property": "ChannelId",
+  "offset": "0x104",
+  "size": "0x4"
+ },
+ {
+  "property": "ChannelName",
+  "offset": "0x112",
+  "size": "0x16"
+ },
+ {
+  "property": "ChannelType",
+  "offset": "0x128",
+  "size": "0x1"
+ },
+ {
+  "property": "bHasUnreadMessages",
+  "offset": "0x129",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsMuted",
+  "offset": "0x130",
+  "size": "0x1"
+ }
+]

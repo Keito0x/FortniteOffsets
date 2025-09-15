@@ -1,0 +1,22 @@
+[
+ {
+  "property": "MoverMovementModeToCharacterMovementMode",
+  "offset": "0x22952",
+  "size": "0x80"
+ },
+ {
+  "property": "MoverMovementModeToCharacterCustomMovementMode",
+  "offset": "0x23032",
+  "size": "0x80"
+ },
+ {
+  "property": "MoverComponent",
+  "offset": "0x23112",
+  "size": "0x8"
+ },
+ {
+  "property": "MoverSurfaceTrackingComponent",
+  "offset": "0x23280",
+  "size": "0x8"
+ }
+]

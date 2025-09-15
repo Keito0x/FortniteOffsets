@@ -1,0 +1,157 @@
+[
+ {
+  "property": "PointsPerSegment",
+  "offset": "0x680",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxSegmentLengthBeforeBreak",
+  "offset": "0x688",
+  "size": "0x40"
+ },
+ {
+  "property": "SplineCurveTension",
+  "offset": "0x728",
+  "size": "0x4"
+ },
+ {
+  "property": "MinPointSize",
+  "offset": "0x732",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxPointSize",
+  "offset": "0x736",
+  "size": "0x4"
+ },
+ {
+  "property": "NumPointsAtMinPointSize",
+  "offset": "0x740",
+  "size": "0x4"
+ },
+ {
+  "property": "NumPointsAtMaxPointSize",
+  "offset": "0x744",
+  "size": "0x4"
+ },
+ {
+  "property": "SplineLengthForSizeCalculation",
+  "offset": "0x748",
+  "size": "0x4"
+ },
+ {
+  "property": "NumPointsToTaperDownSplineEndSize",
+  "offset": "0x752",
+  "size": "0x4"
+ },
+ {
+  "property": "MinSplineEndTaperSize",
+  "offset": "0x756",
+  "size": "0x4"
+ },
+ {
+  "property": "TaperSizeAtDetachment_RemapClosenessToBreakageOldMin",
+  "offset": "0x760",
+  "size": "0x4"
+ },
+ {
+  "property": "TaperSizeAtDetachment_RemapClosenessToBreakageOldMax",
+  "offset": "0x764",
+  "size": "0x4"
+ },
+ {
+  "property": "MinPointSizePercentForFlashIntensity",
+  "offset": "0x768",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxPointSizePercentForFlashIntensity",
+  "offset": "0x772",
+  "size": "0x4"
+ },
+ {
+  "property": "PositionsNiagaraParamName",
+  "offset": "0x776",
+  "size": "0x4"
+ },
+ {
+  "property": "RibbonIDsNiagaraParamName",
+  "offset": "0x780",
+  "size": "0x4"
+ },
+ {
+  "property": "RibbonVisibilitiesNiagaraParamName",
+  "offset": "0x784",
+  "size": "0x4"
+ },
+ {
+  "property": "FlashIntensitiesNiagaraParamName",
+  "offset": "0x788",
+  "size": "0x4"
+ },
+ {
+  "property": "RibbonSizesNiagaraParamName",
+  "offset": "0x792",
+  "size": "0x4"
+ },
+ {
+  "property": "CalculateBaseCurlOffset_MaxSegmentLength",
+  "offset": "0x800",
+  "size": "0x40"
+ },
+ {
+  "property": "CalculateBaseCurlOffset_MaxTimeSinceDetachment",
+  "offset": "0x840",
+  "size": "0x40"
+ },
+ {
+  "property": "CalculateBaseCurlOffset_TowardPerpendicularMult",
+  "offset": "0x880",
+  "size": "0x40"
+ },
+ {
+  "property": "CalculateBaseCurlOffset_TowardEndMult",
+  "offset": "0x920",
+  "size": "0x40"
+ },
+ {
+  "property": "CalculateBaseCurlOffset_TowardRandomMult",
+  "offset": "0x960",
+  "size": "0x40"
+ },
+ {
+  "property": "TimeSinceDetachmentCurlCurve",
+  "offset": "0x1000",
+  "size": "0x8"
+ },
+ {
+  "property": "TimeSinceDetachmentCurlCurve_MaxTime",
+  "offset": "0x1008",
+  "size": "0x40"
+ },
+ {
+  "property": "CurlingMaxClosenessToBreakage",
+  "offset": "0x1048",
+  "size": "0x4"
+ },
+ {
+  "property": "SegmentLengths",
+  "offset": "0x1056",
+  "size": "0x16"
+ },
+ {
+  "property": "Detachments",
+  "offset": "0x1072",
+  "size": "0x16"
+ },
+ {
+  "property": "SplineSegments",
+  "offset": "0x1088",
+  "size": "0x16"
+ },
+ {
+  "property": "Projectiles_Native",
+  "offset": "0x1104",
+  "size": "0x16"
+ }
+]

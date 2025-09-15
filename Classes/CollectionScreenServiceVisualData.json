@@ -1,0 +1,57 @@
+[
+ {
+  "property": "ServiceDataTable",
+  "offset": "0x48",
+  "size": "0x8"
+ },
+ {
+  "property": "SpecializationDataTable",
+  "offset": "0x56",
+  "size": "0x8"
+ },
+ {
+  "property": "SeasonDataTableServicesTag",
+  "offset": "0x64",
+  "size": "0x4"
+ },
+ {
+  "property": "SeasonDataTableSalesTag",
+  "offset": "0x68",
+  "size": "0x4"
+ },
+ {
+  "property": "NpcPricingKeyRemapsTag",
+  "offset": "0x72",
+  "size": "0x4"
+ },
+ {
+  "property": "ItemCostTable",
+  "offset": "0x80",
+  "size": "0x8"
+ },
+ {
+  "property": "ServiceCostTable",
+  "offset": "0x88",
+  "size": "0x8"
+ },
+ {
+  "property": "AllowedServiceTagsForIcon",
+  "offset": "0x96",
+  "size": "0x32"
+ },
+ {
+  "property": "SpecializationTagRoot",
+  "offset": "0x128",
+  "size": "0x4"
+ },
+ {
+  "property": "ItemNameAndCountFmt",
+  "offset": "0x136",
+  "size": "0x16"
+ },
+ {
+  "property": "SellServiceTagOrdered",
+  "offset": "0x152",
+  "size": "0x16"
+ }
+]

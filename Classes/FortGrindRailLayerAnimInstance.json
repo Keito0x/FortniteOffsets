@@ -1,0 +1,477 @@
+[
+ {
+  "property": "LancePickaxeMontage",
+  "offset": "0x1256",
+  "size": "0x8"
+ },
+ {
+  "property": "ScythePickaxeMontage",
+  "offset": "0x1264",
+  "size": "0x8"
+ },
+ {
+  "property": "FruitCakePickaxeMontage",
+  "offset": "0x1272",
+  "size": "0x8"
+ },
+ {
+  "property": "LeanAlphaCurve",
+  "offset": "0x1280",
+  "size": "0x4"
+ },
+ {
+  "property": "MeleeTwistCurve",
+  "offset": "0x1284",
+  "size": "0x4"
+ },
+ {
+  "property": "InterruptibleCurve",
+  "offset": "0x1288",
+  "size": "0x4"
+ },
+ {
+  "property": "SlopeWarpingCurveMap",
+  "offset": "0x1296",
+  "size": "0x80"
+ },
+ {
+  "property": "LeanBwdVelocityThreshold",
+  "offset": "0x1376",
+  "size": "0x8"
+ },
+ {
+  "property": "BwdStartCachedData",
+  "offset": "0x1384",
+  "size": "0x20"
+ },
+ {
+  "property": "IsMovingThresholdSpeed",
+  "offset": "0x1408",
+  "size": "0x8"
+ },
+ {
+  "property": "NoisePlayRateSprintSpeedThreshold",
+  "offset": "0x1416",
+  "size": "0x8"
+ },
+ {
+  "property": "NoisePlayRateNormalSpeedInputRange",
+  "offset": "0x1424",
+  "size": "0x16"
+ },
+ {
+  "property": "NoisePlayRateNormalSpeedOutputRange",
+  "offset": "0x1440",
+  "size": "0x16"
+ },
+ {
+  "property": "NoisePlayRateHighSpeedInputRange",
+  "offset": "0x1456",
+  "size": "0x16"
+ },
+ {
+  "property": "NoisePlayRateHighSpeedOutputRange",
+  "offset": "0x1472",
+  "size": "0x16"
+ },
+ {
+  "property": "CombatNoisePlayRateSpeedInputRange",
+  "offset": "0x1488",
+  "size": "0x16"
+ },
+ {
+  "property": "CombatNoisePlayRateSpeedOutputRange",
+  "offset": "0x1504",
+  "size": "0x16"
+ },
+ {
+  "property": "CombatNoiseAlphaTargeting",
+  "offset": "0x1520",
+  "size": "0x8"
+ },
+ {
+  "property": "CombatNoiseAlphaNonTargeting",
+  "offset": "0x1528",
+  "size": "0x8"
+ },
+ {
+  "property": "RootLeanAlphaInterpSpeed",
+  "offset": "0x1536",
+  "size": "0x8"
+ },
+ {
+  "property": "SlopeWarpAlphaInterpSpeed",
+  "offset": "0x1544",
+  "size": "0x8"
+ },
+ {
+  "property": "bDisableSlopeWarpAlphaWhenGrindingEnabled",
+  "offset": "0x1552",
+  "size": "0x1"
+ },
+ {
+  "property": "SplineRelativeAimYawDeltaThreshold",
+  "offset": "0x1560",
+  "size": "0x8"
+ },
+ {
+  "property": "AimYawSmoothInterpolationCoefficient",
+  "offset": "0x1568",
+  "size": "0x8"
+ },
+ {
+  "property": "IsSmoothingYawThreshold",
+  "offset": "0x1576",
+  "size": "0x8"
+ },
+ {
+  "property": "LeanBWDThreshold",
+  "offset": "0x1584",
+  "size": "0x8"
+ },
+ {
+  "property": "MuteUpperBodyAlphaMeleeWeapon",
+  "offset": "0x1592",
+  "size": "0x8"
+ },
+ {
+  "property": "MuteUpperBodyAlphaNonMeleeWeapon",
+  "offset": "0x1600",
+  "size": "0x8"
+ },
+ {
+  "property": "MuteUpperBodyAlphaFruitcakePickaxe",
+  "offset": "0x1608",
+  "size": "0x8"
+ },
+ {
+  "property": "MuteUpperBodyAlphaLanceSyctheOrDualWeild",
+  "offset": "0x1616",
+  "size": "0x8"
+ },
+ {
+  "property": "BaseLeanDirection",
+  "offset": "0x1624",
+  "size": "0x8"
+ },
+ {
+  "property": "bIsGrinding",
+  "offset": "0x1632",
+  "size": "0x1"
+ },
+ {
+  "property": "CurrentSpeed",
+  "offset": "0x1640",
+  "size": "0x8"
+ },
+ {
+  "property": "LeanDirection",
+  "offset": "0x1648",
+  "size": "0x8"
+ },
+ {
+  "property": "bSprinting",
+  "offset": "0x1656",
+  "size": "0x1"
+ },
+ {
+  "property": "LeanForward",
+  "offset": "0x1664",
+  "size": "0x8"
+ },
+ {
+  "property": "bIsWeaponActive",
+  "offset": "0x1672",
+  "size": "0x1"
+ },
+ {
+  "property": "SplineRelativeAim",
+  "offset": "0x1680",
+  "size": "0x24"
+ },
+ {
+  "property": "GrindRailInput",
+  "offset": "0x1704",
+  "size": "0x24"
+ },
+ {
+  "property": "GrindingProvider",
+  "offset": "0x1728",
+  "size": "0x8"
+ },
+ {
+  "property": "MovementComponent",
+  "offset": "0x1736",
+  "size": "0x8"
+ },
+ {
+  "property": "FortPlayerPawn",
+  "offset": "0x1744",
+  "size": "0x8"
+ },
+ {
+  "property": "bIsFalling",
+  "offset": "0x1752",
+  "size": "0x1"
+ },
+ {
+  "property": "LeanAlpha",
+  "offset": "0x1760",
+  "size": "0x8"
+ },
+ {
+  "property": "bIsMoving",
+  "offset": "0x1768",
+  "size": "0x1"
+ },
+ {
+  "property": "bShould180Turn",
+  "offset": "0x1769",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldPlayEntry",
+  "offset": "0x1770",
+  "size": "0x1"
+ },
+ {
+  "property": "NoisePlayRate",
+  "offset": "0x1776",
+  "size": "0x8"
+ },
+ {
+  "property": "bIsLeanBwd",
+  "offset": "0x1784",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsLeft180Turn",
+  "offset": "0x1785",
+  "size": "0x1"
+ },
+ {
+  "property": "bShould180TurnAgain",
+  "offset": "0x1786",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsTurning",
+  "offset": "0x1787",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldExitLocomotion",
+  "offset": "0x1788",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsBoosting",
+  "offset": "0x1789",
+  "size": "0x1"
+ },
+ {
+  "property": "bEarlyExitFromEntry",
+  "offset": "0x1790",
+  "size": "0x1"
+ },
+ {
+  "property": "bAimFWD",
+  "offset": "0x1791",
+  "size": "0x1"
+ },
+ {
+  "property": "bAimBWD",
+  "offset": "0x1792",
+  "size": "0x1"
+ },
+ {
+  "property": "bAimLFT",
+  "offset": "0x1793",
+  "size": "0x1"
+ },
+ {
+  "property": "bAimRGT",
+  "offset": "0x1794",
+  "size": "0x1"
+ },
+ {
+  "property": "AimFWDDeltaAngleDegrees",
+  "offset": "0x1800",
+  "size": "0x8"
+ },
+ {
+  "property": "AimBWDDeltaAngleDegrees",
+  "offset": "0x1808",
+  "size": "0x8"
+ },
+ {
+  "property": "AimLFTDeltaAngleDegrees",
+  "offset": "0x1816",
+  "size": "0x8"
+ },
+ {
+  "property": "AimRGTDeltaAngleDegrees",
+  "offset": "0x1824",
+  "size": "0x8"
+ },
+ {
+  "property": "NegativeYaw",
+  "offset": "0x1832",
+  "size": "0x8"
+ },
+ {
+  "property": "MeleeTwistRot",
+  "offset": "0x1840",
+  "size": "0x24"
+ },
+ {
+  "property": "BwdStartCachedTime",
+  "offset": "0x1864",
+  "size": "0x8"
+ },
+ {
+  "property": "Velocity",
+  "offset": "0x1872",
+  "size": "0x8"
+ },
+ {
+  "property": "bIsEntryLeft",
+  "offset": "0x1880",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsEntryFromAir",
+  "offset": "0x1881",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsEntryRight",
+  "offset": "0x1882",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnteredFromInteraction",
+  "offset": "0x1883",
+  "size": "0x1"
+ },
+ {
+  "property": "SlopeWarpAlpha",
+  "offset": "0x1888",
+  "size": "0x8"
+ },
+ {
+  "property": "SplineRelativeAimYaw",
+  "offset": "0x1896",
+  "size": "0x8"
+ },
+ {
+  "property": "AimYawSmoothed",
+  "offset": "0x1904",
+  "size": "0x8"
+ },
+ {
+  "property": "bIsSmoothingYaw",
+  "offset": "0x1912",
+  "size": "0x1"
+ },
+ {
+  "property": "LastSplineRelativeAimYaw",
+  "offset": "0x1920",
+  "size": "0x8"
+ },
+ {
+  "property": "RootLeanAlpha",
+  "offset": "0x1928",
+  "size": "0x8"
+ },
+ {
+  "property": "MuteUpperBodyAlpha",
+  "offset": "0x1936",
+  "size": "0x8"
+ },
+ {
+  "property": "bIsLanceType",
+  "offset": "0x1944",
+  "size": "0x1"
+ },
+ {
+  "property": "bWasSprinting",
+  "offset": "0x1945",
+  "size": "0x1"
+ },
+ {
+  "property": "bStateRuleToBoostLoop",
+  "offset": "0x1946",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsInAction",
+  "offset": "0x1947",
+  "size": "0x1"
+ },
+ {
+  "property": "CombatNoisePlayRate",
+  "offset": "0x1952",
+  "size": "0x8"
+ },
+ {
+  "property": "CombatNoiseAlpha",
+  "offset": "0x1960",
+  "size": "0x8"
+ },
+ {
+  "property": "bIsTwoHandedMelee",
+  "offset": "0x1968",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldCorrectUpperBody",
+  "offset": "0x1969",
+  "size": "0x1"
+ },
+ {
+  "property": "bBothHandsDown",
+  "offset": "0x1970",
+  "size": "0x1"
+ },
+ {
+  "property": "TurnInPlaceAnimCurveValue",
+  "offset": "0x1976",
+  "size": "0x8"
+ },
+ {
+  "property": "TurnRotationAmountCurveValue",
+  "offset": "0x1984",
+  "size": "0x8"
+ },
+ {
+  "property": "bIsFallingAndNotEnteredFromInteraction",
+  "offset": "0x1992",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsMovingOrIsTurning",
+  "offset": "0x1993",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsTurningOrNotIsLeanBwd",
+  "offset": "0x1994",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsFallingAndNotIsWeaponActive",
+  "offset": "0x1995",
+  "size": "0x1"
+ },
+ {
+  "property": "bNotIsWeaponActiveAndNotIsFalling",
+  "offset": "0x1996",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsWeaponActiveOrIsBoosting",
+  "offset": "0x1997",
+  "size": "0x1"
+ }
+]

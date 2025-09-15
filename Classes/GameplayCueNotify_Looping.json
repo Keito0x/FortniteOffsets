@@ -1,0 +1,52 @@
+[
+ {
+  "property": "DefaultSpawnCondition",
+  "offset": "0x784",
+  "size": "0x56"
+ },
+ {
+  "property": "DefaultPlacementInfo",
+  "offset": "0x840",
+  "size": "0x64"
+ },
+ {
+  "property": "ApplicationEffects",
+  "offset": "0x904",
+  "size": "0x664"
+ },
+ {
+  "property": "ApplicationSpawnResults",
+  "offset": "0x1568",
+  "size": "0x88"
+ },
+ {
+  "property": "LoopingEffects",
+  "offset": "0x1656",
+  "size": "0x496"
+ },
+ {
+  "property": "LoopingSpawnResults",
+  "offset": "0x2152",
+  "size": "0x88"
+ },
+ {
+  "property": "RecurringEffects",
+  "offset": "0x2240",
+  "size": "0x664"
+ },
+ {
+  "property": "RecurringSpawnResults",
+  "offset": "0x2904",
+  "size": "0x88"
+ },
+ {
+  "property": "RemovalEffects",
+  "offset": "0x2992",
+  "size": "0x664"
+ },
+ {
+  "property": "RemovalSpawnResults",
+  "offset": "0x3656",
+  "size": "0x88"
+ }
+]

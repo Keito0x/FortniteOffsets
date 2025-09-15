@@ -1,0 +1,622 @@
+[
+ {
+  "property": "OnStartHandbrakeDelegate",
+  "offset": "0x8896",
+  "size": "0x16"
+ },
+ {
+  "property": "OnStopHandbrakeDelegate",
+  "offset": "0x8912",
+  "size": "0x16"
+ },
+ {
+  "property": "OnStartHandBrakeCatchupForceDelegate",
+  "offset": "0x8928",
+  "size": "0x16"
+ },
+ {
+  "property": "HardLandingCameraShake",
+  "offset": "0x8944",
+  "size": "0x8"
+ },
+ {
+  "property": "DriverCamShakeClass",
+  "offset": "0x8952",
+  "size": "0x8"
+ },
+ {
+  "property": "HandBrakeCamShakeClass",
+  "offset": "0x8960",
+  "size": "0x8"
+ },
+ {
+  "property": "VehicleClass",
+  "offset": "0x8968",
+  "size": "0x1"
+ },
+ {
+  "property": "FadeDelay",
+  "offset": "0x8972",
+  "size": "0x4"
+ },
+ {
+  "property": "FadeDuration",
+  "offset": "0x8976",
+  "size": "0x4"
+ },
+ {
+  "property": "MinBrakeForceForSkid",
+  "offset": "0x8980",
+  "size": "0x4"
+ },
+ {
+  "property": "MinForwardSpeedForSkid",
+  "offset": "0x8984",
+  "size": "0x4"
+ },
+ {
+  "property": "SpeedLinesCueTag",
+  "offset": "0x8988",
+  "size": "0x4"
+ },
+ {
+  "property": "FadeStartTime",
+  "offset": "0x8992",
+  "size": "0x4"
+ },
+ {
+  "property": "NetworkPhysicsComponent",
+  "offset": "0x9000",
+  "size": "0x8"
+ },
+ {
+  "property": "OnTireModHealthChanged",
+  "offset": "0x9008",
+  "size": "0x16"
+ },
+ {
+  "property": "RechargeableBoostPercent",
+  "offset": "0x9024",
+  "size": "0x4"
+ },
+ {
+  "property": "SplatterSourceComp",
+  "offset": "0x9032",
+  "size": "0x8"
+ },
+ {
+  "property": "bEnableNativizedTick",
+  "offset": "0x9040",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldApplyPowerFunctionToMobileInput",
+  "offset": "0x9041",
+  "size": "0x1"
+ },
+ {
+  "property": "InputActionEBrake",
+  "offset": "0x9048",
+  "size": "0x8"
+ },
+ {
+  "property": "InputActionUseTurret",
+  "offset": "0x9056",
+  "size": "0x8"
+ },
+ {
+  "property": "NativeCollisionHitFxConfig",
+  "offset": "0x9064",
+  "size": "0x40"
+ },
+ {
+  "property": "NativeCollisionHapticsConfig",
+  "offset": "0x9104",
+  "size": "0x80"
+ },
+ {
+  "property": "PassengerLeanSockets",
+  "offset": "0x9184",
+  "size": "0x16"
+ },
+ {
+  "property": "PassngerLeanRelativeOffsets",
+  "offset": "0x9200",
+  "size": "0x16"
+ },
+ {
+  "property": "PassengerCameraModeClass",
+  "offset": "0x9216",
+  "size": "0x8"
+ },
+ {
+  "property": "PassengerCameraModeClass_ADS",
+  "offset": "0x9224",
+  "size": "0x8"
+ },
+ {
+  "property": "WheelSocketNames",
+  "offset": "0x9232",
+  "size": "0x16"
+ },
+ {
+  "property": "FortDagwoodVehicleConfigs",
+  "offset": "0x9248",
+  "size": "0x8"
+ },
+ {
+  "property": "RearShocks",
+  "offset": "0x9256",
+  "size": "0x16"
+ },
+ {
+  "property": "OffroadEnvironmentDamageTags",
+  "offset": "0x9272",
+  "size": "0x32"
+ },
+ {
+  "property": "FireDamageTags",
+  "offset": "0x9304",
+  "size": "0x32"
+ },
+ {
+  "property": "NativeWheelScaleRear",
+  "offset": "0x9336",
+  "size": "0x24"
+ },
+ {
+  "property": "NativeWheelScaleFront",
+  "offset": "0x9360",
+  "size": "0x24"
+ },
+ {
+  "property": "NativeTireScaleRear",
+  "offset": "0x9384",
+  "size": "0x24"
+ },
+ {
+  "property": "NativeTireScaleFront",
+  "offset": "0x9408",
+  "size": "0x24"
+ },
+ {
+  "property": "bTireSmokeActive",
+  "offset": "0x9432",
+  "size": "0x1"
+ },
+ {
+  "property": "bBoostFailed",
+  "offset": "0x9433",
+  "size": "0x1"
+ },
+ {
+  "property": "bCanBoostPitch",
+  "offset": "0x9434",
+  "size": "0x1"
+ },
+ {
+  "property": "AccelForceFeedbackHandle",
+  "offset": "0x9440",
+  "size": "0x8"
+ },
+ {
+  "property": "SkidForceFeedbackHandle",
+  "offset": "0x9448",
+  "size": "0x8"
+ },
+ {
+  "property": "BrakeForceFeedbackHandle",
+  "offset": "0x9456",
+  "size": "0x8"
+ },
+ {
+  "property": "HandBrakeForceFeedbackHandle",
+  "offset": "0x9464",
+  "size": "0x8"
+ },
+ {
+  "property": "SpringCompressionForceFeedback",
+  "offset": "0x9472",
+  "size": "0x8"
+ },
+ {
+  "property": "bSpeedLinesActive",
+  "offset": "0x9480",
+  "size": "0x1"
+ },
+ {
+  "property": "DagwoodRuntimeModifiedProperties",
+  "offset": "0x9512",
+  "size": "0x112"
+ },
+ {
+  "property": "ServerRepWheelData",
+  "offset": "0x9624",
+  "size": "0x16"
+ },
+ {
+  "property": "FlipYawForwardTargetDirection",
+  "offset": "0x9720",
+  "size": "0x24"
+ },
+ {
+  "property": "FlipYawOriginalForward",
+  "offset": "0x9744",
+  "size": "0x24"
+ },
+ {
+  "property": "LastPoppedTire",
+  "offset": "0x9768",
+  "size": "0x1"
+ },
+ {
+  "property": "RoadTopSpeedMultiplier",
+  "offset": "0x9772",
+  "size": "0x4"
+ },
+ {
+  "property": "CurrentBumpiness",
+  "offset": "0x9776",
+  "size": "0x4"
+ },
+ {
+  "property": "CurrentForwardAcceleration",
+  "offset": "0x9780",
+  "size": "0x4"
+ },
+ {
+  "property": "PreviousTurnAlpha",
+  "offset": "0x9784",
+  "size": "0x4"
+ },
+ {
+  "property": "CurrentCameraAssistStrength",
+  "offset": "0x9788",
+  "size": "0x4"
+ },
+ {
+  "property": "LostGripTime",
+  "offset": "0x9792",
+  "size": "0x4"
+ },
+ {
+  "property": "LostGripRightAlpha",
+  "offset": "0x9796",
+  "size": "0x4"
+ },
+ {
+  "property": "HandbrakeTime",
+  "offset": "0x9800",
+  "size": "0x4"
+ },
+ {
+  "property": "HandbrakeStartTime",
+  "offset": "0x9804",
+  "size": "0x4"
+ },
+ {
+  "property": "HandbrakeEndTime",
+  "offset": "0x9808",
+  "size": "0x4"
+ },
+ {
+  "property": "FlipYawMult",
+  "offset": "0x9812",
+  "size": "0x4"
+ },
+ {
+  "property": "FlipTimer",
+  "offset": "0x9816",
+  "size": "0x4"
+ },
+ {
+  "property": "FlipExplodeTimer",
+  "offset": "0x9820",
+  "size": "0x4"
+ },
+ {
+  "property": "FlipPushForceTimer",
+  "offset": "0x9824",
+  "size": "0x4"
+ },
+ {
+  "property": "FlipAirTimer",
+  "offset": "0x9828",
+  "size": "0x4"
+ },
+ {
+  "property": "FlipLanding",
+  "offset": "0x9832",
+  "size": "0x4"
+ },
+ {
+  "property": "FlipStartTime",
+  "offset": "0x9836",
+  "size": "0x4"
+ },
+ {
+  "property": "LastFlipDamageTime",
+  "offset": "0x9840",
+  "size": "0x4"
+ },
+ {
+  "property": "PreFlipControlLossTimer",
+  "offset": "0x9844",
+  "size": "0x4"
+ },
+ {
+  "property": "bDidCinematicFlip",
+  "offset": "0x9848",
+  "size": "0x1"
+ },
+ {
+  "property": "bCanCinematicFlip",
+  "offset": "0x9849",
+  "size": "0x1"
+ },
+ {
+  "property": "bInPopTireVeer",
+  "offset": "0x9850",
+  "size": "0x1"
+ },
+ {
+  "property": "bInFlipRecovery",
+  "offset": "0x9851",
+  "size": "0x1"
+ },
+ {
+  "property": "bExplodeAfterFlip",
+  "offset": "0x9852",
+  "size": "0x1"
+ },
+ {
+  "property": "bLostGrip",
+  "offset": "0x9853",
+  "size": "0x1"
+ },
+ {
+  "property": "bApplyHandbrakeCatchupForce",
+  "offset": "0x9854",
+  "size": "0x1"
+ },
+ {
+  "property": "bDidHandbrakeCatchup",
+  "offset": "0x9855",
+  "size": "0x1"
+ },
+ {
+  "property": "bInFlipRoll",
+  "offset": "0x9856",
+  "size": "0x1"
+ },
+ {
+  "property": "bInFlipYaw",
+  "offset": "0x9857",
+  "size": "0x1"
+ },
+ {
+  "property": "bInFlipPitch",
+  "offset": "0x9858",
+  "size": "0x1"
+ },
+ {
+  "property": "bFlipDidLeaveGround",
+  "offset": "0x9859",
+  "size": "0x1"
+ },
+ {
+  "property": "bBreakBuildingsIfBlockingLeaningPassenger",
+  "offset": "0x9860",
+  "size": "0x1"
+ },
+ {
+  "property": "LeanBreakTimeAccumulator",
+  "offset": "0x9864",
+  "size": "0x4"
+ },
+ {
+  "property": "LeanBreakCheckInterval",
+  "offset": "0x9868",
+  "size": "0x4"
+ },
+ {
+  "property": "SeatToWindowShapeNames",
+  "offset": "0x9872",
+  "size": "0x16"
+ },
+ {
+  "property": "OffroadCameraShakeInstance",
+  "offset": "0x9888",
+  "size": "0x8"
+ },
+ {
+  "property": "DriverCameraShakeInstance",
+  "offset": "0x9896",
+  "size": "0x8"
+ },
+ {
+  "property": "AccelCameraShakeInstance",
+  "offset": "0x9904",
+  "size": "0x8"
+ },
+ {
+  "property": "HandBrakeCameraShakeInstance",
+  "offset": "0x9912",
+  "size": "0x8"
+ },
+ {
+  "property": "NativeComp_RoadAndExhaust",
+  "offset": "0x9920",
+  "size": "0x8"
+ },
+ {
+  "property": "NativeComp_TireSkid",
+  "offset": "0x9928",
+  "size": "0x8"
+ },
+ {
+  "property": "NativeComp_Damage",
+  "offset": "0x9936",
+  "size": "0x8"
+ },
+ {
+  "property": "NativeComp_SpeedLines",
+  "offset": "0x9944",
+  "size": "0x8"
+ },
+ {
+  "property": "NativeSys_TireExhaust",
+  "offset": "0x9952",
+  "size": "0x8"
+ },
+ {
+  "property": "NativeSys_SpeedLines",
+  "offset": "0x9960",
+  "size": "0x8"
+ },
+ {
+  "property": "NativeSys_TireSkid",
+  "offset": "0x9968",
+  "size": "0x8"
+ },
+ {
+  "property": "RoadAndExhaustSurfaceTypeArrayForFX",
+  "offset": "0x9976",
+  "size": "0x16"
+ },
+ {
+  "property": "RoadAndExhaustPeelOutColorIndexName",
+  "offset": "0x9992",
+  "size": "0x4"
+ },
+ {
+  "property": "BrakeLightsName",
+  "offset": "0x9996",
+  "size": "0x4"
+ },
+ {
+  "property": "FakeTireStates",
+  "offset": "0x10016",
+  "size": "0x16"
+ },
+ {
+  "property": "ActivePoppedTireReaction",
+  "offset": "0x10032",
+  "size": "0x1"
+ },
+ {
+  "property": "ReplicatedPoppedTireReaction",
+  "offset": "0x10033",
+  "size": "0x1"
+ },
+ {
+  "property": "ValetAudio",
+  "offset": "0x10036",
+  "size": "0x8"
+ },
+ {
+  "property": "TireMeshes",
+  "offset": "0x10048",
+  "size": "0x16"
+ },
+ {
+  "property": "FakeTireMeshes",
+  "offset": "0x10064",
+  "size": "0x16"
+ },
+ {
+  "property": "bIsInoperable",
+  "offset": "0x10084",
+  "size": "0x1"
+ },
+ {
+  "property": "RandomSeed",
+  "offset": "0x10088",
+  "size": "0x4"
+ },
+ {
+  "property": "RandStream",
+  "offset": "0x10092",
+  "size": "0x8"
+ },
+ {
+  "property": "bHasTraction",
+  "offset": "0x10100",
+  "size": "0x1"
+ },
+ {
+  "property": "bStartHandBrakeCatchupForce",
+  "offset": "0x10101",
+  "size": "0x1"
+ },
+ {
+  "property": "bSelfDestructEnabled",
+  "offset": "0x10368",
+  "size": "0x1"
+ },
+ {
+  "property": "bClientUsesSelfDestructTimer",
+  "offset": "0x10368",
+  "size": "0x1"
+ },
+ {
+  "property": "TireBootMesh",
+  "offset": "0x10376",
+  "size": "0x8"
+ },
+ {
+  "property": "MapSelfDestructActionDefForUI",
+  "offset": "0x10384",
+  "size": "0x80"
+ },
+ {
+  "property": "MinimumTimeBetweenSelfDestructPromptChanges",
+  "offset": "0x10464",
+  "size": "0x4"
+ },
+ {
+  "property": "BoostEmissiveOnDuration",
+  "offset": "0x10524",
+  "size": "0x4"
+ },
+ {
+  "property": "BoostEmissiveOffDuration",
+  "offset": "0x10528",
+  "size": "0x4"
+ },
+ {
+  "property": "BoostCameraFoVCurve",
+  "offset": "0x10544",
+  "size": "0x8"
+ },
+ {
+  "property": "BoostCameraRumbleCurve",
+  "offset": "0x10552",
+  "size": "0x8"
+ },
+ {
+  "property": "bIsBoostCameraActive",
+  "offset": "0x10560",
+  "size": "0x1"
+ },
+ {
+  "property": "BoostCameraFoVRumbleTweenDuration",
+  "offset": "0x10564",
+  "size": "0x4"
+ },
+ {
+  "property": "BoostCameraMaxFoV",
+  "offset": "0x10568",
+  "size": "0x4"
+ },
+ {
+  "property": "BoostCameraRumbleDuration",
+  "offset": "0x10572",
+  "size": "0x4"
+ },
+ {
+  "property": "NumAllowedVehicleCosmeticChanges",
+  "offset": "0x10712",
+  "size": "0x4"
+ }
+]

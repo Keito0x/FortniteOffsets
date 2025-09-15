@@ -1,0 +1,32 @@
+[
+ {
+  "property": "MediaNamePrefix",
+  "offset": "0x816",
+  "size": "0x16"
+ },
+ {
+  "property": "bLoopCycle",
+  "offset": "0x832",
+  "size": "0x1"
+ },
+ {
+  "property": "FortVideoWidget",
+  "offset": "0x840",
+  "size": "0x8"
+ },
+ {
+  "property": "FadeInRenderOpacity",
+  "offset": "0x848",
+  "size": "0x8"
+ },
+ {
+  "property": "VideoPlayer",
+  "offset": "0x856",
+  "size": "0x8"
+ },
+ {
+  "property": "VideoWidgetConfig",
+  "offset": "0x864",
+  "size": "0x8"
+ }
+]

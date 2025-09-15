@@ -1,0 +1,72 @@
+[
+ {
+  "property": "InstrumentAnimations",
+  "offset": "0x200",
+  "size": "0x8"
+ },
+ {
+  "property": "SparksPlayspace",
+  "offset": "0x208",
+  "size": "0x8"
+ },
+ {
+  "property": "MusicClock",
+  "offset": "0x216",
+  "size": "0x8"
+ },
+ {
+  "property": "MidiEventDriver",
+  "offset": "0x224",
+  "size": "0x16"
+ },
+ {
+  "property": "CosmeticInstrumentType",
+  "offset": "0x240",
+  "size": "0x1"
+ },
+ {
+  "property": "AnimatableState",
+  "offset": "0x241",
+  "size": "0x1"
+ },
+ {
+  "property": "bCanPlayMidiAnimations",
+  "offset": "0x242",
+  "size": "0x1"
+ },
+ {
+  "property": "SparksPlayspaceType",
+  "offset": "0x248",
+  "size": "0x8"
+ },
+ {
+  "property": "BP_OnEnteredSparksMusicPlayspace",
+  "offset": "0x256",
+  "size": "0x16"
+ },
+ {
+  "property": "BP_OnExitedSparksMusicPlayspace",
+  "offset": "0x296",
+  "size": "0x16"
+ },
+ {
+  "property": "BP_OnPlayerMusicClockChanged",
+  "offset": "0x336",
+  "size": "0x16"
+ },
+ {
+  "property": "BP_OnPlayerMidiEventDriverChanged",
+  "offset": "0x376",
+  "size": "0x16"
+ },
+ {
+  "property": "BP_OnPlayerCosmeticInstrumentTypeChanged",
+  "offset": "0x416",
+  "size": "0x16"
+ },
+ {
+  "property": "BP_OnPlayerAnimatableStateChanged",
+  "offset": "0x456",
+  "size": "0x16"
+ }
+]

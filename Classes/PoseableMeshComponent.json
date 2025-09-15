@@ -1,0 +1,217 @@
+[
+ {
+  "property": "SkeletalMesh",
+  "offset": "0x1392",
+  "size": "0x8"
+ },
+ {
+  "property": "SkinnedAsset",
+  "offset": "0x1400",
+  "size": "0x8"
+ },
+ {
+  "property": "LeaderPoseComponent",
+  "offset": "0x1408",
+  "size": "0x8"
+ },
+ {
+  "property": "SkinCacheUsage",
+  "offset": "0x1416",
+  "size": "0x16"
+ },
+ {
+  "property": "bSetMeshDeformer",
+  "offset": "0x1432",
+  "size": "0x1"
+ },
+ {
+  "property": "MeshDeformer",
+  "offset": "0x1440",
+  "size": "0x8"
+ },
+ {
+  "property": "bAlwaysUseMeshDeformer",
+  "offset": "0x1448",
+  "size": "0x1"
+ },
+ {
+  "property": "MeshDeformerInstanceSettings",
+  "offset": "0x1456",
+  "size": "0x8"
+ },
+ {
+  "property": "MeshDeformerInstances",
+  "offset": "0x1464",
+  "size": "0x32"
+ },
+ {
+  "property": "PhysicsAssetOverride",
+  "offset": "0x1880",
+  "size": "0x8"
+ },
+ {
+  "property": "ForcedLodModel",
+  "offset": "0x1888",
+  "size": "0x4"
+ },
+ {
+  "property": "MinLodModel",
+  "offset": "0x1896",
+  "size": "0x4"
+ },
+ {
+  "property": "StreamingDistanceMultiplier",
+  "offset": "0x1908",
+  "size": "0x4"
+ },
+ {
+  "property": "LODInfo",
+  "offset": "0x1920",
+  "size": "0x16"
+ },
+ {
+  "property": "VisibilityBasedAnimTickOption",
+  "offset": "0x1972",
+  "size": "0x1"
+ },
+ {
+  "property": "bOverrideMinLOD",
+  "offset": "0x1975",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseBoundsFromLeaderPoseComponent",
+  "offset": "0x1975",
+  "size": "0x1"
+ },
+ {
+  "property": "bIncludeComponentLocationIntoBounds",
+  "offset": "0x1975",
+  "size": "0x1"
+ },
+ {
+  "property": "bForceWireframe",
+  "offset": "0x1975",
+  "size": "0x1"
+ },
+ {
+  "property": "bDisableMorphTarget",
+  "offset": "0x1975",
+  "size": "0x1"
+ },
+ {
+  "property": "bHideSkin",
+  "offset": "0x1976",
+  "size": "0x1"
+ },
+ {
+  "property": "bPerBoneMotionBlur",
+  "offset": "0x1976",
+  "size": "0x1"
+ },
+ {
+  "property": "bComponentUseFixedSkelBounds",
+  "offset": "0x1976",
+  "size": "0x1"
+ },
+ {
+  "property": "bConsiderAllBodiesForBounds",
+  "offset": "0x1976",
+  "size": "0x1"
+ },
+ {
+  "property": "bSyncAttachParentLOD",
+  "offset": "0x1976",
+  "size": "0x1"
+ },
+ {
+  "property": "bCanHighlightSelectedSections",
+  "offset": "0x1976",
+  "size": "0x1"
+ },
+ {
+  "property": "bRecentlyRendered",
+  "offset": "0x1976",
+  "size": "0x1"
+ },
+ {
+  "property": "bCastCapsuleDirectShadow",
+  "offset": "0x1976",
+  "size": "0x1"
+ },
+ {
+  "property": "bCastCapsuleIndirectShadow",
+  "offset": "0x1977",
+  "size": "0x1"
+ },
+ {
+  "property": "bCPUSkinning",
+  "offset": "0x1977",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseScreenRenderStateForUpdate",
+  "offset": "0x1977",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableUpdateRateOptimizations",
+  "offset": "0x1977",
+  "size": "0x1"
+ },
+ {
+  "property": "bDisplayDebugUpdateRateOptimizations",
+  "offset": "0x1977",
+  "size": "0x1"
+ },
+ {
+  "property": "bRenderStatic",
+  "offset": "0x1977",
+  "size": "0x1"
+ },
+ {
+  "property": "bIgnoreLeaderPoseComponentLOD",
+  "offset": "0x1977",
+  "size": "0x1"
+ },
+ {
+  "property": "bSortTriangles",
+  "offset": "0x1977",
+  "size": "0x1"
+ },
+ {
+  "property": "bCachedLocalBoundsUpToDate",
+  "offset": "0x1978",
+  "size": "0x1"
+ },
+ {
+  "property": "bCachedWorldSpaceBoundsUpToDate",
+  "offset": "0x1978",
+  "size": "0x1"
+ },
+ {
+  "property": "bForceMeshObjectUpdate",
+  "offset": "0x1978",
+  "size": "0x1"
+ },
+ {
+  "property": "bFollowerShouldTickPose",
+  "offset": "0x1979",
+  "size": "0x1"
+ },
+ {
+  "property": "CapsuleIndirectShadowMinVisibility",
+  "offset": "0x1980",
+  "size": "0x4"
+ },
+ {
+  "property": "CachedWorldOrLocalSpaceBounds",
+  "offset": "0x2056",
+  "size": "0x56"
+ },
+ {
+  "property": "CachedWorldToLocalTransform",
+  "offset": "0x2112",
+  "size": "0x128"
+ }
+]

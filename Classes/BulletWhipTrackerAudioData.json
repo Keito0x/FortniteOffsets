@@ -1,0 +1,22 @@
+[
+ {
+  "property": "PassBySound",
+  "offset": "0x48",
+  "size": "0x8"
+ },
+ {
+  "property": "PassByDistanceMax",
+  "offset": "0x56",
+  "size": "0x4"
+ },
+ {
+  "property": "MinimumTriggerDistance",
+  "offset": "0x60",
+  "size": "0x4"
+ },
+ {
+  "property": "TriggerAheadTime",
+  "offset": "0x64",
+  "size": "0x4"
+ }
+]

@@ -1,0 +1,17 @@
+[
+ {
+  "property": "SparseVolumeTexture",
+  "offset": "0x56",
+  "size": "0x8"
+ },
+ {
+  "property": "SparseVolumeTextureUserParameter",
+  "offset": "0x64",
+  "size": "0x24"
+ },
+ {
+  "property": "BlockingStreamingRequests",
+  "offset": "0x88",
+  "size": "0x1"
+ }
+]

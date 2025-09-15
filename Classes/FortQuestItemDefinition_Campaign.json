@@ -1,0 +1,157 @@
+[
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x312",
+  "size": "0x1"
+ },
+ {
+  "property": "bReportProgressAsAllObjectivesComplete",
+  "offset": "0x313",
+  "size": "0x1"
+ },
+ {
+  "property": "bAthenaUpdateObjectiveOncePerMatch",
+  "offset": "0x313",
+  "size": "0x1"
+ },
+ {
+  "property": "bAthenaGrantRarityToken",
+  "offset": "0x313",
+  "size": "0x1"
+ },
+ {
+  "property": "bAthenaMustCompleteInSingleMatch",
+  "offset": "0x313",
+  "size": "0x1"
+ },
+ {
+  "property": "bUpdateObjectiveOncePerMatch",
+  "offset": "0x313",
+  "size": "0x1"
+ },
+ {
+  "property": "bDeprecated",
+  "offset": "0x313",
+  "size": "0x1"
+ },
+ {
+  "property": "bAllowTileMatching",
+  "offset": "0x314",
+  "size": "0x1"
+ },
+ {
+  "property": "bAllowPlayNowNavigation",
+  "offset": "0x314",
+  "size": "0x1"
+ },
+ {
+  "property": "bAllowMissionAlertMatchesBypassingTileRequirements",
+  "offset": "0x314",
+  "size": "0x1"
+ },
+ {
+  "property": "bAllowSimultaneousQuestInstances",
+  "offset": "0x314",
+  "size": "0x1"
+ },
+ {
+  "property": "bAllowCustomCompletionPath",
+  "offset": "0x314",
+  "size": "0x1"
+ },
+ {
+  "property": "bRequiresFrontEndProgression",
+  "offset": "0x314",
+  "size": "0x1"
+ },
+ {
+  "property": "ObjectiveCompletionCount",
+  "offset": "0x316",
+  "size": "0x4"
+ },
+ {
+  "property": "Rewards",
+  "offset": "0x320",
+  "size": "0x16"
+ },
+ {
+  "property": "CompletionPathResults",
+  "offset": "0x336",
+  "size": "0x16"
+ },
+ {
+  "property": "RewardsTable",
+  "offset": "0x352",
+  "size": "0x8"
+ },
+ {
+  "property": "IndividualRewardTableRows",
+  "offset": "0x360",
+  "size": "0x16"
+ },
+ {
+  "property": "CachedNextChainedChallenge",
+  "offset": "0x392",
+  "size": "0x12"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x408",
+  "size": "0x16"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x424",
+  "size": "0x16"
+ },
+ {
+  "property": "Objectives",
+  "offset": "0x440",
+  "size": "0x16"
+ },
+ {
+  "property": "ProductCompatibilityQuery",
+  "offset": "0x456",
+  "size": "0x72"
+ },
+ {
+  "property": "Category",
+  "offset": "0x528",
+  "size": "0x16"
+ },
+ {
+  "property": "IntroConversation",
+  "offset": "0x544",
+  "size": "0x32"
+ },
+ {
+  "property": "ClaimConversation",
+  "offset": "0x576",
+  "size": "0x32"
+ },
+ {
+  "property": "MissionConfigMetadata",
+  "offset": "0x608",
+  "size": "0x16"
+ },
+ {
+  "property": "ClaimPriority",
+  "offset": "0x624",
+  "size": "0x4"
+ },
+ {
+  "property": "SortPriority",
+  "offset": "0x628",
+  "size": "0x4"
+ },
+ {
+  "property": "QuestDefinitionComponents",
+  "offset": "0x632",
+  "size": "0x16"
+ },
+ {
+  "property": "CompletionPaths",
+  "offset": "0x648",
+  "size": "0x16"
+ }
+]

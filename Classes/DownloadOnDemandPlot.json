@@ -1,0 +1,12 @@
+[
+ {
+  "property": "ActiveProjects",
+  "offset": "0x160",
+  "size": "0x16"
+ },
+ {
+  "property": "PendingProjects",
+  "offset": "0x176",
+  "size": "0x16"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "property": "RichText_RewardMessage",
+  "offset": "0x832",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_RewardIcon",
+  "offset": "0x840",
+  "size": "0x8"
+ }
+]

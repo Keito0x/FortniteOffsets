@@ -1,0 +1,37 @@
+[
+ {
+  "property": "ConversationData",
+  "offset": "0x808",
+  "size": "0x16"
+ },
+ {
+  "property": "OnConversationStarted",
+  "offset": "0x824",
+  "size": "0x16"
+ },
+ {
+  "property": "OnConversationStopped",
+  "offset": "0x840",
+  "size": "0x16"
+ },
+ {
+  "property": "SpeechComponent",
+  "offset": "0x856",
+  "size": "0x8"
+ },
+ {
+  "property": "bAutoPlayConversation",
+  "offset": "0x864",
+  "size": "0x1"
+ },
+ {
+  "property": "bCurrentlyPlaying",
+  "offset": "0x865",
+  "size": "0x1"
+ },
+ {
+  "property": "CurrentSentenceIndex",
+  "offset": "0x868",
+  "size": "0x4"
+ }
+]

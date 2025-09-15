@@ -1,0 +1,27 @@
+[
+ {
+  "property": "VehicleOwner",
+  "offset": "0x40",
+  "size": "0x8"
+ },
+ {
+  "property": "WeaponsMovementMinThreshold",
+  "offset": "0x48",
+  "size": "0x4"
+ },
+ {
+  "property": "WeaponsMovementMaxThreshold",
+  "offset": "0x52",
+  "size": "0x4"
+ },
+ {
+  "property": "FrontTurretState",
+  "offset": "0x56",
+  "size": "0x64"
+ },
+ {
+  "property": "BackTurretState",
+  "offset": "0x120",
+  "size": "0x64"
+ }
+]

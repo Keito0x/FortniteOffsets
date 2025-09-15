@@ -1,0 +1,37 @@
+[
+ {
+  "property": "LevelToXpHandle",
+  "offset": "0x168",
+  "size": "0x16"
+ },
+ {
+  "property": "LevelToSacrificeXpHandle",
+  "offset": "0x184",
+  "size": "0x16"
+ },
+ {
+  "property": "SacrificeRecipe",
+  "offset": "0x200",
+  "size": "0x16"
+ },
+ {
+  "property": "TransmogSacrificeRow",
+  "offset": "0x216",
+  "size": "0x16"
+ },
+ {
+  "property": "ConversionRecipes",
+  "offset": "0x232",
+  "size": "0x16"
+ },
+ {
+  "property": "UpgradeRarityRecipeHandle",
+  "offset": "0x248",
+  "size": "0x16"
+ },
+ {
+  "property": "GrantToProfileType",
+  "offset": "0x264",
+  "size": "0x16"
+ }
+]

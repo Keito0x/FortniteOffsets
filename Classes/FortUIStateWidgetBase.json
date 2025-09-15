@@ -1,0 +1,32 @@
+[
+ {
+  "property": "WidgetStack_PrimaryContent",
+  "offset": "0x1136",
+  "size": "0x8"
+ },
+ {
+  "property": "/)•]Œ¦¦)¨•YYYYYYYYYYYYYYYYYY7ÁYYYYYY[ÕXzíoëØìéiÌ\þ%ÍIˆ]Œ¦¦YYYYYYYYY[YYÙYYYYYY]Œ¦¦YYYYYYYY9:	]Œ¦¦YYYYYYYYYYYYY›¦¦YYYYYYYYYYYYYYYYYYYYYYYYÂY9xJ7ÙYYYYYYYYYYYYYYYYÛY5YYYYYI/)•]Œ¦¦)¨•]Œ¦¦YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYy[YYYYYcYeYYYYYQ]±§Y›¦¦YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYZYYYYY9ÍIˆ]Œ¦¦9ÍIˆ]Œ¦¦YYYYYYYYYYYYYYYY)ÍIˆ]Œ¦¦)ÍIˆ]Œ¦¦YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYÙYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYÏÕXzíoëcëkDÎÎnëÌIˆ]Œ¦¦êëÎIèm`îY[YYÙYYYYYYDÎÎnYYYYYYYYàîjcÏéãcAf†]Œ¦¦ÙYYY`èIèuæYYYYYYÙYYYYYYYYYYYYYYYÑYymëïëyGø—]Œ¦¦YYYYYYYYÛY5YYYYYI",
+  "offset": "0x1144",
+  "size": "0x1"
+ },
+ {
+  "property": "ScenesStack",
+  "offset": "0x1152",
+  "size": "0x16"
+ },
+ {
+  "property": "UnallowedScene",
+  "offset": "0x1168",
+  "size": "0x8"
+ },
+ {
+  "property": "UnallowLayer",
+  "offset": "0x1176",
+  "size": "0x8"
+ },
+ {
+  "property": "ActionDomain",
+  "offset": "0x1184",
+  "size": "0x32"
+ }
+]

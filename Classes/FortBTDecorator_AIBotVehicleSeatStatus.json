@@ -1,0 +1,7 @@
+[
+ {
+  "property": "SeatType",
+  "offset": "0x104",
+  "size": "0x1"
+ }
+]

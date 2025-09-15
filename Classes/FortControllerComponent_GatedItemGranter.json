@@ -1,0 +1,12 @@
+[
+ {
+  "property": "ItemGrantsRegistry",
+  "offset": "0x200",
+  "size": "0x48"
+ },
+ {
+  "property": "CachedObjects",
+  "offset": "0x256",
+  "size": "0x16"
+ }
+]

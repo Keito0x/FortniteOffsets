@@ -1,0 +1,122 @@
+[
+ {
+  "property": "OnRaceFinished",
+  "offset": "0x848",
+  "size": "0x16"
+ },
+ {
+  "property": "OnRaceStarted",
+  "offset": "0x864",
+  "size": "0x16"
+ },
+ {
+  "property": "OnRaceCountdownStarted",
+  "offset": "0x880",
+  "size": "0x16"
+ },
+ {
+  "property": "OnRaceReset",
+  "offset": "0x896",
+  "size": "0x16"
+ },
+ {
+  "property": "OnPlayerFinishedRace",
+  "offset": "0x912",
+  "size": "0x16"
+ },
+ {
+  "property": "OnPlayerLapComplete",
+  "offset": "0x928",
+  "size": "0x16"
+ },
+ {
+  "property": "OnPlayerResetRun",
+  "offset": "0x944",
+  "size": "0x16"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x960",
+  "size": "0x1"
+ },
+ {
+  "property": "bRaceFinished",
+  "offset": "0x961",
+  "size": "0x1"
+ },
+ {
+  "property": "SpectatorPlayerStates",
+  "offset": "0x968",
+  "size": "0x16"
+ },
+ {
+  "property": "ActiveRacerPlayerStates",
+  "offset": "0x984",
+  "size": "0x16"
+ },
+ {
+  "property": "RaceConfig",
+  "offset": "0x1000",
+  "size": "0x8"
+ },
+ {
+  "property": "ActiveRaceLevelConfig",
+  "offset": "0x1008",
+  "size": "0x8"
+ },
+ {
+  "property": "TimeManager",
+  "offset": "0x1016",
+  "size": "0x8"
+ },
+ {
+  "property": "RespawnManager",
+  "offset": "0x1024",
+  "size": "0x8"
+ },
+ {
+  "property": "CheckpointManager",
+  "offset": "0x1032",
+  "size": "0x8"
+ },
+ {
+  "property": "RubberbandingManager",
+  "offset": "0x1040",
+  "size": "0x8"
+ },
+ {
+  "property": "GameplayModifierComponent",
+  "offset": "0x1048",
+  "size": "0x8"
+ },
+ {
+  "property": "PositionalTracker",
+  "offset": "0x1056",
+  "size": "0x8"
+ },
+ {
+  "property": "EliminationManager",
+  "offset": "0x1064",
+  "size": "0x8"
+ },
+ {
+  "property": "InputDisablerComponent",
+  "offset": "0x1072",
+  "size": "0x8"
+ },
+ {
+  "property": "MatchEventSystemComponent",
+  "offset": "0x1080",
+  "size": "0x8"
+ },
+ {
+  "property": "ManagedPlayerStates",
+  "offset": "0x1088",
+  "size": "0x80"
+ },
+ {
+  "property": "InactivePlayerStates",
+  "offset": "0x1168",
+  "size": "0x80"
+ }
+]

@@ -1,0 +1,27 @@
+[
+ {
+  "property": "NumEffects",
+  "offset": "0x192",
+  "size": "0x4"
+ },
+ {
+  "property": "MusicFXControl_Slot0",
+  "offset": "0x200",
+  "size": "0x16"
+ },
+ {
+  "property": "MusicFXControl_Slot1",
+  "offset": "0x216",
+  "size": "0x16"
+ },
+ {
+  "property": "MusicFXControl_Slot2",
+  "offset": "0x232",
+  "size": "0x16"
+ },
+ {
+  "property": "MusicFXControl_Slot3",
+  "offset": "0x248",
+  "size": "0x16"
+ }
+]

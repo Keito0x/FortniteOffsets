@@ -1,0 +1,12 @@
+[
+ {
+  "property": "MessageType",
+  "offset": "0x136",
+  "size": "0x1"
+ },
+ {
+  "property": "CustomMessage",
+  "offset": "0x144",
+  "size": "0x16"
+ }
+]

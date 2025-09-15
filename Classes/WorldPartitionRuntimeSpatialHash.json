@@ -1,0 +1,22 @@
+[
+ {
+  "property": "bEnableZCulling",
+  "offset": "0x120",
+  "size": "0x1"
+ },
+ {
+  "property": "Settings",
+  "offset": "0x121",
+  "size": "0x2"
+ },
+ {
+  "property": "StreamingGrids",
+  "offset": "0x128",
+  "size": "0x16"
+ },
+ {
+  "property": "WorldAssetStreamingObjects",
+  "offset": "0x232",
+  "size": "0x80"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "property": "PropagationMaxDistanceSQ",
+  "offset": "0x56",
+  "size": "0x4"
+ },
+ {
+  "property": "CosineFOV",
+  "offset": "0x60",
+  "size": "0x4"
+ }
+]

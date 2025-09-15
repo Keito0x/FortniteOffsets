@@ -1,0 +1,12 @@
+[
+ {
+  "property": "DirectorClass",
+  "offset": "0x40",
+  "size": "0x8"
+ },
+ {
+  "property": "VariantSets",
+  "offset": "0x48",
+  "size": "0x16"
+ }
+]

@@ -1,0 +1,107 @@
+[
+ {
+  "property": "bHighVelocity",
+  "offset": "0x1944",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsInterruptible",
+  "offset": "0x1945",
+  "size": "0x1"
+ },
+ {
+  "property": "bLocoToIdle",
+  "offset": "0x1946",
+  "size": "0x1"
+ },
+ {
+  "property": "bIdleToLoco",
+  "offset": "0x1947",
+  "size": "0x1"
+ },
+ {
+  "property": "bJumpStartToJumpLoop",
+  "offset": "0x1948",
+  "size": "0x1"
+ },
+ {
+  "property": "bJumpLandToMovement",
+  "offset": "0x1949",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsRunning",
+  "offset": "0x1950",
+  "size": "0x1"
+ },
+ {
+  "property": "bIdleToFalling",
+  "offset": "0x1951",
+  "size": "0x1"
+ },
+ {
+  "property": "bToppledOnGround",
+  "offset": "0x1952",
+  "size": "0x1"
+ },
+ {
+  "property": "bTransitionToLand",
+  "offset": "0x1953",
+  "size": "0x1"
+ },
+ {
+  "property": "TargetDistance",
+  "offset": "0x1956",
+  "size": "0x4"
+ },
+ {
+  "property": "bTargetIsClose",
+  "offset": "0x1960",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsToppled",
+  "offset": "0x1961",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsLeaking",
+  "offset": "0x1962",
+  "size": "0x1"
+ },
+ {
+  "property": "MinHighVelocityMagnitude",
+  "offset": "0x1964",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxInterruptibleCurveValue",
+  "offset": "0x1968",
+  "size": "0x4"
+ },
+ {
+  "property": "LocoIdleTransitionThreshold",
+  "offset": "0x1972",
+  "size": "0x4"
+ },
+ {
+  "property": "RunSpeedThreshold",
+  "offset": "0x1976",
+  "size": "0x4"
+ },
+ {
+  "property": "JumpLandToMovementInterruptibleThreshold",
+  "offset": "0x1980",
+  "size": "0x4"
+ },
+ {
+  "property": "MinTargetIsCloseDistance",
+  "offset": "0x1984",
+  "size": "0x4"
+ },
+ {
+  "property": "CurveName_Interruptible",
+  "offset": "0x1988",
+  "size": "0x4"
+ }
+]

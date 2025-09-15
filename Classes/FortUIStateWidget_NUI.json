@@ -1,0 +1,12 @@
+[
+ {
+  "property": "StackStates",
+  "offset": "0x1520",
+  "size": "0x16"
+ },
+ {
+  "property": "StackWidgets",
+  "offset": "0x1536",
+  "size": "0x16"
+ }
+]

@@ -1,0 +1,127 @@
+[
+ {
+  "property": "Category",
+  "offset": "0x144",
+  "size": "0x8"
+ },
+ {
+  "property": "ItemDetails",
+  "offset": "0x152",
+  "size": "0x8"
+ },
+ {
+  "property": "ItemInstance",
+  "offset": "0x160",
+  "size": "0x8"
+ },
+ {
+  "property": "ItemDefinition",
+  "offset": "0x168",
+  "size": "0x8"
+ },
+ {
+  "property": "ProductItemDefinitions",
+  "offset": "0x176",
+  "size": "0x80"
+ },
+ {
+  "property": "Quantity",
+  "offset": "0x256",
+  "size": "0x4"
+ },
+ {
+  "property": "bIsOwned",
+  "offset": "0x264",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsFavorite",
+  "offset": "0x264",
+  "size": "0x1"
+ },
+ {
+  "property": "bCanFavorite",
+  "offset": "0x264",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsArchived",
+  "offset": "0x264",
+  "size": "0x1"
+ },
+ {
+  "property": "bCanArchive",
+  "offset": "0x264",
+  "size": "0x1"
+ },
+ {
+  "property": "bHasBeenSeen",
+  "offset": "0x264",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsSubscriptionTemporary",
+  "offset": "0x264",
+  "size": "0x1"
+ },
+ {
+  "property": "bCanEquip",
+  "offset": "0x264",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsEquipped",
+  "offset": "0x265",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsEnhanced",
+  "offset": "0x265",
+  "size": "0x1"
+ },
+ {
+  "property": "bHasVariants",
+  "offset": "0x265",
+  "size": "0x1"
+ },
+ {
+  "property": "bRequiresCustomization",
+  "offset": "0x265",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsExclusive",
+  "offset": "0x265",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsShuffleTile",
+  "offset": "0x265",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsDefaultTile",
+  "offset": "0x265",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsValid",
+  "offset": "0x265",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsMarked",
+  "offset": "0x266",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsLocked",
+  "offset": "0x266",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsTemporaryGranted",
+  "offset": "0x266",
+  "size": "0x1"
+ }
+]

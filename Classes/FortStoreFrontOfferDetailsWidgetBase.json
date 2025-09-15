@@ -1,0 +1,92 @@
+[
+ {
+  "property": "EnterViewModeInputActionRowHandle",
+  "offset": "0x1888",
+  "size": "0x16"
+ },
+ {
+  "property": "IsInItemViewMode",
+  "offset": "0x1904",
+  "size": "0x1"
+ },
+ {
+  "property": "ShouldAllowItemViewModeAction",
+  "offset": "0x1905",
+  "size": "0x1"
+ },
+ {
+  "property": "bImmediatelyPurchased",
+  "offset": "0x1906",
+  "size": "0x1"
+ },
+ {
+  "property": "PagedItems",
+  "offset": "0x1912",
+  "size": "0x16"
+ },
+ {
+  "property": "OfferData",
+  "offset": "0x1928",
+  "size": "0x8"
+ },
+ {
+  "property": "Picker_VariantSelector",
+  "offset": "0x1936",
+  "size": "0x8"
+ },
+ {
+  "property": "TextUndoAvailability",
+  "offset": "0x1944",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_UndoBottomBarWarning",
+  "offset": "0x1952",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_Undo",
+  "offset": "0x1960",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_CosmeticWarning",
+  "offset": "0x1968",
+  "size": "0x8"
+ },
+ {
+  "property": "PurchaseModalClass",
+  "offset": "0x2040",
+  "size": "0x8"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x2096",
+  "size": "0x8"
+ },
+ {
+  "property": "SecondaryItemDefinition",
+  "offset": "0x2104",
+  "size": "0x8"
+ },
+ {
+  "property": "TimeBetweenVariantsRestart",
+  "offset": "0x2112",
+  "size": "0x4"
+ },
+ {
+  "property": "TimeBetweenVariants",
+  "offset": "0x2116",
+  "size": "0x4"
+ },
+ {
+  "property": "bShowRefundWarningWhileMatchmaking",
+  "offset": "0x2130",
+  "size": "0x1"
+ },
+ {
+  "property": "bShowRefundWarningWhileInZone",
+  "offset": "0x2131",
+  "size": "0x1"
+ }
+]

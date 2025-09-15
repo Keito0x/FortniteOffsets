@@ -1,0 +1,142 @@
+[
+ {
+  "property": "SpeedHardCap",
+  "offset": "0x2504",
+  "size": "0x40"
+ },
+ {
+  "property": "BaseMaxSpeed",
+  "offset": "0x2544",
+  "size": "0x40"
+ },
+ {
+  "property": "MaxSpeedIncreaseFromDownwardSlope",
+  "offset": "0x2584",
+  "size": "0x40"
+ },
+ {
+  "property": "MaxBaseAcceleration",
+  "offset": "0x2624",
+  "size": "0x40"
+ },
+ {
+  "property": "MinBaseAcceleration",
+  "offset": "0x2664",
+  "size": "0x40"
+ },
+ {
+  "property": "MaxStartSpeed",
+  "offset": "0x2704",
+  "size": "0x40"
+ },
+ {
+  "property": "MinStartSpeed",
+  "offset": "0x2744",
+  "size": "0x40"
+ },
+ {
+  "property": "SprintingAcceleration",
+  "offset": "0x2784",
+  "size": "0x40"
+ },
+ {
+  "property": "SprintingMaxSpeed",
+  "offset": "0x2824",
+  "size": "0x40"
+ },
+ {
+  "property": "GrindRailMeshes",
+  "offset": "0x2864",
+  "size": "0x16"
+ },
+ {
+  "property": "BoosterInfos",
+  "offset": "0x2880",
+  "size": "0x16"
+ },
+ {
+  "property": "SplineComponent",
+  "offset": "0x2896",
+  "size": "0x8"
+ },
+ {
+  "property": "EnableBoosters",
+  "offset": "0x2904",
+  "size": "0x40"
+ },
+ {
+  "property": "EnableGrinding",
+  "offset": "0x2944",
+  "size": "0x40"
+ },
+ {
+  "property": "EnableProjectileCollision",
+  "offset": "0x2984",
+  "size": "0x40"
+ },
+ {
+  "property": "EnableMeshCollision",
+  "offset": "0x3024",
+  "size": "0x40"
+ },
+ {
+  "property": "EnableWeaponBulletCollision",
+  "offset": "0x3064",
+  "size": "0x40"
+ },
+ {
+  "property": "StartGrindingFromWalking",
+  "offset": "0x3104",
+  "size": "0x40"
+ },
+ {
+  "property": "bSimulateSplineGravity",
+  "offset": "0x3144",
+  "size": "0x1"
+ },
+ {
+  "property": "SimulatedSplineGravityAcceleration",
+  "offset": "0x3148",
+  "size": "0x4"
+ },
+ {
+  "property": "TargetDistanceBetweenSplinePointsForGravitySimulation",
+  "offset": "0x3152",
+  "size": "0x4"
+ },
+ {
+  "property": "SplineGravitySimulationIterationCount",
+  "offset": "0x3156",
+  "size": "0x4"
+ },
+ {
+  "property": "SplineGravitySimulationTime",
+  "offset": "0x3160",
+  "size": "0x4"
+ },
+ {
+  "property": "IdealInteractStartDistance",
+  "offset": "0x3164",
+  "size": "0x4"
+ },
+ {
+  "property": "bDisableBooster",
+  "offset": "0x3168",
+  "size": "0x1"
+ },
+ {
+  "property": "ResolverScopes",
+  "offset": "0x3176",
+  "size": "0x16"
+ },
+ {
+  "property": "HeadConnectedRail",
+  "offset": "0x3208",
+  "size": "0x32"
+ },
+ {
+  "property": "TailConnectedRail",
+  "offset": "0x3240",
+  "size": "0x32"
+ }
+]

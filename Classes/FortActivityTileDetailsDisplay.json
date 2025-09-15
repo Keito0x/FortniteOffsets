@@ -1,0 +1,82 @@
+[
+ {
+  "property": "OnActivitySelectedDelegate",
+  "offset": "0x5808",
+  "size": "0x16"
+ },
+ {
+  "property": "OnActivityUnSelectedDelegate",
+  "offset": "0x5824",
+  "size": "0x16"
+ },
+ {
+  "property": "bShowDetailsButton",
+  "offset": "0x5840",
+  "size": "0x1"
+ },
+ {
+  "property": "DefaultColumnSize",
+  "offset": "0x5844",
+  "size": "0x4"
+ },
+ {
+  "property": "Text_ActivityName",
+  "offset": "0x5848",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_PlayerCount",
+  "offset": "0x5856",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_Favorite",
+  "offset": "0x5864",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_Details",
+  "offset": "0x5872",
+  "size": "0x8"
+ },
+ {
+  "property": "ActivityBrowserTag_EpicOriginal",
+  "offset": "0x5880",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_DebugId",
+  "offset": "0x5888",
+  "size": "0x8"
+ },
+ {
+  "property": "ActivityVideoCycleWidget",
+  "offset": "0x5896",
+  "size": "0x8"
+ },
+ {
+  "property": "MinColumnSizeToImageSize",
+  "offset": "0x5904",
+  "size": "0x80"
+ },
+ {
+  "property": "ActivityDetailsModalClass",
+  "offset": "0x5984",
+  "size": "0x8"
+ },
+ {
+  "property": "PlayerPageViewClass",
+  "offset": "0x5992",
+  "size": "0x8"
+ },
+ {
+  "property": "ActivityCampaignPurchaseScreenClass",
+  "offset": "0x6000",
+  "size": "0x8"
+ },
+ {
+  "property": "ActivityAttributionsClass",
+  "offset": "0x6008",
+  "size": "0x8"
+ }
+]

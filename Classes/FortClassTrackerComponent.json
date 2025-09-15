@@ -1,0 +1,22 @@
+[
+ {
+  "property": "ParentSpatialInterface",
+  "offset": "0x192",
+  "size": "0x16"
+ },
+ {
+  "property": "bEnabled",
+  "offset": "0x208",
+  "size": "0x1"
+ },
+ {
+  "property": "ClassTracker",
+  "offset": "0x216",
+  "size": "0x272"
+ },
+ {
+  "property": "ExcludeActorTags",
+  "offset": "0x488",
+  "size": "0x32"
+ }
+]

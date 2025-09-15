@@ -1,0 +1,17 @@
+[
+ {
+  "property": "PrioritizedCharacterPartsNPCBudget",
+  "offset": "0x136",
+  "size": "0x80"
+ },
+ {
+  "property": "PrioritizedCharacterPartsPlayerBudget",
+  "offset": "0x216",
+  "size": "0x80"
+ },
+ {
+  "property": "PrioritizedAIPawnCustomizations",
+  "offset": "0x296",
+  "size": "0x16"
+ }
+]

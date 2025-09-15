@@ -1,0 +1,12 @@
+[
+ {
+  "property": "ModTagToData",
+  "offset": "0x48",
+  "size": "0x80"
+ },
+ {
+  "property": "VehiclesPendingModCollection",
+  "offset": "0x128",
+  "size": "0x80"
+ }
+]

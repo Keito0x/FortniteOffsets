@@ -1,0 +1,17 @@
+[
+ {
+  "property": "PlayRate",
+  "offset": "0x112",
+  "size": "0x296"
+ },
+ {
+  "property": "PlaybackStartFrame",
+  "offset": "0x408",
+  "size": "0x4"
+ },
+ {
+  "property": "bManualPlaybackStart",
+  "offset": "0x412",
+  "size": "0x1"
+ }
+]

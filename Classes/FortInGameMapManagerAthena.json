@@ -1,0 +1,47 @@
+[
+ {
+  "property": "bDrawMapLocationsIfFogged",
+  "offset": "0x2560",
+  "size": "0x1"
+ },
+ {
+  "property": "bDrawSpecialActorIconsIfFogged",
+  "offset": "0x2560",
+  "size": "0x1"
+ },
+ {
+  "property": "bDrawSquadPinsIfFogged",
+  "offset": "0x2560",
+  "size": "0x1"
+ },
+ {
+  "property": "bDrawMapIndicatorsIfFogged",
+  "offset": "0x2560",
+  "size": "0x1"
+ },
+ {
+  "property": "bDrawEliminationsIfFogged",
+  "offset": "0x2560",
+  "size": "0x1"
+ },
+ {
+  "property": "MinimapZoomFactor",
+  "offset": "0x2564",
+  "size": "0x4"
+ },
+ {
+  "property": "MapMaskMaterial",
+  "offset": "0x2584",
+  "size": "0x8"
+ },
+ {
+  "property": "MapMaskMaterialMID",
+  "offset": "0x2592",
+  "size": "0x8"
+ },
+ {
+  "property": "MapMaskStencilMaterial",
+  "offset": "0x2600",
+  "size": "0x8"
+ }
+]

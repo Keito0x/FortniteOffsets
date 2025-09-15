@@ -1,0 +1,27 @@
+[
+ {
+  "property": "bMeteorStrike",
+  "offset": "0x4888",
+  "size": "0x1"
+ },
+ {
+  "property": "MeteorPitchAlpha",
+  "offset": "0x4892",
+  "size": "0x4"
+ },
+ {
+  "property": "MeteorPitchTotal",
+  "offset": "0x4896",
+  "size": "0x4"
+ },
+ {
+  "property": "UpperBodyTwistRotator",
+  "offset": "0x4904",
+  "size": "0x24"
+ },
+ {
+  "property": "MeteorActiveTag",
+  "offset": "0x4928",
+  "size": "0x4"
+ }
+]

@@ -1,0 +1,62 @@
+[
+ {
+  "property": "MaxNamesToDisplay",
+  "offset": "0x5640",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxPortraitsToDisplay",
+  "offset": "0x5644",
+  "size": "0x4"
+ },
+ {
+  "property": "PartyMembersAvatarsDisplay",
+  "offset": "0x5664",
+  "size": "0x8"
+ },
+ {
+  "property": "bIsActiveInvite",
+  "offset": "0x5672",
+  "size": "0x1"
+ },
+ {
+  "property": "CurrentPartySize",
+  "offset": "0x5676",
+  "size": "0x4"
+ },
+ {
+  "property": "bIsPartyPrivate",
+  "offset": "0x5680",
+  "size": "0x1"
+ },
+ {
+  "property": "CachedGameActivity",
+  "offset": "0x5688",
+  "size": "0x8"
+ },
+ {
+  "property": "CachedTargetSocialUser",
+  "offset": "0x5712",
+  "size": "0x8"
+ },
+ {
+  "property": "CurrentCTAButtonText",
+  "offset": "0x5720",
+  "size": "0x16"
+ },
+ {
+  "property": "JoinPartyText",
+  "offset": "0x5736",
+  "size": "0x16"
+ },
+ {
+  "property": "RequestToJoinText",
+  "offset": "0x5752",
+  "size": "0x16"
+ },
+ {
+  "property": "JoinFriendInputAction_Touch",
+  "offset": "0x5768",
+  "size": "0x16"
+ }
+]

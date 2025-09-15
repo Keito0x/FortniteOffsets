@@ -1,0 +1,12 @@
+[
+ {
+  "property": "DefaultTimeoutSeconds",
+  "offset": "0x280",
+  "size": "0x4"
+ },
+ {
+  "property": "StatsRequestThrottleSeconds",
+  "offset": "0x284",
+  "size": "0x4"
+ }
+]

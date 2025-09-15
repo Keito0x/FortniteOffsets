@@ -1,0 +1,152 @@
+[
+ {
+  "property": "InteractVisibility",
+  "offset": "0x2504",
+  "size": "0x4"
+ },
+ {
+  "property": "HeadFXComponentIndex",
+  "offset": "0x2508",
+  "size": "0x4"
+ },
+ {
+  "property": "BodyFXComponentIndex",
+  "offset": "0x2512",
+  "size": "0x4"
+ },
+ {
+  "property": "MaterialParameterCollection",
+  "offset": "0x2520",
+  "size": "0x8"
+ },
+ {
+  "property": "RibbonsFXParameterName",
+  "offset": "0x2528",
+  "size": "0x4"
+ },
+ {
+  "property": "FriendlyFXParameterName",
+  "offset": "0x2532",
+  "size": "0x4"
+ },
+ {
+  "property": "SpookyMistModeMatParameterName",
+  "offset": "0x2536",
+  "size": "0x4"
+ },
+ {
+  "property": "MovementOpacityMatParameterName",
+  "offset": "0x2540",
+  "size": "0x4"
+ },
+ {
+  "property": "VelocityAudioParameterName",
+  "offset": "0x2544",
+  "size": "0x4"
+ },
+ {
+  "property": "FlashStartTimeMatParameterName",
+  "offset": "0x2548",
+  "size": "0x4"
+ },
+ {
+  "property": "SpeedRibbonVelocityThreshold",
+  "offset": "0x2552",
+  "size": "0x4"
+ },
+ {
+  "property": "WalkVisibilityVelocityThreshold",
+  "offset": "0x2556",
+  "size": "0x4"
+ },
+ {
+  "property": "VisibilityLevelInterpSpeed",
+  "offset": "0x2560",
+  "size": "0x4"
+ },
+ {
+  "property": "WalkVizMultiplier",
+  "offset": "0x2568",
+  "size": "0x40"
+ },
+ {
+  "property": "SprintVizMultiplier",
+  "offset": "0x2608",
+  "size": "0x40"
+ },
+ {
+  "property": "FriendlyVizMultiplier",
+  "offset": "0x2648",
+  "size": "0x40"
+ },
+ {
+  "property": "ShadowPlaneOpacity",
+  "offset": "0x2688",
+  "size": "0x40"
+ },
+ {
+  "property": "duration",
+  "offset": "0x2728",
+  "size": "0x40"
+ },
+ {
+  "property": "TellDuration",
+  "offset": "0x2768",
+  "size": "0x40"
+ },
+ {
+  "property": "ExpirationSound",
+  "offset": "0x2808",
+  "size": "0x8"
+ },
+ {
+  "property": "ExpirationSoundPeriod",
+  "offset": "0x2816",
+  "size": "0x4"
+ },
+ {
+  "property": "AudioVelocityInterpSpeed",
+  "offset": "0x2820",
+  "size": "0x4"
+ },
+ {
+  "property": "MinAudioRange",
+  "offset": "0x2824",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxAudioRange",
+  "offset": "0x2828",
+  "size": "0x4"
+ },
+ {
+  "property": "bShowExpireTell",
+  "offset": "0x2832",
+  "size": "0x1"
+ },
+ {
+  "property": "PostProcessComponent",
+  "offset": "0x2856",
+  "size": "0x8"
+ },
+ {
+  "property": "InteractionTimelineComponent",
+  "offset": "0x2864",
+  "size": "0x8"
+ },
+ {
+  "property": "HeadFX",
+  "offset": "0x2872",
+  "size": "0x8"
+ },
+ {
+  "property": "BodyFX",
+  "offset": "0x2880",
+  "size": "0x8"
+ },
+ {
+  "property": "PlayerSkeletalMeshes",
+  "offset": "0x2904",
+  "size": "0x16"
+ }
+]

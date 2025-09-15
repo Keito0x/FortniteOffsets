@@ -1,0 +1,22 @@
+[
+ {
+  "property": "MirrorFindReplaceExpressions",
+  "offset": "0x176",
+  "size": "0x16"
+ },
+ {
+  "property": "MirrorAxis",
+  "offset": "0x192",
+  "size": "0x1"
+ },
+ {
+  "property": "bMirrorRootMotion",
+  "offset": "0x193",
+  "size": "0x1"
+ },
+ {
+  "property": "Skeleton",
+  "offset": "0x200",
+  "size": "0x8"
+ }
+]

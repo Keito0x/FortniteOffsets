@@ -1,0 +1,17 @@
+[
+ {
+  "property": "HorizontalBox_EntryName",
+  "offset": "0x5696",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_Center",
+  "offset": "0x5704",
+  "size": "0x8"
+ },
+ {
+  "property": "HorizontalBox_CenterText",
+  "offset": "0x5712",
+  "size": "0x8"
+ }
+]

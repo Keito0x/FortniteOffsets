@@ -1,0 +1,22 @@
+[
+ {
+  "property": "MetricClasses",
+  "offset": "0x200",
+  "size": "0x16"
+ },
+ {
+  "property": "SamplingFrequencyInSeconds",
+  "offset": "0x216",
+  "size": "0x4"
+ },
+ {
+  "property": "MinSecondsBetweenSampling",
+  "offset": "0x220",
+  "size": "0x4"
+ },
+ {
+  "property": "Metrics",
+  "offset": "0x232",
+  "size": "0x32"
+ }
+]

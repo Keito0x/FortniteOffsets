@@ -1,0 +1,37 @@
+[
+ {
+  "property": "MobileFontSizeMultiplier",
+  "offset": "0x784",
+  "size": "0x4"
+ },
+ {
+  "property": "bIsScrollingEnabled",
+  "offset": "0x788",
+  "size": "0x1"
+ },
+ {
+  "property": "bDisplayAllCaps",
+  "offset": "0x789",
+  "size": "0x1"
+ },
+ {
+  "property": "bAutoCollapseWithEmptyText",
+  "offset": "0x790",
+  "size": "0x1"
+ },
+ {
+  "property": "Style",
+  "offset": "0x792",
+  "size": "0x8"
+ },
+ {
+  "property": "ScrollStyle",
+  "offset": "0x800",
+  "size": "0x8"
+ },
+ {
+  "property": "ScrollOrientation",
+  "offset": "0x808",
+  "size": "0x1"
+ }
+]

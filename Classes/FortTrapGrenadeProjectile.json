@@ -1,0 +1,17 @@
+[
+ {
+  "property": "ProjectileDecoTool",
+  "offset": "0x2912",
+  "size": "0x8"
+ },
+ {
+  "property": "ProjectileDecoHelper",
+  "offset": "0x2920",
+  "size": "0x8"
+ },
+ {
+  "property": "TrapDefinition",
+  "offset": "0x2928",
+  "size": "0x8"
+ }
+]

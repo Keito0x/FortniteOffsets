@@ -1,0 +1,77 @@
+[
+ {
+  "property": "AddProjectWithLinkCodeInputRowHandle",
+  "offset": "0x1184",
+  "size": "0x16"
+ },
+ {
+  "property": "AddSelectedProjectInputRowHandle",
+  "offset": "0x1200",
+  "size": "0x16"
+ },
+ {
+  "property": "ManageSelectedProjectInputRowHandle",
+  "offset": "0x1216",
+  "size": "0x16"
+ },
+ {
+  "property": "DownloadOnDemandProjectDetailsSidePanelClass",
+  "offset": "0x1232",
+  "size": "0x8"
+ },
+ {
+  "property": "DownloadOnDemandAddProjectModalClass",
+  "offset": "0x1240",
+  "size": "0x8"
+ },
+ {
+  "property": "DownloadOnDemandMessageModalClass",
+  "offset": "0x1248",
+  "size": "0x8"
+ },
+ {
+  "property": "AddProjectsWithMnemonicEntitlementName",
+  "offset": "0x1256",
+  "size": "0x16"
+ },
+ {
+  "property": "SelectedProject",
+  "offset": "0x1272",
+  "size": "0x8"
+ },
+ {
+  "property": "Overlay_AddProjectParent",
+  "offset": "0x1296",
+  "size": "0x8"
+ },
+ {
+  "property": "CommonTileView_ProjectTiles",
+  "offset": "0x1304",
+  "size": "0x8"
+ },
+ {
+  "property": "Switcher_DownloadOnDemandPanels",
+  "offset": "0x1312",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_AddProject",
+  "offset": "0x1320",
+  "size": "0x8"
+ },
+ {
+  "property": "HorizontalBox_EntitlementCheckMessage",
+  "offset": "0x1328",
+  "size": "0x8"
+ },
+ {
+  "property": "HorizontalBox_EntitlementCheckFailed",
+  "offset": "0x1336",
+  "size": "0x8"
+ },
+ {
+  "property": "ProjectManagementTab",
+  "offset": "0x1344",
+  "size": "0x8"
+ }
+]

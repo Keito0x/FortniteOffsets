@@ -1,0 +1,7 @@
+[
+ {
+  "property": "OnPostPartyConnectionChanged",
+  "offset": "0x712",
+  "size": "0x16"
+ }
+]

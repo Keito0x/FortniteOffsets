@@ -1,0 +1,27 @@
+[
+ {
+  "property": "StickyForceScaleGround",
+  "offset": "0x320",
+  "size": "0x48"
+ },
+ {
+  "property": "StickyForceScaleWall",
+  "offset": "0x368",
+  "size": "0x48"
+ },
+ {
+  "property": "ContactNormal",
+  "offset": "0x416",
+  "size": "0x24"
+ },
+ {
+  "property": "Scale",
+  "offset": "0x440",
+  "size": "0x4"
+ },
+ {
+  "property": "bAnyWheelsOnGround",
+  "offset": "0x444",
+  "size": "0x1"
+ }
+]

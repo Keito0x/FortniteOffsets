@@ -1,0 +1,12 @@
+[
+ {
+  "property": "MinKeys",
+  "offset": "0x64",
+  "size": "0x4"
+ },
+ {
+  "property": "bStartAtSecondKey",
+  "offset": "0x68",
+  "size": "0x1"
+ }
+]

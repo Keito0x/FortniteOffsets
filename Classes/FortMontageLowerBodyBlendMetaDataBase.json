@@ -1,0 +1,22 @@
+[
+ {
+  "property": "bApplyWhenIdle",
+  "offset": "0x40",
+  "size": "0x1"
+ },
+ {
+  "property": "bApplyWhenMoving",
+  "offset": "0x41",
+  "size": "0x1"
+ },
+ {
+  "property": "bApplyWhenStanding",
+  "offset": "0x42",
+  "size": "0x1"
+ },
+ {
+  "property": "bApplyWhenCrouching",
+  "offset": "0x43",
+  "size": "0x1"
+ }
+]

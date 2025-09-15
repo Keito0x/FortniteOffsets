@@ -1,0 +1,22 @@
+[
+ {
+  "property": "RemovedQuestNames",
+  "offset": "0x472",
+  "size": "0x16"
+ },
+ {
+  "property": "CompletedQuestName",
+  "offset": "0x488",
+  "size": "0x16"
+ },
+ {
+  "property": "AbandonedQuestName",
+  "offset": "0x504",
+  "size": "0x16"
+ },
+ {
+  "property": "bManagerQuestListChanged",
+  "offset": "0x520",
+  "size": "0x1"
+ }
+]

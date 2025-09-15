@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Curves",
+  "offset": "0x272",
+  "size": "0x1120"
+ },
+ {
+  "property": "ChannelsUsed",
+  "offset": "0x1392",
+  "size": "0x4"
+ }
+]

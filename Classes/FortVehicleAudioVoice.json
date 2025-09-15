@@ -1,0 +1,57 @@
+[
+ {
+  "property": "LoopingSound",
+  "offset": "0x3112",
+  "size": "0x8"
+ },
+ {
+  "property": "bFadeWhenOwnerDestroyed",
+  "offset": "0x3120",
+  "size": "0x1"
+ },
+ {
+  "property": "FadeTimeWhenOwnerDestroyed",
+  "offset": "0x3124",
+  "size": "0x4"
+ },
+ {
+  "property": "OneshotGates",
+  "offset": "0x3128",
+  "size": "0x16"
+ },
+ {
+  "property": "OnOneshotEvent",
+  "offset": "0x3144",
+  "size": "0x16"
+ },
+ {
+  "property": "OneShotGateInterpSpeed",
+  "offset": "0x3160",
+  "size": "0x4"
+ },
+ {
+  "property": "VolumeParam",
+  "offset": "0x3184",
+  "size": "0x32"
+ },
+ {
+  "property": "PitchParam",
+  "offset": "0x3216",
+  "size": "0x32"
+ },
+ {
+  "property": "FloatParams",
+  "offset": "0x3248",
+  "size": "0x16"
+ },
+ {
+  "property": "ExplicitFloatParams",
+  "offset": "0x3264",
+  "size": "0x16"
+ },
+ {
+  "property": "ParamRange",
+  "offset": "0x3280",
+  "size": "0x16"
+ }
+]

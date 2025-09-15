@@ -1,0 +1,72 @@
+[
+ {
+  "property": "SkeletalMeshes",
+  "offset": "0x40",
+  "size": "0x80"
+ },
+ {
+  "property": "GeneratedMaterials",
+  "offset": "0x120",
+  "size": "0x16"
+ },
+ {
+  "property": "GeneratedTextures",
+  "offset": "0x136",
+  "size": "0x16"
+ },
+ {
+  "property": "TextureReuseCache",
+  "offset": "0x168",
+  "size": "0x80"
+ },
+ {
+  "property": "ComponentsData",
+  "offset": "0x264",
+  "size": "0x16"
+ },
+ {
+  "property": "ReferencedMaterials",
+  "offset": "0x280",
+  "size": "0x16"
+ },
+ {
+  "property": "ClothingPhysicsAssets",
+  "offset": "0x392",
+  "size": "0x16"
+ },
+ {
+  "property": "GatheredAnimBPs",
+  "offset": "0x408",
+  "size": "0x16"
+ },
+ {
+  "property": "AnimBPGameplayTags",
+  "offset": "0x424",
+  "size": "0x32"
+ },
+ {
+  "property": "AnimBpPhysicsAssets",
+  "offset": "0x456",
+  "size": "0x80"
+ },
+ {
+  "property": "ExtensionInstanceData",
+  "offset": "0x536",
+  "size": "0x16"
+ },
+ {
+  "property": "LoadedPassThroughTexturesPendingSetMaterial",
+  "offset": "0x584",
+  "size": "0x16"
+ },
+ {
+  "property": "LoadedPassThroughMeshesPendingSetMaterial",
+  "offset": "0x600",
+  "size": "0x16"
+ },
+ {
+  "property": "CommittedDescriptor",
+  "offset": "0x624",
+  "size": "0x384"
+ }
+]

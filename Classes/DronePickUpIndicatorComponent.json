@@ -1,0 +1,17 @@
+[
+ {
+  "property": "ItemIndicatorType",
+  "offset": "0x192",
+  "size": "0x8"
+ },
+ {
+  "property": "DbnoIndicatorType",
+  "offset": "0x200",
+  "size": "0x8"
+ },
+ {
+  "property": "IndicatorPool",
+  "offset": "0x208",
+  "size": "0x136"
+ }
+]

@@ -1,0 +1,62 @@
+[
+ {
+  "property": "RolesAsset",
+  "offset": "0x48",
+  "size": "0x8"
+ },
+ {
+  "property": "PrimaryRole",
+  "offset": "0x56",
+  "size": "0x4"
+ },
+ {
+  "property": "Sections",
+  "offset": "0x64",
+  "size": "0x16"
+ },
+ {
+  "property": "Radius",
+  "offset": "0x80",
+  "size": "0x4"
+ },
+ {
+  "property": "Unknown_ffield",
+  "offset": "0x84",
+  "size": "0x1"
+ },
+ {
+  "property": "CollisionChannelsToIgnoreParams",
+  "offset": "0x88",
+  "size": "0x16"
+ },
+ {
+  "property": "AttachmentParams",
+  "offset": "0x104",
+  "size": "0x16"
+ },
+ {
+  "property": "IKTargetParams",
+  "offset": "0x120",
+  "size": "0x24"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x144",
+  "size": "0x1"
+ },
+ {
+  "property": "bDisableMovementReplicationForSimulatedProxy",
+  "offset": "0x145",
+  "size": "0x1"
+ },
+ {
+  "property": "bPrecomputeAlignmentTracks",
+  "offset": "0x146",
+  "size": "0x1"
+ },
+ {
+  "property": "SampleRate",
+  "offset": "0x148",
+  "size": "0x4"
+ }
+]

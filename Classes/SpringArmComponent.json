@@ -1,0 +1,97 @@
+[
+ {
+  "property": "TargetArmLength",
+  "offset": "0x576",
+  "size": "0x4"
+ },
+ {
+  "property": "SocketOffset",
+  "offset": "0x584",
+  "size": "0x24"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x608",
+  "size": "0x24"
+ },
+ {
+  "property": "ProbeSize",
+  "offset": "0x632",
+  "size": "0x4"
+ },
+ {
+  "property": "ProbeChannel",
+  "offset": "0x636",
+  "size": "0x1"
+ },
+ {
+  "property": "bDoCollisionTest",
+  "offset": "0x640",
+  "size": "0x1"
+ },
+ {
+  "property": "bUsePawnControlRotation",
+  "offset": "0x640",
+  "size": "0x1"
+ },
+ {
+  "property": "bInheritPitch",
+  "offset": "0x640",
+  "size": "0x1"
+ },
+ {
+  "property": "bInheritYaw",
+  "offset": "0x640",
+  "size": "0x1"
+ },
+ {
+  "property": "bInheritRoll",
+  "offset": "0x640",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableCameraLag",
+  "offset": "0x640",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableCameraRotationLag",
+  "offset": "0x640",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseCameraLagSubstepping",
+  "offset": "0x640",
+  "size": "0x1"
+ },
+ {
+  "property": "bDrawDebugLagMarkers",
+  "offset": "0x641",
+  "size": "0x1"
+ },
+ {
+  "property": "CameraLagSpeed",
+  "offset": "0x644",
+  "size": "0x4"
+ },
+ {
+  "property": "CameraRotationLagSpeed",
+  "offset": "0x648",
+  "size": "0x4"
+ },
+ {
+  "property": "CameraLagMaxTimeStep",
+  "offset": "0x652",
+  "size": "0x4"
+ },
+ {
+  "property": "CameraLagMaxDistance",
+  "offset": "0x656",
+  "size": "0x4"
+ },
+ {
+  "property": "bClampToMaxPhysicsDeltaTime",
+  "offset": "0x660",
+  "size": "0x1"
+ }
+]

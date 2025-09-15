@@ -1,0 +1,37 @@
+[
+ {
+  "property": "Switcher_SubViews",
+  "offset": "0x1448",
+  "size": "0x8"
+ },
+ {
+  "property": "Panel_PlaytimeSettings",
+  "offset": "0x1456",
+  "size": "0x8"
+ },
+ {
+  "property": "Panel_PlaytimeScheduleSettings",
+  "offset": "0x1464",
+  "size": "0x8"
+ },
+ {
+  "property": "Details_Settings",
+  "offset": "0x1472",
+  "size": "0x8"
+ },
+ {
+  "property": "PlaytimeScheduleWidget",
+  "offset": "0x1480",
+  "size": "0x8"
+ },
+ {
+  "property": "PlaytimeSettingRegistry",
+  "offset": "0x1488",
+  "size": "0x8"
+ },
+ {
+  "property": "PlaytimeSettingScheduleRegistry",
+  "offset": "0x1496",
+  "size": "0x8"
+ }
+]

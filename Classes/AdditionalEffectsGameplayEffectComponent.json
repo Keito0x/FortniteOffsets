@@ -1,0 +1,27 @@
+[
+ {
+  "property": "bOnApplicationCopyDataFromOriginalSpec",
+  "offset": "0x40",
+  "size": "0x1"
+ },
+ {
+  "property": "OnApplicationGameplayEffects",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "OnCompleteAlways",
+  "offset": "0x64",
+  "size": "0x16"
+ },
+ {
+  "property": "OnCompleteNormal",
+  "offset": "0x80",
+  "size": "0x16"
+ },
+ {
+  "property": "OnCompletePrematurely",
+  "offset": "0x96",
+  "size": "0x16"
+ }
+]

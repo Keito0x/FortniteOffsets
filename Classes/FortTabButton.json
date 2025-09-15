@@ -1,0 +1,17 @@
+[
+ {
+  "property": "LazyImage_Icon",
+  "offset": "0x5544",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_Title",
+  "offset": "0x5552",
+  "size": "0x8"
+ },
+ {
+  "property": "ImageSize_Mobile",
+  "offset": "0x5560",
+  "size": "0x16"
+ }
+]

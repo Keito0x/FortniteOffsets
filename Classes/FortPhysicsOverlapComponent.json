@@ -1,0 +1,22 @@
+[
+ {
+  "property": "bBeginPlayDisablePhysicsObjectSleepWhenOverlapping",
+  "offset": "0x576",
+  "size": "0x1"
+ },
+ {
+  "property": "OverlapRadius",
+  "offset": "0x580",
+  "size": "0x4"
+ },
+ {
+  "property": "OverlapComponent",
+  "offset": "0x584",
+  "size": "0x8"
+ },
+ {
+  "property": "SleepIncrementedPhysicsObjects",
+  "offset": "0x600",
+  "size": "0x16"
+ }
+]

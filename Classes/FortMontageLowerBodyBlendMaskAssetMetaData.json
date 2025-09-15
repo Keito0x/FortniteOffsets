@@ -1,0 +1,22 @@
+[
+ {
+  "property": "LowerBodyBlendMaskAsset",
+  "offset": "0x48",
+  "size": "0x8"
+ },
+ {
+  "property": "BlendInTime",
+  "offset": "0x56",
+  "size": "0x4"
+ },
+ {
+  "property": "BlendOutTime",
+  "offset": "0x60",
+  "size": "0x4"
+ },
+ {
+  "property": "bApplyInMeshSpace",
+  "offset": "0x64",
+  "size": "0x1"
+ }
+]

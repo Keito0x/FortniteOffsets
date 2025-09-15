@@ -1,0 +1,12 @@
+[
+ {
+  "property": "BattlePassPageUnlockToastTitle",
+  "offset": "0x256",
+  "size": "0x16"
+ },
+ {
+  "property": "BattlePassPageUnlockToastDescription",
+  "offset": "0x272",
+  "size": "0x16"
+ }
+]

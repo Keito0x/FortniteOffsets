@@ -1,0 +1,12 @@
+[
+ {
+  "property": "LobbyStateClass",
+  "offset": "0x728",
+  "size": "0x32"
+ },
+ {
+  "property": "LobbyState",
+  "offset": "0x760",
+  "size": "0x8"
+ }
+]

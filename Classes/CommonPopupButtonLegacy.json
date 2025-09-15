@@ -1,0 +1,12 @@
+[
+ {
+  "property": "PopupMenuAnchor",
+  "offset": "0x5616",
+  "size": "0x8"
+ },
+ {
+  "property": "PopupMenu",
+  "offset": "0x5624",
+  "size": "0x8"
+ }
+]

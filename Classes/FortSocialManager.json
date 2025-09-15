@@ -1,0 +1,57 @@
+[
+ {
+  "property": "SocialImportPlatform",
+  "offset": "0x464",
+  "size": "0x1"
+ },
+ {
+  "property": "bTutorialCompleted",
+  "offset": "0x465",
+  "size": "0x1"
+ },
+ {
+  "property": "bLeftLastPartyFromGameDisconnect",
+  "offset": "0x496",
+  "size": "0x1"
+ },
+ {
+  "property": "LocalTeam",
+  "offset": "0x504",
+  "size": "0x8"
+ },
+ {
+  "property": "NoPersistentPartyDetectorTimeout",
+  "offset": "0x512",
+  "size": "0x8"
+ },
+ {
+  "property": "bEnablePartyJoinReturnToMainMenu",
+  "offset": "0x528",
+  "size": "0x1"
+ },
+ {
+  "property": "PendingQueryPartyJoinabilityResultTimeout",
+  "offset": "0x536",
+  "size": "0x8"
+ },
+ {
+  "property": "KeepPartyDisconnectReasons",
+  "offset": "0x544",
+  "size": "0x16"
+ },
+ {
+  "property": "CurrentJoinAndSpectateTarget",
+  "offset": "0x784",
+  "size": "0x8"
+ },
+ {
+  "property": "PartyMemberToSpectate",
+  "offset": "0x792",
+  "size": "0x8"
+ },
+ {
+  "property": "bEnablePartyAnalytics",
+  "offset": "0x800",
+  "size": "0x1"
+ }
+]

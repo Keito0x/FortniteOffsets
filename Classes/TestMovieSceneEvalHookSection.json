@@ -1,0 +1,12 @@
+[
+ {
+  "property": "bRequiresRangedHook",
+  "offset": "0x280",
+  "size": "0x1"
+ },
+ {
+  "property": "bRequiresTriggerHooks",
+  "offset": "0x280",
+  "size": "0x1"
+ }
+]

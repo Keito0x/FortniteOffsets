@@ -1,0 +1,42 @@
+[
+ {
+  "property": "BlockUserModalClass",
+  "offset": "0x1288",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_SocialName",
+  "offset": "0x1296",
+  "size": "0x8"
+ },
+ {
+  "property": "RichText_PlatformNames",
+  "offset": "0x1304",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_Presence",
+  "offset": "0x1312",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_EditNickname",
+  "offset": "0x1320",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_ErrorMessage",
+  "offset": "0x1328",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_CancelEdit",
+  "offset": "0x1336",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_DoneEdit",
+  "offset": "0x1344",
+  "size": "0x8"
+ }
+]

@@ -1,0 +1,17 @@
+[
+ {
+  "property": "OnEventReceived",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "OnSavedEventStateExists",
+  "offset": "0x64",
+  "size": "0x16"
+ },
+ {
+  "property": "OnEventStateCleared",
+  "offset": "0x80",
+  "size": "0x16"
+ }
+]

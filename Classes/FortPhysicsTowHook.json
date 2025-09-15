@@ -1,0 +1,12 @@
+[
+ {
+  "property": "ReplicatedAttachStates",
+  "offset": "0x680",
+  "size": "0x16"
+ },
+ {
+  "property": "AlwaysAttachedActor",
+  "offset": "0x1824",
+  "size": "0x8"
+ }
+]

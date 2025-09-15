@@ -1,0 +1,7 @@
+[
+ {
+  "property": "bZeroInitForAtomicWrites",
+  "offset": "0x136",
+  "size": "0x1"
+ }
+]

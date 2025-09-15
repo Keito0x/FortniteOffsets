@@ -1,0 +1,12 @@
+[
+ {
+  "property": "PrimaryOffhandFireAbility",
+  "offset": "0x1328",
+  "size": "0x32"
+ },
+ {
+  "property": "SecondaryOffhandFireAbility",
+  "offset": "0x1360",
+  "size": "0x32"
+ }
+]

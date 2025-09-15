@@ -1,0 +1,12 @@
+[
+ {
+  "property": "GoalActorDistancesNotifies",
+  "offset": "0x1448",
+  "size": "0x16"
+ },
+ {
+  "property": "",
+  "offset": "0x98741524",
+  "size": "0x0"
+ }
+]

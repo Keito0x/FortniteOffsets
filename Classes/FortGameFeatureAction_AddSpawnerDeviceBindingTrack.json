@@ -1,0 +1,12 @@
+[
+ {
+  "property": "SpawnerDeviceClassPath",
+  "offset": "0x40",
+  "size": "0x24"
+ },
+ {
+  "property": "BindingTrackClassPath",
+  "offset": "0x64",
+  "size": "0x24"
+ }
+]

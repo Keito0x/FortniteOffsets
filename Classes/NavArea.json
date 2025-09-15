@@ -1,0 +1,102 @@
+[
+ {
+  "property": "DefaultCost",
+  "offset": "0x48",
+  "size": "0x4"
+ },
+ {
+  "property": "FixedAreaEnteringCost",
+  "offset": "0x52",
+  "size": "0x4"
+ },
+ {
+  "property": "DrawColor",
+  "offset": "0x56",
+  "size": "0x4"
+ },
+ {
+  "property": "SupportedAgents",
+  "offset": "0x60",
+  "size": "0x4"
+ },
+ {
+  "property": "bSupportsAgent0",
+  "offset": "0x64",
+  "size": "0x1"
+ },
+ {
+  "property": "bSupportsAgent1",
+  "offset": "0x64",
+  "size": "0x1"
+ },
+ {
+  "property": "bSupportsAgent2",
+  "offset": "0x64",
+  "size": "0x1"
+ },
+ {
+  "property": "bSupportsAgent3",
+  "offset": "0x64",
+  "size": "0x1"
+ },
+ {
+  "property": "bSupportsAgent4",
+  "offset": "0x64",
+  "size": "0x1"
+ },
+ {
+  "property": "bSupportsAgent5",
+  "offset": "0x64",
+  "size": "0x1"
+ },
+ {
+  "property": "bSupportsAgent6",
+  "offset": "0x64",
+  "size": "0x1"
+ },
+ {
+  "property": "bSupportsAgent7",
+  "offset": "0x64",
+  "size": "0x1"
+ },
+ {
+  "property": "bSupportsAgent8",
+  "offset": "0x65",
+  "size": "0x1"
+ },
+ {
+  "property": "bSupportsAgent9",
+  "offset": "0x65",
+  "size": "0x1"
+ },
+ {
+  "property": "bSupportsAgent10",
+  "offset": "0x65",
+  "size": "0x1"
+ },
+ {
+  "property": "bSupportsAgent11",
+  "offset": "0x65",
+  "size": "0x1"
+ },
+ {
+  "property": "bSupportsAgent12",
+  "offset": "0x65",
+  "size": "0x1"
+ },
+ {
+  "property": "bSupportsAgent13",
+  "offset": "0x65",
+  "size": "0x1"
+ },
+ {
+  "property": "bSupportsAgent14",
+  "offset": "0x65",
+  "size": "0x1"
+ },
+ {
+  "property": "bSupportsAgent15",
+  "offset": "0x65",
+  "size": "0x1"
+ }
+]

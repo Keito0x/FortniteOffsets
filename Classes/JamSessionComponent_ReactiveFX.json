@@ -1,0 +1,52 @@
+[
+ {
+  "property": "ReactiveFXState",
+  "offset": "0x216",
+  "size": "0x40"
+ },
+ {
+  "property": "bSetReactivityUpdateRateToTargetFPS",
+  "offset": "0x256",
+  "size": "0x1"
+ },
+ {
+  "property": "ReactivityUpdateRate",
+  "offset": "0x260",
+  "size": "0x4"
+ },
+ {
+  "property": "PeakTamerValueReleaseTimeSec",
+  "offset": "0x264",
+  "size": "0x4"
+ },
+ {
+  "property": "LoopReactiveFX",
+  "offset": "0x272",
+  "size": "0x80"
+ },
+ {
+  "property": "PendingVFXHandles",
+  "offset": "0x352",
+  "size": "0x80"
+ },
+ {
+  "property": "DefaultPlayerFXToSpawn",
+  "offset": "0x576",
+  "size": "0x8"
+ },
+ {
+  "property": "DefaultPlayerDropFXToSpawn",
+  "offset": "0x584",
+  "size": "0x8"
+ },
+ {
+  "property": "DefaultLoopFXAmplitude",
+  "offset": "0x592",
+  "size": "0x80"
+ },
+ {
+  "property": "BoundAutojammerRegistry",
+  "offset": "0x672",
+  "size": "0x8"
+ }
+]

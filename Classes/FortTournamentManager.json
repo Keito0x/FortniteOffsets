@@ -1,0 +1,7 @@
+[
+ {
+  "property": "NotificationsHelper",
+  "offset": "0x1000",
+  "size": "0x8"
+ }
+]

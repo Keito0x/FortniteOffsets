@@ -1,0 +1,27 @@
+[
+ {
+  "property": "Offset",
+  "offset": "0x80",
+  "size": "0x16"
+ },
+ {
+  "property": "ConstraintOverrides",
+  "offset": "0x96",
+  "size": "0x16"
+ },
+ {
+  "property": "bUseOffset",
+  "offset": "0x112",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseOverride",
+  "offset": "0x112",
+  "size": "0x1"
+ },
+ {
+  "property": "ConstraintOverride",
+  "offset": "0x120",
+  "size": "0x8"
+ }
+]

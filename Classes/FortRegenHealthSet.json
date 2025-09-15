@@ -1,0 +1,32 @@
+[
+ {
+  "property": "HealthRegenRate",
+  "offset": "0x1656",
+  "size": "0x40"
+ },
+ {
+  "property": "HealthRegenDelay",
+  "offset": "0x1696",
+  "size": "0x40"
+ },
+ {
+  "property": "HealthRegenThreshold",
+  "offset": "0x1736",
+  "size": "0x40"
+ },
+ {
+  "property": "ShieldRegenRate",
+  "offset": "0x1776",
+  "size": "0x40"
+ },
+ {
+  "property": "ShieldRegenDelay",
+  "offset": "0x1816",
+  "size": "0x40"
+ },
+ {
+  "property": "ShieldRegenThreshold",
+  "offset": "0x1856",
+  "size": "0x40"
+ }
+]

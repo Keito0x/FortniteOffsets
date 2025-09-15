@@ -1,0 +1,12 @@
+[
+ {
+  "property": "bDisableDefaultData",
+  "offset": "0x48",
+  "size": "0x1"
+ },
+ {
+  "property": "bDisableLeans",
+  "offset": "0x49",
+  "size": "0x1"
+ }
+]

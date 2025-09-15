@@ -1,0 +1,32 @@
+[
+ {
+  "property": "DefaultText",
+  "offset": "0x5616",
+  "size": "0x16"
+ },
+ {
+  "property": "bUseAllCaps",
+  "offset": "0x5632",
+  "size": "0x1"
+ },
+ {
+  "property": "bOverrideFont",
+  "offset": "0x5633",
+  "size": "0x1"
+ },
+ {
+  "property": "Font",
+  "offset": "0x5640",
+  "size": "0x88"
+ },
+ {
+  "property": "FontColor",
+  "offset": "0x5728",
+  "size": "0x20"
+ },
+ {
+  "property": "Text_Content",
+  "offset": "0x5752",
+  "size": "0x8"
+ }
+]

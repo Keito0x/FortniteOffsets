@@ -1,0 +1,12 @@
+[
+ {
+  "property": "TrackingDisplayInfos",
+  "offset": "0x200",
+  "size": "0x280"
+ },
+ {
+  "property": "RadiusTrackerIndicator",
+  "offset": "0x480",
+  "size": "0x8"
+ }
+]

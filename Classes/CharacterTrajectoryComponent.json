@@ -1,0 +1,17 @@
+[
+ {
+  "property": "Trajectory",
+  "offset": "0x192",
+  "size": "0x16"
+ },
+ {
+  "property": "SamplingData",
+  "offset": "0x208",
+  "size": "0x32"
+ },
+ {
+  "property": "CharacterTrajectoryData",
+  "offset": "0x240",
+  "size": "0x480"
+ }
+]

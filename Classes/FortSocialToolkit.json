@@ -1,0 +1,47 @@
+[
+ {
+  "property": "MaxNumberOfRetriesForKeysService",
+  "offset": "0x792",
+  "size": "0x1"
+ },
+ {
+  "property": "bDisableVoiceChatIfSetToNobody",
+  "offset": "0x1792",
+  "size": "0x1"
+ },
+ {
+  "property": "SocialProfileSettingsSaveDelay",
+  "offset": "0x1796",
+  "size": "0x4"
+ },
+ {
+  "property": "MutualFriendsSettingSaveDelay",
+  "offset": "0x1800",
+  "size": "0x4"
+ },
+ {
+  "property": "RebootRallyPlatformFriendsQueryDelay",
+  "offset": "0x1804",
+  "size": "0x4"
+ },
+ {
+  "property": "RebootRallyReQueryDelay",
+  "offset": "0x1808",
+  "size": "0x4"
+ },
+ {
+  "property": "LfgSettingsSaveDelay",
+  "offset": "0x1812",
+  "size": "0x4"
+ },
+ {
+  "property": "bAutoRecreatePartiesDuringLogin",
+  "offset": "0x1816",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableDisplayNamesPrivacy",
+  "offset": "0x1817",
+  "size": "0x1"
+ }
+]

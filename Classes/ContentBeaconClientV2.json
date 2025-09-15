@@ -1,0 +1,52 @@
+[
+ {
+  "property": "ContentMessagesArray",
+  "offset": "0x832",
+  "size": "0x304"
+ },
+ {
+  "property": "DestSessionId",
+  "offset": "0x1440",
+  "size": "0x16"
+ },
+ {
+  "property": "DestConnectionInfoString",
+  "offset": "0x1456",
+  "size": "0x16"
+ },
+ {
+  "property": "DebugRootIdentiferString",
+  "offset": "0x1472",
+  "size": "0x16"
+ },
+ {
+  "property": "bIsClientInSync",
+  "offset": "0x1489",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsGeneratingManifests",
+  "offset": "0x1490",
+  "size": "0x1"
+ },
+ {
+  "property": "ClientContentModules",
+  "offset": "0x1496",
+  "size": "0x280"
+ },
+ {
+  "property": "PinnedVersePaths",
+  "offset": "0x1856",
+  "size": "0x16"
+ },
+ {
+  "property": "PinnedResolvedModules",
+  "offset": "0x1872",
+  "size": "0x16"
+ },
+ {
+  "property": "PinnedResolvedContent",
+  "offset": "0x1888",
+  "size": "0x16"
+ }
+]

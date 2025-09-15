@@ -1,0 +1,17 @@
+[
+ {
+  "property": "DefaultCondition",
+  "offset": "0x56",
+  "size": "0x56"
+ },
+ {
+  "property": "DefaultAttachment",
+  "offset": "0x112",
+  "size": "0x88"
+ },
+ {
+  "property": "BurstEffectData",
+  "offset": "0x200",
+  "size": "0x328"
+ }
+]

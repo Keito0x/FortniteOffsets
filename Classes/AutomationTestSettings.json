@@ -1,0 +1,102 @@
+[
+ {
+  "property": "EngineTestModules",
+  "offset": "0x40",
+  "size": "0x16"
+ },
+ {
+  "property": "EditorTestModules",
+  "offset": "0x56",
+  "size": "0x16"
+ },
+ {
+  "property": "AutomationTestmap",
+  "offset": "0x72",
+  "size": "0x24"
+ },
+ {
+  "property": "EditorPerformanceTestMaps",
+  "offset": "0x96",
+  "size": "0x16"
+ },
+ {
+  "property": "AssetsToOpen",
+  "offset": "0x112",
+  "size": "0x16"
+ },
+ {
+  "property": "MapsToPIETest",
+  "offset": "0x128",
+  "size": "0x16"
+ },
+ {
+  "property": "bUseAllProjectMapsToPlayInPIE",
+  "offset": "0x144",
+  "size": "0x1"
+ },
+ {
+  "property": "BuildPromotionTest",
+  "offset": "0x152",
+  "size": "0x496"
+ },
+ {
+  "property": "MaterialEditorPromotionTest",
+  "offset": "0x648",
+  "size": "0x48"
+ },
+ {
+  "property": "ParticleEditorPromotionTest",
+  "offset": "0x696",
+  "size": "0x16"
+ },
+ {
+  "property": "BlueprintEditorPromotionTest",
+  "offset": "0x712",
+  "size": "0x48"
+ },
+ {
+  "property": "TestLevelFolders",
+  "offset": "0x760",
+  "size": "0x16"
+ },
+ {
+  "property": "ExternalTools",
+  "offset": "0x776",
+  "size": "0x16"
+ },
+ {
+  "property": "ImportExportTestDefinitions",
+  "offset": "0x792",
+  "size": "0x16"
+ },
+ {
+  "property": "LaunchOnSettings",
+  "offset": "0x808",
+  "size": "0x16"
+ },
+ {
+  "property": "DefaultScreenshotResolution",
+  "offset": "0x824",
+  "size": "0x8"
+ },
+ {
+  "property": "PIETestDuration",
+  "offset": "0x832",
+  "size": "0x4"
+ },
+ {
+  "property": "DefaultInteractiveFramerate",
+  "offset": "0x836",
+  "size": "0x4"
+ },
+ {
+  "property": "DefaultInteractiveFramerateWaitTime",
+  "offset": "0x840",
+  "size": "0x4"
+ },
+ {
+  "property": "DefaultInteractiveFramerateDuration",
+  "offset": "0x844",
+  "size": "0x4"
+ }
+]

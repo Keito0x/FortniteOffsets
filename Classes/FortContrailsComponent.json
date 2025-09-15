@@ -1,0 +1,102 @@
+[
+ {
+  "property": "OnContrailsLoadFinished",
+  "offset": "0x192",
+  "size": "0x16"
+ },
+ {
+  "property": "OnContrailsActivated",
+  "offset": "0x208",
+  "size": "0x16"
+ },
+ {
+  "property": "OnContrailsDeactivated",
+  "offset": "0x224",
+  "size": "0x16"
+ },
+ {
+  "property": "SpawnDelay",
+  "offset": "0x240",
+  "size": "0x4"
+ },
+ {
+  "property": "bAlwaysShowContrails",
+  "offset": "0x244",
+  "size": "0x1"
+ },
+ {
+  "property": "ActiveContrailDefinition",
+  "offset": "0x256",
+  "size": "0x8"
+ },
+ {
+  "property": "ContrailFXOverride",
+  "offset": "0x264",
+  "size": "0x32"
+ },
+ {
+  "property": "VaporEmitterTemplate",
+  "offset": "0x296",
+  "size": "0x8"
+ },
+ {
+  "property": "ContrailFXComp",
+  "offset": "0x304",
+  "size": "0x8"
+ },
+ {
+  "property": "VaporFXComp",
+  "offset": "0x312",
+  "size": "0x8"
+ },
+ {
+  "property": "PoolingMethod",
+  "offset": "0x344",
+  "size": "0x1"
+ },
+ {
+  "property": "NiagaraPoolingMethod",
+  "offset": "0x345",
+  "size": "0x1"
+ },
+ {
+  "property": "VelocityInRangeMin",
+  "offset": "0x348",
+  "size": "0x4"
+ },
+ {
+  "property": "VelocityInRangeMax",
+  "offset": "0x352",
+  "size": "0x4"
+ },
+ {
+  "property": "NiagaraParamsOutRangeMin",
+  "offset": "0x356",
+  "size": "0x4"
+ },
+ {
+  "property": "NiagaraParamsOutRangeMax",
+  "offset": "0x360",
+  "size": "0x4"
+ },
+ {
+  "property": "TrailAlphaOutRangeMin",
+  "offset": "0x364",
+  "size": "0x4"
+ },
+ {
+  "property": "TrailAlphaOutRangeMax",
+  "offset": "0x368",
+  "size": "0x4"
+ },
+ {
+  "property": "TrailWidthOutRangeMin",
+  "offset": "0x372",
+  "size": "0x4"
+ },
+ {
+  "property": "TrailWidthOutRangeMax",
+  "offset": "0x376",
+  "size": "0x4"
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "property": "Options",
+  "offset": "0x248",
+  "size": "0x16"
+ },
+ {
+  "property": "pack_source",
+  "offset": "0x264",
+  "size": "0x16"
+ },
+ {
+  "property": "is_loot_tier_overridden",
+  "offset": "0x280",
+  "size": "0x1"
+ },
+ {
+  "property": "override_loot_tier",
+  "offset": "0x284",
+  "size": "0x4"
+ }
+]

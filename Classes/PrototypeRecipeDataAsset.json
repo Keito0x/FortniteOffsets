@@ -1,0 +1,27 @@
+[
+ {
+  "property": "CraftingDuration",
+  "offset": "0x48",
+  "size": "0x4"
+ },
+ {
+  "property": "NumberOfOutputs",
+  "offset": "0x52",
+  "size": "0x4"
+ },
+ {
+  "property": "bHiddenByDefault",
+  "offset": "0x56",
+  "size": "0x1"
+ },
+ {
+  "property": "Inputs",
+  "offset": "0x64",
+  "size": "0x16"
+ },
+ {
+  "property": "Outputs",
+  "offset": "0x80",
+  "size": "0x16"
+ }
+]

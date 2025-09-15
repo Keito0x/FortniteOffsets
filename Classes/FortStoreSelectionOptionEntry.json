@@ -1,0 +1,22 @@
+[
+ {
+  "property": "Image_Icon",
+  "offset": "0x5616",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_Description",
+  "offset": "0x5624",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_Price",
+  "offset": "0x5632",
+  "size": "0x8"
+ },
+ {
+  "property": "RichText_Label",
+  "offset": "0x5640",
+  "size": "0x8"
+ }
+]

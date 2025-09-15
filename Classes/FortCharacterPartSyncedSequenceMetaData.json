@@ -1,0 +1,12 @@
+[
+ {
+  "property": "SyncedSequence",
+  "offset": "0x40",
+  "size": "0x8"
+ },
+ {
+  "property": "Priority",
+  "offset": "0x48",
+  "size": "0x4"
+ }
+]

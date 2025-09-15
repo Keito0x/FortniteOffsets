@@ -1,0 +1,32 @@
+[
+ {
+  "property": "MemorySamplerState",
+  "offset": "0x304",
+  "size": "0x1"
+ },
+ {
+  "property": "MemorySamplerProgress",
+  "offset": "0x308",
+  "size": "0x4"
+ },
+ {
+  "property": "bHostHasSavedTransactions",
+  "offset": "0x936",
+  "size": "0x1"
+ },
+ {
+  "property": "ProxyMetric",
+  "offset": "0x1008",
+  "size": "0x8"
+ },
+ {
+  "property": "LevelPackageDiskSizeMetric",
+  "offset": "0x1016",
+  "size": "0x8"
+ },
+ {
+  "property": "LevelPackageDiskSizeMetricThreshold",
+  "offset": "0x1024",
+  "size": "0x4"
+ }
+]

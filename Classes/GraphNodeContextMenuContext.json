@@ -1,0 +1,22 @@
+[
+ {
+  "property": "Blueprint",
+  "offset": "0x40",
+  "size": "0x8"
+ },
+ {
+  "property": "Graph",
+  "offset": "0x48",
+  "size": "0x8"
+ },
+ {
+  "property": "Node",
+  "offset": "0x56",
+  "size": "0x8"
+ },
+ {
+  "property": "bIsDebugging",
+  "offset": "0x72",
+  "size": "0x1"
+ }
+]

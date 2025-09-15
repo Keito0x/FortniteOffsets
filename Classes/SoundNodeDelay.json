@@ -1,0 +1,12 @@
+[
+ {
+  "property": "DelayMin",
+  "offset": "0x72",
+  "size": "0x4"
+ },
+ {
+  "property": "DelayMax",
+  "offset": "0x76",
+  "size": "0x4"
+ }
+]

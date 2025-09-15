@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Selectors",
+  "offset": "0x40",
+  "size": "0x16"
+ },
+ {
+  "property": "Actions",
+  "offset": "0x56",
+  "size": "0x16"
+ }
+]

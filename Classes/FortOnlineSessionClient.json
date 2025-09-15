@@ -1,0 +1,12 @@
+[
+ {
+  "property": "bIsFromInvite",
+  "offset": "0x472",
+  "size": "0x1"
+ },
+ {
+  "property": "bHandlingDisconnect",
+  "offset": "0x473",
+  "size": "0x1"
+ }
+]

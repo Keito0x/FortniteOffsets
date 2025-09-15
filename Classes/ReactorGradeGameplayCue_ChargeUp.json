@@ -1,0 +1,32 @@
+[
+ {
+  "property": "Pawn",
+  "offset": "0x2504",
+  "size": "0x8"
+ },
+ {
+  "property": "CachedAimLocationComponent",
+  "offset": "0x2512",
+  "size": "0x8"
+ },
+ {
+  "property": "FoundEndPoint",
+  "offset": "0x2520",
+  "size": "0x24"
+ },
+ {
+  "property": "MinHitDistance",
+  "offset": "0x2544",
+  "size": "0x40"
+ },
+ {
+  "property": "HitObjectsLimit",
+  "offset": "0x2584",
+  "size": "0x40"
+ },
+ {
+  "property": "TraceChannel",
+  "offset": "0x2628",
+  "size": "0x1"
+ }
+]

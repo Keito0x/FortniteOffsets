@@ -1,0 +1,32 @@
+[
+ {
+  "property": "AbilityTagToTrigger",
+  "offset": "0x248",
+  "size": "0x4"
+ },
+ {
+  "property": "ActorGamePlayTag",
+  "offset": "0x252",
+  "size": "0x4"
+ },
+ {
+  "property": "bFireOnSuccess",
+  "offset": "0x256",
+  "size": "0x1"
+ },
+ {
+  "property": "bFireOnFail",
+  "offset": "0x257",
+  "size": "0x1"
+ },
+ {
+  "property": "RessourceTag",
+  "offset": "0x260",
+  "size": "0x4"
+ },
+ {
+  "property": "RessourceNeeded",
+  "offset": "0x264",
+  "size": "0x4"
+ }
+]

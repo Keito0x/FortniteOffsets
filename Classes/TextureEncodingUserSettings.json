@@ -1,0 +1,7 @@
+[
+ {
+  "property": "ForceEncodeSpeed",
+  "offset": "0x48",
+  "size": "0x1"
+ }
+]

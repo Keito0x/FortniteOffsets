@@ -1,0 +1,1502 @@
+[
+ {
+  "property": "WaterTestFrequency",
+  "offset": "0x824",
+  "size": "0x4"
+ },
+ {
+  "property": "TimeBetweenShallowWaterLevelUpdates",
+  "offset": "0x828",
+  "size": "0x4"
+ },
+ {
+  "property": "ShallowWaterVolumeSurfaceTraceLength",
+  "offset": "0x832",
+  "size": "0x4"
+ },
+ {
+  "property": "MinLinearSpeedRunningVarianceSq",
+  "offset": "0x836",
+  "size": "0x4"
+ },
+ {
+  "property": "MinAngularSpeedRunningVarianceSq",
+  "offset": "0x840",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleErrorPerDistanceCentimeters",
+  "offset": "0x844",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleErrorPerDistanceCentimetersPerSecond",
+  "offset": "0x848",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleErrorPerAngleDegrees",
+  "offset": "0x852",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleErrorPerAngleDegreesPerSecond",
+  "offset": "0x856",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleErrorPerUpdate",
+  "offset": "0x860",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleInvalidErrorPerSecondTolerance",
+  "offset": "0x864",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleInvalidErrorMaxSeconds",
+  "offset": "0x868",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleInvalidErrorMinSeconds",
+  "offset": "0x872",
+  "size": "0x4"
+ },
+ {
+  "property": "InPlaceRotationStrength",
+  "offset": "0x876",
+  "size": "0x4"
+ },
+ {
+  "property": "bClampForwardForceToMaxSpeed",
+  "offset": "0x880",
+  "size": "0x1"
+ },
+ {
+  "property": "bClampBrakeForceToMinSpeed",
+  "offset": "0x881",
+  "size": "0x1"
+ },
+ {
+  "property": "IdleBrakeForce",
+  "offset": "0x884",
+  "size": "0x4"
+ },
+ {
+  "property": "TooFastBrakeForce",
+  "offset": "0x888",
+  "size": "0x4"
+ },
+ {
+  "property": "BrakeForce",
+  "offset": "0x892",
+  "size": "0x4"
+ },
+ {
+  "property": "AutoBrakeSpeed",
+  "offset": "0x896",
+  "size": "0x4"
+ },
+ {
+  "property": "WaterDragCoefficient",
+  "offset": "0x900",
+  "size": "0x4"
+ },
+ {
+  "property": "WaterDragCoefficient2",
+  "offset": "0x904",
+  "size": "0x4"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x908",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleCameraMaxSteerAlpha",
+  "offset": "0x912",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxForwardSpeedToSwapReverseControls",
+  "offset": "0x916",
+  "size": "0x4"
+ },
+ {
+  "property": "MinSpeedSteeringAngle",
+  "offset": "0x920",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxSpeedSteeringAngle",
+  "offset": "0x924",
+  "size": "0x4"
+ },
+ {
+  "property": "bSteerWithFrontWheels",
+  "offset": "0x928",
+  "size": "0x1"
+ },
+ {
+  "property": "bInvertSteeringWhenReversing",
+  "offset": "0x929",
+  "size": "0x1"
+ },
+ {
+  "property": "InvertSteeringMinSpeedKmh",
+  "offset": "0x932",
+  "size": "0x4"
+ },
+ {
+  "property": "SteerBrakeMultiplier",
+  "offset": "0x936",
+  "size": "0x4"
+ },
+ {
+  "property": "PoppedTireTractionMultiplier_StageOne",
+  "offset": "0x940",
+  "size": "0x4"
+ },
+ {
+  "property": "PoppedTireTractionMultiplier_StageTwo",
+  "offset": "0x944",
+  "size": "0x4"
+ },
+ {
+  "property": "PoppedTireTractionMultiplier_Min",
+  "offset": "0x948",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxRestSpeed",
+  "offset": "0x952",
+  "size": "0x4"
+ },
+ {
+  "property": "ImpactDamageSafeDegrees",
+  "offset": "0x956",
+  "size": "0x4"
+ },
+ {
+  "property": "bAlwaysDestroyPhysicsFellables",
+  "offset": "0x960",
+  "size": "0x1"
+ },
+ {
+  "property": "MinSpeedToDamage",
+  "offset": "0x964",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxSpeedToDamage",
+  "offset": "0x968",
+  "size": "0x4"
+ },
+ {
+  "property": "MinSpeedDamage",
+  "offset": "0x972",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxSpeedDamage",
+  "offset": "0x976",
+  "size": "0x4"
+ },
+ {
+  "property": "MinSpeedDamageNoPlayer",
+  "offset": "0x980",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxSpeedDamageNoPlayer",
+  "offset": "0x984",
+  "size": "0x4"
+ },
+ {
+  "property": "MinSpeedAIDamage",
+  "offset": "0x988",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxSpeedAIDamage",
+  "offset": "0x992",
+  "size": "0x4"
+ },
+ {
+  "property": "MinSpeedAIDamageNoPlayer",
+  "offset": "0x996",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxSpeedAIDamageNoPlayer",
+  "offset": "0x1000",
+  "size": "0x4"
+ },
+ {
+  "property": "MinSpeedBuildingDamage",
+  "offset": "0x1004",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxSpeedBuildingDamage",
+  "offset": "0x1008",
+  "size": "0x4"
+ },
+ {
+  "property": "MinSpeedBuildingDamageNoPlayer",
+  "offset": "0x1012",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxSpeedBuildingDamageNoPlayer",
+  "offset": "0x1016",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleOnVehicle_ImpactVelocityMultiplier",
+  "offset": "0x1020",
+  "size": "0x4"
+ },
+ {
+  "property": "MinImpactMagnitudeToDealDamageKmH",
+  "offset": "0x1024",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxImpactDamage",
+  "offset": "0x1028",
+  "size": "0x4"
+ },
+ {
+  "property": "ImpactDamagePerImpulse",
+  "offset": "0x1032",
+  "size": "0x4"
+ },
+ {
+  "property": "ImpactReductionPerTransverseVelocity",
+  "offset": "0x1036",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxImpactDamageReduction",
+  "offset": "0x1040",
+  "size": "0x4"
+ },
+ {
+  "property": "PlayerImpactDamageMultiplier",
+  "offset": "0x1044",
+  "size": "0x4"
+ },
+ {
+  "property": "IgnorePawnForDamageTimeout",
+  "offset": "0x1048",
+  "size": "0x4"
+ },
+ {
+  "property": "DamageOverrideList",
+  "offset": "0x1056",
+  "size": "0x16"
+ },
+ {
+  "property": "MinSpeedForRimScrapeDamage",
+  "offset": "0x1072",
+  "size": "0x4"
+ },
+ {
+  "property": "RimScrapeDamageRate",
+  "offset": "0x1076",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleFlipCooldown",
+  "offset": "0x1080",
+  "size": "0x4"
+ },
+ {
+  "property": "MinSpringHitNormal",
+  "offset": "0x1084",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleCameraGraceZone",
+  "offset": "0x1088",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleLeftAnalogSteeringDeadZone",
+  "offset": "0x1092",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleCameraLeftAnalogMultiplier",
+  "offset": "0x1096",
+  "size": "0x4"
+ },
+ {
+  "property": "WaterTopSpeedMultiplier",
+  "offset": "0x1100",
+  "size": "0x4"
+ },
+ {
+  "property": "bUseWaterVolumeFluidFrictionForTopSpeedMultiplier",
+  "offset": "0x1104",
+  "size": "0x1"
+ },
+ {
+  "property": "VehicleInPlaceThreshold",
+  "offset": "0x1108",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleWeightShiftPitchStrength",
+  "offset": "0x1112",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleWeightShiftRollStrength",
+  "offset": "0x1116",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleWeightShiftYawStrength",
+  "offset": "0x1120",
+  "size": "0x4"
+ },
+ {
+  "property": "JumpRateMultiplier",
+  "offset": "0x1124",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleDebugStrafeMultiplier",
+  "offset": "0x1128",
+  "size": "0x4"
+ },
+ {
+  "property": "GravityVelocitySteerForwardThreshold",
+  "offset": "0x1132",
+  "size": "0x4"
+ },
+ {
+  "property": "GravityVelocitySteerErrorThreshold",
+  "offset": "0x1136",
+  "size": "0x4"
+ },
+ {
+  "property": "GravitySteerMultiplier",
+  "offset": "0x1140",
+  "size": "0x4"
+ },
+ {
+  "property": "InWaterPushMultiplier",
+  "offset": "0x1144",
+  "size": "0x4"
+ },
+ {
+  "property": "MinWheelRotationSpeed",
+  "offset": "0x1148",
+  "size": "0x4"
+ },
+ {
+  "property": "WheelRotationAcceleration",
+  "offset": "0x1152",
+  "size": "0x4"
+ },
+ {
+  "property": "WheelRotationDampingPerSecond",
+  "offset": "0x1156",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleLookAheadLength",
+  "offset": "0x1160",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleLookAheadInAirLength",
+  "offset": "0x1164",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleLookAheadMinSpeed",
+  "offset": "0x1168",
+  "size": "0x4"
+ },
+ {
+  "property": "bEnableLookahead",
+  "offset": "0x1172",
+  "size": "0x1"
+ },
+ {
+  "property": "VehicleLookAheadMinNormal",
+  "offset": "0x1176",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleLookAheadStiff",
+  "offset": "0x1180",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleLookAheadDamp",
+  "offset": "0x1184",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleLookAheadInAirStiff",
+  "offset": "0x1188",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleLookAheadInAirDamp",
+  "offset": "0x1192",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleLookAheadMaxAccel",
+  "offset": "0x1196",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleLookAheadMaxAccelInAir",
+  "offset": "0x1200",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleAirControlStiff",
+  "offset": "0x1204",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleAirControlDamp",
+  "offset": "0x1208",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleAirYawStrength",
+  "offset": "0x1212",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleAirPitchStrength",
+  "offset": "0x1216",
+  "size": "0x4"
+ },
+ {
+  "property": "DragCoefficient",
+  "offset": "0x1220",
+  "size": "0x4"
+ },
+ {
+  "property": "DragCoefficient2",
+  "offset": "0x1224",
+  "size": "0x4"
+ },
+ {
+  "property": "InAirResistanceCoefficient",
+  "offset": "0x1228",
+  "size": "0x4"
+ },
+ {
+  "property": "InAirResistanceCoefficient2",
+  "offset": "0x1232",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxDragSpeed",
+  "offset": "0x1236",
+  "size": "0x4"
+ },
+ {
+  "property": "MinLinearSpeedToWake",
+  "offset": "0x1240",
+  "size": "0x4"
+ },
+ {
+  "property": "MinAngularSpeedToWake",
+  "offset": "0x1244",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxDriveInclineAngle",
+  "offset": "0x1248",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxAntigravityInclineAngle",
+  "offset": "0x1252",
+  "size": "0x4"
+ },
+ {
+  "property": "bAlwaysApplyAntiGravityInRightDir",
+  "offset": "0x1256",
+  "size": "0x1"
+ },
+ {
+  "property": "MaxDriveTiltAngle",
+  "offset": "0x1260",
+  "size": "0x4"
+ },
+ {
+  "property": "SpringStiffMultiplier",
+  "offset": "0x1264",
+  "size": "0x4"
+ },
+ {
+  "property": "SpringDampMultiplier",
+  "offset": "0x1268",
+  "size": "0x4"
+ },
+ {
+  "property": "SpringStiffMultiplierWater",
+  "offset": "0x1272",
+  "size": "0x4"
+ },
+ {
+  "property": "SpringDampMultiplierWater",
+  "offset": "0x1276",
+  "size": "0x4"
+ },
+ {
+  "property": "SpringMaxAccelMultiplier",
+  "offset": "0x1280",
+  "size": "0x4"
+ },
+ {
+  "property": "SpringLengthMultiplier",
+  "offset": "0x1284",
+  "size": "0x4"
+ },
+ {
+  "property": "HasGroundSweepLengthMultiplier",
+  "offset": "0x1288",
+  "size": "0x4"
+ },
+ {
+  "property": "AngularDragCoefficient",
+  "offset": "0x1292",
+  "size": "0x4"
+ },
+ {
+  "property": "PitchAngularDrag",
+  "offset": "0x1296",
+  "size": "0x4"
+ },
+ {
+  "property": "RollAngularDrag",
+  "offset": "0x1300",
+  "size": "0x4"
+ },
+ {
+  "property": "AngularDragCoefficientWater",
+  "offset": "0x1304",
+  "size": "0x4"
+ },
+ {
+  "property": "PitchAngularDragWater",
+  "offset": "0x1308",
+  "size": "0x4"
+ },
+ {
+  "property": "RollAngularDragWater",
+  "offset": "0x1312",
+  "size": "0x4"
+ },
+ {
+  "property": "YawAngularDragWater",
+  "offset": "0x1316",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleAnalogReverse",
+  "offset": "0x1320",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleLookAheadMinSpeedInAir",
+  "offset": "0x1324",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleAutoAirPitchStrength",
+  "offset": "0x1328",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleAutoAirYawStrength",
+  "offset": "0x1332",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleAutoAirRollStrength",
+  "offset": "0x1336",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleMinVelAlongContactNormal",
+  "offset": "0x1340",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleMaxVelAlongContactNormal",
+  "offset": "0x1344",
+  "size": "0x4"
+ },
+ {
+  "property": "MinSameDirCollision",
+  "offset": "0x1348",
+  "size": "0x4"
+ },
+ {
+  "property": "MinCollisionSpeedToCorrect",
+  "offset": "0x1352",
+  "size": "0x4"
+ },
+ {
+  "property": "MinCollisionBoostNormal",
+  "offset": "0x1356",
+  "size": "0x4"
+ },
+ {
+  "property": "CollisionSpeedBoostAlpha",
+  "offset": "0x1360",
+  "size": "0x4"
+ },
+ {
+  "property": "CancelIgnoreForwardThreshold",
+  "offset": "0x1364",
+  "size": "0x4"
+ },
+ {
+  "property": "AngularDragCoefficientRampedUp",
+  "offset": "0x1368",
+  "size": "0x4"
+ },
+ {
+  "property": "PitchAngularDragRampedUp",
+  "offset": "0x1372",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleAirYawStrengthRampedUp",
+  "offset": "0x1376",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleAirPitchStrengthRampedUp",
+  "offset": "0x1380",
+  "size": "0x4"
+ },
+ {
+  "property": "WheelRadiusF",
+  "offset": "0x1384",
+  "size": "0x4"
+ },
+ {
+  "property": "WheelRadiusB",
+  "offset": "0x1388",
+  "size": "0x4"
+ },
+ {
+  "property": "PitchLeanStrength",
+  "offset": "0x1392",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxForwardVelAccelLean",
+  "offset": "0x1396",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxReverseVelAccelLean",
+  "offset": "0x1400",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxSteerForAccelLean",
+  "offset": "0x1404",
+  "size": "0x4"
+ },
+ {
+  "property": "MinYawSpeedForLean",
+  "offset": "0x1408",
+  "size": "0x4"
+ },
+ {
+  "property": "YawLeanStrength",
+  "offset": "0x1412",
+  "size": "0x4"
+ },
+ {
+  "property": "AccelerationPitchCooldown",
+  "offset": "0x1416",
+  "size": "0x4"
+ },
+ {
+  "property": "YawLeanCooldown",
+  "offset": "0x1420",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxAccelPitch",
+  "offset": "0x1424",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxYawLean",
+  "offset": "0x1428",
+  "size": "0x4"
+ },
+ {
+  "property": "ContactModificationOffset",
+  "offset": "0x1432",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleFloorFriction",
+  "offset": "0x1436",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleSideScrapeFriction",
+  "offset": "0x1440",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleSideScrapeMaxCosAngle",
+  "offset": "0x1444",
+  "size": "0x4"
+ },
+ {
+  "property": "GroundCheckSweepRadius",
+  "offset": "0x1448",
+  "size": "0x4"
+ },
+ {
+  "property": "GroundTraceLength",
+  "offset": "0x1452",
+  "size": "0x4"
+ },
+ {
+  "property": "SMSleepCounter",
+  "offset": "0x1456",
+  "size": "0x4"
+ },
+ {
+  "property": "CorrectOrientationTimeout",
+  "offset": "0x1460",
+  "size": "0x4"
+ },
+ {
+  "property": "NudgeOrientationTimeout",
+  "offset": "0x1464",
+  "size": "0x4"
+ },
+ {
+  "property": "NudgeDistance",
+  "offset": "0x1468",
+  "size": "0x4"
+ },
+ {
+  "property": "CorrectOrientationCenterOfMassOffset",
+  "offset": "0x1472",
+  "size": "0x24"
+ },
+ {
+  "property": "CorrectOrientationLinearCoefficient",
+  "offset": "0x1496",
+  "size": "0x4"
+ },
+ {
+  "property": "CorrectOrientationAngularCoefficient",
+  "offset": "0x1500",
+  "size": "0x4"
+ },
+ {
+  "property": "SpringCollisionChannel",
+  "offset": "0x1504",
+  "size": "0x1"
+ },
+ {
+  "property": "CustomSpringCollisionChannelData",
+  "offset": "0x1512",
+  "size": "0x16"
+ },
+ {
+  "property": "bShouldLandscapeCheckUseCapsuleOffset",
+  "offset": "0x1528",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldUseTerrainHandlingInfo",
+  "offset": "0x1529",
+  "size": "0x1"
+ },
+ {
+  "property": "NumWheelsOnSurfaceRequired",
+  "offset": "0x1532",
+  "size": "0x4"
+ },
+ {
+  "property": "RoadBehavior",
+  "offset": "0x1536",
+  "size": "0x20"
+ },
+ {
+  "property": "DirtBehavior",
+  "offset": "0x1556",
+  "size": "0x20"
+ },
+ {
+  "property": "GrassBehavior",
+  "offset": "0x1576",
+  "size": "0x20"
+ },
+ {
+  "property": "SnowBehavior",
+  "offset": "0x1596",
+  "size": "0x20"
+ },
+ {
+  "property": "IceBehavior",
+  "offset": "0x1616",
+  "size": "0x20"
+ },
+ {
+  "property": "MudBehavior",
+  "offset": "0x1636",
+  "size": "0x20"
+ },
+ {
+  "property": "bVehicleCameraSteering",
+  "offset": "0x1656",
+  "size": "0x1"
+ },
+ {
+  "property": "bVehicleCameraSteeringForKBM",
+  "offset": "0x1657",
+  "size": "0x1"
+ },
+ {
+  "property": "bVehicleCameraSteeringForGamepad",
+  "offset": "0x1658",
+  "size": "0x1"
+ },
+ {
+  "property": "bVehicleCameraSteeringForTouch",
+  "offset": "0x1659",
+  "size": "0x1"
+ },
+ {
+  "property": "bVehicleCameraBoostForGamepad",
+  "offset": "0x1660",
+  "size": "0x1"
+ },
+ {
+  "property": "bCancelAutoRunOnMoveLeftRight",
+  "offset": "0x1661",
+  "size": "0x1"
+ },
+ {
+  "property": "bVehicleScreenSpaceSteering",
+  "offset": "0x1662",
+  "size": "0x1"
+ },
+ {
+  "property": "bVehicleCameraLeftAnalogSteering",
+  "offset": "0x1663",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseKinematicReplicationWhenNotRendered",
+  "offset": "0x1664",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsVehicleKinematic",
+  "offset": "0x1665",
+  "size": "0x1"
+ },
+ {
+  "property": "bProjectV2VCollisionNormalsOnGround",
+  "offset": "0x1666",
+  "size": "0x1"
+ },
+ {
+  "property": "MaxGroundedVehicleUpDegreeDifference",
+  "offset": "0x1668",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleToVehicleCollisionVelocityScalars",
+  "offset": "0x1672",
+  "size": "0x16"
+ },
+ {
+  "property": "PawnLaunchVerticalVelocityScale",
+  "offset": "0x1688",
+  "size": "0x4"
+ },
+ {
+  "property": "PawnLaunchForwardVelocityScale",
+  "offset": "0x1692",
+  "size": "0x4"
+ },
+ {
+  "property": "PawnLaunchMinVelocityApply",
+  "offset": "0x1696",
+  "size": "0x1"
+ },
+ {
+  "property": "PawnLaunchMinVerticalVelocity",
+  "offset": "0x1700",
+  "size": "0x4"
+ },
+ {
+  "property": "PawnLaunchMinForwardVelocity",
+  "offset": "0x1704",
+  "size": "0x4"
+ },
+ {
+  "property": "PawnLaunchMaxSpeed",
+  "offset": "0x1708",
+  "size": "0x4"
+ },
+ {
+  "property": "PawnLaunchAngleAdjustment",
+  "offset": "0x1712",
+  "size": "0x4"
+ },
+ {
+  "property": "PawnLaunchMinDirection",
+  "offset": "0x1716",
+  "size": "0x4"
+ },
+ {
+  "property": "IgnorePawnForLaunchTimeout",
+  "offset": "0x1720",
+  "size": "0x4"
+ },
+ {
+  "property": "bPushoutPlayers",
+  "offset": "0x1724",
+  "size": "0x1"
+ },
+ {
+  "property": "bProbeShapeSetup",
+  "offset": "0x1725",
+  "size": "0x1"
+ },
+ {
+  "property": "PushoutPlayersUsingMovementMaxDepth",
+  "offset": "0x1728",
+  "size": "0x4"
+ },
+ {
+  "property": "PushoutPlayersUsingMovementMinStrength",
+  "offset": "0x1732",
+  "size": "0x4"
+ },
+ {
+  "property": "PushoutPlayersUsingMovementMaxStrength",
+  "offset": "0x1736",
+  "size": "0x4"
+ },
+ {
+  "property": "PushoutPlayersUsingUsingHardSnapMaxDistance",
+  "offset": "0x1740",
+  "size": "0x4"
+ },
+ {
+  "property": "PushoutPlayersUsingUsingHardSnapMinDistance",
+  "offset": "0x1744",
+  "size": "0x4"
+ },
+ {
+  "property": "HitRequiredMinSpeed",
+  "offset": "0x1748",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxHealthToDestroyProp",
+  "offset": "0x1752",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxHealthToDestroyPropFast",
+  "offset": "0x1756",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxHealthToDestroyPropSpeedThreshold",
+  "offset": "0x1760",
+  "size": "0x4"
+ },
+ {
+  "property": "bShouldUseCalculatedPropDestruction",
+  "offset": "0x1764",
+  "size": "0x1"
+ },
+ {
+  "property": "BoostDestroyPropsAdditionalDamage",
+  "offset": "0x1768",
+  "size": "0x4"
+ },
+ {
+  "property": "PropImpactImpulseMagnitude",
+  "offset": "0x1772",
+  "size": "0x4"
+ },
+ {
+  "property": "RadiusForPropOverlapCheck",
+  "offset": "0x1776",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxMultiplierForVelocityOverlap",
+  "offset": "0x1780",
+  "size": "0x4"
+ },
+ {
+  "property": "MinMultiplierForVelocityOverlap",
+  "offset": "0x1784",
+  "size": "0x4"
+ },
+ {
+  "property": "PropOverlapMinMoveDistSquared",
+  "offset": "0x1788",
+  "size": "0x4"
+ },
+ {
+  "property": "bForceUseImminentCollision",
+  "offset": "0x1792",
+  "size": "0x1"
+ },
+ {
+  "property": "DestructionTraceAheadMinSpeed",
+  "offset": "0x1796",
+  "size": "0x4"
+ },
+ {
+  "property": "DestructionTraceAheadAmount",
+  "offset": "0x1800",
+  "size": "0x4"
+ },
+ {
+  "property": "PropDestructionImpulseAmount",
+  "offset": "0x1804",
+  "size": "0x4"
+ },
+ {
+  "property": "DestructionTraceHalfSize",
+  "offset": "0x1808",
+  "size": "0x24"
+ },
+ {
+  "property": "bCanDestroyProps",
+  "offset": "0x1832",
+  "size": "0x1"
+ },
+ {
+  "property": "ImminentHitRequiredMinSpeed",
+  "offset": "0x1836",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxHealthToDestroyPropBoosting",
+  "offset": "0x1840",
+  "size": "0x4"
+ },
+ {
+  "property": "bShouldUseLocalIgnoreListForDestroyedBuildings",
+  "offset": "0x1844",
+  "size": "0x1"
+ },
+ {
+  "property": "MaxBudgetForActorTick",
+  "offset": "0x1848",
+  "size": "0x4"
+ },
+ {
+  "property": "MinBudgetForReducedSpring",
+  "offset": "0x1852",
+  "size": "0x4"
+ },
+ {
+  "property": "bShouldServerRunReducedSprings",
+  "offset": "0x1856",
+  "size": "0x1"
+ },
+ {
+  "property": "MaxReducedSpringsPerTick",
+  "offset": "0x1860",
+  "size": "0x4"
+ },
+ {
+  "property": "bDontApplyDragInAir",
+  "offset": "0x1864",
+  "size": "0x1"
+ },
+ {
+  "property": "bDriverCanDamageVehicle",
+  "offset": "0x1865",
+  "size": "0x1"
+ },
+ {
+  "property": "bApplyInAirResistance",
+  "offset": "0x1866",
+  "size": "0x1"
+ },
+ {
+  "property": "DriverCannotDamageVehicleExceptionQuery",
+  "offset": "0x1872",
+  "size": "0x72"
+ },
+ {
+  "property": "AllowSelfDamageOnMultiTeamVehicleQuery",
+  "offset": "0x1944",
+  "size": "0x72"
+ },
+ {
+  "property": "bAllowSelfDamageToDriverlessVehicle",
+  "offset": "0x2016",
+  "size": "0x1"
+ },
+ {
+  "property": "AllowSelfDamageOnDriverlessMultiTeamVehicleQuery",
+  "offset": "0x2024",
+  "size": "0x72"
+ },
+ {
+  "property": "MaxWheelSpinWound",
+  "offset": "0x2096",
+  "size": "0x4"
+ },
+ {
+  "property": "bUseRechargeableFuel",
+  "offset": "0x2100",
+  "size": "0x1"
+ },
+ {
+  "property": "bCanReverseOnEmpty",
+  "offset": "0x2101",
+  "size": "0x1"
+ },
+ {
+  "property": "BuoyancyCoefficient",
+  "offset": "0x2104",
+  "size": "0x4"
+ },
+ {
+  "property": "BuoyancyDamp",
+  "offset": "0x2108",
+  "size": "0x4"
+ },
+ {
+  "property": "BuoyancyDamp2",
+  "offset": "0x2112",
+  "size": "0x4"
+ },
+ {
+  "property": "BuoyancyRampMinVelocity",
+  "offset": "0x2116",
+  "size": "0x4"
+ },
+ {
+  "property": "BuoyancyRampMaxVelocity",
+  "offset": "0x2120",
+  "size": "0x4"
+ },
+ {
+  "property": "BuoyancyRampMax",
+  "offset": "0x2124",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxBuoyantForce",
+  "offset": "0x2128",
+  "size": "0x4"
+ },
+ {
+  "property": "UprightSpringWaterPitchStiff",
+  "offset": "0x2132",
+  "size": "0x4"
+ },
+ {
+  "property": "UprightSpringWaterPitchDamp",
+  "offset": "0x2136",
+  "size": "0x4"
+ },
+ {
+  "property": "UprightSpringWaterRollStiff",
+  "offset": "0x2140",
+  "size": "0x4"
+ },
+ {
+  "property": "UprightSpringWaterRollDamp",
+  "offset": "0x2144",
+  "size": "0x4"
+ },
+ {
+  "property": "UprightSpringWaterYawDamp",
+  "offset": "0x2148",
+  "size": "0x4"
+ },
+ {
+  "property": "UprightSpringWaterMaxYawTorque",
+  "offset": "0x2152",
+  "size": "0x4"
+ },
+ {
+  "property": "bModifyShocksInWater",
+  "offset": "0x2156",
+  "size": "0x1"
+ },
+ {
+  "property": "bApplyPushForceAtSocket",
+  "offset": "0x2157",
+  "size": "0x1"
+ },
+ {
+  "property": "WaterVelocityStrength",
+  "offset": "0x2160",
+  "size": "0x4"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x2164",
+  "size": "0x4"
+ },
+ {
+  "property": "NumPontoonsForFullyInWater",
+  "offset": "0x2168",
+  "size": "0x4"
+ },
+ {
+  "property": "WaterIdleTimeForRiverPush",
+  "offset": "0x2172",
+  "size": "0x4"
+ },
+ {
+  "property": "WaterIdleTimeForSleep",
+  "offset": "0x2176",
+  "size": "0x4"
+ },
+ {
+  "property": "VelocityPontoonIndex",
+  "offset": "0x2180",
+  "size": "0x4"
+ },
+ {
+  "property": "WaterShorePushFactor",
+  "offset": "0x2184",
+  "size": "0x4"
+ },
+ {
+  "property": "YawAngularDragIdleMultiplier",
+  "offset": "0x2188",
+  "size": "0x4"
+ },
+ {
+  "property": "YawAngularDragWaterEmpty",
+  "offset": "0x2192",
+  "size": "0x4"
+ },
+ {
+  "property": "WaterBodyTraceTimer",
+  "offset": "0x2196",
+  "size": "0x4"
+ },
+ {
+  "property": "WaterBodyOverlapSphereRadius",
+  "offset": "0x2200",
+  "size": "0x4"
+ },
+ {
+  "property": "WaterBodyOverlapSphereCenterZOffset",
+  "offset": "0x2204",
+  "size": "0x4"
+ },
+ {
+  "property": "bUseBoxBasedWaterOverlapChecks",
+  "offset": "0x2208",
+  "size": "0x1"
+ },
+ {
+  "property": "WaterBoxSizeForOverlaps",
+  "offset": "0x2216",
+  "size": "0x24"
+ },
+ {
+  "property": "WaterBoxOffsetForOverlaps",
+  "offset": "0x2240",
+  "size": "0x24"
+ },
+ {
+  "property": "WaterSubmergedDelay",
+  "offset": "0x2264",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxWaterDepth",
+  "offset": "0x2268",
+  "size": "0x4"
+ },
+ {
+  "property": "WaterDestructionDelay",
+  "offset": "0x2272",
+  "size": "0x4"
+ },
+ {
+  "property": "ImminentCollisDestructionAngle",
+  "offset": "0x2276",
+  "size": "0x4"
+ },
+ {
+  "property": "ImminentCollisUpForwardMinProtected",
+  "offset": "0x2280",
+  "size": "0x4"
+ },
+ {
+  "property": "ImminentCollisUpNormalMinProtected",
+  "offset": "0x2284",
+  "size": "0x4"
+ },
+ {
+  "property": "DebasePlayerLaunchSpeed",
+  "offset": "0x2288",
+  "size": "0x4"
+ },
+ {
+  "property": "bExplodeOnImpactAtCriticalHealth",
+  "offset": "0x2292",
+  "size": "0x1"
+ },
+ {
+  "property": "MetalOnHit",
+  "offset": "0x2296",
+  "size": "0x40"
+ },
+ {
+  "property": "bOverrideErrorCorrection",
+  "offset": "0x2336",
+  "size": "0x1"
+ },
+ {
+  "property": "ErrorCorrectionOverride",
+  "offset": "0x2340",
+  "size": "0x52"
+ },
+ {
+  "property": "PlatformErrorCorrectionOverride",
+  "offset": "0x2392",
+  "size": "0x52"
+ },
+ {
+  "property": "BoundsXYSplineClass",
+  "offset": "0x2448",
+  "size": "0x8"
+ },
+ {
+  "property": "bEnableDormantOnSleep",
+  "offset": "0x2456",
+  "size": "0x40"
+ },
+ {
+  "property": "MinVehicleDamage",
+  "offset": "0x2496",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxVehicleDamage",
+  "offset": "0x2500",
+  "size": "0x4"
+ },
+ {
+  "property": "MinVehicleDamageSpeedKmh",
+  "offset": "0x2504",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxVehicleDamageSpeedKmh",
+  "offset": "0x2508",
+  "size": "0x4"
+ },
+ {
+  "property": "MinVehicleDamageWhileBoosting",
+  "offset": "0x2512",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxVehicleDamageWhileBoosting",
+  "offset": "0x2516",
+  "size": "0x4"
+ },
+ {
+  "property": "MinVehicleDamageSpeedWhileBoostingKmh",
+  "offset": "0x2520",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxVehicleDamageSpeedWhileBoostingKmh",
+  "offset": "0x2524",
+  "size": "0x4"
+ },
+ {
+  "property": "MinBumpinessSpringHitTimeMultiplier",
+  "offset": "0x2528",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxBumpinessSpringHitTimeMultiplier",
+  "offset": "0x2532",
+  "size": "0x4"
+ },
+ {
+  "property": "BumpinessExponentForShocks",
+  "offset": "0x2536",
+  "size": "0x4"
+ },
+ {
+  "property": "DirtRoadFakeBumpinessMultiplier",
+  "offset": "0x2540",
+  "size": "0x4"
+ },
+ {
+  "property": "bApplyGameplayImpulseAtCOM",
+  "offset": "0x2544",
+  "size": "0x1"
+ },
+ {
+  "property": "PlatformExitInterpSpeedCmS",
+  "offset": "0x2548",
+  "size": "0x4"
+ },
+ {
+  "property": "PlatformExitInterpMaxDeltaTime",
+  "offset": "0x2552",
+  "size": "0x4"
+ },
+ {
+  "property": "PlatformExitSpeedThreshold",
+  "offset": "0x2556",
+  "size": "0x4"
+ },
+ {
+  "property": "PlatformEntryFrictionVelocityCoefficient",
+  "offset": "0x2560",
+  "size": "0x4"
+ },
+ {
+  "property": "bApplyPawnSpeedOnEntry",
+  "offset": "0x2564",
+  "size": "0x1"
+ },
+ {
+  "property": "MaxAppliedPawnSpeedOnEntry",
+  "offset": "0x2568",
+  "size": "0x4"
+ }
+]

@@ -1,0 +1,47 @@
+[
+ {
+  "property": "Padding",
+  "offset": "0x384",
+  "size": "0x16"
+ },
+ {
+  "property": "HorizontalAlignment",
+  "offset": "0x400",
+  "size": "0x1"
+ },
+ {
+  "property": "VerticalAlignment",
+  "offset": "0x401",
+  "size": "0x1"
+ },
+ {
+  "property": "bApplyAlphaToBlur",
+  "offset": "0x402",
+  "size": "0x1"
+ },
+ {
+  "property": "BlurStrength",
+  "offset": "0x404",
+  "size": "0x4"
+ },
+ {
+  "property": "bOverrideAutoRadiusCalculation",
+  "offset": "0x408",
+  "size": "0x1"
+ },
+ {
+  "property": "BlurRadius",
+  "offset": "0x412",
+  "size": "0x4"
+ },
+ {
+  "property": "CornerRadius",
+  "offset": "0x416",
+  "size": "0x32"
+ },
+ {
+  "property": "LowQualityFallbackBrush",
+  "offset": "0x448",
+  "size": "0x176"
+ }
+]

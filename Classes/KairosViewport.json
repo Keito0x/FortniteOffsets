@@ -1,0 +1,57 @@
+[
+ {
+  "property": "BackgroundColor",
+  "offset": "0x384",
+  "size": "0x16"
+ },
+ {
+  "property": "EffectMaterial",
+  "offset": "0x400",
+  "size": "0x8"
+ },
+ {
+  "property": "CaptureSource",
+  "offset": "0x408",
+  "size": "0x1"
+ },
+ {
+  "property": "ViewLocation",
+  "offset": "0x416",
+  "size": "0x24"
+ },
+ {
+  "property": "ViewRotation",
+  "offset": "0x440",
+  "size": "0x24"
+ },
+ {
+  "property": "DefaultGameMode",
+  "offset": "0x464",
+  "size": "0x8"
+ },
+ {
+  "property": "DynamicMaterial",
+  "offset": "0x472",
+  "size": "0x8"
+ },
+ {
+  "property": "Unknown_ffield",
+  "offset": "0x480",
+  "size": "0x8"
+ },
+ {
+  "property": "CaptureComponent",
+  "offset": "0x488",
+  "size": "0x8"
+ },
+ {
+  "property": "ViewportActorClass",
+  "offset": "0x504",
+  "size": "0x8"
+ },
+ {
+  "property": "SpawnedActors",
+  "offset": "0x512",
+  "size": "0x16"
+ }
+]

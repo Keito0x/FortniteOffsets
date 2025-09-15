@@ -1,0 +1,12 @@
+[
+ {
+  "property": "VariableDesc",
+  "offset": "0x288",
+  "size": "0x8"
+ },
+ {
+  "property": "DuplicationInfo",
+  "offset": "0x296",
+  "size": "0x64"
+ }
+]

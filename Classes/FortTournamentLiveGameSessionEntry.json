@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Text_PlayerList",
+  "offset": "0x5624",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_GameTimeDuration",
+  "offset": "0x5632",
+  "size": "0x8"
+ }
+]

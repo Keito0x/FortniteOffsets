@@ -1,0 +1,232 @@
+[
+ {
+  "property": "DistanceCurve",
+  "offset": "0x192",
+  "size": "0x4"
+ },
+ {
+  "property": "PivotTurnCorrection",
+  "offset": "0x196",
+  "size": "0x48"
+ },
+ {
+  "property": "PlayRateSpeedWarpAlphaCurve",
+  "offset": "0x244",
+  "size": "0x4"
+ },
+ {
+  "property": "PlayRateSpeedWarpAlpha",
+  "offset": "0x248",
+  "size": "0x4"
+ },
+ {
+  "property": "PivotStateData",
+  "offset": "0x252",
+  "size": "0x20"
+ },
+ {
+  "property": "PivotAnimationLeft",
+  "offset": "0x272",
+  "size": "0x8"
+ },
+ {
+  "property": "PivotAnimationRight",
+  "offset": "0x280",
+  "size": "0x8"
+ },
+ {
+  "property": "PivotEarlyOutAngleThreshold",
+  "offset": "0x288",
+  "size": "0x4"
+ },
+ {
+  "property": "StartTurnCorrection",
+  "offset": "0x292",
+  "size": "0x48"
+ },
+ {
+  "property": "StartStateData",
+  "offset": "0x340",
+  "size": "0x20"
+ },
+ {
+  "property": "DirectionalStartAnims",
+  "offset": "0x360",
+  "size": "0x40"
+ },
+ {
+  "property": "StartEarlyOutThresold",
+  "offset": "0x400",
+  "size": "0x4"
+ },
+ {
+  "property": "bIgnoreStartTransitionSettings",
+  "offset": "0x404",
+  "size": "0x1"
+ },
+ {
+  "property": "MovementStateData",
+  "offset": "0x408",
+  "size": "0x20"
+ },
+ {
+  "property": "LocomotionDeadZoneAngle",
+  "offset": "0x428",
+  "size": "0x4"
+ },
+ {
+  "property": "OverallSpeedRateMaxValue",
+  "offset": "0x432",
+  "size": "0x4"
+ },
+ {
+  "property": "WalkPlayRateValue",
+  "offset": "0x436",
+  "size": "0x4"
+ },
+ {
+  "property": "WalkSpeedWarpingValue",
+  "offset": "0x440",
+  "size": "0x4"
+ },
+ {
+  "property": "Speed2D",
+  "offset": "0x444",
+  "size": "0x4"
+ },
+ {
+  "property": "bIsOnGround",
+  "offset": "0x448",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsMoving2D",
+  "offset": "0x448",
+  "size": "0x1"
+ },
+ {
+  "property": "bWasMoving2DLastFrame",
+  "offset": "0x448",
+  "size": "0x1"
+ },
+ {
+  "property": "PivotLocation",
+  "offset": "0x456",
+  "size": "0x24"
+ },
+ {
+  "property": "PivotInitialFacingDir2D",
+  "offset": "0x480",
+  "size": "0x24"
+ },
+ {
+  "property": "PivotAnimation",
+  "offset": "0x504",
+  "size": "0x8"
+ },
+ {
+  "property": "PivotAnimPosition",
+  "offset": "0x512",
+  "size": "0x4"
+ },
+ {
+  "property": "bPivotTransitionTriggered",
+  "offset": "0x516",
+  "size": "0x1"
+ },
+ {
+  "property": "bPivotEarlyOut",
+  "offset": "0x516",
+  "size": "0x1"
+ },
+ {
+  "property": "bStartTransitionTriggered",
+  "offset": "0x516",
+  "size": "0x1"
+ },
+ {
+  "property": "bStartEarlyOut",
+  "offset": "0x516",
+  "size": "0x1"
+ },
+ {
+  "property": "StartAnimDistanceFromMarker",
+  "offset": "0x520",
+  "size": "0x4"
+ },
+ {
+  "property": "ActualDistanceFromMarker",
+  "offset": "0x524",
+  "size": "0x4"
+ },
+ {
+  "property": "StartAnimTimeElapsed",
+  "offset": "0x528",
+  "size": "0x4"
+ },
+ {
+  "property": "StartTurnDirection",
+  "offset": "0x532",
+  "size": "0x4"
+ },
+ {
+  "property": "StartInitialAccelYaw",
+  "offset": "0x536",
+  "size": "0x4"
+ },
+ {
+  "property": "StartAnimPosition",
+  "offset": "0x540",
+  "size": "0x4"
+ },
+ {
+  "property": "StartAnimLocation",
+  "offset": "0x544",
+  "size": "0x24"
+ },
+ {
+  "property": "StartCardinalDirection",
+  "offset": "0x568",
+  "size": "0x1"
+ },
+ {
+  "property": "StartAnimation",
+  "offset": "0x576",
+  "size": "0x8"
+ },
+ {
+  "property": "LocalVelocityYawAngle",
+  "offset": "0x584",
+  "size": "0x4"
+ },
+ {
+  "property": "LocalAccelerationYawAngle",
+  "offset": "0x588",
+  "size": "0x4"
+ },
+ {
+  "property": "LocomotionCardinalDirection",
+  "offset": "0x592",
+  "size": "0x1"
+ },
+ {
+  "property": "LocalVelocityYawAngleInterpolator",
+  "offset": "0x596",
+  "size": "0x8"
+ },
+ {
+  "property": "LocalVelocityYawAngleInterpolated",
+  "offset": "0x632",
+  "size": "0x4"
+ },
+ {
+  "property": "ActorRotationLastTick",
+  "offset": "0x640",
+  "size": "0x24"
+ },
+ {
+  "property": "ActorRotation",
+  "offset": "0x664",
+  "size": "0x24"
+ }
+]

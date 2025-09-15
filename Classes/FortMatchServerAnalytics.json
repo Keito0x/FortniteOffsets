@@ -1,0 +1,27 @@
+[
+ {
+  "property": "PlayersNotCompletingPhasePercentage",
+  "offset": "0x576",
+  "size": "0x4"
+ },
+ {
+  "property": "PlayersDisconnectingUnexpectedlyPercentage",
+  "offset": "0x580",
+  "size": "0x4"
+ },
+ {
+  "property": "MatchStartThreshold",
+  "offset": "0x600",
+  "size": "0x8"
+ },
+ {
+  "property": "bHttpRequestCompletedDelegateEnabled",
+  "offset": "0x624",
+  "size": "0x1"
+ },
+ {
+  "property": "HttpRequestCompletedFilters",
+  "offset": "0x632",
+  "size": "0x16"
+ }
+]

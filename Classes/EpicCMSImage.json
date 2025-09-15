@@ -1,0 +1,32 @@
+[
+ {
+  "property": "OnImageLoadingComplete",
+  "offset": "0x1072",
+  "size": "0x16"
+ },
+ {
+  "property": "OnExternalMediaChanged",
+  "offset": "0x1088",
+  "size": "0x16"
+ },
+ {
+  "property": "bMatchImageSize",
+  "offset": "0x1104",
+  "size": "0x1"
+ },
+ {
+  "property": "LoadingFailFallback",
+  "offset": "0x1120",
+  "size": "0x176"
+ },
+ {
+  "property": "ExternalMedia",
+  "offset": "0x1296",
+  "size": "0x8"
+ },
+ {
+  "property": "bDownloadingExternalMedia",
+  "offset": "0x1304",
+  "size": "0x1"
+ }
+]

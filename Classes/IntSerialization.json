@@ -1,0 +1,42 @@
+[
+ {
+  "property": "UnsignedInt16Variable",
+  "offset": "0x40",
+  "size": "0x2"
+ },
+ {
+  "property": "UnsignedInt32Variable",
+  "offset": "0x44",
+  "size": "0x4"
+ },
+ {
+  "property": "UnsignedInt64Variable",
+  "offset": "0x48",
+  "size": "0x8"
+ },
+ {
+  "property": "SignedInt8Variable",
+  "offset": "0x56",
+  "size": "0x1"
+ },
+ {
+  "property": "SignedInt16Variable",
+  "offset": "0x58",
+  "size": "0x2"
+ },
+ {
+  "property": "SignedInt64Variable",
+  "offset": "0x64",
+  "size": "0x8"
+ },
+ {
+  "property": "UnsignedInt8Variable",
+  "offset": "0x72",
+  "size": "0x1"
+ },
+ {
+  "property": "SignedInt32Variable",
+  "offset": "0x76",
+  "size": "0x4"
+ }
+]

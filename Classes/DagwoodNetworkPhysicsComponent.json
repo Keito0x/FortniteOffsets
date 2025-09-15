@@ -1,0 +1,27 @@
+[
+ {
+  "property": "NetworkPhysicsState",
+  "offset": "0x192",
+  "size": "0x144"
+ },
+ {
+  "property": "OnGeneratedLocalInputCmd",
+  "offset": "0x336",
+  "size": "0x16"
+ },
+ {
+  "property": "ReplicatedManagedState",
+  "offset": "0x352",
+  "size": "0x1256"
+ },
+ {
+  "property": "InManagedState",
+  "offset": "0x1608",
+  "size": "0x1256"
+ },
+ {
+  "property": "OutManagedState",
+  "offset": "0x2864",
+  "size": "0x1256"
+ }
+]

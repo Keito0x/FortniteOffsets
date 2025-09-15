@@ -1,0 +1,137 @@
+[
+ {
+  "property": "CompressionQuality",
+  "offset": "0x400",
+  "size": "0x4"
+ },
+ {
+  "property": "StreamingPriority",
+  "offset": "0x404",
+  "size": "0x4"
+ },
+ {
+  "property": "SampleRateQuality",
+  "offset": "0x408",
+  "size": "0x1"
+ },
+ {
+  "property": "SoundGroup",
+  "offset": "0x410",
+  "size": "0x1"
+ },
+ {
+  "property": "bLooping",
+  "offset": "0x411",
+  "size": "0x1"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x411",
+  "size": "0x1"
+ },
+ {
+  "property": "bSeekableStreaming",
+  "offset": "0x411",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseBinkAudio",
+  "offset": "0x411",
+  "size": "0x1"
+ },
+ {
+  "property": "SoundAssetCompressionType",
+  "offset": "0x412",
+  "size": "0x1"
+ },
+ {
+  "property": "ModulationSettings",
+  "offset": "0x432",
+  "size": "0x360"
+ },
+ {
+  "property": "FrequenciesToAnalyze",
+  "offset": "0x792",
+  "size": "0x16"
+ },
+ {
+  "property": "CookedSpectralTimeData",
+  "offset": "0x808",
+  "size": "0x16"
+ },
+ {
+  "property": "CookedEnvelopeTimeData",
+  "offset": "0x824",
+  "size": "0x16"
+ },
+ {
+  "property": "bMature",
+  "offset": "0x868",
+  "size": "0x1"
+ },
+ {
+  "property": "bManualWordWrap",
+  "offset": "0x868",
+  "size": "0x1"
+ },
+ {
+  "property": "bSingleLine",
+  "offset": "0x868",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsAmbisonics",
+  "offset": "0x869",
+  "size": "0x1"
+ },
+ {
+  "property": "LoadingBehavior",
+  "offset": "0x870",
+  "size": "0x1"
+ },
+ {
+  "property": "SpokenText",
+  "offset": "0x872",
+  "size": "0x16"
+ },
+ {
+  "property": "SubtitlePriority",
+  "offset": "0x888",
+  "size": "0x4"
+ },
+ {
+  "property": "Volume",
+  "offset": "0x892",
+  "size": "0x4"
+ },
+ {
+  "property": "pitch",
+  "offset": "0x896",
+  "size": "0x4"
+ },
+ {
+  "property": "Unknown_ffield",
+  "offset": "0x900",
+  "size": "0x4"
+ },
+ {
+  "property": "SampleRate",
+  "offset": "0x904",
+  "size": "0x4"
+ },
+ {
+  "property": "Subtitles",
+  "offset": "0x920",
+  "size": "0x16"
+ },
+ {
+  "property": "Curves",
+  "offset": "0x936",
+  "size": "0x8"
+ },
+ {
+  "property": "InternalCurves",
+  "offset": "0x944",
+  "size": "0x8"
+ }
+]

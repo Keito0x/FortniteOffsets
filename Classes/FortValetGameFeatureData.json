@@ -1,0 +1,17 @@
+[
+ {
+  "property": "PropReplacements",
+  "offset": "0x1264",
+  "size": "0x80"
+ },
+ {
+  "property": "VehicleSpawnerClass",
+  "offset": "0x1344",
+  "size": "0x32"
+ },
+ {
+  "property": "SpawnActorCollisionHandlingMethod",
+  "offset": "0x1376",
+  "size": "0x1"
+ }
+]

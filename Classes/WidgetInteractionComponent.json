@@ -1,0 +1,102 @@
+[
+ {
+  "property": "OnHoveredWidgetChanged",
+  "offset": "0x576",
+  "size": "0x16"
+ },
+ {
+  "property": "VirtualUserIndex",
+  "offset": "0x608",
+  "size": "0x4"
+ },
+ {
+  "property": "PointerIndex",
+  "offset": "0x612",
+  "size": "0x4"
+ },
+ {
+  "property": "TraceChannel",
+  "offset": "0x616",
+  "size": "0x1"
+ },
+ {
+  "property": "InteractionDistance",
+  "offset": "0x620",
+  "size": "0x4"
+ },
+ {
+  "property": "InteractionSource",
+  "offset": "0x624",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableHitTesting",
+  "offset": "0x625",
+  "size": "0x1"
+ },
+ {
+  "property": "bShowDebug",
+  "offset": "0x626",
+  "size": "0x1"
+ },
+ {
+  "property": "DebugSphereLineThickness",
+  "offset": "0x628",
+  "size": "0x4"
+ },
+ {
+  "property": "DebugLineThickness",
+  "offset": "0x632",
+  "size": "0x4"
+ },
+ {
+  "property": "DebugColor",
+  "offset": "0x636",
+  "size": "0x16"
+ },
+ {
+  "property": "CustomHitResult",
+  "offset": "0x776",
+  "size": "0x248"
+ },
+ {
+  "property": "LocalHitLocation",
+  "offset": "0x1024",
+  "size": "0x16"
+ },
+ {
+  "property": "LastLocalHitLocation",
+  "offset": "0x1040",
+  "size": "0x16"
+ },
+ {
+  "property": "HoveredWidgetComponent",
+  "offset": "0x1056",
+  "size": "0x8"
+ },
+ {
+  "property": "WeakHoveredWidgetComponent",
+  "offset": "0x1064",
+  "size": "0x8"
+ },
+ {
+  "property": "LastHitResult",
+  "offset": "0x1072",
+  "size": "0x248"
+ },
+ {
+  "property": "bIsHoveredWidgetInteractable",
+  "offset": "0x1320",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsHoveredWidgetFocusable",
+  "offset": "0x1321",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsHoveredWidgetHitTestVisible",
+  "offset": "0x1322",
+  "size": "0x1"
+ }
+]

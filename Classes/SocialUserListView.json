@@ -1,0 +1,12 @@
+[
+ {
+  "property": "ActiveActionMenu",
+  "offset": "0x1208",
+  "size": "0x8"
+ },
+ {
+  "property": "CachedActionMenuPool",
+  "offset": "0x1216",
+  "size": "0x80"
+ }
+]

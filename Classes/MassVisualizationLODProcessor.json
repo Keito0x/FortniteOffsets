@@ -1,0 +1,12 @@
+[
+ {
+  "property": "FilterTag",
+  "offset": "0x3592",
+  "size": "0x8"
+ },
+ {
+  "property": "bDoAdjustmentFromCount",
+  "offset": "0x3600",
+  "size": "0x1"
+ }
+]

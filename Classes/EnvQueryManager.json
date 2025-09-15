@@ -1,0 +1,52 @@
+[
+ {
+  "property": "InstanceCache",
+  "offset": "0x168",
+  "size": "0x16"
+ },
+ {
+  "property": "LocalContexts",
+  "offset": "0x184",
+  "size": "0x16"
+ },
+ {
+  "property": "GCShieldedWrappers",
+  "offset": "0x200",
+  "size": "0x16"
+ },
+ {
+  "property": "MaxAllowedTestingTime",
+  "offset": "0x300",
+  "size": "0x4"
+ },
+ {
+  "property": "bTestQueriesUsingBreadth",
+  "offset": "0x304",
+  "size": "0x1"
+ },
+ {
+  "property": "QueryCountWarningThreshold",
+  "offset": "0x308",
+  "size": "0x4"
+ },
+ {
+  "property": "QueryCountWarningInterval",
+  "offset": "0x312",
+  "size": "0x8"
+ },
+ {
+  "property": "ExecutionTimeWarningSeconds",
+  "offset": "0x320",
+  "size": "0x8"
+ },
+ {
+  "property": "HandlingResultTimeWarningSeconds",
+  "offset": "0x328",
+  "size": "0x8"
+ },
+ {
+  "property": "GenerationTimeWarningSeconds",
+  "offset": "0x336",
+  "size": "0x8"
+ }
+]

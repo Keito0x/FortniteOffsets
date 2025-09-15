@@ -1,0 +1,17 @@
+[
+ {
+  "property": "PendingAudioShapes",
+  "offset": "0x88",
+  "size": "0x16"
+ },
+ {
+  "property": "AudioShapes",
+  "offset": "0x104",
+  "size": "0x16"
+ },
+ {
+  "property": "LocalControllers",
+  "offset": "0x120",
+  "size": "0x16"
+ }
+]

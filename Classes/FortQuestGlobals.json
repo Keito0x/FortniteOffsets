@@ -1,0 +1,32 @@
+[
+ {
+  "property": "ChallengeObjectiveHotfixes",
+  "offset": "0x40",
+  "size": "0x16"
+ },
+ {
+  "property": "ChallengeSuppressedHotfixes",
+  "offset": "0x56",
+  "size": "0x16"
+ },
+ {
+  "property": "ChallengeObjectiveCountHotfixes",
+  "offset": "0x72",
+  "size": "0x16"
+ },
+ {
+  "property": "DiscoverPOIIncrementCountHotfixes",
+  "offset": "0x88",
+  "size": "0x16"
+ },
+ {
+  "property": "NonBusrideChallengeVOHotfixes",
+  "offset": "0x104",
+  "size": "0x16"
+ },
+ {
+  "property": "bEnableSeasonalQuestline",
+  "offset": "0x120",
+  "size": "0x1"
+ }
+]

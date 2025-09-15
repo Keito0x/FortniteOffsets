@@ -1,0 +1,22 @@
+[
+ {
+  "property": "A",
+  "offset": "0x176",
+  "size": "0x40"
+ },
+ {
+  "property": "B",
+  "offset": "0x216",
+  "size": "0x40"
+ },
+ {
+  "property": "ConstA",
+  "offset": "0x256",
+  "size": "0x4"
+ },
+ {
+  "property": "ConstB",
+  "offset": "0x260",
+  "size": "0x4"
+ }
+]

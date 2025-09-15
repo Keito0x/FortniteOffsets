@@ -1,0 +1,32 @@
+[
+ {
+  "property": "AssetsToPreload",
+  "offset": "0x40",
+  "size": "0x16"
+ },
+ {
+  "property": "ServerOnlyAssetsToPreload",
+  "offset": "0x56",
+  "size": "0x16"
+ },
+ {
+  "property": "ClientOnlyAssetsToPreload",
+  "offset": "0x72",
+  "size": "0x16"
+ },
+ {
+  "property": "ClassesToPreload",
+  "offset": "0x88",
+  "size": "0x16"
+ },
+ {
+  "property": "ServerOnlyClassesToPreload",
+  "offset": "0x104",
+  "size": "0x16"
+ },
+ {
+  "property": "ClientOnlyClassesToPreload",
+  "offset": "0x120",
+  "size": "0x16"
+ }
+]

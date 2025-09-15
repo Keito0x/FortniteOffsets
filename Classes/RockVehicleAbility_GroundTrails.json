@@ -1,0 +1,27 @@
+[
+ {
+  "property": "GroundTrailsMap",
+  "offset": "0x208",
+  "size": "0x24"
+ },
+ {
+  "property": "GroundTrailSockets",
+  "offset": "0x232",
+  "size": "0x16"
+ },
+ {
+  "property": "HandbrakeSystem",
+  "offset": "0x248",
+  "size": "0x8"
+ },
+ {
+  "property": "GroundTrailComponents",
+  "offset": "0x256",
+  "size": "0x16"
+ },
+ {
+  "property": "HandbrakeComponents",
+  "offset": "0x272",
+  "size": "0x16"
+ }
+]

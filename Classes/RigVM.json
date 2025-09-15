@@ -1,0 +1,42 @@
+[
+ {
+  "property": "LiteralMemoryStorage",
+  "offset": "0x40",
+  "size": "0x80"
+ },
+ {
+  "property": "DefaultWorkMemoryStorage",
+  "offset": "0x120",
+  "size": "0x80"
+ },
+ {
+  "property": "DefaultDebugMemoryStorage",
+  "offset": "0x200",
+  "size": "0x80"
+ },
+ {
+  "property": "ByteCodeStorage",
+  "offset": "0x312",
+  "size": "0x168"
+ },
+ {
+  "property": "Instructions",
+  "offset": "0x504",
+  "size": "0x16"
+ },
+ {
+  "property": "FunctionNamesStorage",
+  "offset": "0x520",
+  "size": "0x16"
+ },
+ {
+  "property": "Parameters",
+  "offset": "0x592",
+  "size": "0x16"
+ },
+ {
+  "property": "CachedVMHash",
+  "offset": "0x824",
+  "size": "0x4"
+ }
+]

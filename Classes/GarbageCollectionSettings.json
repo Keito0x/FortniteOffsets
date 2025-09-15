@@ -1,0 +1,77 @@
+[
+ {
+  "property": "TimeBetweenPurgingPendingKillObjects",
+  "offset": "0x48",
+  "size": "0x4"
+ },
+ {
+  "property": "FlushStreamingOnGC",
+  "offset": "0x52",
+  "size": "0x1"
+ },
+ {
+  "property": "AllowParallelGC",
+  "offset": "0x52",
+  "size": "0x1"
+ },
+ {
+  "property": "IncrementalBeginDestroyEnabled",
+  "offset": "0x52",
+  "size": "0x1"
+ },
+ {
+  "property": "CreateGCClusters",
+  "offset": "0x52",
+  "size": "0x1"
+ },
+ {
+  "property": "AssetClusteringEnabled",
+  "offset": "0x52",
+  "size": "0x1"
+ },
+ {
+  "property": "ActorClusteringEnabled",
+  "offset": "0x52",
+  "size": "0x1"
+ },
+ {
+  "property": "VerifyUObjectsAreNotFGCObjects",
+  "offset": "0x52",
+  "size": "0x1"
+ },
+ {
+  "property": "GarbageEliminationEnabled",
+  "offset": "0x52",
+  "size": "0x1"
+ },
+ {
+  "property": "DumpObjectCountsToLogWhenMaxObjectLimitExceeded",
+  "offset": "0x53",
+  "size": "0x1"
+ },
+ {
+  "property": "MinGCClusterSize",
+  "offset": "0x56",
+  "size": "0x4"
+ },
+ {
+  "property": "NumRetriesBeforeForcingGC",
+  "offset": "0x60",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxObjectsNotConsideredByGC",
+  "offset": "0x64",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxObjectsInGame",
+  "offset": "0x68",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxObjectsInEditor",
+  "offset": "0x72",
+  "size": "0x4"
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "property": "ActionName",
+  "offset": "0x2920",
+  "size": "0x4"
+ },
+ {
+  "property": "ExtraActionNames",
+  "offset": "0x2928",
+  "size": "0x16"
+ },
+ {
+  "property": "EnhancedInputActionsToBind",
+  "offset": "0x2944",
+  "size": "0x80"
+ },
+ {
+  "property": "bActivateOnInputPress",
+  "offset": "0x3056",
+  "size": "0x1"
+ }
+]

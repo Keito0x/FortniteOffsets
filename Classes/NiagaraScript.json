@@ -1,0 +1,57 @@
+[
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x48",
+  "size": "0x1"
+ },
+ {
+  "property": "UsageId",
+  "offset": "0x52",
+  "size": "0x16"
+ },
+ {
+  "property": "RapidIterationParameters",
+  "offset": "0x72",
+  "size": "0x136"
+ },
+ {
+  "property": "ScriptExecutionParamStore",
+  "offset": "0x208",
+  "size": "0x144"
+ },
+ {
+  "property": "ScriptExecutionBoundParameters",
+  "offset": "0x352",
+  "size": "0x16"
+ },
+ {
+  "property": "CachedScriptVMId",
+  "offset": "0x368",
+  "size": "0x40"
+ },
+ {
+  "property": "CachedScriptVM",
+  "offset": "0x424",
+  "size": "0x336"
+ },
+ {
+  "property": "CachedParameterCollectionReferences",
+  "offset": "0x760",
+  "size": "0x16"
+ },
+ {
+  "property": "ResolvedDataInterfaces",
+  "offset": "0x776",
+  "size": "0x16"
+ },
+ {
+  "property": "ResolvedUserDataInterfaceBindings",
+  "offset": "0x792",
+  "size": "0x16"
+ },
+ {
+  "property": "ResolvedUObjectInfos",
+  "offset": "0x808",
+  "size": "0x16"
+ }
+]

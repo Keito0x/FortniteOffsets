@@ -1,0 +1,369 @@
+[
+ {
+  "property": "PlaylistId",
+  "offset": "0x56",
+  "size": "0x4"
+ },
+ {
+  "property": "PlaylistName",
+  "offset": "0x60",
+  "size": "0x4"
+ },
+ {
+  "property": "GameType",
+  "offset": "0x64",
+  "size": "0x1"
+ },
+ {
+  "property": "MinPlayers",
+  "offset": "0x68",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxPlayers",
+  "offset": "0x72",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxPriority",
+  "offset": "0x76",
+  "size": "0x4"
+ },
+ {
+  "property": "bUnderfillMatchmaking",
+  "offset": "0x80",
+  "size": "0x1"
+ },
+ {
+  "property": "UnderfilledMaxPlayers",
+  "offset": "0x84",
+  "size": "0x4"
+ },
+ {
+  "property": "bOverrideMaxPlayers",
+  "offset": "0x88",
+  "size": "0x1"
+ },
+ {
+  "property": "MaxHumanAndBotParticipants",
+  "offset": "0x92",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxTeamCount",
+  "offset": "0x96",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxTeamSize",
+  "offset": "0x100",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxSocialPartySize",
+  "offset": "0x104",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxSquadSize",
+  "offset": "0x108",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxSquads",
+  "offset": "0x112",
+  "size": "0x4"
+ },
+ {
+  "property": "EnforceSquadFill",
+  "offset": "0x116",
+  "size": "0x1"
+ },
+ {
+  "property": "bAllowSquadFillOption",
+  "offset": "0x117",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldFillWhenNoSquadFillOption",
+  "offset": "0x118",
+  "size": "0x1"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x119",
+  "size": "0x1"
+ },
+ {
+  "property": "JoinInProgressMatchType",
+  "offset": "0x120",
+  "size": "0x16"
+ },
+ {
+  "property": "EndOfMatchXpFirstElim",
+  "offset": "0x136",
+  "size": "0x4"
+ },
+ {
+  "property": "EndOfMatchXpMultiplier",
+  "offset": "0x140",
+  "size": "0x4"
+ },
+ {
+  "property": "UserOptions",
+  "offset": "0x144",
+  "size": "0x8"
+ },
+ {
+  "property": "bEnableBackfillDuringWarmupPhase",
+  "offset": "0x152",
+  "size": "0x1"
+ },
+ {
+  "property": "TimeAfterWarmupToDisableBackfill",
+  "offset": "0x156",
+  "size": "0x4"
+ },
+ {
+  "property": "RichPresenceAssetName",
+  "offset": "0x160",
+  "size": "0x4"
+ },
+ {
+  "property": "bAllowKeepPlayingTogether",
+  "offset": "0x164",
+  "size": "0x1"
+ },
+ {
+  "property": "bAllowPartyRift",
+  "offset": "0x165",
+  "size": "0x1"
+ },
+ {
+  "property": "bAllowSquadSizeTracking",
+  "offset": "0x166",
+  "size": "0x1"
+ },
+ {
+  "property": "PreloadPersistentLevel",
+  "offset": "0x168",
+  "size": "0x32"
+ },
+ {
+  "property": "AdditionalLevels",
+  "offset": "0x200",
+  "size": "0x16"
+ },
+ {
+  "property": "AdditionalLevelsServerOnly",
+  "offset": "0x216",
+  "size": "0x16"
+ },
+ {
+  "property": "BuiltInGameFeaturePluginsToLoad",
+  "offset": "0x232",
+  "size": "0x16"
+ },
+ {
+  "property": "OverrideLinkIdToDownload",
+  "offset": "0x248",
+  "size": "0x16"
+ },
+ {
+  "property": "GameFeaturePluginToActivateUntilDownloadedContentIsPresent",
+  "offset": "0x264",
+  "size": "0x16"
+ },
+ {
+  "property": "DefaultFirstTeam",
+  "offset": "0x280",
+  "size": "0x1"
+ },
+ {
+  "property": "DefaultLastTeam",
+  "offset": "0x281",
+  "size": "0x1"
+ },
+ {
+  "property": "GameplayTagContainer",
+  "offset": "0x288",
+  "size": "0x32"
+ },
+ {
+  "property": "FriendlyFireType",
+  "offset": "0x320",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseFriendlyFireAimAssist",
+  "offset": "0x321",
+  "size": "0x1"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x324",
+  "size": "0x4"
+ },
+ {
+  "property": "LootTagQuery",
+  "offset": "0x328",
+  "size": "0x72"
+ },
+ {
+  "property": "BuildingLevelOverride",
+  "offset": "0x400",
+  "size": "0x4"
+ },
+ {
+  "property": "DBNOType",
+  "offset": "0x404",
+  "size": "0x1"
+ },
+ {
+  "property": "SpawnImmunityTime",
+  "offset": "0x408",
+  "size": "0x40"
+ },
+ {
+  "property": "SkippedGamePhaseNotification",
+  "offset": "0x448",
+  "size": "0x16"
+ },
+ {
+  "property": "ModifierList",
+  "offset": "0x464",
+  "size": "0x16"
+ },
+ {
+  "property": "XF†áêîbáá:ÛXž:†îj3tž™›jÿ6œx™›x™›á”Ñ#:ÛXJžÚžë:Û\Jžý?œ:ÛXn†wá”´!Ã”êÓcáá†wj káê’åááá”²#:ÛXJžÚžÃê_cáá:ÛXn†wá””!Ã¾ê³cááá”Œ#ÚÃ=ê¨cááá”—#:ÛXJžÚž:ÛXn†wá”ò Ã•ê‘cááá”ê¢:ÛXJžÚž:ÛXn†wá”É Ã‹êäâáá:Beáááááá¡:Ø"žêKaááxxxxxxxxxx¾55µ´·:ÞhN:Úy:Ûœê€”:†n:Ú\R™
+œå5™–žý¾KKKK:Û8Û'™µ~™–\^™–<$™–<,™–<4™–<<™
+œj×LžºÚ}:Üe¤Ü†e:Úêj¢Lž:Úf8ÚDN:Âeáááááá¡:žâ:ßþ:Ú",
+  "offset": "0x480",
+  "size": "0x32"
+ },
+ {
+  "property": "bIgnoreWeatherEvents",
+  "offset": "0x512",
+  "size": "0x1"
+ },
+ {
+  "property": "ItemsToFullyLoad",
+  "offset": "0x520",
+  "size": "0x16"
+ },
+ {
+  "property": "SharedAssetGroup",
+  "offset": "0x536",
+  "size": "0x8"
+ },
+ {
+  "property": "ConditionalAssetGroup",
+  "offset": "0x544",
+  "size": "0x8"
+ },
+ {
+  "property": "bIsDefaultPlaylist",
+  "offset": "0x552",
+  "size": "0x1"
+ },
+ {
+  "property": "UIDisplayName",
+  "offset": "0x560",
+  "size": "0x16"
+ },
+ {
+  "property": "UIDescription",
+  "offset": "0x576",
+  "size": "0x16"
+ },
+ {
+  "property": "HUDElementsToHide",
+  "offset": "0x592",
+  "size": "0x32"
+ },
+ {
+  "property": "bUseCustomInGameState",
+  "offset": "0x624",
+  "size": "0x1"
+ },
+ {
+  "property": "LootTierData",
+  "offset": "0x632",
+  "size": "0x32"
+ },
+ {
+  "property": "LootPackages",
+  "offset": "0x664",
+  "size": "0x32"
+ },
+ {
+  "property": "BaseCurveTableOverrides",
+  "offset": "0x696",
+  "size": "0x16"
+ },
+ {
+  "property": "BaseDataTablesOverride",
+  "offset": "0x712",
+  "size": "0x16"
+ },
+ {
+  "property": "RangedWeapons",
+  "offset": "0x728",
+  "size": "0x32"
+ },
+ {
+  "property": "GameData",
+  "offset": "0x760",
+  "size": "0x32"
+ },
+ {
+  "property": "ResourceRates",
+  "offset": "0x792",
+  "size": "0x32"
+ },
+ {
+  "property": "SkydiveMusic",
+  "offset": "0x824",
+  "size": "0x32"
+ },
+ {
+  "property": "SkydiveMusicOutroStinger",
+  "offset": "0x856",
+  "size": "0x32"
+ },
+ {
+  "property": "RespawnStinger",
+  "offset": "0x888",
+  "size": "0x32"
+ },
+ {
+  "property": "MatchMakingSucceededSound",
+  "offset": "0x920",
+  "size": "0x32"
+ },
+ {
+  "property": "GarbageCollectionFrequency",
+  "offset": "0x952",
+  "size": "0x4"
+ },
+ {
+  "property": "ServerPerformanceEventFrequency",
+  "offset": "0x956",
+  "size": "0x4"
+ },
+ {
+  "property": "ServerMetricsEventFrequency",
+  "offset": "0x960",
+  "size": "0x4"
+ },
+ {
+  "property": "bUseLocalizationService",
+  "offset": "0x964",
+  "size": "0x1"
+ },
+ {
+  "property": "GameFeaturePluginURLsToLoad",
+  "offset": "0x968",
+  "size": "0x16"
+ }
+]

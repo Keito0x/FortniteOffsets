@@ -1,0 +1,17 @@
+[
+ {
+  "property": "VoiceIcon_Status",
+  "offset": "0x5800",
+  "size": "0x8"
+ },
+ {
+  "property": "PartyIcon_Status",
+  "offset": "0x5808",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_Crown",
+  "offset": "0x5816",
+  "size": "0x8"
+ }
+]

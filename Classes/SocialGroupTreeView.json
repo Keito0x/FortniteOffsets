@@ -1,0 +1,22 @@
+[
+ {
+  "property": "GroupEntryWidgetClass",
+  "offset": "0x4072",
+  "size": "0x8"
+ },
+ {
+  "property": "UserEntryWidgetClass",
+  "offset": "0x4080",
+  "size": "0x8"
+ },
+ {
+  "property": "ActionMenuClass",
+  "offset": "0x4088",
+  "size": "0x8"
+ },
+ {
+  "property": "ActionMenu",
+  "offset": "0x4096",
+  "size": "0x8"
+ }
+]

@@ -1,0 +1,32 @@
+[
+ {
+  "property": "OnVehicleAudioCosmeticsDataUpdated",
+  "offset": "0x192",
+  "size": "0x16"
+ },
+ {
+  "property": "OnVehicleAudioCosmeticsStructUpdated",
+  "offset": "0x208",
+  "size": "0x16"
+ },
+ {
+  "property": "OnVehicleAudioCosmeticsFailed",
+  "offset": "0x224",
+  "size": "0x16"
+ },
+ {
+  "property": "OnVehicleAudioCosmeticsDataReady",
+  "offset": "0x240",
+  "size": "0x16"
+ },
+ {
+  "property": "CachedCosmeticData",
+  "offset": "0x256",
+  "size": "0x32"
+ },
+ {
+  "property": "CachedCosmeticDataTable",
+  "offset": "0x288",
+  "size": "0x32"
+ }
+]

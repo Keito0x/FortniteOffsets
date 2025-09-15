@@ -1,0 +1,37 @@
+[
+ {
+  "property": "PrimaryQuickBar",
+  "offset": "0x688",
+  "size": "0x176"
+ },
+ {
+  "property": "SecondaryQuickBar",
+  "offset": "0x864",
+  "size": "0x176"
+ },
+ {
+  "property": "CreativeQuickBar",
+  "offset": "0x1040",
+  "size": "0x176"
+ },
+ {
+  "property": "AllCachedTraps",
+  "offset": "0x1320",
+  "size": "0x16"
+ },
+ {
+  "property": "CachedFloorTraps",
+  "offset": "0x1336",
+  "size": "0x16"
+ },
+ {
+  "property": "CachedWallTraps",
+  "offset": "0x1352",
+  "size": "0x16"
+ },
+ {
+  "property": "CachedCeilingTraps",
+  "offset": "0x1368",
+  "size": "0x16"
+ }
+]

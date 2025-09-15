@@ -1,0 +1,372 @@
+[
+ {
+  "property": "FerretVehicleInput",
+  "offset": "0x4888",
+  "size": "0x184"
+ },
+ {
+  "property": "VelocityImpact",
+  "offset": "0x5072",
+  "size": "0x240"
+ },
+ {
+  "property": "ImpactDisplacement",
+  "offset": "0x5312",
+  "size": "0x24"
+ },
+ {
+  "property": "AbsSteerAngle",
+  "offset": "0x5336",
+  "size": "0x4"
+ },
+ {
+  "property": "bInAir",
+  "offset": "0x5344",
+  "size": "0x1"
+ },
+ {
+  "property": "bOnGround",
+  "offset": "0x5344",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsInRollAngleThreshold",
+  "offset": "0x5344",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsDriveStarting",
+  "offset": "0x5344",
+  "size": "0x1"
+ },
+ {
+  "property": "LocalLeftOffset",
+  "offset": "0x5352",
+  "size": "0x24"
+ },
+ {
+  "property": "WorldPosLeft",
+  "offset": "0x5376",
+  "size": "0x24"
+ },
+ {
+  "property": "LocalRotLeftOffset",
+  "offset": "0x5400",
+  "size": "0x24"
+ },
+ {
+  "property": "WorldRotLeft",
+  "offset": "0x5424",
+  "size": "0x24"
+ },
+ {
+  "property": "LocalRightOffset",
+  "offset": "0x5448",
+  "size": "0x24"
+ },
+ {
+  "property": "WorldPosRight",
+  "offset": "0x5472",
+  "size": "0x24"
+ },
+ {
+  "property": "LocalRotRightOffset",
+  "offset": "0x5496",
+  "size": "0x24"
+ },
+ {
+  "property": "WorldRotRight",
+  "offset": "0x5520",
+  "size": "0x24"
+ },
+ {
+  "property": "bIsSteeringRotating",
+  "offset": "0x5544",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsStopped",
+  "offset": "0x5544",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsSlowingDown",
+  "offset": "0x5544",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsDrivingFast",
+  "offset": "0x5544",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsTurningRightHard",
+  "offset": "0x5544",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsTurningLeftHard",
+  "offset": "0x5544",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsBraking",
+  "offset": "0x5544",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsBoosting",
+  "offset": "0x5545",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsJumpTrick",
+  "offset": "0x5545",
+  "size": "0x1"
+ },
+ {
+  "property": "JumpPlayRate",
+  "offset": "0x5548",
+  "size": "0x4"
+ },
+ {
+  "property": "bIsJumpFlipping",
+  "offset": "0x5552",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldEnableAO",
+  "offset": "0x5552",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsBodyDragging",
+  "offset": "0x5552",
+  "size": "0x1"
+ },
+ {
+  "property": "FallDistanceJumpingThreshold",
+  "offset": "0x5556",
+  "size": "0x4"
+ },
+ {
+  "property": "FallDistanceJumpTrickThreshold",
+  "offset": "0x5560",
+  "size": "0x4"
+ },
+ {
+  "property": "RollAngleThreshold",
+  "offset": "0x5564",
+  "size": "0x4"
+ },
+ {
+  "property": "StartSpeedThreshold",
+  "offset": "0x5568",
+  "size": "0x4"
+ },
+ {
+  "property": "SlowingSpeedThreshold",
+  "offset": "0x5572",
+  "size": "0x4"
+ },
+ {
+  "property": "FastSpeedThreshold",
+  "offset": "0x5576",
+  "size": "0x4"
+ },
+ {
+  "property": "BrakingDeltaThreshold",
+  "offset": "0x5580",
+  "size": "0x4"
+ },
+ {
+  "property": "SteerHardAngleThreshold",
+  "offset": "0x5584",
+  "size": "0x4"
+ },
+ {
+  "property": "GroundTraceUpOffset",
+  "offset": "0x5588",
+  "size": "0x4"
+ },
+ {
+  "property": "GroundTraceLength",
+  "offset": "0x5592",
+  "size": "0x4"
+ },
+ {
+  "property": "JumpPlayRateInRange",
+  "offset": "0x5600",
+  "size": "0x16"
+ },
+ {
+  "property": "JumpPlayRateOutRange",
+  "offset": "0x5616",
+  "size": "0x16"
+ },
+ {
+  "property": "bIsJumpingAndNotRolling",
+  "offset": "0x5632",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsOnGroundAndNotRolling",
+  "offset": "0x5632",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsOnGroundAndBoosting",
+  "offset": "0x5632",
+  "size": "0x1"
+ },
+ {
+  "property": "LandStartPosInRange",
+  "offset": "0x5640",
+  "size": "0x16"
+ },
+ {
+  "property": "LandStartPosOutRange",
+  "offset": "0x5656",
+  "size": "0x16"
+ },
+ {
+  "property": "LandStartPosition",
+  "offset": "0x5672",
+  "size": "0x4"
+ },
+ {
+  "property": "DriverAimPitch",
+  "offset": "0x5676",
+  "size": "0x4"
+ },
+ {
+  "property": "DriverAimYaw",
+  "offset": "0x5680",
+  "size": "0x4"
+ },
+ {
+  "property": "FerretCardinalDirection",
+  "offset": "0x5684",
+  "size": "0x1"
+ },
+ {
+  "property": "ElevatorDeadZone",
+  "offset": "0x5688",
+  "size": "0x4"
+ },
+ {
+  "property": "RudderDeadZone",
+  "offset": "0x5692",
+  "size": "0x4"
+ },
+ {
+  "property": "bFerretShouldPlayStartTransition",
+  "offset": "0x5696",
+  "size": "0x1"
+ },
+ {
+  "property": "bFerretShouldPlayStopTransition",
+  "offset": "0x5696",
+  "size": "0x1"
+ },
+ {
+  "property": "FerretStopCardinalDirection",
+  "offset": "0x5697",
+  "size": "0x1"
+ },
+ {
+  "property": "FerretPrePivotCardinalDirection",
+  "offset": "0x5698",
+  "size": "0x1"
+ },
+ {
+  "property": "bFerretShouldPlayPivotTransition",
+  "offset": "0x5699",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsFerretRotating",
+  "offset": "0x5699",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsFerretShooting",
+  "offset": "0x5699",
+  "size": "0x1"
+ },
+ {
+  "property": "ElevatorRotation",
+  "offset": "0x5700",
+  "size": "0x4"
+ },
+ {
+  "property": "bIsRollingRight",
+  "offset": "0x5704",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsRollingLeft",
+  "offset": "0x5704",
+  "size": "0x1"
+ },
+ {
+  "property": "LeftHandLocalTranslateOffset",
+  "offset": "0x5712",
+  "size": "0x24"
+ },
+ {
+  "property": "RightHandLocalTranslateOffset",
+  "offset": "0x5736",
+  "size": "0x24"
+ },
+ {
+  "property": "LeftHandLocalRotateOffset",
+  "offset": "0x5760",
+  "size": "0x24"
+ },
+ {
+  "property": "RightHandLocalRotateOffset",
+  "offset": "0x5784",
+  "size": "0x24"
+ },
+ {
+  "property": "GroundPoseBlendSpaceYaw",
+  "offset": "0x5808",
+  "size": "0x4"
+ },
+ {
+  "property": "GroundPoseBlendSpacePitch",
+  "offset": "0x5812",
+  "size": "0x4"
+ },
+ {
+  "property": "LeftHandComponentTranslateOffset",
+  "offset": "0x5816",
+  "size": "0x24"
+ },
+ {
+  "property": "RightHandComponentTranslateOffset",
+  "offset": "0x5840",
+  "size": "0x24"
+ },
+ {
+  "property": "LeftHandComponentRotateOffset",
+  "offset": "0x5864",
+  "size": "0x24"
+ },
+ {
+  "property": "RightHandComponentRotateOffset",
+  "offset": "0x5888",
+  "size": "0x24"
+ },
+ {
+  "property": "AimRotation",
+  "offset": "0x5912",
+  "size": "0x24"
+ },
+ {
+  "property": "OwnerTransform",
+  "offset": "0x5936",
+  "size": "0x96"
+ }
+]

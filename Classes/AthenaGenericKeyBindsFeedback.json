@@ -1,0 +1,12 @@
+[
+ {
+  "property": "GenericActions",
+  "offset": "0x896",
+  "size": "0x16"
+ },
+ {
+  "property": "DimmedOpacity",
+  "offset": "0x912",
+  "size": "0x4"
+ }
+]

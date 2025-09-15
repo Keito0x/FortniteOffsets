@@ -1,0 +1,112 @@
+[
+ {
+  "property": "Vehicle",
+  "offset": "0x1240",
+  "size": "0x8"
+ },
+ {
+  "property": "VehicleAnimInterface",
+  "offset": "0x1248",
+  "size": "0x16"
+ },
+ {
+  "property": "AxlePositionF",
+  "offset": "0x1264",
+  "size": "0x24"
+ },
+ {
+  "property": "AxlePositionB",
+  "offset": "0x1288",
+  "size": "0x24"
+ },
+ {
+  "property": "AxleRotationF",
+  "offset": "0x1312",
+  "size": "0x24"
+ },
+ {
+  "property": "AxleRotationB",
+  "offset": "0x1336",
+  "size": "0x24"
+ },
+ {
+  "property": "WheelPositionFR",
+  "offset": "0x1360",
+  "size": "0x24"
+ },
+ {
+  "property": "WheelPositionFL",
+  "offset": "0x1384",
+  "size": "0x24"
+ },
+ {
+  "property": "WheelPositionBR",
+  "offset": "0x1408",
+  "size": "0x24"
+ },
+ {
+  "property": "WheelPositionBL",
+  "offset": "0x1432",
+  "size": "0x24"
+ },
+ {
+  "property": "WheelSpinFR",
+  "offset": "0x1456",
+  "size": "0x24"
+ },
+ {
+  "property": "WheelSpinFL",
+  "offset": "0x1480",
+  "size": "0x24"
+ },
+ {
+  "property": "WheelSpinBR",
+  "offset": "0x1504",
+  "size": "0x24"
+ },
+ {
+  "property": "WheelSpinBL",
+  "offset": "0x1528",
+  "size": "0x24"
+ },
+ {
+  "property": "DriveShaftSpin",
+  "offset": "0x1552",
+  "size": "0x24"
+ },
+ {
+  "property": "WheelRotationFR",
+  "offset": "0x1576",
+  "size": "0x24"
+ },
+ {
+  "property": "WheelRotationFL",
+  "offset": "0x1600",
+  "size": "0x24"
+ },
+ {
+  "property": "WheelRotationBR",
+  "offset": "0x1624",
+  "size": "0x24"
+ },
+ {
+  "property": "WheelRotationBL",
+  "offset": "0x1648",
+  "size": "0x24"
+ },
+ {
+  "property": "SteeringRotation",
+  "offset": "0x1672",
+  "size": "0x24"
+ },
+ {
+  "property": "VehicleType",
+  "offset": "0x1696",
+  "size": "0x1"
+ },
+ {
+  "property": "bHasDriver",
+  "offset": "0x1697",
+  "size": "0x1"
+ }
+]

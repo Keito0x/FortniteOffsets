@@ -1,0 +1,17 @@
+[
+ {
+  "property": "Button_Prompt",
+  "offset": "0x784",
+  "size": "0x8"
+ },
+ {
+  "property": "PromptTextUnowned",
+  "offset": "0x792",
+  "size": "0x16"
+ },
+ {
+  "property": "PromptTextOwned",
+  "offset": "0x808",
+  "size": "0x16"
+ }
+]

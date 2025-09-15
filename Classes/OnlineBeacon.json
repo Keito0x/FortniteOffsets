@@ -1,0 +1,17 @@
+[
+ {
+  "property": "BeaconConnectionInitialTimeout",
+  "offset": "0x688",
+  "size": "0x4"
+ },
+ {
+  "property": "BeaconConnectionTimeout",
+  "offset": "0x692",
+  "size": "0x4"
+ },
+ {
+  "property": "NetDriver",
+  "offset": "0x696",
+  "size": "0x8"
+ }
+]

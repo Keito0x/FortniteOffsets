@@ -1,0 +1,7 @@
+[
+ {
+  "property": "RebootButtonDisabledProducts",
+  "offset": "0x776",
+  "size": "0x32"
+ }
+]

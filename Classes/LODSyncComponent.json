@@ -1,0 +1,47 @@
+[
+ {
+  "property": "NumLODs",
+  "offset": "0x192",
+  "size": "0x4"
+ },
+ {
+  "property": "ForcedLOD",
+  "offset": "0x196",
+  "size": "0x4"
+ },
+ {
+  "property": "MinLOD",
+  "offset": "0x200",
+  "size": "0x4"
+ },
+ {
+  "property": "ComponentsToSync",
+  "offset": "0x208",
+  "size": "0x16"
+ },
+ {
+  "property": "CustomLODMapping",
+  "offset": "0x224",
+  "size": "0x80"
+ },
+ {
+  "property": "CurrentLOD",
+  "offset": "0x304",
+  "size": "0x4"
+ },
+ {
+  "property": "CurrentNumLODs",
+  "offset": "0x308",
+  "size": "0x4"
+ },
+ {
+  "property": "DriveComponents",
+  "offset": "0x312",
+  "size": "0x16"
+ },
+ {
+  "property": "SubComponents",
+  "offset": "0x328",
+  "size": "0x16"
+ }
+]

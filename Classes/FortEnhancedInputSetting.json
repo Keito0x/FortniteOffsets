@@ -1,0 +1,12 @@
+[
+ {
+  "property": "InputSettingPreviewBehavior",
+  "offset": "0x456",
+  "size": "0x8"
+ },
+ {
+  "property": "OwningInputMappingContext",
+  "offset": "0x464",
+  "size": "0x8"
+ }
+]

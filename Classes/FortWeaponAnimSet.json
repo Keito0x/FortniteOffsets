@@ -1,0 +1,17 @@
+[
+ {
+  "property": "DelayBetweenFireAndFullBodySprint",
+  "offset": "0x48",
+  "size": "0x4"
+ },
+ {
+  "property": "MaleAnimAsset",
+  "offset": "0x56",
+  "size": "0x352"
+ },
+ {
+  "property": "FemaleAnimAsset",
+  "offset": "0x408",
+  "size": "0x352"
+ }
+]

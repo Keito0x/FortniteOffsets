@@ -1,0 +1,72 @@
+[
+ {
+  "property": "GameplayTagContainer",
+  "offset": "0x40",
+  "size": "0x32"
+ },
+ {
+  "property": "RestoreVersionInfo",
+  "offset": "0x72",
+  "size": "0x16"
+ },
+ {
+  "property": "SupportedVersionsTable",
+  "offset": "0x88",
+  "size": "0x96"
+ },
+ {
+  "property": "RestoreAttemptCount",
+  "offset": "0x184",
+  "size": "0x8"
+ },
+ {
+  "property": "SaveAttemptCount",
+  "offset": "0x192",
+  "size": "0x8"
+ },
+ {
+  "property": "DeleteAttemptCount",
+  "offset": "0x200",
+  "size": "0x8"
+ },
+ {
+  "property": "ServiceData",
+  "offset": "0x208",
+  "size": "0x8"
+ },
+ {
+  "property": "BackendRequestsQueue",
+  "offset": "0x216",
+  "size": "0x8"
+ },
+ {
+  "property": "PersistentClassName",
+  "offset": "0x224",
+  "size": "0x4"
+ },
+ {
+  "property": "PersistentName",
+  "offset": "0x232",
+  "size": "0x48"
+ },
+ {
+  "property": "Description",
+  "offset": "0x280",
+  "size": "0x16"
+ },
+ {
+  "property": "MakeReadyForPersistenceProcess",
+  "offset": "0x296",
+  "size": "0x8"
+ },
+ {
+  "property": "bMakeReadyForPersistenceProcessFailedOnLastAttempt",
+  "offset": "0x304",
+  "size": "0x1"
+ },
+ {
+  "property": "DeinitProcess",
+  "offset": "0x312",
+  "size": "0x8"
+ }
+]

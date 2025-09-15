@@ -1,0 +1,72 @@
+[
+ {
+  "property": "LocalMapOptions",
+  "offset": "0x40",
+  "size": "0x16"
+ },
+ {
+  "property": "TransitionMap",
+  "offset": "0x56",
+  "size": "0x24"
+ },
+ {
+  "property": "bUseSplitscreen",
+  "offset": "0x80",
+  "size": "0x1"
+ },
+ {
+  "property": "TwoPlayerSplitscreenLayout",
+  "offset": "0x81",
+  "size": "0x1"
+ },
+ {
+  "property": "ThreePlayerSplitscreenLayout",
+  "offset": "0x82",
+  "size": "0x1"
+ },
+ {
+  "property": "FourPlayerSplitscreenLayout",
+  "offset": "0x83",
+  "size": "0x1"
+ },
+ {
+  "property": "bOffsetPlayerGamepadIds",
+  "offset": "0x84",
+  "size": "0x1"
+ },
+ {
+  "property": "GameInstanceClass",
+  "offset": "0x88",
+  "size": "0x24"
+ },
+ {
+  "property": "GameDefaultMap",
+  "offset": "0x112",
+  "size": "0x24"
+ },
+ {
+  "property": "ServerDefaultMap",
+  "offset": "0x136",
+  "size": "0x24"
+ },
+ {
+  "property": "GlobalDefaultGameMode",
+  "offset": "0x160",
+  "size": "0x24"
+ },
+ {
+  "property": "GlobalDefaultServerGameMode",
+  "offset": "0x184",
+  "size": "0x24"
+ },
+ {
+  "property": "GameModeMapPrefixes",
+  "offset": "0x208",
+  "size": "0x16"
+ },
+ {
+  "property": "GameModeClassAliases",
+  "offset": "0x224",
+  "size": "0x16"
+ }
+]

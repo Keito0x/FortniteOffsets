@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Event",
+  "offset": "0x56",
+  "size": "0x16"
+ },
+ {
+  "property": "bAllowReplication",
+  "offset": "0x72",
+  "size": "0x1"
+ }
+]

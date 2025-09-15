@@ -1,0 +1,652 @@
+[
+ {
+  "property": "bExplodeOnDetonate",
+  "offset": "0x25848",
+  "size": "0x1"
+ },
+ {
+  "property": "GunnerAimPoint",
+  "offset": "0x25856",
+  "size": "0x24"
+ },
+ {
+  "property": "ShieldActor",
+  "offset": "0x25880",
+  "size": "0x8"
+ },
+ {
+  "property": "SelfDestructAbilityComp",
+  "offset": "0x25888",
+  "size": "0x8"
+ },
+ {
+  "property": "DriverPrimaryCooldownHandle",
+  "offset": "0x25896",
+  "size": "0x8"
+ },
+ {
+  "property": "DriverSecondaryCooldownHandle",
+  "offset": "0x25904",
+  "size": "0x8"
+ },
+ {
+  "property": "KillExplosions",
+  "offset": "0x25912",
+  "size": "0x16"
+ },
+ {
+  "property": "StopMontagesOnGunnerExit",
+  "offset": "0x25928",
+  "size": "0x16"
+ },
+ {
+  "property": "CustomUI",
+  "offset": "0x25944",
+  "size": "0x16"
+ },
+ {
+  "property": "ActiveUI",
+  "offset": "0x25960",
+  "size": "0x16"
+ },
+ {
+  "property": "ApproxGunnerCameraOffset",
+  "offset": "0x25976",
+  "size": "0x24"
+ },
+ {
+  "property": "LandingMovementLockDurationMin",
+  "offset": "0x26000",
+  "size": "0x4"
+ },
+ {
+  "property": "LandingMovementLockDurationMax",
+  "offset": "0x26004",
+  "size": "0x4"
+ },
+ {
+  "property": "KneelingGunnerSeatVerticalOffset",
+  "offset": "0x26008",
+  "size": "0x4"
+ },
+ {
+  "property": "KneelingDriverSeatVerticalOffset",
+  "offset": "0x26012",
+  "size": "0x4"
+ },
+ {
+  "property": "PassengerCameraSocket",
+  "offset": "0x26016",
+  "size": "0x4"
+ },
+ {
+  "property": "PassengerRootSocket",
+  "offset": "0x26020",
+  "size": "0x4"
+ },
+ {
+  "property": "BeamScaleName",
+  "offset": "0x26024",
+  "size": "0x4"
+ },
+ {
+  "property": "BeamLifeName",
+  "offset": "0x26028",
+  "size": "0x4"
+ },
+ {
+  "property": "BeamAttachName",
+  "offset": "0x26032",
+  "size": "0x4"
+ },
+ {
+  "property": "OstrichShieldBoostStatName",
+  "offset": "0x26036",
+  "size": "0x4"
+ },
+ {
+  "property": "PassengerCameraFixedVerticalOffset",
+  "offset": "0x26040",
+  "size": "0x4"
+ },
+ {
+  "property": "PassengerCameraFixedVerticalOffsetNoDriver",
+  "offset": "0x26044",
+  "size": "0x4"
+ },
+ {
+  "property": "DriverPrimaryCooldownTime",
+  "offset": "0x26048",
+  "size": "0x4"
+ },
+ {
+  "property": "DriverSecondaryCooldownTime",
+  "offset": "0x26052",
+  "size": "0x4"
+ },
+ {
+  "property": "DetonateDelay",
+  "offset": "0x26056",
+  "size": "0x4"
+ },
+ {
+  "property": "DetonateDelaySelfDestruct",
+  "offset": "0x26060",
+  "size": "0x4"
+ },
+ {
+  "property": "DetonateRange",
+  "offset": "0x26064",
+  "size": "0x4"
+ },
+ {
+  "property": "DriverKickMoveLockDuration",
+  "offset": "0x26068",
+  "size": "0x4"
+ },
+ {
+  "property": "KickRootMotionDelay",
+  "offset": "0x26072",
+  "size": "0x4"
+ },
+ {
+  "property": "KickRootMotionDuration",
+  "offset": "0x26076",
+  "size": "0x4"
+ },
+ {
+  "property": "ShieldBoostCooldown",
+  "offset": "0x26080",
+  "size": "0x4"
+ },
+ {
+  "property": "ShieldRadius",
+  "offset": "0x26084",
+  "size": "0x4"
+ },
+ {
+  "property": "SelfDestructInteractDuration",
+  "offset": "0x26088",
+  "size": "0x4"
+ },
+ {
+  "property": "AccelFromIdle",
+  "offset": "0x26092",
+  "size": "0x4"
+ },
+ {
+  "property": "AccelFromIdleDuration",
+  "offset": "0x26096",
+  "size": "0x4"
+ },
+ {
+  "property": "IdleTimeThreshold",
+  "offset": "0x26100",
+  "size": "0x4"
+ },
+ {
+  "property": "LockoutDurationAfterRequestSeatChange",
+  "offset": "0x26104",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxBeamLen",
+  "offset": "0x26108",
+  "size": "0x4"
+ },
+ {
+  "property": "DriverToGunnerTransition",
+  "offset": "0x26112",
+  "size": "0x8"
+ },
+ {
+  "property": "GunnerToDriverTransition",
+  "offset": "0x26120",
+  "size": "0x8"
+ },
+ {
+  "property": "BlockDriverStompImmersionPercent",
+  "offset": "0x26128",
+  "size": "0x4"
+ },
+ {
+  "property": "BlockDriverDashImmersionPercent",
+  "offset": "0x26132",
+  "size": "0x4"
+ },
+ {
+  "property": "BlockDriverJumpImmersionPercent",
+  "offset": "0x26136",
+  "size": "0x4"
+ },
+ {
+  "property": "BlockGunnerMissilesImmersionPercent",
+  "offset": "0x26140",
+  "size": "0x4"
+ },
+ {
+  "property": "BlockGunnerShotgunImmersionPercent",
+  "offset": "0x26144",
+  "size": "0x4"
+ },
+ {
+  "property": "bDriverStompImmersionBlocked",
+  "offset": "0x26148",
+  "size": "0x1"
+ },
+ {
+  "property": "bDriverDashImmersionBlocked",
+  "offset": "0x26149",
+  "size": "0x1"
+ },
+ {
+  "property": "bDriverJumpImmersionBlocked",
+  "offset": "0x26150",
+  "size": "0x1"
+ },
+ {
+  "property": "bGunnerMissilesImmersionBlocked",
+  "offset": "0x26151",
+  "size": "0x1"
+ },
+ {
+  "property": "bGunnerShotgunImmersionBlocked",
+  "offset": "0x26152",
+  "size": "0x1"
+ },
+ {
+  "property": "bChargingJump",
+  "offset": "0x26153",
+  "size": "0x1"
+ },
+ {
+  "property": "bDriverLocalChargingJump",
+  "offset": "0x26154",
+  "size": "0x1"
+ },
+ {
+  "property": "bChargingRockets",
+  "offset": "0x26155",
+  "size": "0x1"
+ },
+ {
+  "property": "bAutomaticallyFiringShotgun",
+  "offset": "0x26156",
+  "size": "0x1"
+ },
+ {
+  "property": "DetonationState",
+  "offset": "0x26157",
+  "size": "0x1"
+ },
+ {
+  "property": "bLocalSimulatedChargingJump",
+  "offset": "0x26158",
+  "size": "0x1"
+ },
+ {
+  "property": "bDashing",
+  "offset": "0x26159",
+  "size": "0x1"
+ },
+ {
+  "property": "bKickRep",
+  "offset": "0x26160",
+  "size": "0x1"
+ },
+ {
+  "property": "bLoadingRockets",
+  "offset": "0x26161",
+  "size": "0x1"
+ },
+ {
+  "property": "bKickActive",
+  "offset": "0x26162",
+  "size": "0x1"
+ },
+ {
+  "property": "bLocalJumpButtonDown",
+  "offset": "0x26163",
+  "size": "0x1"
+ },
+ {
+  "property": "bAllowEnter",
+  "offset": "0x26164",
+  "size": "0x1"
+ },
+ {
+  "property": "bAcceleratingFromIdle",
+  "offset": "0x26165",
+  "size": "0x1"
+ },
+ {
+  "property": "IdleTime",
+  "offset": "0x26168",
+  "size": "0x4"
+ },
+ {
+  "property": "MovingTime",
+  "offset": "0x26172",
+  "size": "0x4"
+ },
+ {
+  "property": "RequestSeatChangeTime",
+  "offset": "0x26176",
+  "size": "0x4"
+ },
+ {
+  "property": "ChargeJumpStartTime",
+  "offset": "0x26180",
+  "size": "0x4"
+ },
+ {
+  "property": "GroundDashStartTime",
+  "offset": "0x26184",
+  "size": "0x4"
+ },
+ {
+  "property": "ShieldBoostStartTime",
+  "offset": "0x26188",
+  "size": "0x4"
+ },
+ {
+  "property": "KickStartTime",
+  "offset": "0x26192",
+  "size": "0x4"
+ },
+ {
+  "property": "SpawnedBeam",
+  "offset": "0x26200",
+  "size": "0x8"
+ },
+ {
+  "property": "SpawnedImpact",
+  "offset": "0x26208",
+  "size": "0x8"
+ },
+ {
+  "property": "SpawnedImpactEnemy",
+  "offset": "0x26216",
+  "size": "0x8"
+ },
+ {
+  "property": "SpawnedSource",
+  "offset": "0x26224",
+  "size": "0x8"
+ },
+ {
+  "property": "BlendedPassengerVerticalCamOffset",
+  "offset": "0x26232",
+  "size": "0x4"
+ },
+ {
+  "property": "OverrideLandingMoveLockDuration",
+  "offset": "0x26236",
+  "size": "0x4"
+ },
+ {
+  "property": "ShieldBoostResourceCost",
+  "offset": "0x26240",
+  "size": "0x4"
+ },
+ {
+  "property": "KickAnimationDuration",
+  "offset": "0x26244",
+  "size": "0x4"
+ },
+ {
+  "property": "DestroyDelayAfterExplosion",
+  "offset": "0x26248",
+  "size": "0x4"
+ },
+ {
+  "property": "PawnRotationRate",
+  "offset": "0x26252",
+  "size": "0x4"
+ },
+ {
+  "property": "AirDashOverrideAngle",
+  "offset": "0x26256",
+  "size": "0x4"
+ },
+ {
+  "property": "GunnerAimPointUpdateRate",
+  "offset": "0x26260",
+  "size": "0x4"
+ },
+ {
+  "property": "GunnerAimPointTraceRange",
+  "offset": "0x26264",
+  "size": "0x4"
+ },
+ {
+  "property": "GroundDashAnimationDuration",
+  "offset": "0x26268",
+  "size": "0x4"
+ },
+ {
+  "property": "GunnerAimPointUpdateDelay",
+  "offset": "0x26272",
+  "size": "0x4"
+ },
+ {
+  "property": "MechMissileDamageToGunnerShield",
+  "offset": "0x26276",
+  "size": "0x4"
+ },
+ {
+  "property": "SimulatedProxyFixupRange",
+  "offset": "0x26280",
+  "size": "0x4"
+ },
+ {
+  "property": "bEnableTargetingLaser",
+  "offset": "0x26284",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableSimulatedProxyFixup",
+  "offset": "0x26285",
+  "size": "0x1"
+ },
+ {
+  "property": "RocketSettleCue",
+  "offset": "0x26288",
+  "size": "0x4"
+ },
+ {
+  "property": "RocketFireCue",
+  "offset": "0x26292",
+  "size": "0x4"
+ },
+ {
+  "property": "RocketLoadingCue",
+  "offset": "0x26296",
+  "size": "0x4"
+ },
+ {
+  "property": "ReloadShotgunTag",
+  "offset": "0x26300",
+  "size": "0x4"
+ },
+ {
+  "property": "FireShotgunTag",
+  "offset": "0x26304",
+  "size": "0x4"
+ },
+ {
+  "property": "MissilesTag",
+  "offset": "0x26308",
+  "size": "0x4"
+ },
+ {
+  "property": "KickStompTag",
+  "offset": "0x26312",
+  "size": "0x32"
+ },
+ {
+  "property": "IndividualRocketFired",
+  "offset": "0x26344",
+  "size": "0x4"
+ },
+ {
+  "property": "IndividualRocketLoaded",
+  "offset": "0x26348",
+  "size": "0x4"
+ },
+ {
+  "property": "LocalSelfDestructPrimeUnderway",
+  "offset": "0x26352",
+  "size": "0x4"
+ },
+ {
+  "property": "DriverChargeJumpCamera",
+  "offset": "0x26360",
+  "size": "0x8"
+ },
+ {
+  "property": "BeamTemplate",
+  "offset": "0x26368",
+  "size": "0x8"
+ },
+ {
+  "property": "BeamHitTemplate",
+  "offset": "0x26376",
+  "size": "0x8"
+ },
+ {
+  "property": "BeamHitEnemyTemplate",
+  "offset": "0x26384",
+  "size": "0x8"
+ },
+ {
+  "property": "BeamSourceTemplate",
+  "offset": "0x26392",
+  "size": "0x8"
+ },
+ {
+  "property": "PassengerCamBlendTarget",
+  "offset": "0x26400",
+  "size": "0x4"
+ },
+ {
+  "property": "GunnerAimpointUpdateTimer",
+  "offset": "0x26404",
+  "size": "0x4"
+ },
+ {
+  "property": "bDriverPrimaryCooldownReady",
+  "offset": "0x26408",
+  "size": "0x1"
+ },
+ {
+  "property": "bDriverSecondaryCooldownReady",
+  "offset": "0x26409",
+  "size": "0x1"
+ },
+ {
+  "property": "bBufferedDriverExit",
+  "offset": "0x26410",
+  "size": "0x1"
+ },
+ {
+  "property": "bHoldingSelfDestruct",
+  "offset": "0x26411",
+  "size": "0x1"
+ },
+ {
+  "property": "bLocalDriverRequestedExit",
+  "offset": "0x26412",
+  "size": "0x1"
+ },
+ {
+  "property": "bLocalPrimaryFireButtonDown",
+  "offset": "0x26413",
+  "size": "0x1"
+ },
+ {
+  "property": "bLocalSecondaryFireButtonDown",
+  "offset": "0x26414",
+  "size": "0x1"
+ },
+ {
+  "property": "bEmoteAudioForceStopped",
+  "offset": "0x26415",
+  "size": "0x1"
+ },
+ {
+  "property": "bAimedAtEnemy",
+  "offset": "0x26416",
+  "size": "0x1"
+ },
+ {
+  "property": "bAimedAtSky",
+  "offset": "0x26417",
+  "size": "0x1"
+ },
+ {
+  "property": "NativeLinearMovementAudio",
+  "offset": "0x26424",
+  "size": "0x8"
+ },
+ {
+  "property": "NativeRotationalMovementAudio",
+  "offset": "0x26432",
+  "size": "0x8"
+ },
+ {
+  "property": "NativeTargetingLaserAudio",
+  "offset": "0x26440",
+  "size": "0x8"
+ },
+ {
+  "property": "FortOstrichVehicleConfigsClass",
+  "offset": "0x26448",
+  "size": "0x8"
+ },
+ {
+  "property": "EmotesEnabled",
+  "offset": "0x26456",
+  "size": "0x40"
+ },
+ {
+  "property": "ExcludedEmoteTags",
+  "offset": "0x26496",
+  "size": "0x16"
+ },
+ {
+  "property": "ExcludedEmotes",
+  "offset": "0x26512",
+  "size": "0x16"
+ },
+ {
+  "property": "WorldStriderComponent",
+  "offset": "0x26528",
+  "size": "0x8"
+ },
+ {
+  "property": "FortOstrichVehicleConfigs",
+  "offset": "0x26536",
+  "size": "0x8"
+ },
+ {
+  "property": "YYYYYYYØYYYYYYYSXÿïøéYYYYYYYY1÷+Y›¦¦UKt]Œ¦¦mïc–]Œ¦¦YYYYYYYYßYYYYYYYYYYYYYYYYYYYYYYYY]YYYYŽÿ]Œ¦¦YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYÙYYYYYYYYYYYYYYY1O†]Œ¦¦QOO·Y›¦¦iùå€]Œ¦¦YYYYYYYYßY]YYYYYßYYYßYYYYYYYYYYYYYYYYYYYùå€]Œ¦¦ÙYYYYYYY)Kt]Œ¦¦Anc–]Œ¦¦YYYYYYYYßYYYYYYYYYYYYYYYYYYYYYYYyH.Š]Œ¦¦]YYYYYYYÏ†]Œ¦¦XYYYYYYYqÏ†]Œ¦¦YYYYYYYYYYSXÿïøéYYYYYYYY!ÝÙ›¦¦U(9]Œ¦¦5û†]Œ¦¦YYYYYYYYØYYYYYYYYYYYYYYYYYYYYYYYY]YYYYþ]Œ¦¦YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYÙYYYYYYYYYYYYYYYQN†]Œ¦¦!2F©Y›¦¦	åå€]Œ¦¦YYYYYYYYßY]YYYYYØYYYØYYYYYYYYYYYYYYYYYYY5åå€]Œ¦¦ÙYYYYYYY)(9]Œ¦¦	z†]Œ¦¦Y",
+  "offset": "0x26736",
+  "size": "0x12"
+ },
+ {
+  "property": "PickupCapsuleComponent",
+  "offset": "0x26752",
+  "size": "0x8"
+ },
+ {
+  "property": "OstrichCustomStats",
+  "offset": "0x26760",
+  "size": "0x8"
+ },
+ {
+  "property": "SelfDestructInStormDelay",
+  "offset": "0x26768",
+  "size": "0x40"
+ }
+]

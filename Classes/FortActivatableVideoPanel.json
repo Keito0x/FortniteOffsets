@@ -1,0 +1,77 @@
+[
+ {
+  "property": "OnSkipButtonClicked",
+  "offset": "0x1488",
+  "size": "0x16"
+ },
+ {
+  "property": "bOverwriteSkip",
+  "offset": "0x1504",
+  "size": "0x1"
+ },
+ {
+  "property": "OnMediaPlayerEndReached",
+  "offset": "0x1512",
+  "size": "0x16"
+ },
+ {
+  "property": "OnMediaOpened",
+  "offset": "0x1528",
+  "size": "0x16"
+ },
+ {
+  "property": "OnMediaOpenFailed",
+  "offset": "0x1544",
+  "size": "0x16"
+ },
+ {
+  "property": "AutomaticallyDismissPanel",
+  "offset": "0x1576",
+  "size": "0x1"
+ },
+ {
+  "property": "bAutoPlayOnActivated",
+  "offset": "0x1664",
+  "size": "0x1"
+ },
+ {
+  "property": "bAllowSkipping",
+  "offset": "0x1665",
+  "size": "0x1"
+ },
+ {
+  "property": "ControlsVisible",
+  "offset": "0x1666",
+  "size": "0x1"
+ },
+ {
+  "property": "LastInteractionTime",
+  "offset": "0x1668",
+  "size": "0x4"
+ },
+ {
+  "property": "VideoPlayerWidget",
+  "offset": "0x1672",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_Skip",
+  "offset": "0x1680",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_ThrobberBackground",
+  "offset": "0x1688",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_Throbber",
+  "offset": "0x1696",
+  "size": "0x8"
+ },
+ {
+  "property": "ActiveSoundMix",
+  "offset": "0x1704",
+  "size": "0x8"
+ }
+]

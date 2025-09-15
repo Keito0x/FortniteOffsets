@@ -1,0 +1,17 @@
+[
+ {
+  "property": "CurrentQueue",
+  "offset": "0x192",
+  "size": "0x24"
+ },
+ {
+  "property": "AutoReadyUpForPlaylistPrefix",
+  "offset": "0x216",
+  "size": "0x16"
+ },
+ {
+  "property": "PartyReadyUpGraceTime",
+  "offset": "0x232",
+  "size": "0x8"
+ }
+]

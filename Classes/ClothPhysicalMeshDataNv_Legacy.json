@@ -1,0 +1,22 @@
+[
+ {
+  "property": "MaxDistances",
+  "offset": "0x224",
+  "size": "0x16"
+ },
+ {
+  "property": "BackstopDistances",
+  "offset": "0x240",
+  "size": "0x16"
+ },
+ {
+  "property": "BackstopRadiuses",
+  "offset": "0x256",
+  "size": "0x16"
+ },
+ {
+  "property": "AnimDriveMultipliers",
+  "offset": "0x272",
+  "size": "0x16"
+ }
+]

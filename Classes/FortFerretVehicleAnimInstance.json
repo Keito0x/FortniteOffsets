@@ -1,0 +1,147 @@
+[
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x1704",
+  "size": "0x8"
+ },
+ {
+  "property": "FerretVehicleSpeed",
+  "offset": "0x1712",
+  "size": "0x24"
+ },
+ {
+  "property": "bForwardSpeedIsNearlyZero",
+  "offset": "0x1736",
+  "size": "0x1"
+ },
+ {
+  "property": "bForwardSpeedIsGreaterThanOne",
+  "offset": "0x1737",
+  "size": "0x1"
+ },
+ {
+  "property": "bReverseSpeedIsGreaterThanOne",
+  "offset": "0x1738",
+  "size": "0x1"
+ },
+ {
+  "property": "bSpeedIsGreaterThanFiveAndPlayerHitSpace",
+  "offset": "0x1739",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsBraking",
+  "offset": "0x1740",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsBoosting",
+  "offset": "0x1741",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsBoostReady",
+  "offset": "0x1742",
+  "size": "0x1"
+ },
+ {
+  "property": "bPlayerHitSpaceBar",
+  "offset": "0x1743",
+  "size": "0x1"
+ },
+ {
+  "property": "bOnGround",
+  "offset": "0x1744",
+  "size": "0x1"
+ },
+ {
+  "property": "ControlTorque",
+  "offset": "0x1752",
+  "size": "0x24"
+ },
+ {
+  "property": "RudderAngle",
+  "offset": "0x1776",
+  "size": "0x24"
+ },
+ {
+  "property": "AileronAngle",
+  "offset": "0x1800",
+  "size": "0x24"
+ },
+ {
+  "property": "ElevatorAngle",
+  "offset": "0x1824",
+  "size": "0x24"
+ },
+ {
+  "property": "FlapAngle",
+  "offset": "0x1848",
+  "size": "0x24"
+ },
+ {
+  "property": "Altitude",
+  "offset": "0x1872",
+  "size": "0x24"
+ },
+ {
+  "property": "SteerPitchAngle",
+  "offset": "0x1896",
+  "size": "0x4"
+ },
+ {
+  "property": "PropellorAngle",
+  "offset": "0x1904",
+  "size": "0x24"
+ },
+ {
+  "property": "BoostPercent",
+  "offset": "0x1928",
+  "size": "0x24"
+ },
+ {
+  "property": "FerretCardinalDirection",
+  "offset": "0x1952",
+  "size": "0x1"
+ },
+ {
+  "property": "ElevatorDeadZone",
+  "offset": "0x1956",
+  "size": "0x4"
+ },
+ {
+  "property": "RudderDeadZone",
+  "offset": "0x1960",
+  "size": "0x4"
+ },
+ {
+  "property": "bFerretShouldPlayStartTransition",
+  "offset": "0x1964",
+  "size": "0x1"
+ },
+ {
+  "property": "bFerretShouldPlayStopTransition",
+  "offset": "0x1966",
+  "size": "0x1"
+ },
+ {
+  "property": "FerretStopCardinalDirection",
+  "offset": "0x1968",
+  "size": "0x1"
+ },
+ {
+  "property": "FerretPrePivotCardinalDirection",
+  "offset": "0x1969",
+  "size": "0x1"
+ },
+ {
+  "property": "bFerretShouldPlayPivotTransition",
+  "offset": "0x1970",
+  "size": "0x1"
+ },
+ {
+  "property": "AbsSteerAngle",
+  "offset": "0x1972",
+  "size": "0x4"
+ }
+]

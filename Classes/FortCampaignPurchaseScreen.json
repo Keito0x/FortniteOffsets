@@ -1,0 +1,77 @@
+[
+ {
+  "property": "STWStorePackTrackingID",
+  "offset": "0x1120",
+  "size": "0x16"
+ },
+ {
+  "property": "ImageCycle",
+  "offset": "0x1136",
+  "size": "0x16"
+ },
+ {
+  "property": "ImageCycleTime",
+  "offset": "0x1152",
+  "size": "0x4"
+ },
+ {
+  "property": "bAllowCodeRedemption",
+  "offset": "0x1156",
+  "size": "0x1"
+ },
+ {
+  "property": "BoundAnim_Intro",
+  "offset": "0x1184",
+  "size": "0x8"
+ },
+ {
+  "property": "BoundAnim_Outro",
+  "offset": "0x1192",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_ProductLogo",
+  "offset": "0x1200",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_Tagline",
+  "offset": "0x1208",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_Description",
+  "offset": "0x1216",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_Purchase",
+  "offset": "0x1224",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_RedeemCode",
+  "offset": "0x1232",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_Back",
+  "offset": "0x1240",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_UpsellImage",
+  "offset": "0x1248",
+  "size": "0x8"
+ },
+ {
+  "property": "ActivatableSwitcher_PreviewOrStore",
+  "offset": "0x1256",
+  "size": "0x8"
+ },
+ {
+  "property": "bRedeemWindowOpened",
+  "offset": "0x1264",
+  "size": "0x1"
+ }
+]

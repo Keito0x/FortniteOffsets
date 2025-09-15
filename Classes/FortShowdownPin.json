@@ -1,0 +1,17 @@
+[
+ {
+  "property": "bTryUsingAlternativeScore",
+  "offset": "0x1920",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseAbbreviatedScore",
+  "offset": "0x1921",
+  "size": "0x1"
+ },
+ {
+  "property": "LastBestScore",
+  "offset": "0x1924",
+  "size": "0x4"
+ }
+]

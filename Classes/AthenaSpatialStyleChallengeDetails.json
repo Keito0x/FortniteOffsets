@@ -1,0 +1,62 @@
+[
+ {
+  "property": "PageRefresh",
+  "offset": "0x816",
+  "size": "0x8"
+ },
+ {
+  "property": "StyleRefresh",
+  "offset": "0x824",
+  "size": "0x8"
+ },
+ {
+  "property": "Intro",
+  "offset": "0x832",
+  "size": "0x8"
+ },
+ {
+  "property": "EntryBox_Styles",
+  "offset": "0x840",
+  "size": "0x8"
+ },
+ {
+  "property": "ButtonGroup_Styles",
+  "offset": "0x848",
+  "size": "0x8"
+ },
+ {
+  "property": "VBox_Prerequisities",
+  "offset": "0x856",
+  "size": "0x8"
+ },
+ {
+  "property": "EntryBox_Prerequisites",
+  "offset": "0x864",
+  "size": "0x8"
+ },
+ {
+  "property": "VBox_MainMission",
+  "offset": "0x872",
+  "size": "0x8"
+ },
+ {
+  "property": "QuestProgression_MainMission",
+  "offset": "0x880",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_PurchaseBattlepass",
+  "offset": "0x888",
+  "size": "0x8"
+ },
+ {
+  "property": "EventGameStateComponent",
+  "offset": "0x896",
+  "size": "0x8"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x904",
+  "size": "0x48"
+ }
+]

@@ -1,0 +1,37 @@
+[
+ {
+  "property": "Button_Stats",
+  "offset": "0x5664",
+  "size": "0x8"
+ },
+ {
+  "property": "Banner_MemberBanner",
+  "offset": "0x5672",
+  "size": "0x8"
+ },
+ {
+  "property": "PowerRatingWidgetSwitcher",
+  "offset": "0x5680",
+  "size": "0x8"
+ },
+ {
+  "property": "PowerRating_MemberRating",
+  "offset": "0x5688",
+  "size": "0x8"
+ },
+ {
+  "property": "Moonbeam_PowerRating_MemberRating",
+  "offset": "0x5696",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_PlatformIcon",
+  "offset": "0x5704",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_MemberName",
+  "offset": "0x5712",
+  "size": "0x8"
+ }
+]

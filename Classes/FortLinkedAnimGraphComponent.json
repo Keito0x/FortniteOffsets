@@ -1,0 +1,62 @@
+[
+ {
+  "property": "LinkedGraphsData",
+  "offset": "0x200",
+  "size": "0x48"
+ },
+ {
+  "property": "MovementModeInterface",
+  "offset": "0x248",
+  "size": "0x8"
+ },
+ {
+  "property": "DebugGraphClass",
+  "offset": "0x256",
+  "size": "0x8"
+ },
+ {
+  "property": "PlayerAnimBlueprintClass",
+  "offset": "0x264",
+  "size": "0x8"
+ },
+ {
+  "property": "PrototypeLandAnimClass",
+  "offset": "0x272",
+  "size": "0x8"
+ },
+ {
+  "property": "OldJumpAnimClass",
+  "offset": "0x280",
+  "size": "0x8"
+ },
+ {
+  "property": "DefaultLandAnimClass",
+  "offset": "0x288",
+  "size": "0x8"
+ },
+ {
+  "property": "FullBodyAdditiveDeactivationTime",
+  "offset": "0x296",
+  "size": "0x4"
+ },
+ {
+  "property": "CurrentFullBodyAdditiveClass",
+  "offset": "0x304",
+  "size": "0x8"
+ },
+ {
+  "property": "CurrentFullBodyStateClass",
+  "offset": "0x312",
+  "size": "0x8"
+ },
+ {
+  "property": "MovementModeLayerStack",
+  "offset": "0x320",
+  "size": "0x16"
+ },
+ {
+  "property": "WindAnimLayer",
+  "offset": "0x336",
+  "size": "0x8"
+ }
+]

@@ -1,0 +1,27 @@
+[
+ {
+  "property": "ProfileIdentifier",
+  "offset": "0x40",
+  "size": "0x4"
+ },
+ {
+  "property": "ProfileIdentifierString",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "OwningUserId",
+  "offset": "0x64",
+  "size": "0x4"
+ },
+ {
+  "property": "DisplayName",
+  "offset": "0x72",
+  "size": "0x16"
+ },
+ {
+  "property": "PlayerMappedKeys",
+  "offset": "0x88",
+  "size": "0x80"
+ }
+]

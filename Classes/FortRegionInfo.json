@@ -1,0 +1,37 @@
+[
+ {
+  "property": "RegionName",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "UniqueID",
+  "offset": "0x64",
+  "size": "0x4"
+ },
+ {
+  "property": "RegionTags",
+  "offset": "0x72",
+  "size": "0x32"
+ },
+ {
+  "property": "Requirements",
+  "offset": "0x104",
+  "size": "0x96"
+ },
+ {
+  "property": "MissionAlertRequirements",
+  "offset": "0x200",
+  "size": "0x16"
+ },
+ {
+  "property": "MissionData",
+  "offset": "0x216",
+  "size": "0x48"
+ },
+ {
+  "property": "RegionThemeIcon",
+  "offset": "0x264",
+  "size": "0x32"
+ }
+]

@@ -1,0 +1,247 @@
+[
+ {
+  "property": "bUpdateStatNet",
+  "offset": "0x680",
+  "size": "0x1"
+ },
+ {
+  "property": "bOverwriteClientStats",
+  "offset": "0x681",
+  "size": "0x1"
+ },
+ {
+  "property": "Channels",
+  "offset": "0x684",
+  "size": "0x4"
+ },
+ {
+  "property": "InRate",
+  "offset": "0x688",
+  "size": "0x4"
+ },
+ {
+  "property": "OutRate",
+  "offset": "0x692",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxPacketOverhead",
+  "offset": "0x700",
+  "size": "0x4"
+ },
+ {
+  "property": "InRateClientMax",
+  "offset": "0x704",
+  "size": "0x4"
+ },
+ {
+  "property": "InRateClientMin",
+  "offset": "0x708",
+  "size": "0x4"
+ },
+ {
+  "property": "InRateClientAvg",
+  "offset": "0x712",
+  "size": "0x4"
+ },
+ {
+  "property": "InPacketsClientMax",
+  "offset": "0x716",
+  "size": "0x4"
+ },
+ {
+  "property": "InPacketsClientMin",
+  "offset": "0x720",
+  "size": "0x4"
+ },
+ {
+  "property": "InPacketsClientAvg",
+  "offset": "0x724",
+  "size": "0x4"
+ },
+ {
+  "property": "OutRateClientMax",
+  "offset": "0x728",
+  "size": "0x4"
+ },
+ {
+  "property": "OutRateClientMin",
+  "offset": "0x732",
+  "size": "0x4"
+ },
+ {
+  "property": "OutRateClientAvg",
+  "offset": "0x736",
+  "size": "0x4"
+ },
+ {
+  "property": "OutPacketsClientMax",
+  "offset": "0x740",
+  "size": "0x4"
+ },
+ {
+  "property": "OutPacketsClientMin",
+  "offset": "0x744",
+  "size": "0x4"
+ },
+ {
+  "property": "OutPacketsClientAvg",
+  "offset": "0x748",
+  "size": "0x4"
+ },
+ {
+  "property": "NetNumClients",
+  "offset": "0x752",
+  "size": "0x4"
+ },
+ {
+  "property": "InPackets",
+  "offset": "0x756",
+  "size": "0x4"
+ },
+ {
+  "property": "OutPackets",
+  "offset": "0x760",
+  "size": "0x4"
+ },
+ {
+  "property": "InBunches",
+  "offset": "0x764",
+  "size": "0x4"
+ },
+ {
+  "property": "OutBunches",
+  "offset": "0x768",
+  "size": "0x4"
+ },
+ {
+  "property": "OutLoss",
+  "offset": "0x772",
+  "size": "0x4"
+ },
+ {
+  "property": "InLoss",
+  "offset": "0x776",
+  "size": "0x4"
+ },
+ {
+  "property": "VoiceBytesSent",
+  "offset": "0x780",
+  "size": "0x4"
+ },
+ {
+  "property": "VoiceBytesRecv",
+  "offset": "0x784",
+  "size": "0x4"
+ },
+ {
+  "property": "VoicePacketsSent",
+  "offset": "0x788",
+  "size": "0x4"
+ },
+ {
+  "property": "VoicePacketsRecv",
+  "offset": "0x792",
+  "size": "0x4"
+ },
+ {
+  "property": "PercentInVoice",
+  "offset": "0x796",
+  "size": "0x4"
+ },
+ {
+  "property": "PercentOutVoice",
+  "offset": "0x800",
+  "size": "0x4"
+ },
+ {
+  "property": "NumActorChannels",
+  "offset": "0x804",
+  "size": "0x4"
+ },
+ {
+  "property": "NumConsideredActors",
+  "offset": "0x808",
+  "size": "0x4"
+ },
+ {
+  "property": "PrioritizedActors",
+  "offset": "0x812",
+  "size": "0x4"
+ },
+ {
+  "property": "NumRelevantActors",
+  "offset": "0x816",
+  "size": "0x4"
+ },
+ {
+  "property": "NumRelevantDeletedActors",
+  "offset": "0x820",
+  "size": "0x4"
+ },
+ {
+  "property": "NumReplicatedActorAttempts",
+  "offset": "0x824",
+  "size": "0x4"
+ },
+ {
+  "property": "NumReplicatedActors",
+  "offset": "0x828",
+  "size": "0x4"
+ },
+ {
+  "property": "NumActors",
+  "offset": "0x832",
+  "size": "0x4"
+ },
+ {
+  "property": "NumNetActors",
+  "offset": "0x836",
+  "size": "0x4"
+ },
+ {
+  "property": "NumDormantActors",
+  "offset": "0x840",
+  "size": "0x4"
+ },
+ {
+  "property": "NumInitiallyDormantActors",
+  "offset": "0x844",
+  "size": "0x4"
+ },
+ {
+  "property": "NumNetGUIDsAckd",
+  "offset": "0x848",
+  "size": "0x4"
+ },
+ {
+  "property": "NumNetGUIDsPending",
+  "offset": "0x852",
+  "size": "0x4"
+ },
+ {
+  "property": "NumNetGUIDsUnAckd",
+  "offset": "0x856",
+  "size": "0x4"
+ },
+ {
+  "property": "ObjPathBytes",
+  "offset": "0x860",
+  "size": "0x4"
+ },
+ {
+  "property": "NetGUIDOutRate",
+  "offset": "0x864",
+  "size": "0x4"
+ },
+ {
+  "property": "NetGUIDInRate",
+  "offset": "0x868",
+  "size": "0x4"
+ },
+ {
+  "property": "NetSaturated",
+  "offset": "0x872",
+  "size": "0x4"
+ }
+]

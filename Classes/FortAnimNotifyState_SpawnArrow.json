@@ -1,0 +1,152 @@
+[
+ {
+  "property": "AttachPartOverrides",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x64",
+  "size": "0x4"
+ },
+ {
+  "property": "LocationOffset",
+  "offset": "0x72",
+  "size": "0x24"
+ },
+ {
+  "property": "RotationOffset",
+  "offset": "0x96",
+  "size": "0x24"
+ },
+ {
+  "property": "Scale",
+  "offset": "0x120",
+  "size": "0x24"
+ },
+ {
+  "property": "ActorProp",
+  "offset": "0x144",
+  "size": "0x8"
+ },
+ {
+  "property": "bCanEditSkeletalMeshProp",
+  "offset": "0x152",
+  "size": "0x1"
+ },
+ {
+  "property": "SkeletalMeshProp",
+  "offset": "0x160",
+  "size": "0x8"
+ },
+ {
+  "property": "SkeletalMeshPropAnimation",
+  "offset": "0x168",
+  "size": "0x8"
+ },
+ {
+  "property": "SkeletalMeshPropAnimClass",
+  "offset": "0x176",
+  "size": "0x8"
+ },
+ {
+  "property": "bInheritScale",
+  "offset": "0x184",
+  "size": "0x1"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x185",
+  "size": "0x1"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x186",
+  "size": "0x1"
+ },
+ {
+  "property": "bPropAnimLooping",
+  "offset": "0x187",
+  "size": "0x1"
+ },
+ {
+  "property": "bSyncMontage",
+  "offset": "0x188",
+  "size": "0x1"
+ },
+ {
+  "property": "bPrestreamTextures",
+  "offset": "0x189",
+  "size": "0x1"
+ },
+ {
+  "property": "PrestreamTextureDuration",
+  "offset": "0x192",
+  "size": "0x4"
+ },
+ {
+  "property": "StaticMeshProp",
+  "offset": "0x200",
+  "size": "0x8"
+ },
+ {
+  "property": "PropMaterialScalarParams",
+  "offset": "0x208",
+  "size": "0x16"
+ },
+ {
+  "property": "PropID",
+  "offset": "0x224",
+  "size": "0x4"
+ },
+ {
+  "property": "PropExclusionTag",
+  "offset": "0x228",
+  "size": "0x4"
+ },
+ {
+  "property": "OverlayMaterials",
+  "offset": "0x232",
+  "size": "0x64"
+ },
+ {
+  "property": "bIncludeInPawnHighlightSet",
+  "offset": "0x296",
+  "size": "0x1"
+ },
+ {
+  "property": "bTickAnimEvenWhenNotRendered",
+  "offset": "0x297",
+  "size": "0x1"
+ },
+ {
+  "property": "VariantsCosmeticItemDef",
+  "offset": "0x304",
+  "size": "0x32"
+ },
+ {
+  "property": "bApplyVariantsToSpawnedItems",
+  "offset": "0x336",
+  "size": "0x1"
+ },
+ {
+  "property": "bApplyMeshSwappingVariants",
+  "offset": "0x337",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseVariantsFromEmoteLeader",
+  "offset": "0x338",
+  "size": "0x1"
+ },
+ {
+  "property": "bTrackComponentPropInGC",
+  "offset": "0x339",
+  "size": "0x1"
+ },
+ {
+  "property": "PersistComponents",
+  "offset": "0x352",
+  "size": "0x80"
+ }
+]

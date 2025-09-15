@@ -1,0 +1,77 @@
+[
+ {
+  "property": "FrontendNuxVideoKey",
+  "offset": "0x56",
+  "size": "0x16"
+ },
+ {
+  "property": "FrontendNuxVideoName",
+  "offset": "0x72",
+  "size": "0x4"
+ },
+ {
+  "property": "FrontendNuxVideoId",
+  "offset": "0x80",
+  "size": "0x16"
+ },
+ {
+  "property": "NuxVideoVersion",
+  "offset": "0x96",
+  "size": "0x4"
+ },
+ {
+  "property": "bAlwaysShowNuxVideo",
+  "offset": "0x100",
+  "size": "0x1"
+ },
+ {
+  "property": "bDisableFrontendNuxFlow",
+  "offset": "0x101",
+  "size": "0x1"
+ },
+ {
+  "property": "bDisableFrontendSpeedRunPrompt",
+  "offset": "0x102",
+  "size": "0x1"
+ },
+ {
+  "property": "bFrontendSpeedRunPromptUsesTwoButtons",
+  "offset": "0x103",
+  "size": "0x1"
+ },
+ {
+  "property": "DelMarTutorialLinkCode",
+  "offset": "0x104",
+  "size": "0x16"
+ },
+ {
+  "property": "DelMarSpeedRunLinkCode",
+  "offset": "0x120",
+  "size": "0x16"
+ },
+ {
+  "property": "DelMarDefaultLinkCode",
+  "offset": "0x136",
+  "size": "0x16"
+ },
+ {
+  "property": "bUseNewTrackSelectFlow",
+  "offset": "0x152",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseTrackSelectGrids",
+  "offset": "0x153",
+  "size": "0x1"
+ },
+ {
+  "property": "bUsePreviewModal",
+  "offset": "0x154",
+  "size": "0x1"
+ },
+ {
+  "property": "DelMarNewLinkCodes",
+  "offset": "0x160",
+  "size": "0x16"
+ }
+]

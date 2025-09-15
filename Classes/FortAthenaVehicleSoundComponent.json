@@ -1,0 +1,7 @@
+[
+ {
+  "property": "AudioController",
+  "offset": "0x224",
+  "size": "0x8"
+ }
+]

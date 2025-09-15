@@ -1,0 +1,37 @@
+[
+ {
+  "property": "bUseGameplayEvents",
+  "offset": "0x72",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseGameplayTags",
+  "offset": "0x72",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseVerbEvents",
+  "offset": "0x72",
+  "size": "0x1"
+ },
+ {
+  "property": "GameplayEventTags",
+  "offset": "0x80",
+  "size": "0x16"
+ },
+ {
+  "property": "GameplayTagsAdded",
+  "offset": "0x96",
+  "size": "0x16"
+ },
+ {
+  "property": "GameplayTagsRemoved",
+  "offset": "0x112",
+  "size": "0x16"
+ },
+ {
+  "property": "VerbEvents",
+  "offset": "0x128",
+  "size": "0x80"
+ }
+]

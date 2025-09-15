@@ -1,0 +1,27 @@
+[
+ {
+  "property": "ViewportClient",
+  "offset": "0x120",
+  "size": "0x8"
+ },
+ {
+  "property": "AspectRatioAxisConstraint",
+  "offset": "0x184",
+  "size": "0x1"
+ },
+ {
+  "property": "PendingLevelPlayerControllerClass",
+  "offset": "0x192",
+  "size": "0x8"
+ },
+ {
+  "property": "bSentSplitJoin",
+  "offset": "0x200",
+  "size": "0x1"
+ },
+ {
+  "property": "ControllerId",
+  "offset": "0x224",
+  "size": "0x4"
+ }
+]

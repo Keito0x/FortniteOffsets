@@ -1,0 +1,37 @@
+[
+ {
+  "property": "DefaultTimeToLive",
+  "offset": "0x48",
+  "size": "0x4"
+ },
+ {
+  "property": "LockTimeAfterAvoid",
+  "offset": "0x52",
+  "size": "0x4"
+ },
+ {
+  "property": "LockTimeAfterClean",
+  "offset": "0x56",
+  "size": "0x4"
+ },
+ {
+  "property": "DeltaTimeToPredict",
+  "offset": "0x60",
+  "size": "0x4"
+ },
+ {
+  "property": "ArtificialRadiusExpansion",
+  "offset": "0x64",
+  "size": "0x4"
+ },
+ {
+  "property": "TestHeightDifference",
+  "offset": "0x68",
+  "size": "0x4"
+ },
+ {
+  "property": "HeightCheckMargin",
+  "offset": "0x72",
+  "size": "0x4"
+ }
+]

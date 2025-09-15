@@ -1,0 +1,122 @@
+[
+ {
+  "property": "Slot",
+  "offset": "0x48",
+  "size": "0x8"
+ },
+ {
+  "property": "bIsEnabledDelegate",
+  "offset": "0x56",
+  "size": "0x12"
+ },
+ {
+  "property": "ToolTipTextDelegate",
+  "offset": "0x68",
+  "size": "0x12"
+ },
+ {
+  "property": "ToolTipText",
+  "offset": "0x80",
+  "size": "0x16"
+ },
+ {
+  "property": "ToolTipWidget",
+  "offset": "0x96",
+  "size": "0x8"
+ },
+ {
+  "property": "ToolTipWidgetDelegate",
+  "offset": "0x104",
+  "size": "0x12"
+ },
+ {
+  "property": "VisibilityDelegate",
+  "offset": "0x116",
+  "size": "0x12"
+ },
+ {
+  "property": "RenderTransform",
+  "offset": "0x128",
+  "size": "0x56"
+ },
+ {
+  "property": "RenderTransformPivot",
+  "offset": "0x184",
+  "size": "0x16"
+ },
+ {
+  "property": "FlowDirectionPreference",
+  "offset": "0x200",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsVariable",
+  "offset": "0x201",
+  "size": "0x1"
+ },
+ {
+  "property": "bCreatedByConstructionScript",
+  "offset": "0x201",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsEnabled",
+  "offset": "0x201",
+  "size": "0x1"
+ },
+ {
+  "property": "bOverride_Cursor",
+  "offset": "0x201",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsVolatile",
+  "offset": "0x201",
+  "size": "0x1"
+ },
+ {
+  "property": "bWrappedByComponent",
+  "offset": "0x202",
+  "size": "0x1"
+ },
+ {
+  "property": "Cursor",
+  "offset": "0x203",
+  "size": "0x1"
+ },
+ {
+  "property": "Clipping",
+  "offset": "0x204",
+  "size": "0x1"
+ },
+ {
+  "property": "Visibility",
+  "offset": "0x205",
+  "size": "0x1"
+ },
+ {
+  "property": "PixelSnapping",
+  "offset": "0x206",
+  "size": "0x1"
+ },
+ {
+  "property": "RenderOpacity",
+  "offset": "0x208",
+  "size": "0x4"
+ },
+ {
+  "property": "AccessibleWidgetData",
+  "offset": "0x216",
+  "size": "0x8"
+ },
+ {
+  "property": "Navigation",
+  "offset": "0x224",
+  "size": "0x8"
+ },
+ {
+  "property": "NativeBindings",
+  "offset": "0x312",
+  "size": "0x16"
+ }
+]

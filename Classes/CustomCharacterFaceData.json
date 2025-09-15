@@ -1,0 +1,12 @@
+[
+ {
+  "property": "PartAttachedToOverride",
+  "offset": "0x328",
+  "size": "0x1"
+ },
+ {
+  "property": "HatMorphData",
+  "offset": "0x336",
+  "size": "0x72"
+ }
+]

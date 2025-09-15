@@ -1,0 +1,57 @@
+[
+ {
+  "property": "Title",
+  "offset": "0x64",
+  "size": "0x16"
+ },
+ {
+  "property": "Subtitle",
+  "offset": "0x80",
+  "size": "0x16"
+ },
+ {
+  "property": "PageTitle",
+  "offset": "0x96",
+  "size": "0x16"
+ },
+ {
+  "property": "Image",
+  "offset": "0x112",
+  "size": "0x32"
+ },
+ {
+  "property": "PreviewData",
+  "offset": "0x144",
+  "size": "0x16"
+ },
+ {
+  "property": "bCanBuyLevels",
+  "offset": "0x160",
+  "size": "0x1"
+ },
+ {
+  "property": "bHideProgressBar",
+  "offset": "0x161",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldShowStatusBar",
+  "offset": "0x162",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldShowNavigationTabs",
+  "offset": "0x163",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldShowAutoClaimButton",
+  "offset": "0x164",
+  "size": "0x1"
+ },
+ {
+  "property": "DependentCategory",
+  "offset": "0x168",
+  "size": "0x8"
+ }
+]

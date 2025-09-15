@@ -1,0 +1,7 @@
+[
+ {
+  "property": "OverridenAgentNameForNavmesh",
+  "offset": "0x144",
+  "size": "0x4"
+ }
+]

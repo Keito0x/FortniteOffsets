@@ -1,0 +1,47 @@
+[
+ {
+  "property": "DefaultEntryClass",
+  "offset": "0x952",
+  "size": "0x8"
+ },
+ {
+  "property": "bHasPrioritizedWidgetFocus",
+  "offset": "0x960",
+  "size": "0x1"
+ },
+ {
+  "property": "bFeatShowNonVisibleObjectives",
+  "offset": "0x961",
+  "size": "0x1"
+ },
+ {
+  "property": "bIgnoreQuestsPinnedState",
+  "offset": "0x962",
+  "size": "0x1"
+ },
+ {
+  "property": "ActiveWidget",
+  "offset": "0x968",
+  "size": "0x8"
+ },
+ {
+  "property": "WidgetQueue",
+  "offset": "0x976",
+  "size": "0x16"
+ },
+ {
+  "property": "NotificationUpdatesBox",
+  "offset": "0x1024",
+  "size": "0x8"
+ },
+ {
+  "property": "NotificationClassPoolData",
+  "offset": "0x1032",
+  "size": "0x16"
+ },
+ {
+  "property": "PrioritizationData",
+  "offset": "0x1048",
+  "size": "0x2"
+ }
+]

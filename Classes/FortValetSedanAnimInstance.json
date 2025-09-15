@@ -1,0 +1,22 @@
+[
+ {
+  "property": "bHasTireMod",
+  "offset": "0x1708",
+  "size": "0x1"
+ },
+ {
+  "property": "TrunkDamageAlpha",
+  "offset": "0x1712",
+  "size": "0x4"
+ },
+ {
+  "property": "MirrorLeftDamageAlpha",
+  "offset": "0x1716",
+  "size": "0x4"
+ },
+ {
+  "property": "MirrorRightDamageAlpha",
+  "offset": "0x1720",
+  "size": "0x4"
+ }
+]

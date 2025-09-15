@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Settings",
+  "offset": "0x40",
+  "size": "0x160"
+ },
+ {
+  "property": "Guid",
+  "offset": "0x200",
+  "size": "0x16"
+ }
+]

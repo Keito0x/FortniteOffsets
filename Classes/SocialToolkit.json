@@ -1,0 +1,27 @@
+[
+ {
+  "property": "SocialChatManager",
+  "offset": "0x104",
+  "size": "0x8"
+ },
+ {
+  "property": "LocalUser",
+  "offset": "0x112",
+  "size": "0x8"
+ },
+ {
+  "property": "AllUsers",
+  "offset": "0x120",
+  "size": "0x16"
+ },
+ {
+  "property": "bRemoveInvalidatedUserFromMaps",
+  "offset": "0x296",
+  "size": "0x1"
+ },
+ {
+  "property": "LocalPlayerOwner",
+  "offset": "0x300",
+  "size": "0x8"
+ }
+]

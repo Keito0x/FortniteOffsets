@@ -1,0 +1,17 @@
+[
+ {
+  "property": "ActiveAction",
+  "offset": "0x56",
+  "size": "0x8"
+ },
+ {
+  "property": "TimeoutSeconds",
+  "offset": "0x64",
+  "size": "0x4"
+ },
+ {
+  "property": "FlowSuppressionSeconds",
+  "offset": "0x68",
+  "size": "0x4"
+ }
+]

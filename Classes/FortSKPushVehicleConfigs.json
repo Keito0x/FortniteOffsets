@@ -1,0 +1,112 @@
+[
+ {
+  "property": "PedalForceMultiplier",
+  "offset": "0x2576",
+  "size": "0x4"
+ },
+ {
+  "property": "PedalTopSpeedMultiplier",
+  "offset": "0x2580",
+  "size": "0x4"
+ },
+ {
+  "property": "PedalForceDuration",
+  "offset": "0x2584",
+  "size": "0x4"
+ },
+ {
+  "property": "CoastBrakingMinDelta",
+  "offset": "0x2588",
+  "size": "0x4"
+ },
+ {
+  "property": "CoastBrakingMaxDelta",
+  "offset": "0x2592",
+  "size": "0x4"
+ },
+ {
+  "property": "PedalMinDuration",
+  "offset": "0x2596",
+  "size": "0x4"
+ },
+ {
+  "property": "MountDuration",
+  "offset": "0x2600",
+  "size": "0x4"
+ },
+ {
+  "property": "DismountDuration",
+  "offset": "0x2604",
+  "size": "0x4"
+ },
+ {
+  "property": "MinPreDismountCooldown",
+  "offset": "0x2608",
+  "size": "0x4"
+ },
+ {
+  "property": "PreDismountCooldown",
+  "offset": "0x2612",
+  "size": "0x4"
+ },
+ {
+  "property": "PedalCooldown",
+  "offset": "0x2616",
+  "size": "0x4"
+ },
+ {
+  "property": "CoastBrakingStrength",
+  "offset": "0x2620",
+  "size": "0x4"
+ },
+ {
+  "property": "ShoppingMinPedalCoastSpeed",
+  "offset": "0x2624",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleDebugStrafeCoastMultiplier",
+  "offset": "0x2628",
+  "size": "0x4"
+ },
+ {
+  "property": "CanCoastCooldown",
+  "offset": "0x2632",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxAutoDismountForwardSpeed",
+  "offset": "0x2636",
+  "size": "0x4"
+ },
+ {
+  "property": "PedalMinForwardVelocity",
+  "offset": "0x2640",
+  "size": "0x4"
+ },
+ {
+  "property": "FastDismountDuration",
+  "offset": "0x2644",
+  "size": "0x4"
+ },
+ {
+  "property": "CanCoastAfterFastDismountCooldown",
+  "offset": "0x2648",
+  "size": "0x4"
+ },
+ {
+  "property": "PassengerVehicleWeightShiftYawStrength",
+  "offset": "0x2652",
+  "size": "0x4"
+ },
+ {
+  "property": "MinPushForceMagnitude",
+  "offset": "0x2656",
+  "size": "0x4"
+ },
+ {
+  "property": "MinGearRampTime",
+  "offset": "0x2660",
+  "size": "0x4"
+ }
+]

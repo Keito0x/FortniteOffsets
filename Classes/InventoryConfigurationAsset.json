@@ -1,0 +1,12 @@
+[
+ {
+  "property": "InventorySetup",
+  "offset": "0x48",
+  "size": "0x8"
+ },
+ {
+  "property": "DEBUG_InventorySetup",
+  "offset": "0x56",
+  "size": "0x8"
+ }
+]

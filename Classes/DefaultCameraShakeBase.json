@@ -1,0 +1,22 @@
+[
+ {
+  "property": "bSingleInstance",
+  "offset": "0x40",
+  "size": "0x1"
+ },
+ {
+  "property": "ShakeScale",
+  "offset": "0x44",
+  "size": "0x4"
+ },
+ {
+  "property": "RootShakePattern",
+  "offset": "0x48",
+  "size": "0x8"
+ },
+ {
+  "property": "CameraManager",
+  "offset": "0x56",
+  "size": "0x8"
+ }
+]

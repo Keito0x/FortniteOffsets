@@ -1,0 +1,17 @@
+[
+ {
+  "property": "RopeAttachSocketName",
+  "offset": "0x3232",
+  "size": "0x4"
+ },
+ {
+  "property": "CollisionProfileNameOverride",
+  "offset": "0x3236",
+  "size": "0x4"
+ },
+ {
+  "property": "OwningTowHook",
+  "offset": "0x3240",
+  "size": "0x8"
+ }
+]

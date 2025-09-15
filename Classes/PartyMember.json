@@ -1,0 +1,12 @@
+[
+ {
+  "property": "DefaultSocialUser",
+  "offset": "0x112",
+  "size": "0x8"
+ },
+ {
+  "property": "bEnableDebugInitializer",
+  "offset": "0x121",
+  "size": "0x1"
+ }
+]

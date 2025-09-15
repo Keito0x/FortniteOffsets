@@ -1,0 +1,12 @@
+[
+ {
+  "property": "SubtitleWidgetToUse",
+  "offset": "0x48",
+  "size": "0x8"
+ },
+ {
+  "property": "SubtitleWidgetToUseDefault",
+  "offset": "0x56",
+  "size": "0x8"
+ }
+]

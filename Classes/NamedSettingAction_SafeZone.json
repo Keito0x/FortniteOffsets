@@ -1,0 +1,12 @@
+[
+ {
+  "property": "ModalWidgetClass",
+  "offset": "0x40",
+  "size": "0x32"
+ },
+ {
+  "property": "bSuspendUntilComplete",
+  "offset": "0x72",
+  "size": "0x1"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "property": "HeldDuration",
+  "offset": "0x80",
+  "size": "0x4"
+ },
+ {
+  "property": "bAffectedByTimeDilation",
+  "offset": "0x84",
+  "size": "0x1"
+ }
+]

@@ -1,0 +1,127 @@
+[
+ {
+  "property": "OnPossessedByController",
+  "offset": "0x24928",
+  "size": "0x16"
+ },
+ {
+  "property": "OnPawnPhysicalHit",
+  "offset": "0x24944",
+  "size": "0x16"
+ },
+ {
+  "property": "HolsterId",
+  "offset": "0x24960",
+  "size": "0x4"
+ },
+ {
+  "property": "InventoryItemsToRemove",
+  "offset": "0x24968",
+  "size": "0x16"
+ },
+ {
+  "property": "DefaultWeaponDefinition",
+  "offset": "0x24984",
+  "size": "0x8"
+ },
+ {
+  "property": "HF_OutOfHealthImmediateHeal",
+  "offset": "0x24992",
+  "size": "0x40"
+ },
+ {
+  "property": "HF_OutOfHealthImmediateShield",
+  "offset": "0x25032",
+  "size": "0x40"
+ },
+ {
+  "property": "ReplicatedTransformationData",
+  "offset": "0x25072",
+  "size": "0x1"
+ },
+ {
+  "property": "CharacterParts",
+  "offset": "0x25080",
+  "size": "0x16"
+ },
+ {
+  "property": "OptOutTransformationAnimations",
+  "offset": "0x25096",
+  "size": "0x16"
+ },
+ {
+  "property": "WeakenedTransformationAnimations",
+  "offset": "0x25112",
+  "size": "0x16"
+ },
+ {
+  "property": "SpriteTag",
+  "offset": "0x25128",
+  "size": "0x4"
+ },
+ {
+  "property": "bHadSpriteEquipped",
+  "offset": "0x25132",
+  "size": "0x1"
+ },
+ {
+  "property": "CachedPreviousHealth",
+  "offset": "0x25164",
+  "size": "0x4"
+ },
+ {
+  "property": "PrimaryWeaponActiveTag",
+  "offset": "0x25168",
+  "size": "0x4"
+ },
+ {
+  "property": "SecondaryWeaponActiveTag",
+  "offset": "0x25172",
+  "size": "0x4"
+ },
+ {
+  "property": "SprintActiveTag",
+  "offset": "0x25176",
+  "size": "0x4"
+ },
+ {
+  "property": "AttachedBaseForTransformation",
+  "offset": "0x25180",
+  "size": "0x8"
+ },
+ {
+  "property": "DefaultWeaponInstance",
+  "offset": "0x25188",
+  "size": "0x8"
+ },
+ {
+  "property": "bIsTransformingInto",
+  "offset": "0x25196",
+  "size": "0x1"
+ },
+ {
+  "property": "PawnAbilitySet",
+  "offset": "0x25200",
+  "size": "0x8"
+ },
+ {
+  "property": "BeastGirlActiveDurationTag",
+  "offset": "0x25208",
+  "size": "0x4"
+ },
+ {
+  "property": "BeastGirlTempCharacter",
+  "offset": "0x25216",
+  "size": "0x8"
+ },
+ {
+  "property": "CachedCharacter",
+  "offset": "0x25224",
+  "size": "0x8"
+ },
+ {
+  "property": "¦uL†]Œ¦¦ÙYYYYYYYYYYYYYYYYYYYYYÙYYYYYYYYYYYYYYY1Ê†]Œ¦¦aÝª*Y›¦¦9vå€]Œ¦¦YYYYYYYYßY]YYYYY]YYY]YYYYYYYYYYYYYYYYYYY%vå€]Œ¦¦ÙYYYYYYYišsƒ]Œ¦¦)sƒ]Œ¦¦YYYYYYYY]YYYYYYY909]Œ¦¦yá†]Œ¦¦Yc;ˆ]Œ¦¦]YYYYYYYM†]Œ¦¦XYYYYYYYqM†]Œ¦¦YYYYYYYYYYSXÿïøéYYYYYYYYQ÷+Y›¦¦EäÝ	]Œ¦¦M<0]Œ¦¦YYYYYYYY]YYYYYYYYYYYYYYYYYYYYYYYXY]YYYY&me]Œ¦¦YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYÙYYYYYYYYYYYYYYYQÍ†]Œ¦¦ÿ)Y›¦¦YYYYYYYYYYYYYYYYßY](YYYYYYYÿYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY	Þt]Œ¦¦IäA‚]Œ¦¦YYYYYYYY]YYYYYYYq	]Œ¦¦YˆÍ]Œ¦¦Y}1‰]Œ¦¦]YYYYYYY=Í†]Œ¦¦ÙYYYYYYYÍ†]Œ¦¦YYYYYYYYYYSXÿïøéYYYYYYYYÓ"Y›¦¦uL†]Œ¦",
+  "offset": "0x25232",
+  "size": "0x56"
+ }
+]

@@ -1,0 +1,102 @@
+[
+ {
+  "property": "ControlRigClass",
+  "offset": "0x1304",
+  "size": "0x8"
+ },
+ {
+  "property": "OnPreInitializeDelegate",
+  "offset": "0x1312",
+  "size": "0x16"
+ },
+ {
+  "property": "OnPostInitializeDelegate",
+  "offset": "0x1328",
+  "size": "0x16"
+ },
+ {
+  "property": "OnPreConstructionDelegate",
+  "offset": "0x1344",
+  "size": "0x16"
+ },
+ {
+  "property": "OnPostConstructionDelegate",
+  "offset": "0x1360",
+  "size": "0x16"
+ },
+ {
+  "property": "OnPreForwardsSolveDelegate",
+  "offset": "0x1376",
+  "size": "0x16"
+ },
+ {
+  "property": "OnPostForwardsSolveDelegate",
+  "offset": "0x1392",
+  "size": "0x16"
+ },
+ {
+  "property": "UserDefinedElements",
+  "offset": "0x1408",
+  "size": "0x16"
+ },
+ {
+  "property": "MappedElements",
+  "offset": "0x1424",
+  "size": "0x16"
+ },
+ {
+  "property": "bEnableLazyEvaluation",
+  "offset": "0x1440",
+  "size": "0x1"
+ },
+ {
+  "property": "LazyEvaluationPositionThreshold",
+  "offset": "0x1444",
+  "size": "0x4"
+ },
+ {
+  "property": "LazyEvaluationRotationThreshold",
+  "offset": "0x1448",
+  "size": "0x4"
+ },
+ {
+  "property": "LazyEvaluationScaleThreshold",
+  "offset": "0x1452",
+  "size": "0x4"
+ },
+ {
+  "property": "bResetTransformBeforeTick",
+  "offset": "0x1456",
+  "size": "0x1"
+ },
+ {
+  "property": "bResetInitialsBeforeConstruction",
+  "offset": "0x1457",
+  "size": "0x1"
+ },
+ {
+  "property": "bUpdateRigOnTick",
+  "offset": "0x1458",
+  "size": "0x1"
+ },
+ {
+  "property": "bUpdateInEditor",
+  "offset": "0x1459",
+  "size": "0x1"
+ },
+ {
+  "property": "bDrawBones",
+  "offset": "0x1460",
+  "size": "0x1"
+ },
+ {
+  "property": "bShowDebugDrawing",
+  "offset": "0x1461",
+  "size": "0x1"
+ },
+ {
+  "property": "ControlRig",
+  "offset": "0x1464",
+  "size": "0x8"
+ }
+]

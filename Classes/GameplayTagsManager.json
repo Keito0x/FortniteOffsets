@@ -1,0 +1,12 @@
+[
+ {
+  "property": "TagSources",
+  "offset": "0x392",
+  "size": "0x80"
+ },
+ {
+  "property": "GameplayTagTables",
+  "offset": "0x656",
+  "size": "0x16"
+ }
+]

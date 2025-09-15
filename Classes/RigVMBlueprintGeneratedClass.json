@@ -1,0 +1,17 @@
+[
+ {
+  "property": "GraphFunctionStore",
+  "offset": "0x888",
+  "size": "0x32"
+ },
+ {
+  "property": "SupportedEventNames",
+  "offset": "0x920",
+  "size": "0x16"
+ },
+ {
+  "property": "AssetVariant",
+  "offset": "0x936",
+  "size": "0x32"
+ }
+]

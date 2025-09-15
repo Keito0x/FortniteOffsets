@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Unknown_ffield",
+  "offset": "0x328",
+  "size": "0x16"
+ },
+ {
+  "property": "LastRequestedTimeForMigrationTimerPushback",
+  "offset": "0x360",
+  "size": "0x4"
+ }
+]

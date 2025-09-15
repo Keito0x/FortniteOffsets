@@ -1,0 +1,12 @@
+[
+ {
+  "property": "ActionMenuClass",
+  "offset": "0x5640",
+  "size": "0x8"
+ },
+ {
+  "property": "MenuAnchor_Actions",
+  "offset": "0x5648",
+  "size": "0x8"
+ }
+]

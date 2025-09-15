@@ -1,0 +1,47 @@
+[
+ {
+  "property": "AttachedMessageTag",
+  "offset": "0x880",
+  "size": "0x4"
+ },
+ {
+  "property": "AttachedMessageType",
+  "offset": "0x888",
+  "size": "0x8"
+ },
+ {
+  "property": "DetachedMessageTag",
+  "offset": "0x896",
+  "size": "0x4"
+ },
+ {
+  "property": "DetachedMessageType",
+  "offset": "0x904",
+  "size": "0x8"
+ },
+ {
+  "property": "SetMarkerPositionMessageTag",
+  "offset": "0x912",
+  "size": "0x4"
+ },
+ {
+  "property": "SetMarkerPositionMessageType",
+  "offset": "0x920",
+  "size": "0x8"
+ },
+ {
+  "property": "SetMarkerPositionMessagePropertyName",
+  "offset": "0x928",
+  "size": "0x4"
+ },
+ {
+  "property": "TargetDamagedMessageTag",
+  "offset": "0x932",
+  "size": "0x4"
+ },
+ {
+  "property": "TargetDamagedMessageType",
+  "offset": "0x936",
+  "size": "0x8"
+ }
+]

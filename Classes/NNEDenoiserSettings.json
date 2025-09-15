@@ -1,0 +1,22 @@
+[
+ {
+  "property": "DenoiserAsset",
+  "offset": "0x48",
+  "size": "0x32"
+ },
+ {
+  "property": "MaximumTileSizeOverride",
+  "offset": "0x112",
+  "size": "0x4"
+ },
+ {
+  "property": "RuntimeType",
+  "offset": "0x116",
+  "size": "0x1"
+ },
+ {
+  "property": "RuntimeName",
+  "offset": "0x120",
+  "size": "0x16"
+ }
+]

@@ -1,0 +1,37 @@
+[
+ {
+  "property": "DefaultSoundAsset",
+  "offset": "0x536",
+  "size": "0x8"
+ },
+ {
+  "property": "SmallSoundAsset",
+  "offset": "0x544",
+  "size": "0x8"
+ },
+ {
+  "property": "AverageSoundAsset",
+  "offset": "0x552",
+  "size": "0x8"
+ },
+ {
+  "property": "MediumSoundAsset",
+  "offset": "0x560",
+  "size": "0x8"
+ },
+ {
+  "property": "LargeSoundAsset",
+  "offset": "0x568",
+  "size": "0x8"
+ },
+ {
+  "property": "ZeroGSoundAsset",
+  "offset": "0x576",
+  "size": "0x8"
+ },
+ {
+  "property": "AudioParamsArray",
+  "offset": "0x584",
+  "size": "0x288"
+ }
+]

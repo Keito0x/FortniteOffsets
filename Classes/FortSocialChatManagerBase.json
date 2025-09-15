@@ -1,0 +1,27 @@
+[
+ {
+  "property": "DirectChannelsByTargetUser",
+  "offset": "0x120",
+  "size": "0x80"
+ },
+ {
+  "property": "ChatRoomsById",
+  "offset": "0x200",
+  "size": "0x80"
+ },
+ {
+  "property": "ReadOnlyChannelsByDisplayName",
+  "offset": "0x280",
+  "size": "0x80"
+ },
+ {
+  "property": "bEnableChatSlashCommands",
+  "offset": "0x360",
+  "size": "0x1"
+ },
+ {
+  "property": "GroupChannels",
+  "offset": "0x368",
+  "size": "0x80"
+ }
+]

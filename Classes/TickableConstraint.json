@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Active",
+  "offset": "0x40",
+  "size": "0x1"
+ },
+ {
+  "property": "bValid",
+  "offset": "0x41",
+  "size": "0x1"
+ }
+]

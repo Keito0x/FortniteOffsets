@@ -1,0 +1,17 @@
+[
+ {
+  "property": "AttachedPlayer",
+  "offset": "0x680",
+  "size": "0x8"
+ },
+ {
+  "property": "AttachedZipline",
+  "offset": "0x688",
+  "size": "0x8"
+ },
+ {
+  "property": "bHasHitAnotherPlayer",
+  "offset": "0x696",
+  "size": "0x1"
+ }
+]

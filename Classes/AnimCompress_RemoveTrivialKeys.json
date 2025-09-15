@@ -1,0 +1,17 @@
+[
+ {
+  "property": "MaxPosDiff",
+  "offset": "0x64",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxAngleDiff",
+  "offset": "0x68",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxScaleDiff",
+  "offset": "0x72",
+  "size": "0x4"
+ }
+]

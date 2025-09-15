@@ -1,0 +1,22 @@
+[
+ {
+  "property": "SoundLibraries",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "MetaSoundPatch1P",
+  "offset": "0x64",
+  "size": "0x32"
+ },
+ {
+  "property": "MetaSoundPatch3P",
+  "offset": "0x96",
+  "size": "0x32"
+ },
+ {
+  "property": "SortOrder",
+  "offset": "0x128",
+  "size": "0x4"
+ }
+]

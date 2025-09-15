@@ -1,0 +1,17 @@
+[
+ {
+  "property": "PhysicalMeshData",
+  "offset": "0x40",
+  "size": "0x8"
+ },
+ {
+  "property": "ClothPhysicalMeshData",
+  "offset": "0x48",
+  "size": "0x296"
+ },
+ {
+  "property": "CollisionData",
+  "offset": "0x344",
+  "size": "0x64"
+ }
+]

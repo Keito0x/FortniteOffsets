@@ -1,0 +1,32 @@
+[
+ {
+  "property": "PlacementChange",
+  "offset": "0x104",
+  "size": "0x8"
+ },
+ {
+  "property": "ErrorState",
+  "offset": "0x112",
+  "size": "0x1"
+ },
+ {
+  "property": "OptionalErrorText",
+  "offset": "0x120",
+  "size": "0x16"
+ },
+ {
+  "property": "OwningLocalPlayer",
+  "offset": "0x136",
+  "size": "0x8"
+ },
+ {
+  "property": "OwningPlayerController",
+  "offset": "0x144",
+  "size": "0x8"
+ },
+ {
+  "property": "RankedDisplayData",
+  "offset": "0x152",
+  "size": "0x8"
+ }
+]

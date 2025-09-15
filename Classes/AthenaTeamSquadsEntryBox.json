@@ -1,0 +1,12 @@
+[
+ {
+  "property": "SquadEntryClass",
+  "offset": "0x600",
+  "size": "0x8"
+ },
+ {
+  "property": "bDisplayEmptySquads",
+  "offset": "0x608",
+  "size": "0x1"
+ }
+]

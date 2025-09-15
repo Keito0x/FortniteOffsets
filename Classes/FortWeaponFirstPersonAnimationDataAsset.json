@@ -1,0 +1,12 @@
+[
+ {
+  "property": "AnimationData",
+  "offset": "0x48",
+  "size": "0x536"
+ },
+ {
+  "property": "CustomizedEquipMontage",
+  "offset": "0x584",
+  "size": "0x8"
+ }
+]

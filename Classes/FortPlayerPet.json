@@ -1,0 +1,42 @@
+[
+ {
+  "property": "Unknown_ffield",
+  "offset": "0x688",
+  "size": "0x8"
+ },
+ {
+  "property": "PetAudioComponent",
+  "offset": "0x696",
+  "size": "0x8"
+ },
+ {
+  "property": "bIsFrontEndPreview",
+  "offset": "0x708",
+  "size": "0x1"
+ },
+ {
+  "property": "PetMesh",
+  "offset": "0x712",
+  "size": "0x8"
+ },
+ {
+  "property": "InteractionCollisionSphere",
+  "offset": "0x720",
+  "size": "0x8"
+ },
+ {
+  "property": "bSuppressInteract",
+  "offset": "0x728",
+  "size": "0x1"
+ },
+ {
+  "property": "SavedMaterials",
+  "offset": "0x736",
+  "size": "0x16"
+ },
+ {
+  "property": "SoundBank",
+  "offset": "0x784",
+  "size": "0x8"
+ }
+]

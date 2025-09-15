@@ -1,0 +1,12 @@
+[
+ {
+  "property": "TargetRegistryName",
+  "offset": "0x40",
+  "size": "0x4"
+ },
+ {
+  "property": "SettingModelTemplateClass",
+  "offset": "0x48",
+  "size": "0x32"
+ }
+]

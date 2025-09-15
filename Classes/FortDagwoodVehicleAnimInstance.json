@@ -1,0 +1,27 @@
+[
+ {
+  "property": "Dagwood",
+  "offset": "0x1704",
+  "size": "0x8"
+ },
+ {
+  "property": "GlassScale_FR",
+  "offset": "0x1712",
+  "size": "0x24"
+ },
+ {
+  "property": "GlassScale_FL",
+  "offset": "0x1736",
+  "size": "0x24"
+ },
+ {
+  "property": "GlassScale_BR",
+  "offset": "0x1760",
+  "size": "0x24"
+ },
+ {
+  "property": "GlassScale_BL",
+  "offset": "0x1784",
+  "size": "0x24"
+ }
+]

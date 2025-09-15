@@ -1,0 +1,22 @@
+[
+ {
+  "property": "ItemName",
+  "offset": "0x64",
+  "size": "0x16"
+ },
+ {
+  "property": "ItemDescription",
+  "offset": "0x80",
+  "size": "0x16"
+ },
+ {
+  "property": "ItemShortDescription",
+  "offset": "0x96",
+  "size": "0x16"
+ },
+ {
+  "property": "DataList",
+  "offset": "0x112",
+  "size": "0x16"
+ }
+]

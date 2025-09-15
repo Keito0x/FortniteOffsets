@@ -1,0 +1,17 @@
+[
+ {
+  "property": "Switcher_StartLogin",
+  "offset": "0x1152",
+  "size": "0x8"
+ },
+ {
+  "property": "Widget_PlayedBeforeSelect",
+  "offset": "0x1160",
+  "size": "0x8"
+ },
+ {
+  "property": "Widget_StartLogin",
+  "offset": "0x1168",
+  "size": "0x8"
+ }
+]

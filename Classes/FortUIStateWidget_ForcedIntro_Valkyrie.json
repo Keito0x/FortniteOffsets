@@ -1,0 +1,82 @@
+[
+ {
+  "property": "PlaylistPluginName",
+  "offset": "0x1216",
+  "size": "0x16"
+ },
+ {
+  "property": "PlaylistName",
+  "offset": "0x1232",
+  "size": "0x4"
+ },
+ {
+  "property": "MatchmakingStartTime",
+  "offset": "0x1240",
+  "size": "0x8"
+ },
+ {
+  "property": "MatchmakingStartTimeRandomness",
+  "offset": "0x1248",
+  "size": "0x4"
+ },
+ {
+  "property": "bUseMCPTime",
+  "offset": "0x1252",
+  "size": "0x1"
+ },
+ {
+  "property": "MaxWaitTimeForMeshConfig",
+  "offset": "0x1256",
+  "size": "0x4"
+ },
+ {
+  "property": "InitialDelayBeforeMM",
+  "offset": "0x1260",
+  "size": "0x4"
+ },
+ {
+  "property": "MMTimeoutTime",
+  "offset": "0x1264",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxNumOfMMAttempts",
+  "offset": "0x1268",
+  "size": "0x4"
+ },
+ {
+  "property": "TimeBetweenMMAttempts",
+  "offset": "0x1272",
+  "size": "0x4"
+ },
+ {
+  "property": "TimeBetweenMMAttemptsMultiplier",
+  "offset": "0x1276",
+  "size": "0x4"
+ },
+ {
+  "property": "bLocalOnlyOnFail",
+  "offset": "0x1281",
+  "size": "0x1"
+ },
+ {
+  "property": "bSetToDefaulPlaylistOnDeactivated",
+  "offset": "0x1282",
+  "size": "0x1"
+ },
+ {
+  "property": "bSetLocalHasSeenForcedIntroOnDeactivated",
+  "offset": "0x1283",
+  "size": "0x1"
+ },
+ {
+  "property": "LoadingScreenDefinition",
+  "offset": "0x1288",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_ForcedIntroState",
+  "offset": "0x1296",
+  "size": "0x8"
+ }
+]

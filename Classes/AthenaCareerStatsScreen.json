@@ -1,0 +1,67 @@
+[
+ {
+  "property": "ReplayBrowserScreenClass",
+  "offset": "0x1432",
+  "size": "0x32"
+ },
+ {
+  "property": "ChangeFlagModalClass",
+  "offset": "0x1464",
+  "size": "0x8"
+ },
+ {
+  "property": "BackToSocialTabInputActionRowHandle",
+  "offset": "0x1472",
+  "size": "0x16"
+ },
+ {
+  "property": "bHasAvailableAthenaProfile",
+  "offset": "0x1488",
+  "size": "0x1"
+ },
+ {
+  "property": "PlayerName",
+  "offset": "0x1496",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_AccountLevel",
+  "offset": "0x1504",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_TouchClose",
+  "offset": "0x1512",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_MobileTabLabel",
+  "offset": "0x1520",
+  "size": "0x8"
+ },
+ {
+  "property": "WBP_Habanero_Icon",
+  "offset": "0x1528",
+  "size": "0x8"
+ },
+ {
+  "property": "HabaneroDisplayData",
+  "offset": "0x1544",
+  "size": "0x8"
+ },
+ {
+  "property": "GameModeRankSeasonData",
+  "offset": "0x1552",
+  "size": "0x8"
+ },
+ {
+  "property": "ParseStatsCompeteQueryData",
+  "offset": "0x1560",
+  "size": "0x8"
+ },
+ {
+  "property": "bIsOpenedFromLeaderboardsScreen",
+  "offset": "0x1568",
+  "size": "0x1"
+ }
+]

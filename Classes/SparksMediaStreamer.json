@@ -1,0 +1,37 @@
+[
+ {
+  "property": "StreamingStatus",
+  "offset": "0x112",
+  "size": "0x1"
+ },
+ {
+  "property": "Song",
+  "offset": "0x120",
+  "size": "0x8"
+ },
+ {
+  "property": "PlayParams",
+  "offset": "0x128",
+  "size": "0x72"
+ },
+ {
+  "property": "FortBaseStreaming",
+  "offset": "0x200",
+  "size": "0x8"
+ },
+ {
+  "property": "StemmedMediaStreamAsset",
+  "offset": "0x208",
+  "size": "0x8"
+ },
+ {
+  "property": "MidiFile",
+  "offset": "0x216",
+  "size": "0x8"
+ },
+ {
+  "property": "ParsedMidiEventData",
+  "offset": "0x224",
+  "size": "0x8"
+ }
+]

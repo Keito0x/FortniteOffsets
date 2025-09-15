@@ -1,0 +1,22 @@
+[
+ {
+  "property": "RegionId",
+  "offset": "0x104",
+  "size": "0x16"
+ },
+ {
+  "property": "RegionDisplayName",
+  "offset": "0x120",
+  "size": "0x16"
+ },
+ {
+  "property": "RegionFlagAsset",
+  "offset": "0x136",
+  "size": "0x32"
+ },
+ {
+  "property": "CareerUIManager",
+  "offset": "0x168",
+  "size": "0x8"
+ }
+]

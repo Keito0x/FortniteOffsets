@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Links",
+  "offset": "0x40",
+  "size": "0x16"
+ },
+ {
+  "property": "SegmentLinks",
+  "offset": "0x56",
+  "size": "0x16"
+ }
+]

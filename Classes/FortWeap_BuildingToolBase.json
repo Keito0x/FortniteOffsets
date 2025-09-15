@@ -1,0 +1,27 @@
+[
+ {
+  "property": "PencilMeshComponent",
+  "offset": "0x7280",
+  "size": "0x8"
+ },
+ {
+  "property": "BlueprintPaperSocket",
+  "offset": "0x7288",
+  "size": "0x4"
+ },
+ {
+  "property": "BlueprintPencilSocket",
+  "offset": "0x7292",
+  "size": "0x4"
+ },
+ {
+  "property": "Unknown_ffield",
+  "offset": "0x7296",
+  "size": "0x8"
+ },
+ {
+  "property": "InstigatorBotController",
+  "offset": "0x7304",
+  "size": "0x8"
+ }
+]

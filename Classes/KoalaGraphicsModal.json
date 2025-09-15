@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Button_KeepEnabled",
+  "offset": "0x1144",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_Disable",
+  "offset": "0x1152",
+  "size": "0x8"
+ }
+]

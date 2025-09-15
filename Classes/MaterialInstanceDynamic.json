@@ -1,0 +1,127 @@
+[
+ {
+  "property": "PhysMaterial",
+  "offset": "0x224",
+  "size": "0x8"
+ },
+ {
+  "property": "PhysicalMaterialMap",
+  "offset": "0x232",
+  "size": "0x64"
+ },
+ {
+  "property": "Parent",
+  "offset": "0x296",
+  "size": "0x8"
+ },
+ {
+  "property": "NaniteOverrideMaterial",
+  "offset": "0x304",
+  "size": "0x48"
+ },
+ {
+  "property": "SpecularProfileOverride",
+  "offset": "0x352",
+  "size": "0x8"
+ },
+ {
+  "property": "bHasStaticPermutationResource",
+  "offset": "0x360",
+  "size": "0x1"
+ },
+ {
+  "property": "bOverrideSubsurfaceProfile",
+  "offset": "0x360",
+  "size": "0x1"
+ },
+ {
+  "property": "bOverrideSpecularProfile",
+  "offset": "0x360",
+  "size": "0x1"
+ },
+ {
+  "property": "bOverrideBlendableLocation",
+  "offset": "0x360",
+  "size": "0x1"
+ },
+ {
+  "property": "bOverrideBlendablePriority",
+  "offset": "0x360",
+  "size": "0x1"
+ },
+ {
+  "property": "BlendableLocationOverride",
+  "offset": "0x363",
+  "size": "0x1"
+ },
+ {
+  "property": "BlendablePriorityOverride",
+  "offset": "0x364",
+  "size": "0x4"
+ },
+ {
+  "property": "ScalarParameterValues",
+  "offset": "0x400",
+  "size": "0x16"
+ },
+ {
+  "property": "VectorParameterValues",
+  "offset": "0x416",
+  "size": "0x16"
+ },
+ {
+  "property": "DoubleVectorParameterValues",
+  "offset": "0x432",
+  "size": "0x16"
+ },
+ {
+  "property": "TextureParameterValues",
+  "offset": "0x448",
+  "size": "0x16"
+ },
+ {
+  "property": "TextureCollectionParameterValues",
+  "offset": "0x464",
+  "size": "0x16"
+ },
+ {
+  "property": "ParameterCollectionParameterValues",
+  "offset": "0x480",
+  "size": "0x16"
+ },
+ {
+  "property": "RuntimeVirtualTextureParameterValues",
+  "offset": "0x496",
+  "size": "0x16"
+ },
+ {
+  "property": "SparseVolumeTextureParameterValues",
+  "offset": "0x512",
+  "size": "0x16"
+ },
+ {
+  "property": "FontParameterValues",
+  "offset": "0x528",
+  "size": "0x16"
+ },
+ {
+  "property": "EnumerationParameterValues",
+  "offset": "0x544",
+  "size": "0x16"
+ },
+ {
+  "property": "UserSceneTextureOverrides",
+  "offset": "0x560",
+  "size": "0x16"
+ },
+ {
+  "property": "BasePropertyOverrides",
+  "offset": "0x576",
+  "size": "0x32"
+ },
+ {
+  "property": "StaticParametersRuntime",
+  "offset": "0x616",
+  "size": "0x128"
+ }
+]

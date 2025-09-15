@@ -1,0 +1,12 @@
+[
+ {
+  "property": "OnTargetUpdated",
+  "offset": "0x10960",
+  "size": "0x16"
+ },
+ {
+  "property": "TowhookFuelCost",
+  "offset": "0x10976",
+  "size": "0x40"
+ }
+]

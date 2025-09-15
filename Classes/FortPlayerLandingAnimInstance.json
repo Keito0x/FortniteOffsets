@@ -1,0 +1,12 @@
+[
+ {
+  "property": "GroundLandingAlphaDamper",
+  "offset": "0x4888",
+  "size": "0x4"
+ },
+ {
+  "property": "bHasLandingOverride",
+  "offset": "0x4892",
+  "size": "0x1"
+ }
+]

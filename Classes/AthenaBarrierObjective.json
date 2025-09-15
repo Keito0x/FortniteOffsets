@@ -1,0 +1,32 @@
+[
+ {
+  "property": "FoodDisplayData",
+  "offset": "0x2528",
+  "size": "0x144"
+ },
+ {
+  "property": "FoodTeam",
+  "offset": "0x2672",
+  "size": "0x1"
+ },
+ {
+  "property": "ObjectiveDamageState",
+  "offset": "0x2673",
+  "size": "0x1"
+ },
+ {
+  "property": "HeadRotationYaw",
+  "offset": "0x2676",
+  "size": "0x4"
+ },
+ {
+  "property": "bAllowDamage",
+  "offset": "0x2680",
+  "size": "0x1"
+ },
+ {
+  "property": "DamageFromSword",
+  "offset": "0x2688",
+  "size": "0x40"
+ }
+]

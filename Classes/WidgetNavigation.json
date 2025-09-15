@@ -1,0 +1,42 @@
+[
+ {
+  "property": "Up",
+  "offset": "0x40",
+  "size": "0x28"
+ },
+ {
+  "property": "Down",
+  "offset": "0x68",
+  "size": "0x28"
+ },
+ {
+  "property": "Left",
+  "offset": "0x96",
+  "size": "0x28"
+ },
+ {
+  "property": "Right",
+  "offset": "0x124",
+  "size": "0x28"
+ },
+ {
+  "property": "Next",
+  "offset": "0x152",
+  "size": "0x28"
+ },
+ {
+  "property": "Previous",
+  "offset": "0x180",
+  "size": "0x28"
+ },
+ {
+  "property": "RoutingPolicy",
+  "offset": "0x208",
+  "size": "0x1"
+ },
+ {
+  "property": "NavigationMethod",
+  "offset": "0x216",
+  "size": "0x16"
+ }
+]

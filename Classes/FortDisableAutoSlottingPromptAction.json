@@ -1,0 +1,12 @@
+[
+ {
+  "property": "OwningPlayerController",
+  "offset": "0x40",
+  "size": "0x8"
+ },
+ {
+  "property": "RegisteredWithGameInstance",
+  "offset": "0x64",
+  "size": "0x8"
+ }
+]

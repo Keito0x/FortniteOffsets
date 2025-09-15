@@ -1,0 +1,47 @@
+[
+ {
+  "property": "BoundsBodies",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "SkeletalBodySetups",
+  "offset": "0x64",
+  "size": "0x16"
+ },
+ {
+  "property": "ConstraintSetup",
+  "offset": "0x80",
+  "size": "0x16"
+ },
+ {
+  "property": "SolverSettings",
+  "offset": "0x96",
+  "size": "0x28"
+ },
+ {
+  "property": "SolverIterations",
+  "offset": "0x124",
+  "size": "0x24"
+ },
+ {
+  "property": "SolverType",
+  "offset": "0x148",
+  "size": "0x1"
+ },
+ {
+  "property": "bNotForDedicatedServer",
+  "offset": "0x149",
+  "size": "0x1"
+ },
+ {
+  "property": "ThumbnailInfo",
+  "offset": "0x312",
+  "size": "0x8"
+ },
+ {
+  "property": "BodySetup",
+  "offset": "0x320",
+  "size": "0x16"
+ }
+]

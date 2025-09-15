@@ -1,0 +1,27 @@
+[
+ {
+  "property": "LoadedAssets",
+  "offset": "0x192",
+  "size": "0x16"
+ },
+ {
+  "property": "MeshParts",
+  "offset": "0x240",
+  "size": "0x16"
+ },
+ {
+  "property": "MeshPartComponents",
+  "offset": "0x256",
+  "size": "0x16"
+ },
+ {
+  "property": "bDuplicateCOIs",
+  "offset": "0x272",
+  "size": "0x1"
+ },
+ {
+  "property": "bAssignMeshPartsOnBeginPlay",
+  "offset": "0x273",
+  "size": "0x1"
+ }
+]

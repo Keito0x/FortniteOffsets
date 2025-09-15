@@ -1,0 +1,22 @@
+[
+ {
+  "property": "LineA",
+  "offset": "0x504",
+  "size": "0x32"
+ },
+ {
+  "property": "LineB",
+  "offset": "0x536",
+  "size": "0x32"
+ },
+ {
+  "property": "TestMode",
+  "offset": "0x568",
+  "size": "0x1"
+ },
+ {
+  "property": "bAbsoluteValue",
+  "offset": "0x569",
+  "size": "0x1"
+ }
+]

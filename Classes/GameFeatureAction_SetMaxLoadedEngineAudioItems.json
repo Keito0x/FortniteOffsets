@@ -1,0 +1,37 @@
+[
+ {
+  "property": "DefaultSetting",
+  "offset": "0x40",
+  "size": "0x4"
+ },
+ {
+  "property": "XB1Setting",
+  "offset": "0x44",
+  "size": "0x4"
+ },
+ {
+  "property": "XSXSetting",
+  "offset": "0x48",
+  "size": "0x4"
+ },
+ {
+  "property": "PS4Setting",
+  "offset": "0x52",
+  "size": "0x4"
+ },
+ {
+  "property": "PS5Setting",
+  "offset": "0x56",
+  "size": "0x4"
+ },
+ {
+  "property": "MobileSetting",
+  "offset": "0x60",
+  "size": "0x4"
+ },
+ {
+  "property": "SwitchSetting",
+  "offset": "0x64",
+  "size": "0x4"
+ }
+]

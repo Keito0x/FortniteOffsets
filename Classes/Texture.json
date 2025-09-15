@@ -1,0 +1,112 @@
+[
+ {
+  "property": "LightingGuid",
+  "offset": "0x224",
+  "size": "0x16"
+ },
+ {
+  "property": "LevelIndex",
+  "offset": "0x240",
+  "size": "0x4"
+ },
+ {
+  "property": "LODBias",
+  "offset": "0x244",
+  "size": "0x4"
+ },
+ {
+  "property": "CompressionSettings",
+  "offset": "0x248",
+  "size": "0x1"
+ },
+ {
+  "property": "Filter",
+  "offset": "0x249",
+  "size": "0x1"
+ },
+ {
+  "property": "MipLoadOptions",
+  "offset": "0x250",
+  "size": "0x1"
+ },
+ {
+  "property": "VirtualTextureStreamingPriority",
+  "offset": "0x251",
+  "size": "0x1"
+ },
+ {
+  "property": "VirtualTexturePrefetchMips",
+  "offset": "0x252",
+  "size": "0x1"
+ },
+ {
+  "property": "CookPlatformTilingSettings",
+  "offset": "0x253",
+  "size": "0x1"
+ },
+ {
+  "property": "bOodlePreserveExtremes",
+  "offset": "0x254",
+  "size": "0x1"
+ },
+ {
+  "property": "LODGroup",
+  "offset": "0x255",
+  "size": "0x1"
+ },
+ {
+  "property": "Downscale",
+  "offset": "0x256",
+  "size": "0x4"
+ },
+ {
+  "property": "DownscaleOptions",
+  "offset": "0x260",
+  "size": "0x1"
+ },
+ {
+  "property": "Availability",
+  "offset": "0x261",
+  "size": "0x1"
+ },
+ {
+  "property": "SRGB",
+  "offset": "0x262",
+  "size": "0x1"
+ },
+ {
+  "property": "bNoTiling",
+  "offset": "0x262",
+  "size": "0x1"
+ },
+ {
+  "property": "VirtualTextureStreaming",
+  "offset": "0x262",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseVirtualTextureStreamingPriority",
+  "offset": "0x264",
+  "size": "0x1"
+ },
+ {
+  "property": "CompressionYCoCg",
+  "offset": "0x268",
+  "size": "0x1"
+ },
+ {
+  "property": "bNotOfflineProcessed",
+  "offset": "0x268",
+  "size": "0x1"
+ },
+ {
+  "property": "bAsyncResourceReleaseHasBeenStarted",
+  "offset": "0x268",
+  "size": "0x1"
+ },
+ {
+  "property": "AssetUserData",
+  "offset": "0x272",
+  "size": "0x16"
+ }
+]

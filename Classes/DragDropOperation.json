@@ -1,0 +1,42 @@
+[
+ {
+  "property": "Tag",
+  "offset": "0x40",
+  "size": "0x16"
+ },
+ {
+  "property": "Payload",
+  "offset": "0x56",
+  "size": "0x8"
+ },
+ {
+  "property": "DefaultDragVisual",
+  "offset": "0x64",
+  "size": "0x8"
+ },
+ {
+  "property": "Pivot",
+  "offset": "0x72",
+  "size": "0x1"
+ },
+ {
+  "property": "Offset",
+  "offset": "0x80",
+  "size": "0x16"
+ },
+ {
+  "property": "OnDrop",
+  "offset": "0x96",
+  "size": "0x16"
+ },
+ {
+  "property": "OnDragCancelled",
+  "offset": "0x112",
+  "size": "0x16"
+ },
+ {
+  "property": "OnDragged",
+  "offset": "0x128",
+  "size": "0x16"
+ }
+]

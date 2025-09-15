@@ -1,0 +1,27 @@
+[
+ {
+  "property": "DestSessionId",
+  "offset": "0x872",
+  "size": "0x16"
+ },
+ {
+  "property": "PendingReservation",
+  "offset": "0x888",
+  "size": "0x136"
+ },
+ {
+  "property": "RequestType",
+  "offset": "0x1024",
+  "size": "0x1"
+ },
+ {
+  "property": "bPendingReservationSent",
+  "offset": "0x1025",
+  "size": "0x1"
+ },
+ {
+  "property": "bCancelReservation",
+  "offset": "0x1026",
+  "size": "0x1"
+ }
+]

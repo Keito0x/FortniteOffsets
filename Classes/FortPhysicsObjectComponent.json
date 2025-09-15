@@ -1,0 +1,192 @@
+[
+ {
+  "property": "OnAwakeChanged",
+  "offset": "0x200",
+  "size": "0x16"
+ },
+ {
+  "property": "OnReceivedLargeImpulse",
+  "offset": "0x216",
+  "size": "0x16"
+ },
+ {
+  "property": "OnVehicleHit",
+  "offset": "0x232",
+  "size": "0x16"
+ },
+ {
+  "property": "OnRidingPawnAdded",
+  "offset": "0x248",
+  "size": "0x16"
+ },
+ {
+  "property": "PhysicsObjectSetupTags",
+  "offset": "0x264",
+  "size": "0x16"
+ },
+ {
+  "property": "BuoyancyComponent",
+  "offset": "0x280",
+  "size": "0x8"
+ },
+ {
+  "property": "PreviousLinearVelocity",
+  "offset": "0x288",
+  "size": "0x24"
+ },
+ {
+  "property": "LinearVelocity",
+  "offset": "0x312",
+  "size": "0x24"
+ },
+ {
+  "property": "MaxLinearVelocityOverride",
+  "offset": "0x336",
+  "size": "0x4"
+ },
+ {
+  "property": "PreviousAngularVelocity",
+  "offset": "0x344",
+  "size": "0x24"
+ },
+ {
+  "property": "AngularVelocity",
+  "offset": "0x368",
+  "size": "0x24"
+ },
+ {
+  "property": "CustomGravityMultiplier",
+  "offset": "0x392",
+  "size": "0x4"
+ },
+ {
+  "property": "GravityOverride",
+  "offset": "0x396",
+  "size": "0x4"
+ },
+ {
+  "property": "MovementStateData",
+  "offset": "0x408",
+  "size": "0x272"
+ },
+ {
+  "property": "bAutoCreateFortNavigationPhysicObjectComponent",
+  "offset": "0x680",
+  "size": "0x1"
+ },
+ {
+  "property": "PhysicsPreset",
+  "offset": "0x688",
+  "size": "0x8"
+ },
+ {
+  "property": "EffectsDataOverride",
+  "offset": "0x696",
+  "size": "0x8"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x704",
+  "size": "0x8"
+ },
+ {
+  "property": "BuoyancyAssetOverride",
+  "offset": "0x712",
+  "size": "0x8"
+ },
+ {
+  "property": "ImpactDamageDataOverride",
+  "offset": "0x720",
+  "size": "0x8"
+ },
+ {
+  "property": "NavigationData",
+  "offset": "0x736",
+  "size": "0x8"
+ },
+ {
+  "property": "PhysicsObjectInitialLocation",
+  "offset": "0x776",
+  "size": "0x24"
+ },
+ {
+  "property": "YYYYYYYYYYYKQΩYY}K9YYYωΩYYY} -™ς΅¦}K9YYY}ή>jωήQ[KjήΝK9YYY}K9YYY}΅-Κ†Ά¦}Ί}›9ή΅ΩYYwKa}Ϊ}yUΑ½}Σ’ΩY}Ε1cO}ίΜΆ¦}Ε=ή/YYY…XYYY}Σ2ΩY}Ε1cά}¥¦ΣapSYΉΕΌή›k[YYKYYYÿ›½casKc{{Ke}Ϊ}yI}ί|ΩY}Ε=ή›‹YYY}ϊU}}U}Ω}ύ]}ΝΉύ<ύΉ$Xÿt¦ÿΕµή›Ρ[YYύ¤Xή¥ΨYYύ$ΩήϊZYYΔq[ή›#ΨYY{]%ωΕ9ή›ªΨYY}KMΩYY}Α)}ί®AΣY}ΕΉή›ZZYY}%ήMKAΩYYήMKyΩYY{ήMKqΩYY}™;mΩYYτχφvωwωχωvωφΈ…ΩYYY­J¦¦¦}¥¦ΣρSY9γ­ΨYY„ΩYYYω‡ΩYYY›9ήP§¦¦­Τ§¦¦%ΖcΠ}Ω΅ωΖYYYύΝ9Α0-D2[Y}K9YYYωΩYYY} -3σ΅¦Α½­Π&¦¦ύΉ-Z}K9YYY}YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x800",
+  "size": "0x1"
+ },
+ {
+  "property": "PhysicsObjectAwakeState",
+  "offset": "0x801",
+  "size": "0x1"
+ },
+ {
+  "property": "bHasSetupPhysicsObject",
+  "offset": "0x802",
+  "size": "0x1"
+ },
+ {
+  "property": "bServerHasSetupPhysicsObject",
+  "offset": "0x802",
+  "size": "0x1"
+ },
+ {
+  "property": "bForceStartActiveAndAwake",
+  "offset": "0x802",
+  "size": "0x1"
+ },
+ {
+  "property": "bHasComponentActivated",
+  "offset": "0x802",
+  "size": "0x1"
+ },
+ {
+  "property": "bDisableOverlapEvents",
+  "offset": "0x803",
+  "size": "0x1"
+ },
+ {
+  "property": "bDisableMovementStateUpdates",
+  "offset": "0x803",
+  "size": "0x1"
+ },
+ {
+  "property": "bGravityOverridden",
+  "offset": "0x803",
+  "size": "0x1"
+ },
+ {
+  "property": "DeactivationSnapshotData",
+  "offset": "0x816",
+  "size": "0x64"
+ },
+ {
+  "property": "Y_Y_Y_Y_Y_YYYYYQYYYYYYYYYYYYYYYQYYYYYYYYYYYYYYYQYYYYYYYYYYYYYYYQYYYYYYYYYYYYYYYQYYYYYYYYYYYYYYYQYYYYYYYYYYYYYYYQYYYYYYYYYYYYYYYQYYYYYYYYYYYYYYY]YYYYYYYUYYYYYYYQYYYYYYYYYYYYYYYQYYYYYYY]YYYYYYY]YYYYYYYUYYYYYYYYAsƒ]¦¦Yy[]¦¦Y)]¦¦YYYYYYYYYY¦XΘΨΩΐΎτ_yYΩσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσ£¦¦¦_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_",
+  "offset": "0x880",
+  "size": "0x8"
+ },
+ {
+  "property": "LinkToActorComponent",
+  "offset": "0x888",
+  "size": "0x8"
+ },
+ {
+  "property": "IgnoredActorsForDamage",
+  "offset": "0x1376",
+  "size": "0x16"
+ },
+ {
+  "property": "IgnoredPawnsForBasing",
+  "offset": "0x1392",
+  "size": "0x16"
+ },
+ {
+  "property": "IgnoredPawns",
+  "offset": "0x1408",
+  "size": "0x16"
+ },
+ {
+  "property": "IgnoredPawnsPendingRemoval",
+  "offset": "0x1424",
+  "size": "0x16"
+ }
+]

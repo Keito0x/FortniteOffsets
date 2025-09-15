@@ -1,0 +1,42 @@
+[
+ {
+  "property": "TransitionType",
+  "offset": "0x384",
+  "size": "0x1"
+ },
+ {
+  "property": "TransitionCurveType",
+  "offset": "0x385",
+  "size": "0x1"
+ },
+ {
+  "property": "TransitionDuration",
+  "offset": "0x388",
+  "size": "0x4"
+ },
+ {
+  "property": "bResetPoolWhenReleasingSlateResources",
+  "offset": "0x392",
+  "size": "0x1"
+ },
+ {
+  "property": "TransitionFallbackStrategy",
+  "offset": "0x393",
+  "size": "0x1"
+ },
+ {
+  "property": "WidgetList",
+  "offset": "0x400",
+  "size": "0x16"
+ },
+ {
+  "property": "DisplayedWidget",
+  "offset": "0x416",
+  "size": "0x8"
+ },
+ {
+  "property": "GeneratedWidgetsPool",
+  "offset": "0x424",
+  "size": "0x136"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "property": "bOverrideShouldPlaySongAlone",
+  "offset": "0x216",
+  "size": "0x1"
+ },
+ {
+  "property": "bForceShouldPlaySongAlone",
+  "offset": "0x217",
+  "size": "0x1"
+ }
+]

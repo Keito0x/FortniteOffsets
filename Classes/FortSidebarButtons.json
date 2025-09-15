@@ -1,0 +1,67 @@
+[
+ {
+  "property": "Button_PartyUp",
+  "offset": "0x816",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_FindFriends",
+  "offset": "0x824",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_VoiceChat",
+  "offset": "0x832",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_Settings",
+  "offset": "0x840",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_More",
+  "offset": "0x848",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_Exit",
+  "offset": "0x856",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_UserProfile",
+  "offset": "0x864",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_Tags",
+  "offset": "0x872",
+  "size": "0x8"
+ },
+ {
+  "property": "ButtonGroup_SocialButtons",
+  "offset": "0x880",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_CurrentlyHovered",
+  "offset": "0x888",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_CurrentlyFocused",
+  "offset": "0x896",
+  "size": "0x8"
+ },
+ {
+  "property": "NextTabInputAction",
+  "offset": "0x976",
+  "size": "0x16"
+ },
+ {
+  "property": "PreviousTabInputAction",
+  "offset": "0x1000",
+  "size": "0x16"
+ }
+]

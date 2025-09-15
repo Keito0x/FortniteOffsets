@@ -1,0 +1,7 @@
+[
+ {
+  "property": "HF_DurabilityCostPerSecond",
+  "offset": "0x488",
+  "size": "0x40"
+ }
+]

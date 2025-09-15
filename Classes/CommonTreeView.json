@@ -1,0 +1,12 @@
+[
+ {
+  "property": "BP_OnGetItemChildren",
+  "offset": "0x4000",
+  "size": "0x12"
+ },
+ {
+  "property": "BP_OnItemExpansionChanged",
+  "offset": "0x4016",
+  "size": "0x16"
+ }
+]

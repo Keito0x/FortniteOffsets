@@ -1,0 +1,72 @@
+[
+ {
+  "property": "TournamentDisplayInfo",
+  "offset": "0x840",
+  "size": "0x376"
+ },
+ {
+  "property": "CMSTournamentData",
+  "offset": "0x1216",
+  "size": "0x512"
+ },
+ {
+  "property": "Text_TimeRemaining",
+  "offset": "0x1728",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_DebugId",
+  "offset": "0x1736",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_PosterFront",
+  "offset": "0x1744",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_PosterBack",
+  "offset": "0x1752",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_LoadingScreen",
+  "offset": "0x1760",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_PlaylistTile",
+  "offset": "0x1768",
+  "size": "0x8"
+ },
+ {
+  "property": "TimeRemainingFormat",
+  "offset": "0x1776",
+  "size": "0x16"
+ },
+ {
+  "property": "bTimeRemainingShowSeconds",
+  "offset": "0x1792",
+  "size": "0x1"
+ },
+ {
+  "property": "bTimeRemainingUppercase",
+  "offset": "0x1793",
+  "size": "0x1"
+ },
+ {
+  "property": "TimeRemainingFormatType",
+  "offset": "0x1794",
+  "size": "0x1"
+ },
+ {
+  "property": "TitlePaddingMobile",
+  "offset": "0x1796",
+  "size": "0x16"
+ },
+ {
+  "property": "bRefreshDataOnUpdateEventState",
+  "offset": "0x1812",
+  "size": "0x1"
+ }
+]

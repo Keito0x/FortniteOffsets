@@ -1,0 +1,132 @@
+[
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x576",
+  "size": "0x4"
+ },
+ {
+  "property": "FirstPersonFieldOfView",
+  "offset": "0x580",
+  "size": "0x4"
+ },
+ {
+  "property": "FirstPersonScale",
+  "offset": "0x584",
+  "size": "0x4"
+ },
+ {
+  "property": "OrthoWidth",
+  "offset": "0x588",
+  "size": "0x4"
+ },
+ {
+  "property": "bAutoCalculateOrthoPlanes",
+  "offset": "0x592",
+  "size": "0x1"
+ },
+ {
+  "property": "AutoPlaneShift",
+  "offset": "0x596",
+  "size": "0x4"
+ },
+ {
+  "property": "OrthoNearClipPlane",
+  "offset": "0x600",
+  "size": "0x4"
+ },
+ {
+  "property": "OrthoFarClipPlane",
+  "offset": "0x604",
+  "size": "0x4"
+ },
+ {
+  "property": "bUpdateOrthoPlanes",
+  "offset": "0x608",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseCameraHeightAsViewTarget",
+  "offset": "0x609",
+  "size": "0x1"
+ },
+ {
+  "property": "AspectRatio",
+  "offset": "0x612",
+  "size": "0x4"
+ },
+ {
+  "property": "AspectRatioAxisConstraint",
+  "offset": "0x616",
+  "size": "0x1"
+ },
+ {
+  "property": "bConstrainAspectRatio",
+  "offset": "0x617",
+  "size": "0x1"
+ },
+ {
+  "property": "bOverrideAspectRatioAxisConstraint",
+  "offset": "0x617",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseFieldOfViewForLOD",
+  "offset": "0x617",
+  "size": "0x1"
+ },
+ {
+  "property": "Overscan",
+  "offset": "0x620",
+  "size": "0x4"
+ },
+ {
+  "property": "AsymmetricOverscan",
+  "offset": "0x624",
+  "size": "0x16"
+ },
+ {
+  "property": "bScaleResolutionWithOverscan",
+  "offset": "0x640",
+  "size": "0x1"
+ },
+ {
+  "property": "bCropOverscan",
+  "offset": "0x641",
+  "size": "0x1"
+ },
+ {
+  "property": "bLockToHmd",
+  "offset": "0x642",
+  "size": "0x1"
+ },
+ {
+  "property": "bUsePawnControlRotation",
+  "offset": "0x642",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableFirstPersonFieldOfView",
+  "offset": "0x642",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableFirstPersonScale",
+  "offset": "0x642",
+  "size": "0x1"
+ },
+ {
+  "property": "ProjectionMode",
+  "offset": "0x643",
+  "size": "0x1"
+ },
+ {
+  "property": "PostProcessBlendWeight",
+  "offset": "0x752",
+  "size": "0x4"
+ },
+ {
+  "property": "PostProcessSettings",
+  "offset": "0x800",
+  "size": "0x1888"
+ }
+]

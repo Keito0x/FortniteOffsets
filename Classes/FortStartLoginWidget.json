@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Button_Login",
+  "offset": "0x1136",
+  "size": "0x8"
+ },
+ {
+  "property": "BackgroundBlur_PendingSpinner",
+  "offset": "0x1144",
+  "size": "0x8"
+ }
+]

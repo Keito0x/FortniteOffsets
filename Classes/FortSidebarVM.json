@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Features",
+  "offset": "0x112",
+  "size": "0x16"
+ },
+ {
+  "property": "EnabledFeatureId",
+  "offset": "0x128",
+  "size": "0x4"
+ }
+]

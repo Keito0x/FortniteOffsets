@@ -1,0 +1,87 @@
+[
+ {
+  "property": "StartSound",
+  "offset": "0x784",
+  "size": "0x8"
+ },
+ {
+  "property": "StopSound",
+  "offset": "0x792",
+  "size": "0x8"
+ },
+ {
+  "property": "StartParticleSystem",
+  "offset": "0x800",
+  "size": "0x8"
+ },
+ {
+  "property": "StartParticleSystemParameters",
+  "offset": "0x808",
+  "size": "0x16"
+ },
+ {
+  "property": "StopParticleSystem",
+  "offset": "0x824",
+  "size": "0x8"
+ },
+ {
+  "property": "StopParticleSystemParameters",
+  "offset": "0x832",
+  "size": "0x16"
+ },
+ {
+  "property": "AttachPoint",
+  "offset": "0x848",
+  "size": "0x4"
+ },
+ {
+  "property": "bStayAttached",
+  "offset": "0x852",
+  "size": "0x1"
+ },
+ {
+  "property": "bSnapToAttachPointAndPreserveWorldRotation",
+  "offset": "0x853",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseHitResult",
+  "offset": "0x854",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseWeapon",
+  "offset": "0x855",
+  "size": "0x1"
+ },
+ {
+  "property": "bIgnoreRotation",
+  "offset": "0x856",
+  "size": "0x1"
+ },
+ {
+  "property": "HUDElementTag",
+  "offset": "0x864",
+  "size": "0x32"
+ },
+ {
+  "property": "PoolingMethod",
+  "offset": "0x896",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsValid",
+  "offset": "0x897",
+  "size": "0x1"
+ },
+ {
+  "property": "AudioComponent",
+  "offset": "0x904",
+  "size": "0x8"
+ },
+ {
+  "property": "ParticleSystemComponent",
+  "offset": "0x912",
+  "size": "0x8"
+ }
+]

@@ -1,0 +1,7 @@
+[
+ {
+  "property": "AnimBP_Preset_BasicLocomotion",
+  "offset": "0x40",
+  "size": "0x32"
+ }
+]

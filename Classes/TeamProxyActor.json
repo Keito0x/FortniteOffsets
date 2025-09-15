@@ -1,0 +1,12 @@
+[
+ {
+  "property": "ActorRootComponent",
+  "offset": "0x688",
+  "size": "0x8"
+ },
+ {
+  "property": "OnTeamIndexChanged",
+  "offset": "0x696",
+  "size": "0x16"
+ }
+]

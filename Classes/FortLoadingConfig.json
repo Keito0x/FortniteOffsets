@@ -1,0 +1,52 @@
+[
+ {
+  "property": "LoadingScreenFallback",
+  "offset": "0x48",
+  "size": "0x1488"
+ },
+ {
+  "property": "NewLoadingScreenFallback",
+  "offset": "0x1536",
+  "size": "0x1488"
+ },
+ {
+  "property": "LoadingScreens",
+  "offset": "0x3024",
+  "size": "0x2976"
+ },
+ {
+  "property": "NewLoadingScreens",
+  "offset": "0x6000",
+  "size": "0x2976"
+ },
+ {
+  "property": "LoadingScreenEA",
+  "offset": "0x8976",
+  "size": "0x912"
+ },
+ {
+  "property": "LoadingScreenMissionBackground",
+  "offset": "0x9888",
+  "size": "0x176"
+ },
+ {
+  "property": "LoadingScreenTipBackground",
+  "offset": "0x10064",
+  "size": "0x176"
+ },
+ {
+  "property": "PSALoadingScreens",
+  "offset": "0x10240",
+  "size": "0x16"
+ },
+ {
+  "property": "LoadingMusic",
+  "offset": "0x10256",
+  "size": "0x8"
+ },
+ {
+  "property": "BootUpBackgroundScreen",
+  "offset": "0x10264",
+  "size": "0x64"
+ }
+]

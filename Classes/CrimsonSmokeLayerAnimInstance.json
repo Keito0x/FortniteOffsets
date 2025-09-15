@@ -1,0 +1,32 @@
+[
+ {
+  "property": "RotationZYaw",
+  "offset": "0x4888",
+  "size": "0x4"
+ },
+ {
+  "property": "bNontargetedToPassthrough",
+  "offset": "0x4892",
+  "size": "0x1"
+ },
+ {
+  "property": "bPassthroughNonTargeted",
+  "offset": "0x4893",
+  "size": "0x1"
+ },
+ {
+  "property": "TimeToExitNonTargetedPose",
+  "offset": "0x4896",
+  "size": "0x8"
+ },
+ {
+  "property": "HeavyMinigunCrouchReloadCMMMAnimMontage",
+  "offset": "0x4904",
+  "size": "0x8"
+ },
+ {
+  "property": "HeavyMinigunReloadCMMMAnimMontage",
+  "offset": "0x4912",
+  "size": "0x8"
+ }
+]

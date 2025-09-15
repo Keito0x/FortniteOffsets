@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Completed",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "SaveGameObject",
+  "offset": "0x96",
+  "size": "0x8"
+ }
+]

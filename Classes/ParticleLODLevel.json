@@ -1,0 +1,72 @@
+[
+ {
+  "property": "Level",
+  "offset": "0x40",
+  "size": "0x4"
+ },
+ {
+  "property": "bEnabled",
+  "offset": "0x44",
+  "size": "0x1"
+ },
+ {
+  "property": "RequiredModule",
+  "offset": "0x48",
+  "size": "0x8"
+ },
+ {
+  "property": "Modules",
+  "offset": "0x56",
+  "size": "0x16"
+ },
+ {
+  "property": "TypeDataModule",
+  "offset": "0x72",
+  "size": "0x8"
+ },
+ {
+  "property": "SpawnModule",
+  "offset": "0x80",
+  "size": "0x8"
+ },
+ {
+  "property": "EventGenerator",
+  "offset": "0x88",
+  "size": "0x8"
+ },
+ {
+  "property": "SpawningModules",
+  "offset": "0x96",
+  "size": "0x16"
+ },
+ {
+  "property": "SpawnModules",
+  "offset": "0x112",
+  "size": "0x16"
+ },
+ {
+  "property": "UpdateModules",
+  "offset": "0x128",
+  "size": "0x16"
+ },
+ {
+  "property": "OrbitModules",
+  "offset": "0x144",
+  "size": "0x16"
+ },
+ {
+  "property": "EventReceiverModules",
+  "offset": "0x160",
+  "size": "0x16"
+ },
+ {
+  "property": "ConvertedModules",
+  "offset": "0x176",
+  "size": "0x1"
+ },
+ {
+  "property": "PeakActiveParticles",
+  "offset": "0x180",
+  "size": "0x4"
+ }
+]

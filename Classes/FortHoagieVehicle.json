@@ -1,0 +1,52 @@
+[
+ {
+  "property": "PassengerCollision",
+  "offset": "0x8656",
+  "size": "0x4"
+ },
+ {
+  "property": "CameraBoomDistance",
+  "offset": "0x8660",
+  "size": "0x4"
+ },
+ {
+  "property": "CameraBoomHeight",
+  "offset": "0x8664",
+  "size": "0x4"
+ },
+ {
+  "property": "OnBoostStateChanged",
+  "offset": "0x8672",
+  "size": "0x16"
+ },
+ {
+  "property": "OnAltimeterTraceUpdated",
+  "offset": "0x8688",
+  "size": "0x16"
+ },
+ {
+  "property": "OnCrashingStateEntered",
+  "offset": "0x8704",
+  "size": "0x16"
+ },
+ {
+  "property": "bEngineAudioDisabled",
+  "offset": "0x8720",
+  "size": "0x1"
+ },
+ {
+  "property": "LiftRumbleTimer",
+  "offset": "0x8724",
+  "size": "0x4"
+ },
+ {
+  "property": "bLiftUp",
+  "offset": "0x8728",
+  "size": "0x1"
+ },
+ {
+  "property": "",
+  "offset": "0x98741524",
+  "size": "0x0"
+ }
+]

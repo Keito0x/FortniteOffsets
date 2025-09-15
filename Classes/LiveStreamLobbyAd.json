@@ -1,0 +1,22 @@
+[
+ {
+  "property": "ContentSwitcher",
+  "offset": "0x776",
+  "size": "0x8"
+ },
+ {
+  "property": "ButtonLayer",
+  "offset": "0x784",
+  "size": "0x8"
+ },
+ {
+  "property": "CountdownLayer",
+  "offset": "0x792",
+  "size": "0x8"
+ },
+ {
+  "property": "CountdownText",
+  "offset": "0x800",
+  "size": "0x8"
+ }
+]

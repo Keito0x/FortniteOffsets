@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Data",
+  "offset": "0x792",
+  "size": "0x8"
+ },
+ {
+  "property": "Owner",
+  "offset": "0x800",
+  "size": "0x8"
+ }
+]

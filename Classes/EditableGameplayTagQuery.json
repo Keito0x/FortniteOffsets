@@ -1,0 +1,17 @@
+[
+ {
+  "property": "UserDescription",
+  "offset": "0x40",
+  "size": "0x16"
+ },
+ {
+  "property": "RootExpression",
+  "offset": "0x72",
+  "size": "0x8"
+ },
+ {
+  "property": "TagQueryExportText_Helper",
+  "offset": "0x80",
+  "size": "0x72"
+ }
+]

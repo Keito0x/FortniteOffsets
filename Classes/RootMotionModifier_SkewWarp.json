@@ -1,0 +1,7 @@
+[
+ {
+  "property": "MaxSpeedClampRatio",
+  "offset": "0x776",
+  "size": "0x4"
+ }
+]

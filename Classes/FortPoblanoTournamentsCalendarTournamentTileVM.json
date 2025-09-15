@@ -1,0 +1,157 @@
+[
+ {
+  "property": "Date",
+  "offset": "0x104",
+  "size": "0x8"
+ },
+ {
+  "property": "TextDate",
+  "offset": "0x112",
+  "size": "0x16"
+ },
+ {
+  "property": "Region",
+  "offset": "0x128",
+  "size": "0x1"
+ },
+ {
+  "property": "RankRequirement",
+  "offset": "0x129",
+  "size": "0x1"
+ },
+ {
+  "property": "RankRequirementCheckResult",
+  "offset": "0x130",
+  "size": "0x1"
+ },
+ {
+  "property": "TournamentEligibility",
+  "offset": "0x131",
+  "size": "0x1"
+ },
+ {
+  "property": "bMeetsTournamentSystemRequirements",
+  "offset": "0x132",
+  "size": "0x1"
+ },
+ {
+  "property": "bMeetsRequiresQualifyingRound",
+  "offset": "0x133",
+  "size": "0x1"
+ },
+ {
+  "property": "bMeetsEventsNumberHistoryRequirement",
+  "offset": "0x134",
+  "size": "0x1"
+ },
+ {
+  "property": "bMeetsCheckTournamentLocksRequirement",
+  "offset": "0x135",
+  "size": "0x1"
+ },
+ {
+  "property": "bMeetsAgeRequirement",
+  "offset": "0x136",
+  "size": "0x1"
+ },
+ {
+  "property": "bMeetsAccountLevelRequirement",
+  "offset": "0x137",
+  "size": "0x1"
+ },
+ {
+  "property": "bMeetsPermanentTournamentBanRequirement",
+  "offset": "0x138",
+  "size": "0x1"
+ },
+ {
+  "property": "TournamentState",
+  "offset": "0x139",
+  "size": "0x1"
+ },
+ {
+  "property": "TournamentTag",
+  "offset": "0x140",
+  "size": "0x1"
+ },
+ {
+  "property": "ExperienceType",
+  "offset": "0x141",
+  "size": "0x1"
+ },
+ {
+  "property": "TeamSize",
+  "offset": "0x142",
+  "size": "0x1"
+ },
+ {
+  "property": "TournamentTitle",
+  "offset": "0x144",
+  "size": "0x16"
+ },
+ {
+  "property": "bIsLive",
+  "offset": "0x160",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsBookmarked",
+  "offset": "0x161",
+  "size": "0x1"
+ },
+ {
+  "property": "PosterTexture",
+  "offset": "0x168",
+  "size": "0x8"
+ },
+ {
+  "property": "RoundDateTime",
+  "offset": "0x176",
+  "size": "0x16"
+ },
+ {
+  "property": "BookmarksAmount",
+  "offset": "0x192",
+  "size": "0x16"
+ },
+ {
+  "property": "BackgroundCalendarColors",
+  "offset": "0x208",
+  "size": "0x32"
+ },
+ {
+  "property": "TournamentID",
+  "offset": "0x240",
+  "size": "0x16"
+ },
+ {
+  "property": "TournamentWindowId",
+  "offset": "0x256",
+  "size": "0x16"
+ },
+ {
+  "property": "GameType",
+  "offset": "0x272",
+  "size": "0x1"
+ },
+ {
+  "property": "AllTournamentLocks",
+  "offset": "0x280",
+  "size": "0x32"
+ },
+ {
+  "property": "Poster",
+  "offset": "0x312",
+  "size": "0x8"
+ },
+ {
+  "property": "CompeteUIManager",
+  "offset": "0x320",
+  "size": "0x8"
+ },
+ {
+  "property": "RankInfo",
+  "offset": "0x360",
+  "size": "0x40"
+ }
+]

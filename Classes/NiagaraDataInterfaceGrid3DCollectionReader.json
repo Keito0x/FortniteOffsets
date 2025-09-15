@@ -1,0 +1,12 @@
+[
+ {
+  "property": "EmitterName",
+  "offset": "0x232",
+  "size": "0x16"
+ },
+ {
+  "property": "DIName",
+  "offset": "0x248",
+  "size": "0x16"
+ }
+]

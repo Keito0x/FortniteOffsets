@@ -1,0 +1,382 @@
+[
+ {
+  "property": "bDestroyBuildingSMActorOnForceExit",
+  "offset": "0x24744",
+  "size": "0x1"
+ },
+ {
+  "property": "bDestroyOnLastExit",
+  "offset": "0x24745",
+  "size": "0x1"
+ },
+ {
+  "property": "VTDMode",
+  "offset": "0x24750",
+  "size": "0x1"
+ },
+ {
+  "property": "SoftOverrideItemWrap",
+  "offset": "0x24768",
+  "size": "0x32"
+ },
+ {
+  "property": "OverrideItemWrap",
+  "offset": "0x24800",
+  "size": "0x8"
+ },
+ {
+  "property": "VehicleCosmeticInfo",
+  "offset": "0x24808",
+  "size": "0x48"
+ },
+ {
+  "property": "bForcedToAlwaysSpawn",
+  "offset": "0x24856",
+  "size": "0x1"
+ },
+ {
+  "property": "bAllowInteractBetweenFortVolumes",
+  "offset": "0x24857",
+  "size": "0x1"
+ },
+ {
+  "property": "EmoteMesh",
+  "offset": "0x24864",
+  "size": "0x8"
+ },
+ {
+  "property": "SpecialVehicleEmotes",
+  "offset": "0x24872",
+  "size": "0x16"
+ },
+ {
+  "property": "SpawnPropOnEmoteScalar",
+  "offset": "0x24888",
+  "size": "0x4"
+ },
+ {
+  "property": "EmoteFoleyAudioComponent",
+  "offset": "0x24896",
+  "size": "0x8"
+ },
+ {
+  "property": "SeatSwitchCooldown",
+  "offset": "0x24904",
+  "size": "0x4"
+ },
+ {
+  "property": "OnMountedWeaponFiredEvent",
+  "offset": "0x24912",
+  "size": "0x16"
+ },
+ {
+  "property": "VehicleSeatComponent",
+  "offset": "0x24928",
+  "size": "0x8"
+ },
+ {
+  "property": "OverrideAbilitySystemComponent",
+  "offset": "0x24936",
+  "size": "0x8"
+ },
+ {
+  "property": "AttributeInitKey",
+  "offset": "0x24944",
+  "size": "0x8"
+ },
+ {
+  "property": "DriverAnimClass",
+  "offset": "0x24952",
+  "size": "0x8"
+ },
+ {
+  "property": "PassengerAnimClass",
+  "offset": "0x24960",
+  "size": "0x8"
+ },
+ {
+  "property": "DriverAnimLayerOverlayClass",
+  "offset": "0x24968",
+  "size": "0x8"
+ },
+ {
+  "property": "PassengerAnimLayerOverlayClass",
+  "offset": "0x24976",
+  "size": "0x8"
+ },
+ {
+  "property": "GunnerSeat",
+  "offset": "0x24984",
+  "size": "0x1"
+ },
+ {
+  "property": "OstrichSet",
+  "offset": "0x24992",
+  "size": "0x8"
+ },
+ {
+  "property": "VehicleTags",
+  "offset": "0x25000",
+  "size": "0x32"
+ },
+ {
+  "property": "VehicleContextTag",
+  "offset": "0x25032",
+  "size": "0x4"
+ },
+ {
+  "property": "StartupAbilitySet",
+  "offset": "0x25040",
+  "size": "0x8"
+ },
+ {
+  "property": "OnHealthChanged",
+  "offset": "0x25056",
+  "size": "0x16"
+ },
+ {
+  "property": "CameraModeClass",
+  "offset": "0x25072",
+  "size": "0x8"
+ },
+ {
+  "property": "PassengerCameraModeClass",
+  "offset": "0x25080",
+  "size": "0x8"
+ },
+ {
+  "property": "MinBoostDuration",
+  "offset": "0x25088",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxBoostDuration",
+  "offset": "0x25092",
+  "size": "0x4"
+ },
+ {
+  "property": "FullyChargedJumpTime",
+  "offset": "0x25096",
+  "size": "0x4"
+ },
+ {
+  "property": "MinHoldDuration",
+  "offset": "0x25100",
+  "size": "0x4"
+ },
+ {
+  "property": "DriverExitLaunchScale",
+  "offset": "0x25104",
+  "size": "0x4"
+ },
+ {
+  "property": "PassengerExitLaunchScale",
+  "offset": "0x25108",
+  "size": "0x4"
+ },
+ {
+  "property": "ExtraInteractTraceRange",
+  "offset": "0x25112",
+  "size": "0x4"
+ },
+ {
+  "property": "MinDistForInteract",
+  "offset": "0x25116",
+  "size": "0x4"
+ },
+ {
+  "property": "DashMovementLockDuration",
+  "offset": "0x25120",
+  "size": "0x4"
+ },
+ {
+  "property": "SeatTransitionDuration",
+  "offset": "0x25124",
+  "size": "0x4"
+ },
+ {
+  "property": "ClearMoveIgnoreActorsDelay",
+  "offset": "0x25128",
+  "size": "0x4"
+ },
+ {
+  "property": "HealthIndicatorVerticalOffset",
+  "offset": "0x25132",
+  "size": "0x4"
+ },
+ {
+  "property": "SplashDamageMinPercent",
+  "offset": "0x25136",
+  "size": "0x4"
+ },
+ {
+  "property": "SplashDamageFalloffRange",
+  "offset": "0x25140",
+  "size": "0x4"
+ },
+ {
+  "property": "bCanPassengerPawnsTakeDamage",
+  "offset": "0x25144",
+  "size": "0x1"
+ },
+ {
+  "property": "bEjectPassengersOnDeath",
+  "offset": "0x25145",
+  "size": "0x1"
+ },
+ {
+  "property": "BlockEntry",
+  "offset": "0x25152",
+  "size": "0x32"
+ },
+ {
+  "property": "IgnoreDamage",
+  "offset": "0x25184",
+  "size": "0x32"
+ },
+ {
+  "property": "IgnoreRiderDamageFalloff",
+  "offset": "0x25216",
+  "size": "0x32"
+ },
+ {
+  "property": "JumpPressTime",
+  "offset": "0x25248",
+  "size": "0x4"
+ },
+ {
+  "property": "bDidChargeJump",
+  "offset": "0x25252",
+  "size": "0x1"
+ },
+ {
+  "property": "LastController",
+  "offset": "0x25256",
+  "size": "0x8"
+ },
+ {
+  "property": "OstrichAnimInstance",
+  "offset": "0x25272",
+  "size": "0x8"
+ },
+ {
+  "property": "OnPawnEnteredVehicleAtSeat",
+  "offset": "0x25280",
+  "size": "0x16"
+ },
+ {
+  "property": "OnPawnEnteredVehicleSeat",
+  "offset": "0x25296",
+  "size": "0x16"
+ },
+ {
+  "property": "OnPawnExitedVehicleSeat",
+  "offset": "0x25312",
+  "size": "0x16"
+ },
+ {
+  "property": "OnPawnExitedVehicleFromSeat",
+  "offset": "0x25328",
+  "size": "0x16"
+ },
+ {
+  "property": "OnVehicleOwnerChanged",
+  "offset": "0x25344",
+  "size": "0x16"
+ },
+ {
+  "property": "OnSleepStateChangedDelegate",
+  "offset": "0x25360",
+  "size": "0x16"
+ },
+ {
+  "property": "SpecialActorTag",
+  "offset": "0x25380",
+  "size": "0x4"
+ },
+ {
+  "property": "SpecialActorMinimapIconBrush",
+  "offset": "0x25392",
+  "size": "0x176"
+ },
+ {
+  "property": "SpecialActorMinimapIconScale",
+  "offset": "0x25568",
+  "size": "0x16"
+ },
+ {
+  "property": "SpecialActorID",
+  "offset": "0x25584",
+  "size": "0x4"
+ },
+ {
+  "property": "ReregisterSpecialActorIconDelay",
+  "offset": "0x25592",
+  "size": "0x40"
+ },
+ {
+  "property": "bEnableCurieMaterial",
+  "offset": "0x25648",
+  "size": "0x1"
+ },
+ {
+  "property": "bCanEquipWeaponsOnThisPawn",
+  "offset": "0x25649",
+  "size": "0x1"
+ },
+ {
+  "property": "VehicleCosmeticsForceApplyDelegate",
+  "offset": "0x25672",
+  "size": "0x16"
+ },
+ {
+  "property": "OnTirePoppedDelegate",
+  "offset": "0x25688",
+  "size": "0x16"
+ },
+ {
+  "property": "OnTireRepairedDelegate",
+  "offset": "0x25704",
+  "size": "0x16"
+ },
+ {
+  "property": "OnBoostStartedDelegate",
+  "offset": "0x25720",
+  "size": "0x16"
+ },
+ {
+  "property": "OnBoostFinishedDelegate",
+  "offset": "0x25736",
+  "size": "0x16"
+ },
+ {
+  "property": "OnRechargeableBoostPercentChangedDelegate",
+  "offset": "0x25752",
+  "size": "0x16"
+ },
+ {
+  "property": "OnRechargeableBoostFullDelegate",
+  "offset": "0x25768",
+  "size": "0x16"
+ },
+ {
+  "property": "OnDriftStartedDelegate",
+  "offset": "0x25784",
+  "size": "0x16"
+ },
+ {
+  "property": "OnDriftFinishedDelegate",
+  "offset": "0x25800",
+  "size": "0x16"
+ },
+ {
+  "property": "OnModAppliedOnClientDelegate",
+  "offset": "0x25816",
+  "size": "0x16"
+ },
+ {
+  "property": "OnVehicleExplodeDelegate",
+  "offset": "0x25832",
+  "size": "0x16"
+ }
+]

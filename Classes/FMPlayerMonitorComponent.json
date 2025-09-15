@@ -1,0 +1,12 @@
+[
+ {
+  "property": "PlayerEnteredHandle",
+  "offset": "0x192",
+  "size": "0x72"
+ },
+ {
+  "property": "PlayerExitedHandle",
+  "offset": "0x264",
+  "size": "0x72"
+ }
+]

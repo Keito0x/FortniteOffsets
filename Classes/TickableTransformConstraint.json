@@ -1,0 +1,32 @@
+[
+ {
+  "property": "ParentTRSHandle",
+  "offset": "0x144",
+  "size": "0x8"
+ },
+ {
+  "property": "ChildTRSHandle",
+  "offset": "0x152",
+  "size": "0x8"
+ },
+ {
+  "property": "bMaintainOffset",
+  "offset": "0x160",
+  "size": "0x1"
+ },
+ {
+  "property": "Weight",
+  "offset": "0x164",
+  "size": "0x4"
+ },
+ {
+  "property": "bDynamicOffset",
+  "offset": "0x168",
+  "size": "0x1"
+ },
+ {
+  "property": "Type",
+  "offset": "0x169",
+  "size": "0x1"
+ }
+]

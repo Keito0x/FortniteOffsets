@@ -1,0 +1,17 @@
+[
+ {
+  "property": "Parent",
+  "offset": "0x48",
+  "size": "0x8"
+ },
+ {
+  "property": "MasculineSet",
+  "offset": "0x56",
+  "size": "0x8"
+ },
+ {
+  "property": "FeminineSet",
+  "offset": "0x64",
+  "size": "0x8"
+ }
+]

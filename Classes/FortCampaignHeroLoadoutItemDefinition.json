@@ -1,0 +1,32 @@
+[
+ {
+  "property": "CrewSlots",
+  "offset": "0x304",
+  "size": "0x16"
+ },
+ {
+  "property": "CommanderSlotQuery",
+  "offset": "0x320",
+  "size": "0x72"
+ },
+ {
+  "property": "SupportHeroSlotQuery",
+  "offset": "0x392",
+  "size": "0x72"
+ },
+ {
+  "property": "GadgetSlotsAllowed",
+  "offset": "0x464",
+  "size": "0x4"
+ },
+ {
+  "property": "SlotUnlockSquadName",
+  "offset": "0x468",
+  "size": "0x4"
+ },
+ {
+  "property": "TeamPerkUnlockNode",
+  "offset": "0x472",
+  "size": "0x32"
+ }
+]

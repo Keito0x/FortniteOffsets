@@ -1,0 +1,132 @@
+[
+ {
+  "property": "PartyMemberEntryWidgetClass",
+  "offset": "0x1456",
+  "size": "0x8"
+ },
+ {
+  "property": "TeamMemberEntryWidgetClass",
+  "offset": "0x1464",
+  "size": "0x8"
+ },
+ {
+  "property": "VoiceChatMemberEntryWidgetClass",
+  "offset": "0x1472",
+  "size": "0x8"
+ },
+ {
+  "property": "JoinablePartyEntryWidgetClass",
+  "offset": "0x1480",
+  "size": "0x8"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x1488",
+  "size": "0x8"
+ },
+ {
+  "property": "MissedInviteEntryWidgetClass",
+  "offset": "0x1496",
+  "size": "0x8"
+ },
+ {
+  "property": "ReferFriendEntryWidgetClass",
+  "offset": "0x1504",
+  "size": "0x8"
+ },
+ {
+  "property": "UserSearchResultEntryWidgetClass",
+  "offset": "0x1512",
+  "size": "0x8"
+ },
+ {
+  "property": "LeavePartyEntryWidgetClass",
+  "offset": "0x1520",
+  "size": "0x8"
+ },
+ {
+  "property": "ShuffleLfgEntryWidgetClass",
+  "offset": "0x1528",
+  "size": "0x8"
+ },
+ {
+  "property": "SuggestedFriendEntryWidgetClass",
+  "offset": "0x1536",
+  "size": "0x8"
+ },
+ {
+  "property": "JoinRequestEntryWidgetClass",
+  "offset": "0x1544",
+  "size": "0x8"
+ },
+ {
+  "property": "VoiceChannelHeaderEntryWidgetClass",
+  "offset": "0x1552",
+  "size": "0x8"
+ },
+ {
+  "property": "VoiceChannelHeaderOptionEntryWidgetClass",
+  "offset": "0x1560",
+  "size": "0x8"
+ },
+ {
+  "property": "RecentPlayerEntryWidgetClass",
+  "offset": "0x1568",
+  "size": "0x8"
+ },
+ {
+  "property": "TagsNoFriendsEntryWidgetClass",
+  "offset": "0x1576",
+  "size": "0x8"
+ },
+ {
+  "property": "LfgToggleEntryWidgetClass",
+  "offset": "0x1584",
+  "size": "0x8"
+ },
+ {
+  "property": "LfgTagCheckboxEntryWidgetClass",
+  "offset": "0x1592",
+  "size": "0x8"
+ },
+ {
+  "property": "LfgFilterButtonEntryWidgetClass",
+  "offset": "0x1600",
+  "size": "0x8"
+ },
+ {
+  "property": "LfgInviteEntryWidgetClass",
+  "offset": "0x1608",
+  "size": "0x8"
+ },
+ {
+  "property": "LfgState2EntryWidgetClass",
+  "offset": "0x1616",
+  "size": "0x8"
+ },
+ {
+  "property": "NpcEntryClass",
+  "offset": "0x1624",
+  "size": "0x8"
+ },
+ {
+  "property": "MultiFriendActionEntryWidgetClass",
+  "offset": "0x1632",
+  "size": "0x8"
+ },
+ {
+  "property": "LfgFilterHeaderEntryWidgetClass",
+  "offset": "0x1640",
+  "size": "0x8"
+ },
+ {
+  "property": "RebootPlayersHeaderEntryWidgetClass",
+  "offset": "0x1648",
+  "size": "0x8"
+ },
+ {
+  "property": "ViewModelDrivenEntryWidgetClass",
+  "offset": "0x1656",
+  "size": "0x8"
+ }
+]

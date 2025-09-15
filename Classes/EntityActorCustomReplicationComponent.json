@@ -1,0 +1,17 @@
+[
+ {
+  "property": "ReplicationOverride",
+  "offset": "0x88",
+  "size": "0x1"
+ },
+ {
+  "property": "ReplicationRelevancyBucketType",
+  "offset": "0x89",
+  "size": "0x1"
+ },
+ {
+  "property": "CustomReplicationRelevancyRange",
+  "offset": "0x92",
+  "size": "0x4"
+ }
+]

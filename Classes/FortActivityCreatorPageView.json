@@ -1,0 +1,17 @@
+[
+ {
+  "property": "AmountOfCreatorLinkEntriesQueried",
+  "offset": "0x2024",
+  "size": "0x4"
+ },
+ {
+  "property": "ProcessedCreatorLinkEntries",
+  "offset": "0x2028",
+  "size": "0x4"
+ },
+ {
+  "property": "AmountOfEntriesQueried",
+  "offset": "0x2032",
+  "size": "0x4"
+ }
+]

@@ -1,0 +1,42 @@
+[
+ {
+  "property": "DefaultInputType",
+  "offset": "0x64",
+  "size": "0x1"
+ },
+ {
+  "property": "bSupportsMouseAndKeyboard",
+  "offset": "0x65",
+  "size": "0x1"
+ },
+ {
+  "property": "bSupportsTouch",
+  "offset": "0x66",
+  "size": "0x1"
+ },
+ {
+  "property": "bSupportsGamepad",
+  "offset": "0x67",
+  "size": "0x1"
+ },
+ {
+  "property": "DefaultGamepadName",
+  "offset": "0x68",
+  "size": "0x4"
+ },
+ {
+  "property": "bCanChangeGamepadType",
+  "offset": "0x72",
+  "size": "0x1"
+ },
+ {
+  "property": "ControllerData",
+  "offset": "0x80",
+  "size": "0x16"
+ },
+ {
+  "property": "ControllerDataClasses",
+  "offset": "0x96",
+  "size": "0x16"
+ }
+]

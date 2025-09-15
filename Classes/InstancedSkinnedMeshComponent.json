@@ -1,0 +1,62 @@
+[
+ {
+  "property": "InstanceData",
+  "offset": "0x2264",
+  "size": "0x16"
+ },
+ {
+  "property": "NumCustomDataFloats",
+  "offset": "0x2280",
+  "size": "0x4"
+ },
+ {
+  "property": "InstanceCustomData",
+  "offset": "0x2288",
+  "size": "0x16"
+ },
+ {
+  "property": "AnimationMinScreenSize",
+  "offset": "0x2304",
+  "size": "0x4"
+ },
+ {
+  "property": "InstanceMinDrawDistance",
+  "offset": "0x2308",
+  "size": "0x4"
+ },
+ {
+  "property": "InstanceStartCullDistance",
+  "offset": "0x2312",
+  "size": "0x4"
+ },
+ {
+  "property": "InstanceEndCullDistance",
+  "offset": "0x2316",
+  "size": "0x4"
+ },
+ {
+  "property": "bInheritPerInstanceData",
+  "offset": "0x2320",
+  "size": "0x1"
+ },
+ {
+  "property": "AnimBankItems",
+  "offset": "0x2328",
+  "size": "0x16"
+ },
+ {
+  "property": "PrimitiveBoundsOverride",
+  "offset": "0x2344",
+  "size": "0x56"
+ },
+ {
+  "property": "bIsInstanceDataGPUOnly",
+  "offset": "0x2400",
+  "size": "0x1"
+ },
+ {
+  "property": "NumInstancesGPUOnly",
+  "offset": "0x2404",
+  "size": "0x4"
+ }
+]

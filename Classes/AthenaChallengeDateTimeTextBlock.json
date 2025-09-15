@@ -1,0 +1,22 @@
+[
+ {
+  "property": "LabelFormat",
+  "offset": "0x936",
+  "size": "0x16"
+ },
+ {
+  "property": "bShowUpperCase",
+  "offset": "0x952",
+  "size": "0x1"
+ },
+ {
+  "property": "bAllowSeconds",
+  "offset": "0x953",
+  "size": "0x1"
+ },
+ {
+  "property": "CompletionText",
+  "offset": "0x960",
+  "size": "0x16"
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "property": "FolderName",
+  "offset": "0x44",
+  "size": "0x4"
+ },
+ {
+  "property": "ChildFolders",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "ChildTracks",
+  "offset": "0x64",
+  "size": "0x16"
+ },
+ {
+  "property": "ChildObjectBindingStrings",
+  "offset": "0x80",
+  "size": "0x16"
+ }
+]

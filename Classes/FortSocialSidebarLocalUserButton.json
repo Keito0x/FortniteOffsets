@@ -1,0 +1,17 @@
+[
+ {
+  "property": "SocialAvatarIcon",
+  "offset": "0x5688",
+  "size": "0x8"
+ },
+ {
+  "property": "PlayerAvatar",
+  "offset": "0x5696",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_Crown",
+  "offset": "0x5704",
+  "size": "0x8"
+ }
+]

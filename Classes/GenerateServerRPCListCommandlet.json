@@ -1,0 +1,67 @@
+[
+ {
+  "property": "HelpDescription",
+  "offset": "0x40",
+  "size": "0x16"
+ },
+ {
+  "property": "HelpUsage",
+  "offset": "0x56",
+  "size": "0x16"
+ },
+ {
+  "property": "HelpWebLink",
+  "offset": "0x72",
+  "size": "0x16"
+ },
+ {
+  "property": "HelpParamNames",
+  "offset": "0x88",
+  "size": "0x16"
+ },
+ {
+  "property": "HelpParamDescriptions",
+  "offset": "0x104",
+  "size": "0x16"
+ },
+ {
+  "property": "IsServer",
+  "offset": "0x120",
+  "size": "0x1"
+ },
+ {
+  "property": "IsClient",
+  "offset": "0x120",
+  "size": "0x1"
+ },
+ {
+  "property": "IsEditor",
+  "offset": "0x120",
+  "size": "0x1"
+ },
+ {
+  "property": "LogToConsole",
+  "offset": "0x120",
+  "size": "0x1"
+ },
+ {
+  "property": "ShowErrorCount",
+  "offset": "0x120",
+  "size": "0x1"
+ },
+ {
+  "property": "ShowProgress",
+  "offset": "0x120",
+  "size": "0x1"
+ },
+ {
+  "property": "FastExit",
+  "offset": "0x120",
+  "size": "0x1"
+ },
+ {
+  "property": "UseCommandletResultAsExitCode",
+  "offset": "0x120",
+  "size": "0x1"
+ }
+]

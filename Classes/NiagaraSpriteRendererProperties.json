@@ -1,0 +1,262 @@
+[
+ {
+  "property": "Material",
+  "offset": "0x168",
+  "size": "0x8"
+ },
+ {
+  "property": "MaterialUserParamBinding",
+  "offset": "0x176",
+  "size": "0x24"
+ },
+ {
+  "property": "SourceMode",
+  "offset": "0x200",
+  "size": "0x1"
+ },
+ {
+  "property": "Alignment",
+  "offset": "0x201",
+  "size": "0x1"
+ },
+ {
+  "property": "FacingMode",
+  "offset": "0x202",
+  "size": "0x1"
+ },
+ {
+  "property": "SortMode",
+  "offset": "0x203",
+  "size": "0x1"
+ },
+ {
+  "property": "MacroUVRadius",
+  "offset": "0x204",
+  "size": "0x4"
+ },
+ {
+  "property": "PivotInUVSpace",
+  "offset": "0x208",
+  "size": "0x16"
+ },
+ {
+  "property": "SubImageSize",
+  "offset": "0x224",
+  "size": "0x16"
+ },
+ {
+  "property": "bSubImageBlend",
+  "offset": "0x240",
+  "size": "0x1"
+ },
+ {
+  "property": "bRemoveHMDRollInVR",
+  "offset": "0x240",
+  "size": "0x1"
+ },
+ {
+  "property": "bSortOnlyWhenTranslucent",
+  "offset": "0x240",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableCameraDistanceCulling",
+  "offset": "0x240",
+  "size": "0x1"
+ },
+ {
+  "property": "bCastShadows",
+  "offset": "0x240",
+  "size": "0x1"
+ },
+ {
+  "property": "SortPrecision",
+  "offset": "0x241",
+  "size": "0x1"
+ },
+ {
+  "property": "GpuTranslucentLatency",
+  "offset": "0x242",
+  "size": "0x1"
+ },
+ {
+  "property": "PixelCoverageMode",
+  "offset": "0x243",
+  "size": "0x1"
+ },
+ {
+  "property": "PixelCoverageBlend",
+  "offset": "0x244",
+  "size": "0x4"
+ },
+ {
+  "property": "MinFacingCameraBlendDistance",
+  "offset": "0x248",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxFacingCameraBlendDistance",
+  "offset": "0x252",
+  "size": "0x4"
+ },
+ {
+  "property": "MinCameraDistance",
+  "offset": "0x256",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxCameraDistance",
+  "offset": "0x260",
+  "size": "0x4"
+ },
+ {
+  "property": "RendererVisibility",
+  "offset": "0x264",
+  "size": "0x4"
+ },
+ {
+  "property": "PositionBinding",
+  "offset": "0x272",
+  "size": "0x40"
+ },
+ {
+  "property": "ColorBinding",
+  "offset": "0x312",
+  "size": "0x40"
+ },
+ {
+  "property": "VelocityBinding",
+  "offset": "0x352",
+  "size": "0x40"
+ },
+ {
+  "property": "SpriteRotationBinding",
+  "offset": "0x392",
+  "size": "0x40"
+ },
+ {
+  "property": "SpriteSizeBinding",
+  "offset": "0x432",
+  "size": "0x40"
+ },
+ {
+  "property": "SpriteFacingBinding",
+  "offset": "0x472",
+  "size": "0x40"
+ },
+ {
+  "property": "SpriteAlignmentBinding",
+  "offset": "0x512",
+  "size": "0x40"
+ },
+ {
+  "property": "SubImageIndexBinding",
+  "offset": "0x552",
+  "size": "0x40"
+ },
+ {
+  "property": "DynamicMaterialBinding",
+  "offset": "0x592",
+  "size": "0x40"
+ },
+ {
+  "property": "DynamicMaterial1Binding",
+  "offset": "0x632",
+  "size": "0x40"
+ },
+ {
+  "property": "DynamicMaterial2Binding",
+  "offset": "0x672",
+  "size": "0x40"
+ },
+ {
+  "property": "DynamicMaterial3Binding",
+  "offset": "0x712",
+  "size": "0x40"
+ },
+ {
+  "property": "CameraOffsetBinding",
+  "offset": "0x752",
+  "size": "0x40"
+ },
+ {
+  "property": "UVScaleBinding",
+  "offset": "0x792",
+  "size": "0x40"
+ },
+ {
+  "property": "PivotOffsetBinding",
+  "offset": "0x832",
+  "size": "0x40"
+ },
+ {
+  "property": "MaterialRandomBinding",
+  "offset": "0x872",
+  "size": "0x40"
+ },
+ {
+  "property": "CustomSortingBinding",
+  "offset": "0x912",
+  "size": "0x40"
+ },
+ {
+  "property": "NormalizedAgeBinding",
+  "offset": "0x952",
+  "size": "0x40"
+ },
+ {
+  "property": "RendererVisibilityTagBinding",
+  "offset": "0x992",
+  "size": "0x40"
+ },
+ {
+  "property": "MaterialParameters",
+  "offset": "0x1032",
+  "size": "0x80"
+ },
+ {
+  "property": "PrevPositionBinding",
+  "offset": "0x1112",
+  "size": "0x40"
+ },
+ {
+  "property": "PrevVelocityBinding",
+  "offset": "0x1152",
+  "size": "0x40"
+ },
+ {
+  "property": "PrevSpriteRotationBinding",
+  "offset": "0x1192",
+  "size": "0x40"
+ },
+ {
+  "property": "PrevSpriteSizeBinding",
+  "offset": "0x1232",
+  "size": "0x40"
+ },
+ {
+  "property": "PrevSpriteFacingBinding",
+  "offset": "0x1272",
+  "size": "0x40"
+ },
+ {
+  "property": "PrevSpriteAlignmentBinding",
+  "offset": "0x1312",
+  "size": "0x40"
+ },
+ {
+  "property": "PrevCameraOffsetBinding",
+  "offset": "0x1352",
+  "size": "0x40"
+ },
+ {
+  "property": "PrevPivotOffsetBinding",
+  "offset": "0x1392",
+  "size": "0x40"
+ },
+ {
+  "property": "MaterialParamValidMask",
+  "offset": "0x1432",
+  "size": "0x4"
+ }
+]

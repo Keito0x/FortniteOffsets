@@ -1,0 +1,12 @@
+[
+ {
+  "property": "TowHook",
+  "offset": "0x10624",
+  "size": "0x8"
+ },
+ {
+  "property": "TowhookParams",
+  "offset": "0x10632",
+  "size": "0x208"
+ }
+]

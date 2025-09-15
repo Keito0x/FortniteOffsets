@@ -1,0 +1,62 @@
+[
+ {
+  "property": "PositionPerPlatform",
+  "offset": "0x1184",
+  "size": "0x16"
+ },
+ {
+  "property": "PrioritizationData",
+  "offset": "0x1200",
+  "size": "0x2"
+ },
+ {
+  "property": "CanvasPanel_Container",
+  "offset": "0x1208",
+  "size": "0x8"
+ },
+ {
+  "property": "CanvasPanel_Ball",
+  "offset": "0x1216",
+  "size": "0x8"
+ },
+ {
+  "property": "Overlay_Container",
+  "offset": "0x1224",
+  "size": "0x8"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x1232",
+  "size": "0x8"
+ },
+ {
+  "property": "ContextTutorialBallParented",
+  "offset": "0x1240",
+  "size": "0x8"
+ },
+ {
+  "property": "TipActionWidget",
+  "offset": "0x1248",
+  "size": "0x8"
+ },
+ {
+  "property": "RichTextBlock_Message",
+  "offset": "0x1256",
+  "size": "0x8"
+ },
+ {
+  "property": "MaxLerpSpeedPercentPerSecond",
+  "offset": "0x1264",
+  "size": "0x4"
+ },
+ {
+  "property": "CloseObjectInputAction",
+  "offset": "0x1272",
+  "size": "0x16"
+ },
+ {
+  "property": "UpdateWorldMarkersInterval",
+  "offset": "0x1364",
+  "size": "0x4"
+ }
+]

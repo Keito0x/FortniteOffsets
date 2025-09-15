@@ -1,0 +1,12 @@
+[
+ {
+  "property": "ActiveComponents",
+  "offset": "0x216",
+  "size": "0x16"
+ },
+ {
+  "property": "Parameters",
+  "offset": "0x232",
+  "size": "0x16"
+ }
+]

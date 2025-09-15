@@ -1,0 +1,12 @@
+[
+ {
+  "property": "AthenaPlayerNameInfo",
+  "offset": "0x992",
+  "size": "0x8"
+ },
+ {
+  "property": "CachedPlayerViewModel",
+  "offset": "0x1000",
+  "size": "0x8"
+ }
+]

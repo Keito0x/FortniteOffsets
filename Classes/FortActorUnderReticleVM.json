@@ -1,0 +1,12 @@
+[
+ {
+  "property": "ActorUnderReticleType",
+  "offset": "0x112",
+  "size": "0x1"
+ },
+ {
+  "property": "DistanceToActor",
+  "offset": "0x116",
+  "size": "0x4"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "property": "OnSuccess",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "OnFailure",
+  "offset": "0x64",
+  "size": "0x16"
+ }
+]

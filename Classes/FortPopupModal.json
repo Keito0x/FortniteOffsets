@@ -1,0 +1,12 @@
+[
+ {
+  "property": "IconTextButton_Close",
+  "offset": "0x776",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_CloseTouch",
+  "offset": "0x784",
+  "size": "0x8"
+ }
+]

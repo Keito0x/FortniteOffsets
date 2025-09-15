@@ -1,0 +1,12 @@
+[
+ {
+  "property": "SubscriptionState",
+  "offset": "0x112",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsSubscriptionOwned",
+  "offset": "0x113",
+  "size": "0x1"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "property": "NewFirstPlace",
+  "offset": "0x40",
+  "size": "0x8"
+ },
+ {
+  "property": "PrevFirstPlace",
+  "offset": "0x48",
+  "size": "0x8"
+ }
+]

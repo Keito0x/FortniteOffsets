@@ -1,0 +1,12 @@
+[
+ {
+  "property": "bEndWithRootMotion",
+  "offset": "0x490",
+  "size": "0x1"
+ },
+ {
+  "property": "bAffectByGravity",
+  "offset": "0x491",
+  "size": "0x1"
+ }
+]

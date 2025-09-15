@@ -1,0 +1,107 @@
+[
+ {
+  "property": "bAllowHitPawns",
+  "offset": "0x192",
+  "size": "0x1"
+ },
+ {
+  "property": "bAllowHitBuildingPieces",
+  "offset": "0x193",
+  "size": "0x1"
+ },
+ {
+  "property": "bDoMultiSweep",
+  "offset": "0x194",
+  "size": "0x1"
+ },
+ {
+  "property": "bOnlyAffectBuildingsIfKillingDamage",
+  "offset": "0x195",
+  "size": "0x1"
+ },
+ {
+  "property": "ClientIgnoreBuildingActorsTime",
+  "offset": "0x196",
+  "size": "0x4"
+ },
+ {
+  "property": "bUpdateTimeoutIgnoreBuildingActors",
+  "offset": "0x200",
+  "size": "0x1"
+ },
+ {
+  "property": "bAlignLookAheadDirectionWithVehicleYAxis",
+  "offset": "0x201",
+  "size": "0x1"
+ },
+ {
+  "property": "bAlignLookAheadDirectionWithVehicleZAxis",
+  "offset": "0x202",
+  "size": "0x1"
+ },
+ {
+  "property": "BoxTraceSingleName",
+  "offset": "0x204",
+  "size": "0x4"
+ },
+ {
+  "property": "DestructionTraceSocket",
+  "offset": "0x208",
+  "size": "0x4"
+ },
+ {
+  "property": "DestructionTraceSocketRear",
+  "offset": "0x212",
+  "size": "0x4"
+ },
+ {
+  "property": "TraceChannel",
+  "offset": "0x216",
+  "size": "0x1"
+ },
+ {
+  "property": "MaxDestructionAngle",
+  "offset": "0x220",
+  "size": "0x4"
+ },
+ {
+  "property": "MinDestructionSpeedKmh",
+  "offset": "0x224",
+  "size": "0x4"
+ },
+ {
+  "property": "DamageGE",
+  "offset": "0x232",
+  "size": "0x8"
+ },
+ {
+  "property": "OverriddenDamageData",
+  "offset": "0x240",
+  "size": "0x16"
+ },
+ {
+  "property": "PotentiallyDestroyedBuildings",
+  "offset": "0x256",
+  "size": "0x16"
+ },
+ {
+  "property": "VehicleApproxHalfLength",
+  "offset": "0x272",
+  "size": "0x4"
+ },
+ {
+  "property": "CachedOwnerVehicle",
+  "offset": "0x280",
+  "size": "0x8"
+ },
+ {
+  "property": "CachedVehicleConfigs",
+  "offset": "0x288",
+  "size": "0x8"
+ },
+ {
+  "property": "LastOnSKComponentHitTime",
+  "offset": "0x296",
+  "size": "0x4"
+ }
+]

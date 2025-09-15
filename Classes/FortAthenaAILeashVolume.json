@@ -1,0 +1,12 @@
+[
+ {
+  "property": "ProjectExtent",
+  "offset": "0x736",
+  "size": "0x24"
+ },
+ {
+  "property": "IsInsideTolerance",
+  "offset": "0x760",
+  "size": "0x4"
+ }
+]

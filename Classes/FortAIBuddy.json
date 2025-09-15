@@ -1,0 +1,37 @@
+[
+ {
+  "property": "ConsumableItem",
+  "offset": "0x14664",
+  "size": "0x8"
+ },
+ {
+  "property": "ConsumableItemCount",
+  "offset": "0x14672",
+  "size": "0x40"
+ },
+ {
+  "property": "DrainPawn",
+  "offset": "0x14712",
+  "size": "0x8"
+ },
+ {
+  "property": "DrainItem",
+  "offset": "0x14720",
+  "size": "0x8"
+ },
+ {
+  "property": "DrainItemCount",
+  "offset": "0x14728",
+  "size": "0x40"
+ },
+ {
+  "property": "DrainItemTick",
+  "offset": "0x14768",
+  "size": "0x40"
+ },
+ {
+  "property": "TagListeners",
+  "offset": "0x14816",
+  "size": "0x16"
+ }
+]

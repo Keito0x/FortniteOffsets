@@ -1,0 +1,147 @@
+[
+ {
+  "property": "Content_MatchmakingWidget",
+  "offset": "0x2392",
+  "size": "0x8"
+ },
+ {
+  "property": "Notice_Emergency",
+  "offset": "0x2400",
+  "size": "0x8"
+ },
+ {
+  "property": "Content_MotdTeaserWidget",
+  "offset": "0x2408",
+  "size": "0x8"
+ },
+ {
+  "property": "LobbyDetails_Default",
+  "offset": "0x2416",
+  "size": "0x8"
+ },
+ {
+  "property": "LobbyDetails_Tournament",
+  "offset": "0x2424",
+  "size": "0x8"
+ },
+ {
+  "property": "Switcher_LobbyDetailsMode",
+  "offset": "0x2432",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_GenericLink",
+  "offset": "0x2440",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_Quests",
+  "offset": "0x2448",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_ShadowPlayHighlights",
+  "offset": "0x2456",
+  "size": "0x8"
+ },
+ {
+  "property": "VerticalBox_LobbyDetails",
+  "offset": "0x2464",
+  "size": "0x8"
+ },
+ {
+  "property": "VerticalBox_LobbyDetails_ExtensionHolder",
+  "offset": "0x2472",
+  "size": "0x8"
+ },
+ {
+  "property": "VerticalBox_LobbyRankedDetails_ExtensionHolder",
+  "offset": "0x2480",
+  "size": "0x8"
+ },
+ {
+  "property": "VerticalBox_LobbyAboveDetails_ExtensionHolder",
+  "offset": "0x2488",
+  "size": "0x8"
+ },
+ {
+  "property": "Overlay_DynamicExtensions",
+  "offset": "0x2496",
+  "size": "0x8"
+ },
+ {
+  "property": "Overlay_Discover",
+  "offset": "0x2504",
+  "size": "0x8"
+ },
+ {
+  "property": "Overlay_AboveMatchmaking",
+  "offset": "0x2512",
+  "size": "0x8"
+ },
+ {
+  "property": "CatalogMessaging",
+  "offset": "0x2520",
+  "size": "0x8"
+ },
+ {
+  "property": "SquadFormationInputAction",
+  "offset": "0x2528",
+  "size": "0x16"
+ },
+ {
+  "property": "NavDownInputAction",
+  "offset": "0x2544",
+  "size": "0x16"
+ },
+ {
+  "property": "SquadFormationClass",
+  "offset": "0x2560",
+  "size": "0x8"
+ },
+ {
+  "property": "MotdTeaserWidgetClass",
+  "offset": "0x2568",
+  "size": "0x8"
+ },
+ {
+  "property": "DefaultMatchmakingWidgetClass",
+  "offset": "0x2576",
+  "size": "0x8"
+ },
+ {
+  "property": "MatchmakingWidget",
+  "offset": "0x2584",
+  "size": "0x8"
+ },
+ {
+  "property": "SeasonalResources",
+  "offset": "0x2592",
+  "size": "0x8"
+ },
+ {
+  "property": "SwipeThreshold",
+  "offset": "0x2600",
+  "size": "0x16"
+ },
+ {
+  "property": "HabaneroDisplayWidget",
+  "offset": "0x2648",
+  "size": "0x8"
+ },
+ {
+  "property": "Discover",
+  "offset": "0x2656",
+  "size": "0x8"
+ },
+ {
+  "property": "CurrentActivityVM",
+  "offset": "0x2888",
+  "size": "0x8"
+ },
+ {
+  "property": "SwipeDetector",
+  "offset": "0x2896",
+  "size": "0x232"
+ }
+]

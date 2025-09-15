@@ -1,0 +1,7 @@
+[
+ {
+  "property": "Settings",
+  "offset": "0x40",
+  "size": "0x8"
+ }
+]

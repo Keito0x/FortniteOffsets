@@ -1,0 +1,27 @@
+[
+ {
+  "property": "Namespace",
+  "offset": "0x40",
+  "size": "0x4"
+ },
+ {
+  "property": "Parameters",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "SourceMaterialCollection",
+  "offset": "0x64",
+  "size": "0x8"
+ },
+ {
+  "property": "DefaultInstance",
+  "offset": "0x72",
+  "size": "0x8"
+ },
+ {
+  "property": "CompileId",
+  "offset": "0x80",
+  "size": "0x16"
+ }
+]

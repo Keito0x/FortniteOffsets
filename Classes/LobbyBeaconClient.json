@@ -1,0 +1,17 @@
+[
+ {
+  "property": "LobbyState",
+  "offset": "0x824",
+  "size": "0x8"
+ },
+ {
+  "property": "PlayerState",
+  "offset": "0x832",
+  "size": "0x8"
+ },
+ {
+  "property": "LobbyJoinServerState",
+  "offset": "0x841",
+  "size": "0x1"
+ }
+]

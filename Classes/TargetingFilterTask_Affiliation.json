@@ -1,0 +1,7 @@
+[
+ {
+  "property": "AffiliationType",
+  "offset": "0x40",
+  "size": "0x1"
+ }
+]

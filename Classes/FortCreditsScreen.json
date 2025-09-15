@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Button_CloseTouch",
+  "offset": "0x1432",
+  "size": "0x8"
+ },
+ {
+  "property": "BackAction",
+  "offset": "0x1440",
+  "size": "0x16"
+ }
+]

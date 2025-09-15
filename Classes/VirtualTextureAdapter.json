@@ -1,0 +1,27 @@
+[
+ {
+  "property": "Texture",
+  "offset": "0x320",
+  "size": "0x8"
+ },
+ {
+  "property": "OverrideWithTextureFormat",
+  "offset": "0x328",
+  "size": "0x8"
+ },
+ {
+  "property": "bUseDefaultTileSizes",
+  "offset": "0x336",
+  "size": "0x1"
+ },
+ {
+  "property": "TileSize",
+  "offset": "0x340",
+  "size": "0x4"
+ },
+ {
+  "property": "TileBorderSize",
+  "offset": "0x344",
+  "size": "0x4"
+ }
+]

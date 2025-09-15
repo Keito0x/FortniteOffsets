@@ -1,0 +1,22 @@
+[
+ {
+  "property": "ModInstance",
+  "offset": "0x10968",
+  "size": "0x8"
+ },
+ {
+  "property": "DamageStartBehavior",
+  "offset": "0x10976",
+  "size": "0x1"
+ },
+ {
+  "property": "bFilterTargetsInSameVehicle",
+  "offset": "0x10977",
+  "size": "0x1"
+ },
+ {
+  "property": "SeatWithRoofTag",
+  "offset": "0x10980",
+  "size": "0x4"
+ }
+]

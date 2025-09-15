@@ -1,0 +1,62 @@
+[
+ {
+  "property": "OnVisitedBP",
+  "offset": "0x216",
+  "size": "0x16"
+ },
+ {
+  "property": "OnDiscoveredBP",
+  "offset": "0x232",
+  "size": "0x16"
+ },
+ {
+  "property": "DiscoverabilityMPC",
+  "offset": "0x272",
+  "size": "0x8"
+ },
+ {
+  "property": "DiscoveryUnmaskDuration",
+  "offset": "0x280",
+  "size": "0x40"
+ },
+ {
+  "property": "bFlipYInput",
+  "offset": "0x320",
+  "size": "0x1"
+ },
+ {
+  "property": "DiscoveryUnmaskUpdateRate",
+  "offset": "0x324",
+  "size": "0x4"
+ },
+ {
+  "property": "DiscoveryRenderTarget",
+  "offset": "0x328",
+  "size": "0x32"
+ },
+ {
+  "property": "StencilMaterialData",
+  "offset": "0x360",
+  "size": "0x80"
+ },
+ {
+  "property": "DiscoveredData",
+  "offset": "0x440",
+  "size": "0x288"
+ },
+ {
+  "property": "StencilMID",
+  "offset": "0x976",
+  "size": "0x8"
+ },
+ {
+  "property": "StencilInstance",
+  "offset": "0x984",
+  "size": "0x8"
+ },
+ {
+  "property": "DiscoveryRenderTargetInstance",
+  "offset": "0x992",
+  "size": "0x8"
+ }
+]

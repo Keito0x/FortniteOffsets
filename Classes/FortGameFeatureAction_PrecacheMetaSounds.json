@@ -1,0 +1,22 @@
+[
+ {
+  "property": "bDefineCacheInline",
+  "offset": "0x56",
+  "size": "0x1"
+ },
+ {
+  "property": "CacheDefinition",
+  "offset": "0x64",
+  "size": "0x8"
+ },
+ {
+  "property": "InlineCacheDefinition",
+  "offset": "0x72",
+  "size": "0x16"
+ },
+ {
+  "property": "CachedMetaSoundsForDevice",
+  "offset": "0x88",
+  "size": "0x80"
+ }
+]

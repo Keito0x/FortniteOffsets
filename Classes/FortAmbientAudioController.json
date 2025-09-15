@@ -1,0 +1,17 @@
+[
+ {
+  "property": "RequiredTagSubstr",
+  "offset": "0x192",
+  "size": "0x4"
+ },
+ {
+  "property": "PlayerController",
+  "offset": "0x200",
+  "size": "0x8"
+ },
+ {
+  "property": "PauseFadeTime",
+  "offset": "0x208",
+  "size": "0x4"
+ }
+]

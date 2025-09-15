@@ -1,0 +1,32 @@
+[
+ {
+  "property": "bSearchForWindowsInAnimsWithinMontages",
+  "offset": "0x192",
+  "size": "0x1"
+ },
+ {
+  "property": "OnPreUpdate",
+  "offset": "0x200",
+  "size": "0x16"
+ },
+ {
+  "property": "OwnerAdapter",
+  "offset": "0x216",
+  "size": "0x8"
+ },
+ {
+  "property": ";Î}ùJÇ,²O¬Ç",
+  "offset": "0x224",
+  "size": "0x16"
+ },
+ {
+  "property": "WarpTargets",
+  "offset": "0x240",
+  "size": "0x16"
+ },
+ {
+  "property": "SwitchOffConditions",
+  "offset": "0x256",
+  "size": "0x16"
+ }
+]

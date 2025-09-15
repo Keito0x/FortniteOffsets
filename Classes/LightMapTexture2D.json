@@ -1,0 +1,27 @@
+[
+ {
+  "property": "FirstResourceMemMip",
+  "offset": "0x320",
+  "size": "0x4"
+ },
+ {
+  "property": "bTemporarilyDisableStreaming",
+  "offset": "0x324",
+  "size": "0x1"
+ },
+ {
+  "property": "AddressX",
+  "offset": "0x325",
+  "size": "0x1"
+ },
+ {
+  "property": "AddressY",
+  "offset": "0x326",
+  "size": "0x1"
+ },
+ {
+  "property": "ImportedSize",
+  "offset": "0x328",
+  "size": "0x8"
+ }
+]

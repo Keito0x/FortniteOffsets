@@ -1,0 +1,172 @@
+[
+ {
+  "property": "AbilitySystemGlobalsClassName",
+  "offset": "0x40",
+  "size": "0x24"
+ },
+ {
+  "property": "ActivateFailIsDeadTag",
+  "offset": "0x108",
+  "size": "0x4"
+ },
+ {
+  "property": "ActivateFailIsDeadName",
+  "offset": "0x112",
+  "size": "0x4"
+ },
+ {
+  "property": "ActivateFailCooldownTag",
+  "offset": "0x116",
+  "size": "0x4"
+ },
+ {
+  "property": "ActivateFailCooldownName",
+  "offset": "0x120",
+  "size": "0x4"
+ },
+ {
+  "property": "ActivateFailCostTag",
+  "offset": "0x124",
+  "size": "0x4"
+ },
+ {
+  "property": "ActivateFailCostName",
+  "offset": "0x128",
+  "size": "0x4"
+ },
+ {
+  "property": "ActivateFailTagsBlockedTag",
+  "offset": "0x132",
+  "size": "0x4"
+ },
+ {
+  "property": "ActivateFailTagsBlockedName",
+  "offset": "0x136",
+  "size": "0x4"
+ },
+ {
+  "property": "ActivateFailTagsMissingTag",
+  "offset": "0x140",
+  "size": "0x4"
+ },
+ {
+  "property": "ActivateFailTagsMissingName",
+  "offset": "0x144",
+  "size": "0x4"
+ },
+ {
+  "property": "ActivateFailNetworkingTag",
+  "offset": "0x148",
+  "size": "0x4"
+ },
+ {
+  "property": "ActivateFailNetworkingName",
+  "offset": "0x152",
+  "size": "0x4"
+ },
+ {
+  "property": "MinimalReplicationTagCountBits",
+  "offset": "0x156",
+  "size": "0x4"
+ },
+ {
+  "property": "TargetDataStructCache",
+  "offset": "0x160",
+  "size": "0x16"
+ },
+ {
+  "property": "EffectContextStructCache",
+  "offset": "0x176",
+  "size": "0x16"
+ },
+ {
+  "property": "bAllowGameplayModEvaluationChannels",
+  "offset": "0x192",
+  "size": "0x1"
+ },
+ {
+  "property": "DefaultGameplayModEvaluationChannel",
+  "offset": "0x193",
+  "size": "0x1"
+ },
+ {
+  "property": "GameplayModEvaluationChannelAliases",
+  "offset": "0x196",
+  "size": "0x40"
+ },
+ {
+  "property": "GlobalCurveTableName",
+  "offset": "0x240",
+  "size": "0x24"
+ },
+ {
+  "property": "GlobalCurveTable",
+  "offset": "0x264",
+  "size": "0x8"
+ },
+ {
+  "property": "GlobalAttributeMetaDataTableName",
+  "offset": "0x272",
+  "size": "0x24"
+ },
+ {
+  "property": "GlobalAttributeMetaDataTable",
+  "offset": "0x296",
+  "size": "0x8"
+ },
+ {
+  "property": "GlobalAttributeSetDefaultsTableName",
+  "offset": "0x304",
+  "size": "0x24"
+ },
+ {
+  "property": "GlobalAttributeSetDefaultsTableNames",
+  "offset": "0x328",
+  "size": "0x16"
+ },
+ {
+  "property": "GlobalAttributeDefaultsTables",
+  "offset": "0x344",
+  "size": "0x16"
+ },
+ {
+  "property": "GlobalGameplayCueManagerClass",
+  "offset": "0x360",
+  "size": "0x24"
+ },
+ {
+  "property": "GlobalGameplayCueManagerName",
+  "offset": "0x384",
+  "size": "0x24"
+ },
+ {
+  "property": "GameplayCueNotifyPaths",
+  "offset": "0x408",
+  "size": "0x16"
+ },
+ {
+  "property": "GameplayTagResponseTableName",
+  "offset": "0x424",
+  "size": "0x24"
+ },
+ {
+  "property": "GameplayTagResponseTable",
+  "offset": "0x448",
+  "size": "0x8"
+ },
+ {
+  "property": "PredictTargetGameplayEffects",
+  "offset": "0x457",
+  "size": "0x1"
+ },
+ {
+  "property": "ReplicateActivationOwnedTags",
+  "offset": "0x458",
+  "size": "0x1"
+ },
+ {
+  "property": "GlobalGameplayCueManager",
+  "offset": "0x464",
+  "size": "0x8"
+ }
+]

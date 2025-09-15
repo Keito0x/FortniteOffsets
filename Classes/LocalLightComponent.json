@@ -1,0 +1,27 @@
+[
+ {
+  "property": "IntensityUnits",
+  "offset": "0x920",
+  "size": "0x1"
+ },
+ {
+  "property": "InverseExposureBlend",
+  "offset": "0x924",
+  "size": "0x4"
+ },
+ {
+  "property": "Radius",
+  "offset": "0x928",
+  "size": "0x4"
+ },
+ {
+  "property": "AttenuationRadius",
+  "offset": "0x932",
+  "size": "0x4"
+ },
+ {
+  "property": "LightmassSettings",
+  "offset": "0x936",
+  "size": "0x12"
+ }
+]

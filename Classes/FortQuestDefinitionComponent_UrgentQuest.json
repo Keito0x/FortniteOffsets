@@ -1,0 +1,7 @@
+[
+ {
+  "property": "UrgentQuestSettings",
+  "offset": "0x120",
+  "size": "0x304"
+ }
+]

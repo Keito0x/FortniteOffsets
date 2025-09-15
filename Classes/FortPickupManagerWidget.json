@@ -1,0 +1,32 @@
+[
+ {
+  "property": "Panel_AllResources",
+  "offset": "0x880",
+  "size": "0x8"
+ },
+ {
+  "property": "AdditionalResourceWidgetsToTrack",
+  "offset": "0x888",
+  "size": "0x16"
+ },
+ {
+  "property": "CurrentSpendableVisibleWidget",
+  "offset": "0x904",
+  "size": "0x8"
+ },
+ {
+  "property": "GoldSpendablesActorTags",
+  "offset": "0x912",
+  "size": "0x32"
+ },
+ {
+  "property": "OverlapGoldSpendableSphereRadius",
+  "offset": "0x944",
+  "size": "0x4"
+ },
+ {
+  "property": "ResourceWidgets",
+  "offset": "0x952",
+  "size": "0x16"
+ }
+]

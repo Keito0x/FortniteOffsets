@@ -1,0 +1,77 @@
+[
+ {
+  "property": "bClampMorphWeights",
+  "offset": "0x384",
+  "size": "0x1"
+ },
+ {
+  "property": "MorphTargetDeltas",
+  "offset": "0x392",
+  "size": "0x16"
+ },
+ {
+  "property": "NumMorphTargets",
+  "offset": "0x408",
+  "size": "0x4"
+ },
+ {
+  "property": "CompressedMorphDataSizeInBytes",
+  "offset": "0x416",
+  "size": "0x8"
+ },
+ {
+  "property": "UncompressedMorphDataSizeInBytes",
+  "offset": "0x424",
+  "size": "0x8"
+ },
+ {
+  "property": "MorphTargetErrorOrder",
+  "offset": "0x432",
+  "size": "0x16"
+ },
+ {
+  "property": "MorphTargetErrors",
+  "offset": "0x448",
+  "size": "0x16"
+ },
+ {
+  "property": "MaxMorphWeights",
+  "offset": "0x464",
+  "size": "0x16"
+ },
+ {
+  "property": "MorphTargetsMinMaxWeights",
+  "offset": "0x480",
+  "size": "0x16"
+ },
+ {
+  "property": "QualityLevels",
+  "offset": "0x496",
+  "size": "0x16"
+ },
+ {
+  "property": "bIncludeNormals",
+  "offset": "0x512",
+  "size": "0x1"
+ },
+ {
+  "property": "MorphDeltaZeroThreshold",
+  "offset": "0x516",
+  "size": "0x4"
+ },
+ {
+  "property": "MorphCompressionLevel",
+  "offset": "0x520",
+  "size": "0x4"
+ },
+ {
+  "property": "MaskChannel",
+  "offset": "0x524",
+  "size": "0x1"
+ },
+ {
+  "property": "bInvertMaskChannel",
+  "offset": "0x525",
+  "size": "0x1"
+ }
+]

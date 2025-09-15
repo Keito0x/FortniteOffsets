@@ -1,0 +1,22 @@
+[
+ {
+  "property": "TestVector",
+  "offset": "0x680",
+  "size": "0x24"
+ },
+ {
+  "property": "MultipleFloats",
+  "offset": "0x704",
+  "size": "0x16"
+ },
+ {
+  "property": "SingleStruct",
+  "offset": "0x720",
+  "size": "0x32"
+ },
+ {
+  "property": "MultipleStructs",
+  "offset": "0x752",
+  "size": "0x16"
+ }
+]

@@ -1,0 +1,7 @@
+[
+ {
+  "property": "bIsCreativeHUD",
+  "offset": "0x904",
+  "size": "0x1"
+ }
+]

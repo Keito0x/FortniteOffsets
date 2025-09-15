@@ -1,0 +1,182 @@
+[
+ {
+  "property": "IndicatorWorldOffsetProperty",
+  "offset": "0x1556",
+  "size": "0x4"
+ },
+ {
+  "property": "IndicatorItemOffset",
+  "offset": "0x1560",
+  "size": "0x4"
+ },
+ {
+  "property": "IndicatorSpecialServerOffset",
+  "offset": "0x1564",
+  "size": "0x4"
+ },
+ {
+  "property": "SmallIndicatorScale",
+  "offset": "0x1568",
+  "size": "0x16"
+ },
+ {
+  "property": "SmallIndicatorScale_Mobile",
+  "offset": "0x1584",
+  "size": "0x16"
+ },
+ {
+  "property": "CloseScaleDistance",
+  "offset": "0x1608",
+  "size": "0x40"
+ },
+ {
+  "property": "DistantScaleDistance",
+  "offset": "0x1648",
+  "size": "0x40"
+ },
+ {
+  "property": "DistantIndicatorScale",
+  "offset": "0x1688",
+  "size": "0x16"
+ },
+ {
+  "property": "CloseIndicatorScale",
+  "offset": "0x1704",
+  "size": "0x16"
+ },
+ {
+  "property": "MobileDistantIndicatorScale",
+  "offset": "0x1720",
+  "size": "0x16"
+ },
+ {
+  "property": "MobileCloseIndicatorScale",
+  "offset": "0x1736",
+  "size": "0x16"
+ },
+ {
+  "property": "WorldOffsetInterpValue",
+  "offset": "0x1752",
+  "size": "0x4"
+ },
+ {
+  "property": "MIDParam_LocationColor",
+  "offset": "0x1756",
+  "size": "0x4"
+ },
+ {
+  "property": "MIDParam_ItemIcon",
+  "offset": "0x1760",
+  "size": "0x4"
+ },
+ {
+  "property": "MIDParam_ItemRarityColor",
+  "offset": "0x1764",
+  "size": "0x4"
+ },
+ {
+  "property": "MIDParam_SquadCommsPingIcon",
+  "offset": "0x1768",
+  "size": "0x4"
+ },
+ {
+  "property": "MIDParam_NPCCommandPingIconCrop",
+  "offset": "0x1772",
+  "size": "0x4"
+ },
+ {
+  "property": "LoadingPlaceholder",
+  "offset": "0x1776",
+  "size": "0x8"
+ },
+ {
+  "property": "LocationMarker",
+  "offset": "0x1784",
+  "size": "0x24"
+ },
+ {
+  "property": "ItemMarker",
+  "offset": "0x1808",
+  "size": "0x24"
+ },
+ {
+  "property": "DangerMarker",
+  "offset": "0x1832",
+  "size": "0x24"
+ },
+ {
+  "property": "SpecialLocalMarker",
+  "offset": "0x1856",
+  "size": "0x24"
+ },
+ {
+  "property": "SpecialServerMarker",
+  "offset": "0x1880",
+  "size": "0x24"
+ },
+ {
+  "property": "SquadCommsMarker",
+  "offset": "0x1904",
+  "size": "0x24"
+ },
+ {
+  "property": "DefaultIconMaterial",
+  "offset": "0x1928",
+  "size": "0x8"
+ },
+ {
+  "property": "SquadCommsPingMaterial",
+  "offset": "0x1936",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_SmallIndicator",
+  "offset": "0x1984",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_LocationFlare",
+  "offset": "0x1992",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_LargeIndicator",
+  "offset": "0x2000",
+  "size": "0x8"
+ },
+ {
+  "property": "Anim_LocationPlaced",
+  "offset": "0x2008",
+  "size": "0x8"
+ },
+ {
+  "property": "Anim_DangerPlaced",
+  "offset": "0x2016",
+  "size": "0x8"
+ },
+ {
+  "property": "Anim_ItemPlaced",
+  "offset": "0x2024",
+  "size": "0x8"
+ },
+ {
+  "property": "Anim_Hovered",
+  "offset": "0x2032",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_TrajectoryLargeIndicator",
+  "offset": "0x2040",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_TrajectorySmallIndicator",
+  "offset": "0x2048",
+  "size": "0x8"
+ },
+ {
+  "property": "MarkerConfirmationWidget",
+  "offset": "0x2056",
+  "size": "0x8"
+ }
+]

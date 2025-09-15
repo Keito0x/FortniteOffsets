@@ -1,0 +1,7 @@
+[
+ {
+  "property": "bForceSyncAmmoForLocalPropSpawnerWeapon",
+  "offset": "0x10624",
+  "size": "0x1"
+ }
+]

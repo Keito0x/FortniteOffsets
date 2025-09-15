@@ -1,0 +1,72 @@
+[
+ {
+  "property": "NumWaves",
+  "offset": "0x40",
+  "size": "0x4"
+ },
+ {
+  "property": "Seed",
+  "offset": "0x44",
+  "size": "0x4"
+ },
+ {
+  "property": "Randomness",
+  "offset": "0x48",
+  "size": "0x4"
+ },
+ {
+  "property": "MinWavelength",
+  "offset": "0x52",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxWavelength",
+  "offset": "0x56",
+  "size": "0x4"
+ },
+ {
+  "property": "WavelengthFalloff",
+  "offset": "0x60",
+  "size": "0x4"
+ },
+ {
+  "property": "MinAmplitude",
+  "offset": "0x64",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxAmplitude",
+  "offset": "0x68",
+  "size": "0x4"
+ },
+ {
+  "property": "AmplitudeFalloff",
+  "offset": "0x72",
+  "size": "0x4"
+ },
+ {
+  "property": "WindAngleDeg",
+  "offset": "0x76",
+  "size": "0x4"
+ },
+ {
+  "property": "DirectionAngularSpreadDeg",
+  "offset": "0x80",
+  "size": "0x4"
+ },
+ {
+  "property": "SmallWaveSteepness",
+  "offset": "0x84",
+  "size": "0x4"
+ },
+ {
+  "property": "LargeWaveSteepness",
+  "offset": "0x88",
+  "size": "0x4"
+ },
+ {
+  "property": "SteepnessFalloff",
+  "offset": "0x92",
+  "size": "0x4"
+ }
+]

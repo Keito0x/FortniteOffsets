@@ -1,0 +1,112 @@
+[
+ {
+  "property": "RenderFocusRule",
+  "offset": "0x48",
+  "size": "0x1"
+ },
+ {
+  "property": "HardwareCursors",
+  "offset": "0x56",
+  "size": "0x80"
+ },
+ {
+  "property": "SoftwareCursors",
+  "offset": "0x136",
+  "size": "0x80"
+ },
+ {
+  "property": "DefaultCursor",
+  "offset": "0x216",
+  "size": "0x24"
+ },
+ {
+  "property": "TextEditBeamCursor",
+  "offset": "0x240",
+  "size": "0x24"
+ },
+ {
+  "property": "CrosshairsCursor",
+  "offset": "0x264",
+  "size": "0x24"
+ },
+ {
+  "property": "HandCursor",
+  "offset": "0x288",
+  "size": "0x24"
+ },
+ {
+  "property": "GrabHandCursor",
+  "offset": "0x312",
+  "size": "0x24"
+ },
+ {
+  "property": "GrabHandClosedCursor",
+  "offset": "0x336",
+  "size": "0x24"
+ },
+ {
+  "property": "SlashedCircleCursor",
+  "offset": "0x360",
+  "size": "0x24"
+ },
+ {
+  "property": "ApplicationScale",
+  "offset": "0x384",
+  "size": "0x4"
+ },
+ {
+  "property": "UIScaleRule",
+  "offset": "0x388",
+  "size": "0x1"
+ },
+ {
+  "property": "CustomScalingRuleClass",
+  "offset": "0x392",
+  "size": "0x24"
+ },
+ {
+  "property": "UIScaleCurve",
+  "offset": "0x416",
+  "size": "0x136"
+ },
+ {
+  "property": "bAllowHighDPIInGameMode",
+  "offset": "0x552",
+  "size": "0x1"
+ },
+ {
+  "property": "DesignScreenSize",
+  "offset": "0x556",
+  "size": "0x8"
+ },
+ {
+  "property": "bLoadWidgetsOnDedicatedServer",
+  "offset": "0x564",
+  "size": "0x1"
+ },
+ {
+  "property": "bAuthorizeAutomaticWidgetVariableCreation",
+  "offset": "0x565",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableDistanceFieldFontRasterization",
+  "offset": "0x566",
+  "size": "0x1"
+ },
+ {
+  "property": "CursorClasses",
+  "offset": "0x568",
+  "size": "0x16"
+ },
+ {
+  "property": "CustomScalingRuleClassInstance",
+  "offset": "0x584",
+  "size": "0x8"
+ },
+ {
+  "property": "CustomScalingRule",
+  "offset": "0x592",
+  "size": "0x8"
+ }
+]

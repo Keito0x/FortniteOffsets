@@ -1,0 +1,47 @@
+[
+ {
+  "property": "Image_ModOptic",
+  "offset": "0x824",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_ModMag",
+  "offset": "0x832",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_ModUnderbarrel",
+  "offset": "0x840",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_ModBarrel",
+  "offset": "0x848",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_ScopeIcon",
+  "offset": "0x856",
+  "size": "0x8"
+ },
+ {
+  "property": "EmptyModSlotBrush",
+  "offset": "0x864",
+  "size": "0x176"
+ },
+ {
+  "property": "FilledModSlotBrush",
+  "offset": "0x1040",
+  "size": "0x176"
+ },
+ {
+  "property": "ModSlotWidgets",
+  "offset": "0x1216",
+  "size": "0x80"
+ },
+ {
+  "property": "WeaponModSlotOpticTag",
+  "offset": "0x1296",
+  "size": "0x4"
+ }
+]

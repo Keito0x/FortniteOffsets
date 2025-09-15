@@ -1,0 +1,12 @@
+[
+ {
+  "property": "SpotlightSequence",
+  "offset": "0x1128",
+  "size": "0x32"
+ },
+ {
+  "property": "InstrumentType",
+  "offset": "0x1160",
+  "size": "0x1"
+ }
+]

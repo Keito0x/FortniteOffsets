@@ -1,0 +1,32 @@
+[
+ {
+  "property": "Size",
+  "offset": "0x64",
+  "size": "0x12"
+ },
+ {
+  "property": "OverrideRenderTargetFormat",
+  "offset": "0x76",
+  "size": "0x1"
+ },
+ {
+  "property": "OverrideRenderTargetFilter",
+  "offset": "0x77",
+  "size": "0x1"
+ },
+ {
+  "property": "bInheritUserParameterSettings",
+  "offset": "0x78",
+  "size": "0x1"
+ },
+ {
+  "property": "bOverrideFormat",
+  "offset": "0x78",
+  "size": "0x1"
+ },
+ {
+  "property": "RenderTargetUserParameter",
+  "offset": "0x80",
+  "size": "0x24"
+ }
+]

@@ -1,0 +1,17 @@
+[
+ {
+  "property": "EntryBox_VBuckOffers",
+  "offset": "0x1272",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_OfferMessage",
+  "offset": "0x1280",
+  "size": "0x8"
+ },
+ {
+  "property": "LastSelectedOffer",
+  "offset": "0x1288",
+  "size": "0x8"
+ }
+]

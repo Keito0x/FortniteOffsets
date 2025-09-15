@@ -1,0 +1,17 @@
+[
+ {
+  "property": "ListView_Tiles",
+  "offset": "0x1072",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_PageLeft",
+  "offset": "0x1080",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_PageRight",
+  "offset": "0x1088",
+  "size": "0x8"
+ }
+]

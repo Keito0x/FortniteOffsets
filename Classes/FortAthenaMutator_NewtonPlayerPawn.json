@@ -1,0 +1,7 @@
+[
+ {
+  "property": "OverridePawnClass",
+  "offset": "0x864",
+  "size": "0x32"
+ }
+]

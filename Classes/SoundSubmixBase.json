@@ -1,0 +1,22 @@
+[
+ {
+  "property": "bAutoDisable",
+  "offset": "0x40",
+  "size": "0x1"
+ },
+ {
+  "property": "AutoDisableTime",
+  "offset": "0x44",
+  "size": "0x4"
+ },
+ {
+  "property": "ChildSubmixes",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "DynamicChildSubmixes",
+  "offset": "0x64",
+  "size": "0x80"
+ }
+]

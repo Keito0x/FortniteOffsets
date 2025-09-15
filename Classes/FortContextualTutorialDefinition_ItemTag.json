@@ -1,0 +1,42 @@
+[
+ {
+  "property": "ItemTag",
+  "offset": "0x248",
+  "size": "0x4"
+ },
+ {
+  "property": "BlockedTag",
+  "offset": "0x252",
+  "size": "0x4"
+ },
+ {
+  "property": "RequirementsCheckDelay",
+  "offset": "0x256",
+  "size": "0x4"
+ },
+ {
+  "property": "bUseCommitedCallback",
+  "offset": "0x260",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseActivatedCallback",
+  "offset": "0x261",
+  "size": "0x1"
+ },
+ {
+  "property": "bRequireItemEquipped",
+  "offset": "0x262",
+  "size": "0x1"
+ },
+ {
+  "property": "CommitedAbilityTag",
+  "offset": "0x264",
+  "size": "0x4"
+ },
+ {
+  "property": "BlockedByTags",
+  "offset": "0x272",
+  "size": "0x32"
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "property": "bAutoLoadData",
+  "offset": "0x40",
+  "size": "0x1"
+ },
+ {
+  "property": "DefaultImageResourceObject",
+  "offset": "0x48",
+  "size": "0x32"
+ },
+ {
+  "property": "DefaultThrobberMaterial",
+  "offset": "0x80",
+  "size": "0x32"
+ },
+ {
+  "property": "DefaultRichTextDataClass",
+  "offset": "0x112",
+  "size": "0x32"
+ },
+ {
+  "property": "PlatformTraits",
+  "offset": "0x144",
+  "size": "0x16"
+ },
+ {
+  "property": "CommonButtonAcceptKeyHandling",
+  "offset": "0x160",
+  "size": "0x4"
+ },
+ {
+  "property": "DefaultImageResourceObjectInstance",
+  "offset": "0x200",
+  "size": "0x8"
+ },
+ {
+  "property": "DefaultThrobberMaterialInstance",
+  "offset": "0x208",
+  "size": "0x8"
+ },
+ {
+  "property": "DefaultThrobberBrush",
+  "offset": "0x224",
+  "size": "0x176"
+ },
+ {
+  "property": "RichTextDataInstance",
+  "offset": "0x400",
+  "size": "0x8"
+ }
+]

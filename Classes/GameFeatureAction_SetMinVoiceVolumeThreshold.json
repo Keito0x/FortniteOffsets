@@ -1,0 +1,17 @@
+[
+ {
+  "property": "bEnableFallbackValue",
+  "offset": "0x40",
+  "size": "0x1"
+ },
+ {
+  "property": "FallbackVolumeThreshold",
+  "offset": "0x44",
+  "size": "0x4"
+ },
+ {
+  "property": "PerPlatformVolumeThresholds",
+  "offset": "0x48",
+  "size": "0x80"
+ }
+]

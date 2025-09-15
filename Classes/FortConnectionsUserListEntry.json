@@ -1,0 +1,27 @@
+[
+ {
+  "property": "Text_MutualFriends",
+  "offset": "0x5728",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_MutualFriends_Hover",
+  "offset": "0x5736",
+  "size": "0x8"
+ },
+ {
+  "property": "Avatar_MemberIcon",
+  "offset": "0x5744",
+  "size": "0x8"
+ },
+ {
+  "property": "PlayerAvatar",
+  "offset": "0x5752",
+  "size": "0x8"
+ },
+ {
+  "property": "œ{K{œK}Þ½KYYYÞ=KYYY}ŸÛÆ¡¦Ÿ{KMýY}ŸßóÏÒY}ŸÓ†¬¦ûÁ½¦Ó«åSY›9ÞnÙYYœ×ÎÏÒYÞ¨×ÞèÙYY¢°¢¸MÙYYÞ›™ÙYY}ŸKAùÙYYY}$-w~ ¦œ{KAÞ=Zœ{KCÞ=z[œ{KEÞ=z]œ{KGÞ=z_œ{KyÞ=zQÞò9ÞÍKYYYÞÍ{KaÞÍ{KiÞÍ{KqÞÍ{KyÞÍ{KA}œKYYY}Á)}œß|GÓY}Å¹Þ›8YYY}!}™;	YYYô÷övùv¸}ŸÛ…F¡¦Ÿ{KMýY}ŸßdOÒY}ŸÓ°¬¦ûÁ½¦Ó\åSY›9ÞYYY }¹¬ZœÏÿOÒYÞ«×Þ_ÙYY¢³¢»MÙYYÞ›ÊÙYY}ŸKA}$ý5-çÿ ¦ÿ!ý˜)ÆÞê&¦¦ý˜*9Ù¢û:­ú&¦¦˜%ÆcÐùÆYYYýÍ9}Ù¥Á0-í©[0¦ÓµçSY„ÒYYY­Ö$¦¦¦Ó­åSY}œKÙYYÙ}œK)YYYÁ0¦ÓŽçSY„ÌYYY­£¥¦¦}"¦¦¦¦¦¦æ}ŸeÙ­&¦¦??????????ùrròóð}™/	YYY}>}œÛ­ÇÓY}Á)}KYYYÞMÛ¢rPYÞÑÙºùQ}œDœ`]Þò9ÞÑKYYYÞÑ{KcÞÑ{KkÞÑ{KsÞÑ{K{ÞMÛ!jÐYÞÑ{KAº{Ky!©0¸ÿ›"cÃxŸ[£YYYY¡}¹­×K}{K{ý˜&yÞ˜ÇÙYYÿ!}ŸK{áy}$-7[Y}ŸgKœúy}Ÿ}Ù:{[}˜%EÞ˜ŸÙYY}˜¥EcÐùEYYYýÍ=}Ù¥Á0-£([Y",
+  "offset": "0x5760",
+  "size": "0x8"
+ }
+]

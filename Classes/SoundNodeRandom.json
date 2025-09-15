@@ -1,0 +1,37 @@
+[
+ {
+  "property": "Weights",
+  "offset": "0x72",
+  "size": "0x16"
+ },
+ {
+  "property": "HasBeenUsed",
+  "offset": "0x88",
+  "size": "0x16"
+ },
+ {
+  "property": "NumRandomUsed",
+  "offset": "0x104",
+  "size": "0x4"
+ },
+ {
+  "property": "PreselectAtLevelLoad",
+  "offset": "0x108",
+  "size": "0x4"
+ },
+ {
+  "property": "bShouldExcludeFromBranchCulling",
+  "offset": "0x112",
+  "size": "0x1"
+ },
+ {
+  "property": "bSoundCueExcludedFromBranchCulling",
+  "offset": "0x112",
+  "size": "0x1"
+ },
+ {
+  "property": "bRandomizeWithoutReplacement",
+  "offset": "0x112",
+  "size": "0x1"
+ }
+]

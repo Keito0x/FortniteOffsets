@@ -1,0 +1,37 @@
+[
+ {
+  "property": "SystemClasses",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "BelowLowerLODSettings",
+  "offset": "0x64",
+  "size": "0x104"
+ },
+ {
+  "property": "LowerLODSettings",
+  "offset": "0x168",
+  "size": "0x104"
+ },
+ {
+  "property": "AboveLowerLODSettings",
+  "offset": "0x272",
+  "size": "0x104"
+ },
+ {
+  "property": "BelowNormalLODSettings",
+  "offset": "0x376",
+  "size": "0x104"
+ },
+ {
+  "property": "NormalLODSettings",
+  "offset": "0x480",
+  "size": "0x104"
+ },
+ {
+  "property": "AboveNormalLODSettings",
+  "offset": "0x584",
+  "size": "0x104"
+ }
+]

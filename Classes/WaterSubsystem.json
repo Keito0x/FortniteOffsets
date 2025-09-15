@@ -1,0 +1,32 @@
+[
+ {
+  "property": "BuoyancyManager",
+  "offset": "0x64",
+  "size": "0x8"
+ },
+ {
+  "property": "OnCameraUnderwaterStateChanged",
+  "offset": "0x72",
+  "size": "0x16"
+ },
+ {
+  "property": "OnWaterScalabilityChanged",
+  "offset": "0x88",
+  "size": "0x16"
+ },
+ {
+  "property": "DefaultRiverMesh",
+  "offset": "0x104",
+  "size": "0x8"
+ },
+ {
+  "property": "DefaultLakeMesh",
+  "offset": "0x112",
+  "size": "0x8"
+ },
+ {
+  "property": "MaterialParameterCollection",
+  "offset": "0x160",
+  "size": "0x8"
+ }
+]

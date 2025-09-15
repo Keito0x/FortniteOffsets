@@ -1,0 +1,12 @@
+[
+ {
+  "property": "SlotDataConfig",
+  "offset": "0x168",
+  "size": "0x80"
+ },
+ {
+  "property": "SlottedCustomizableObjects",
+  "offset": "0x248",
+  "size": "0x80"
+ }
+]

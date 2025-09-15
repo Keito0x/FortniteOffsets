@@ -1,0 +1,12 @@
+[
+ {
+  "property": "OnShowActivityDetailsOnCreatorPageDelegate",
+  "offset": "0x616",
+  "size": "0x16"
+ },
+ {
+  "property": "ColorSchemes",
+  "offset": "0x648",
+  "size": "0x80"
+ }
+]

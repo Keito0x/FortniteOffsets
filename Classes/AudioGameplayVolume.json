@@ -1,0 +1,22 @@
+[
+ {
+  "property": "AGVComponent",
+  "offset": "0x736",
+  "size": "0x8"
+ },
+ {
+  "property": "bEnabled",
+  "offset": "0x744",
+  "size": "0x1"
+ },
+ {
+  "property": "OnListenerEnterEvent",
+  "offset": "0x752",
+  "size": "0x16"
+ },
+ {
+  "property": "OnListenerExitEvent",
+  "offset": "0x768",
+  "size": "0x16"
+ }
+]

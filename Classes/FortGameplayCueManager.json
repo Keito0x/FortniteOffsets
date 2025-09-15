@@ -1,0 +1,27 @@
+[
+ {
+  "property": "BROnlyGameplayCueNotifyPaths",
+  "offset": "0x784",
+  "size": "0x16"
+ },
+ {
+  "property": "AdditionalAlwaysLoadedCueTags",
+  "offset": "0x960",
+  "size": "0x16"
+ },
+ {
+  "property": "PreloadedCues",
+  "offset": "0x992",
+  "size": "0x80"
+ },
+ {
+  "property": "AlwaysLoadedCues",
+  "offset": "0x1072",
+  "size": "0x80"
+ },
+ {
+  "property": "bClientDelayLoadGameplayCues",
+  "offset": "0x1232",
+  "size": "0x1"
+ }
+]

@@ -1,0 +1,102 @@
+[
+ {
+  "property": "DriveMethod",
+  "offset": "0x200",
+  "size": "0x1"
+ },
+ {
+  "property": "MetasoundOutputName",
+  "offset": "0x204",
+  "size": "0x4"
+ },
+ {
+  "property": "MetasoundsAudioComponent",
+  "offset": "0x208",
+  "size": "0x8"
+ },
+ {
+  "property": "TempoMap",
+  "offset": "0x216",
+  "size": "0x8"
+ },
+ {
+  "property": "MusicClockSettings",
+  "offset": "0x224",
+  "size": "0x16"
+ },
+ {
+  "property": "TimebaseForBarAndBeatEvents",
+  "offset": "0x240",
+  "size": "0x1"
+ },
+ {
+  "property": "PlayStateEvent",
+  "offset": "0x248",
+  "size": "0x16"
+ },
+ {
+  "property": "BeatEvent",
+  "offset": "0x264",
+  "size": "0x16"
+ },
+ {
+  "property": "BarEvent",
+  "offset": "0x280",
+  "size": "0x16"
+ },
+ {
+  "property": "SectionEvent",
+  "offset": "0x296",
+  "size": "0x16"
+ },
+ {
+  "property": "MusicClockConnectedEvent",
+  "offset": "0x312",
+  "size": "0x16"
+ },
+ {
+  "property": "MusicClockDisconnectedEvent",
+  "offset": "0x328",
+  "size": "0x16"
+ },
+ {
+  "property": "AudioRenderMusicTimeDiscontinuityEvent",
+  "offset": "0x344",
+  "size": "0x16"
+ },
+ {
+  "property": "PlayerExperienceMusicTimeDiscontinuityEvent",
+  "offset": "0x360",
+  "size": "0x16"
+ },
+ {
+  "property": "VideoRenderMusicTimeDiscontinuityEvent",
+  "offset": "0x376",
+  "size": "0x16"
+ },
+ {
+  "property": "DefaultClockAdvanceRate",
+  "offset": "0x392",
+  "size": "0x4"
+ },
+ {
+  "property": "DefaultTempo",
+  "offset": "0x396",
+  "size": "0x4"
+ },
+ {
+  "property": "DefaultTimeSignatureNum",
+  "offset": "0x400",
+  "size": "0x4"
+ },
+ {
+  "property": "DefaultTimeSignatureDenom",
+  "offset": "0x404",
+  "size": "0x4"
+ },
+ {
+  "property": "RunPastMusicEnd",
+  "offset": "0x408",
+  "size": "0x1"
+ }
+]

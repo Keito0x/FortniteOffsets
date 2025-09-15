@@ -1,0 +1,72 @@
+[
+ {
+  "property": "bAutoPlayOnOpen",
+  "offset": "0x792",
+  "size": "0x1"
+ },
+ {
+  "property": "¦ÙYYYYYYYÍYYYYYYYYYYYYYYYYYYYYY]YYYYöõe]Œ¦¦YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYÙYYYYYYYYYYYYYYY1Ê†]Œ¦¦aÝª*Y›¦¦9vå€]Œ¦¦YYYYYYYYßY]YYYYY]YYY]YYYYYYYYYYYYYYYYYYY%vå€]Œ¦¦ÙYYYYYYYišsƒ]Œ¦¦)sƒ]Œ¦¦YYYYYYYY]YYYYYYY909]Œ¦¦yá†]Œ¦¦Yc;ˆ]Œ¦¦]YYYYYYYM†]Œ¦¦XYYYYYYYqM†]Œ¦¦YYYYYYYYYYSXÿïøéYYYYYYYYQ÷+Y›¦¦EäÝ	]Œ¦¦M<0]Œ¦¦YYYYYYYY]YYYYYYYYYYYYYYYYYYYYYYYXY]YYYY&me]Œ¦¦YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYÙYYYYYYYYYYYYYYYQÍ†]Œ¦¦ÿ)Y›¦¦YYYYYYYYYYYYYYYYßY](YYYYYYYÿYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY	Þt]Œ¦¦IäA‚]Œ¦¦YYYYYYYY]YYYYYYYq	]Œ¦¦YˆÍ]Œ¦¦Y}1‰]Œ¦¦]YYYYYYY=Í†]Œ¦",
+  "offset": "0x793",
+  "size": "0x1"
+ },
+ {
+  "property": "bShowSubtitles",
+  "offset": "0x794",
+  "size": "0x1"
+ },
+ {
+  "property": "bNoAudio",
+  "offset": "0x795",
+  "size": "0x1"
+ },
+ {
+  "property": "bForceDefaultAudio",
+  "offset": "0x797",
+  "size": "0x1"
+ },
+ {
+  "property": "SoundClass",
+  "offset": "0x800",
+  "size": "0x8"
+ },
+ {
+  "property": "VideoPlayer",
+  "offset": "0x952",
+  "size": "0x8"
+ },
+ {
+  "property": "DefaultAudioSubmix",
+  "offset": "0x960",
+  "size": "0x8"
+ },
+ {
+  "property": "LicensedAudioSubmix",
+  "offset": "0x968",
+  "size": "0x8"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x976",
+  "size": "0x8"
+ },
+ {
+  "property": "SoundComponent",
+  "offset": "0x984",
+  "size": "0x8"
+ },
+ {
+  "property": "SubtitlePlayer",
+  "offset": "0x992",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_VideoTexture",
+  "offset": "0x1016",
+  "size": "0x8"
+ },
+ {
+  "property": "Subtitles",
+  "offset": "0x1024",
+  "size": "0x8"
+ }
+]

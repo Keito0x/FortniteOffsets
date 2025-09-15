@@ -1,0 +1,17 @@
+[
+ {
+  "property": "Skeleton",
+  "offset": "0x56",
+  "size": "0x8"
+ },
+ {
+  "property": "MetaData",
+  "offset": "0x96",
+  "size": "0x16"
+ },
+ {
+  "property": "AssetUserData",
+  "offset": "0x112",
+  "size": "0x16"
+ }
+]

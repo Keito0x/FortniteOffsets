@@ -1,0 +1,12 @@
+[
+ {
+  "property": "UpdateTimeThresholdInMs",
+  "offset": "0x300",
+  "size": "0x4"
+ },
+ {
+  "property": "MemoryCategoryFlags",
+  "offset": "0x304",
+  "size": "0x1"
+ }
+]

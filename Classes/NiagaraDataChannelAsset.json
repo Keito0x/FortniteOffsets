@@ -1,0 +1,7 @@
+[
+ {
+  "property": "DataChannel",
+  "offset": "0x40",
+  "size": "0x8"
+ }
+]

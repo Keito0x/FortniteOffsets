@@ -1,0 +1,47 @@
+[
+ {
+  "property": "CategoryNameLocker",
+  "offset": "0x192",
+  "size": "0x4"
+ },
+ {
+  "property": "CategoryNameAll",
+  "offset": "0x196",
+  "size": "0x4"
+ },
+ {
+  "property": "CategoryTitleLocker",
+  "offset": "0x200",
+  "size": "0x16"
+ },
+ {
+  "property": "CategoryTitleAll",
+  "offset": "0x216",
+  "size": "0x16"
+ },
+ {
+  "property": "CategoryTagLocker",
+  "offset": "0x232",
+  "size": "0x4"
+ },
+ {
+  "property": "CategoryTagAll",
+  "offset": "0x236",
+  "size": "0x4"
+ },
+ {
+  "property": "EmoteWheelOverlay",
+  "offset": "0x240",
+  "size": "0x32"
+ },
+ {
+  "property": "LoopTypeToIndexMapping",
+  "offset": "0x272",
+  "size": "0x16"
+ },
+ {
+  "property": "LoadedItemDefs",
+  "offset": "0x304",
+  "size": "0x16"
+ }
+]

@@ -1,0 +1,37 @@
+[
+ {
+  "property": "TabsUIFeature",
+  "offset": "0x1144",
+  "size": "0x16"
+ },
+ {
+  "property": "TabInfos",
+  "offset": "0x1160",
+  "size": "0x16"
+ },
+ {
+  "property": "ActionDomain",
+  "offset": "0x1176",
+  "size": "0x32"
+ },
+ {
+  "property": "bIsUsingDynamicUI",
+  "offset": "0x1208",
+  "size": "0x1"
+ },
+ {
+  "property": "TabContentSwitcher",
+  "offset": "0x1216",
+  "size": "0x8"
+ },
+ {
+  "property": "StoreMain_Root",
+  "offset": "0x1224",
+  "size": "0x8"
+ },
+ {
+  "property": "SeasonTrailerAutoplayEndingCamera",
+  "offset": "0x1232",
+  "size": "0x4"
+ }
+]

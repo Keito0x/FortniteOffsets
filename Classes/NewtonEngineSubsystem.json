@@ -1,0 +1,12 @@
+[
+ {
+  "property": "OnMinigameSettingChanged",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "OverrideCVars",
+  "offset": "0x72",
+  "size": "0x80"
+ }
+]

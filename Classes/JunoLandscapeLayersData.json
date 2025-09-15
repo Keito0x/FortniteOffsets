@@ -1,0 +1,12 @@
+[
+ {
+  "property": "ExternalMaterialGatherer",
+  "offset": "0x48",
+  "size": "0x8"
+ },
+ {
+  "property": "",
+  "offset": "0x98741524",
+  "size": "0x0"
+ }
+]

@@ -1,0 +1,37 @@
+[
+ {
+  "property": "FontSize",
+  "offset": "0x5616",
+  "size": "0x4"
+ },
+ {
+  "property": "PaddingOverrideMargin",
+  "offset": "0x5620",
+  "size": "0x16"
+ },
+ {
+  "property": "DelayShine",
+  "offset": "0x5636",
+  "size": "0x4"
+ },
+ {
+  "property": "bFontSizeOverride",
+  "offset": "0x5640",
+  "size": "0x1"
+ },
+ {
+  "property": "bPaddingOverride",
+  "offset": "0x5641",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseShineSwipe",
+  "offset": "0x5642",
+  "size": "0x1"
+ },
+ {
+  "property": "bShearText",
+  "offset": "0x5643",
+  "size": "0x1"
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "property": "RichText_Description",
+  "offset": "0x816",
+  "size": "0x8"
+ },
+ {
+  "property": "HBox_MissionProgress",
+  "offset": "0x824",
+  "size": "0x8"
+ },
+ {
+  "property": "ProgressBar_PercentComplete_Front",
+  "offset": "0x832",
+  "size": "0x8"
+ },
+ {
+  "property": "ProgressBar_PercentComplete_Back",
+  "offset": "0x840",
+  "size": "0x8"
+ }
+]

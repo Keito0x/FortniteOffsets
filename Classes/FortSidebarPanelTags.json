@@ -1,0 +1,37 @@
+[
+ {
+  "property": "UserTree_Friends",
+  "offset": "0x1200",
+  "size": "0x8"
+ },
+ {
+  "property": "LfgStateWidget",
+  "offset": "0x1208",
+  "size": "0x8"
+ },
+ {
+  "property": "QueryLfgTimeSeconds",
+  "offset": "0x1216",
+  "size": "0x4"
+ },
+ {
+  "property": "DebounceLfgTimeSeconds",
+  "offset": "0x1220",
+  "size": "0x4"
+ },
+ {
+  "property": "RateLimitTickSeconds",
+  "offset": "0x1224",
+  "size": "0x4"
+ },
+ {
+  "property": "bLfgExactMatch",
+  "offset": "0x1228",
+  "size": "0x1"
+ },
+ {
+  "property": "MaxNumberOfPlayersToShow",
+  "offset": "0x1232",
+  "size": "0x4"
+ }
+]

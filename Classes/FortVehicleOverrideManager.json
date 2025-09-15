@@ -1,0 +1,7 @@
+[
+ {
+  "property": "ReplicatedVehicleOverrides",
+  "offset": "0x488",
+  "size": "0x280"
+ }
+]

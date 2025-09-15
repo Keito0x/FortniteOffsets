@@ -1,0 +1,17 @@
+[
+ {
+  "property": "InputField_Year",
+  "offset": "0x1176",
+  "size": "0x8"
+ },
+ {
+  "property": "ComboBox_Month",
+  "offset": "0x1200",
+  "size": "0x8"
+ },
+ {
+  "property": "ComboBox_Day",
+  "offset": "0x1208",
+  "size": "0x8"
+ }
+]

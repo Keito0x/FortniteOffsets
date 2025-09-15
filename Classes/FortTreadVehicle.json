@@ -1,0 +1,22 @@
+[
+ {
+  "property": "ConfigsClass",
+  "offset": "0x8536",
+  "size": "0x8"
+ },
+ {
+  "property": "FortTreadVehicleConfigs",
+  "offset": "0x8544",
+  "size": "0x8"
+ },
+ {
+  "property": "bLeftTreadEnabled",
+  "offset": "0x8560",
+  "size": "0x1"
+ },
+ {
+  "property": "bRightTreadEnabled",
+  "offset": "0x8561",
+  "size": "0x1"
+ }
+]

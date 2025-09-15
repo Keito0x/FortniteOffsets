@@ -1,0 +1,7 @@
+[
+ {
+  "property": "AssociatedSettingsRegistry",
+  "offset": "0x48",
+  "size": "0x8"
+ }
+]

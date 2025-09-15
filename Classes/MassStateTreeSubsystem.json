@@ -1,0 +1,22 @@
+[
+ {
+  "property": "InstanceDataArray",
+  "offset": "0x72",
+  "size": "0x16"
+ },
+ {
+  "property": "RequirementsHashToProcessor",
+  "offset": "0x104",
+  "size": "0x80"
+ },
+ {
+  "property": "SimulationSubsystem",
+  "offset": "0x264",
+  "size": "0x8"
+ },
+ {
+  "property": "DynamicProcessorClass",
+  "offset": "0x272",
+  "size": "0x8"
+ }
+]

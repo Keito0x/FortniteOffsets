@@ -1,0 +1,107 @@
+[
+ {
+  "property": "BoneGroups",
+  "offset": "0x544",
+  "size": "0x16"
+ },
+ {
+  "property": "CurveGroups",
+  "offset": "0x560",
+  "size": "0x16"
+ },
+ {
+  "property": "BoneMaskInfos",
+  "offset": "0x576",
+  "size": "0x80"
+ },
+ {
+  "property": "BoneGroupMaskInfos",
+  "offset": "0x656",
+  "size": "0x80"
+ },
+ {
+  "property": "BoneMaskInfoMap",
+  "offset": "0x736",
+  "size": "0x80"
+ },
+ {
+  "property": "BoneGroupMaskInfoMap",
+  "offset": "0x816",
+  "size": "0x80"
+ },
+ {
+  "property": "Mode",
+  "offset": "0x896",
+  "size": "0x1"
+ },
+ {
+  "property": "LocalNumMorphTargetsPerBone",
+  "offset": "0x900",
+  "size": "0x4"
+ },
+ {
+  "property": "GlobalNumMorphTargets",
+  "offset": "0x904",
+  "size": "0x4"
+ },
+ {
+  "property": "NumIterations",
+  "offset": "0x908",
+  "size": "0x4"
+ },
+ {
+  "property": "LocalNumHiddenLayers",
+  "offset": "0x912",
+  "size": "0x4"
+ },
+ {
+  "property": "LocalNumNeuronsPerLayer",
+  "offset": "0x916",
+  "size": "0x4"
+ },
+ {
+  "property": "GlobalNumHiddenLayers",
+  "offset": "0x920",
+  "size": "0x4"
+ },
+ {
+  "property": "GlobalNumNeuronsPerLayer",
+  "offset": "0x924",
+  "size": "0x4"
+ },
+ {
+  "property": "BatchSize",
+  "offset": "0x928",
+  "size": "0x4"
+ },
+ {
+  "property": "LearningRate",
+  "offset": "0x932",
+  "size": "0x4"
+ },
+ {
+  "property": "RegularizationFactor",
+  "offset": "0x936",
+  "size": "0x4"
+ },
+ {
+  "property": "bEnableBoneMasks",
+  "offset": "0x940",
+  "size": "0x1"
+ },
+ {
+  "property": "SmoothLossBeta",
+  "offset": "0x944",
+  "size": "0x4"
+ },
+ {
+  "property": "SkinningMode",
+  "offset": "0x948",
+  "size": "0x1"
+ },
+ {
+  "property": "NeuralMorphNetwork",
+  "offset": "0x952",
+  "size": "0x8"
+ }
+]

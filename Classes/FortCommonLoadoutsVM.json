@@ -1,0 +1,42 @@
+[
+ {
+  "property": "CategoryGroupCollections",
+  "offset": "0x112",
+  "size": "0x16"
+ },
+ {
+  "property": "CommonLoadoutPresets",
+  "offset": "0x128",
+  "size": "0x16"
+ },
+ {
+  "property": "ActiveLoadoutGroupName",
+  "offset": "0x144",
+  "size": "0x16"
+ },
+ {
+  "property": "ActiveCommonLoadoutPreset",
+  "offset": "0x160",
+  "size": "0x8"
+ },
+ {
+  "property": "SaveAsNewCommonLoadoutTile",
+  "offset": "0x168",
+  "size": "0x8"
+ },
+ {
+  "property": "ShuffleCommonLoadoutTile",
+  "offset": "0x176",
+  "size": "0x8"
+ },
+ {
+  "property": "bShuffleCommonLoadouts",
+  "offset": "0x184",
+  "size": "0x1"
+ },
+ {
+  "property": "bCanShuffle",
+  "offset": "0x185",
+  "size": "0x1"
+ }
+]

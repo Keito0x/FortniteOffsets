@@ -1,0 +1,82 @@
+[
+ {
+  "property": "TeamMember",
+  "offset": "0x1488",
+  "size": "0x8"
+ },
+ {
+  "property": "Banner_PlayerBanner",
+  "offset": "0x1496",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_PlayerName",
+  "offset": "0x1504",
+  "size": "0x8"
+ },
+ {
+  "property": "PowerRatingWidgetSwitcher",
+  "offset": "0x1512",
+  "size": "0x8"
+ },
+ {
+  "property": "PowerRating_MemberPowerRating",
+  "offset": "0x1520",
+  "size": "0x8"
+ },
+ {
+  "property": "Moonbeam_PowerRating_MemberPowerRating",
+  "offset": "0x1528",
+  "size": "0x8"
+ },
+ {
+  "property": "VBox_Buttons",
+  "offset": "0x1536",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_EditBanner",
+  "offset": "0x1544",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_LeaveParty",
+  "offset": "0x1552",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_MakePartyLeader",
+  "offset": "0x1560",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_Whisper",
+  "offset": "0x1568",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_Kick",
+  "offset": "0x1576",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_ViewProfile",
+  "offset": "0x1584",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_Mute",
+  "offset": "0x1592",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_Unmute",
+  "offset": "0x1600",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_ToggleParticipation",
+  "offset": "0x1608",
+  "size": "0x8"
+ }
+]

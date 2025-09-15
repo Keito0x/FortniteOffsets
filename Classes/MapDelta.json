@@ -1,0 +1,22 @@
+[
+ {
+  "property": "PackageToApplyTo",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "AddActions",
+  "offset": "0x64",
+  "size": "0x80"
+ },
+ {
+  "property": "UpdateActions",
+  "offset": "0x144",
+  "size": "0x16"
+ },
+ {
+  "property": "DeleteActions",
+  "offset": "0x160",
+  "size": "0x80"
+ }
+]

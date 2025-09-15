@@ -1,0 +1,17 @@
+[
+ {
+  "property": "TurnInitiatingStates",
+  "offset": "0x4888",
+  "size": "0x24"
+ },
+ {
+  "property": "TurnTransitionStates",
+  "offset": "0x4912",
+  "size": "0x24"
+ },
+ {
+  "property": "IdleStatesData",
+  "offset": "0x4936",
+  "size": "0x24"
+ }
+]

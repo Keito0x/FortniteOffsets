@@ -1,0 +1,27 @@
+[
+ {
+  "property": "AnimationToPlay",
+  "offset": "0x1000",
+  "size": "0x8"
+ },
+ {
+  "property": "PermutationTimeOffset",
+  "offset": "0x1008",
+  "size": "0x4"
+ },
+ {
+  "property": "PlayRate",
+  "offset": "0x1012",
+  "size": "0x4"
+ },
+ {
+  "property": "bStateBool",
+  "offset": "0x1016",
+  "size": "0x1"
+ },
+ {
+  "property": "Unknown_ffield",
+  "offset": "0x1024",
+  "size": "0x8"
+ }
+]

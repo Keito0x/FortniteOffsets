@@ -1,0 +1,22 @@
+[
+ {
+  "property": "DirectionSetup",
+  "offset": "0x48",
+  "size": "0x240"
+ },
+ {
+  "property": "DefaultSetup",
+  "offset": "0x288",
+  "size": "0x40"
+ },
+ {
+  "property": "ExtraTypeConfig",
+  "offset": "0x328",
+  "size": "0x8"
+ },
+ {
+  "property": "bHasDirectionalSetup",
+  "offset": "0x336",
+  "size": "0x1"
+ }
+]

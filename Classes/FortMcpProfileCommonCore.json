@@ -1,0 +1,17 @@
+[
+ {
+  "property": "ListCatalogEntriesUrl",
+  "offset": "0x1016",
+  "size": "0x16"
+ },
+ {
+  "property": "AffiliateExpirationSeconds",
+  "offset": "0x1140",
+  "size": "0x4"
+ },
+ {
+  "property": "bMergePerPlayerEncryptionKeys",
+  "offset": "0x1144",
+  "size": "0x1"
+ }
+]

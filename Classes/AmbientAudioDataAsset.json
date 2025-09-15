@@ -1,0 +1,17 @@
+[
+ {
+  "property": "LoopingSounds",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "OneShotSounds",
+  "offset": "0x64",
+  "size": "0x16"
+ },
+ {
+  "property": "TagCrossfadeTime",
+  "offset": "0x80",
+  "size": "0x4"
+ }
+]

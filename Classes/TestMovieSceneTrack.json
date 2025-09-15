@@ -1,0 +1,12 @@
+[
+ {
+  "property": "bHighPassFilter",
+  "offset": "0x280",
+  "size": "0x1"
+ },
+ {
+  "property": "SectionArray",
+  "offset": "0x288",
+  "size": "0x16"
+ }
+]

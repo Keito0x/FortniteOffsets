@@ -1,0 +1,32 @@
+[
+ {
+  "property": "Targeted",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "TargetingPreset",
+  "offset": "0x64",
+  "size": "0x8"
+ },
+ {
+  "property": "WeakSourceActor",
+  "offset": "0x72",
+  "size": "0x8"
+ },
+ {
+  "property": "InitialTargets",
+  "offset": "0x80",
+  "size": "0x16"
+ },
+ {
+  "property": "TargetingHandle",
+  "offset": "0x96",
+  "size": "0x4"
+ },
+ {
+  "property": "bUseAsyncTargeting",
+  "offset": "0x100",
+  "size": "0x1"
+ }
+]

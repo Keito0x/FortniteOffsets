@@ -1,0 +1,52 @@
+[
+ {
+  "property": "Children",
+  "offset": "0x40",
+  "size": "0x16"
+ },
+ {
+  "property": "ParallelRegions",
+  "offset": "0x56",
+  "size": "0x16"
+ },
+ {
+  "property": "Components",
+  "offset": "0x72",
+  "size": "0x16"
+ },
+ {
+  "property": "Configuration",
+  "offset": "0x88",
+  "size": "0x8"
+ },
+ {
+  "property": "OutgoingTransitions",
+  "offset": "0x96",
+  "size": "0x16"
+ },
+ {
+  "property": "SecondsUntilTimeout",
+  "offset": "0x112",
+  "size": "0x4"
+ },
+ {
+  "property": "Parent",
+  "offset": "0x120",
+  "size": "0x8"
+ },
+ {
+  "property": "StateChartRegion",
+  "offset": "0x128",
+  "size": "0x8"
+ },
+ {
+  "property": "Status",
+  "offset": "0x136",
+  "size": "0x4"
+ },
+ {
+  "property": "ContinualAutomationContextKeys",
+  "offset": "0x144",
+  "size": "0x80"
+ }
+]

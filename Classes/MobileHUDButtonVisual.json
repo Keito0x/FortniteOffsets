@@ -1,0 +1,32 @@
+[
+ {
+  "property": "ButtonSize",
+  "offset": "0x824",
+  "size": "0x4"
+ },
+ {
+  "property": "ButtonDisplayScale",
+  "offset": "0x828",
+  "size": "0x4"
+ },
+ {
+  "property": "DefaultIcon",
+  "offset": "0x832",
+  "size": "0x8"
+ },
+ {
+  "property": "OuterSizeBox",
+  "offset": "0x840",
+  "size": "0x8"
+ },
+ {
+  "property": "InnerSizeBox",
+  "offset": "0x848",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_Icon",
+  "offset": "0x856",
+  "size": "0x8"
+ }
+]

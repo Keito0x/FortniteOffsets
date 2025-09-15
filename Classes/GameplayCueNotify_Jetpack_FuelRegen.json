@@ -1,0 +1,57 @@
+[
+ {
+  "property": "FortPlayerPawn",
+  "offset": "0x920",
+  "size": "0x8"
+ },
+ {
+  "property": "bAudioEnabled",
+  "offset": "0x928",
+  "size": "0x1"
+ },
+ {
+  "property": "OnFuelRegenRampComponent",
+  "offset": "0x936",
+  "size": "0x8"
+ },
+ {
+  "property": "FuelRegenRampVolumeMultiplier",
+  "offset": "0x944",
+  "size": "0x4"
+ },
+ {
+  "property": "FuelAttribute",
+  "offset": "0x952",
+  "size": "0x56"
+ },
+ {
+  "property": "FuelMaxAttribute",
+  "offset": "0x1008",
+  "size": "0x56"
+ },
+ {
+  "property": "ReserveFuelAttribute",
+  "offset": "0x1064",
+  "size": "0x56"
+ },
+ {
+  "property": "ReserveFuelMaxAttribute",
+  "offset": "0x1120",
+  "size": "0x56"
+ },
+ {
+  "property": "SoundOnFuelChangeRamp",
+  "offset": "0x1176",
+  "size": "0x8"
+ },
+ {
+  "property": "SoundOnFuelRecharged",
+  "offset": "0x1184",
+  "size": "0x8"
+ },
+ {
+  "property": "FuelRegenRampVolumeCurve",
+  "offset": "0x1192",
+  "size": "0x8"
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "property": "ScalableFloat",
+  "offset": "0x40",
+  "size": "0x40"
+ },
+ {
+  "property": "FloatValue",
+  "offset": "0x80",
+  "size": "0x4"
+ },
+ {
+  "property": "IntValue",
+  "offset": "0x84",
+  "size": "0x4"
+ },
+ {
+  "property": "BoolValue",
+  "offset": "0x88",
+  "size": "0x1"
+ }
+]

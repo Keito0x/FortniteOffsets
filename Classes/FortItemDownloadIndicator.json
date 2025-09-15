@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Image_DownloadSpinner",
+  "offset": "0x840",
+  "size": "0x8"
+ },
+ {
+  "property": "CurrentDisplayedItem",
+  "offset": "0x848",
+  "size": "0x8"
+ }
+]

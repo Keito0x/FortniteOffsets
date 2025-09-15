@@ -1,0 +1,12 @@
+[
+ {
+  "property": "IsControlActive",
+  "offset": "0x2992",
+  "size": "0x16"
+ },
+ {
+  "property": "ApplyMode",
+  "offset": "0x3008",
+  "size": "0x1"
+ }
+]

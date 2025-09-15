@@ -1,0 +1,72 @@
+[
+ {
+  "property": "OnJoinedSceneDelegate",
+  "offset": "0x200",
+  "size": "0x16"
+ },
+ {
+  "property": "OnLeftSceneDelegate",
+  "offset": "0x216",
+  "size": "0x16"
+ },
+ {
+  "property": "OnPlayMontageNotifyBeginDelegate",
+  "offset": "0x232",
+  "size": "0x16"
+ },
+ {
+  "property": "OnMontageBlendingOutDelegate",
+  "offset": "0x248",
+  "size": "0x16"
+ },
+ {
+  "property": "SceneAsset",
+  "offset": "0x264",
+  "size": "0x8"
+ },
+ {
+  "property": "AlignmentOffset",
+  "offset": "0x272",
+  "size": "0x96"
+ },
+ {
+  "property": "OwnerAnimInstance",
+  "offset": "0x368",
+  "size": "0x8"
+ },
+ {
+  "property": "RepBindings",
+  "offset": "0x376",
+  "size": "0x80"
+ },
+ {
+  "property": "RepLateJoinData",
+  "offset": "0x456",
+  "size": "0x48"
+ },
+ {
+  "property": "RepTransitionData",
+  "offset": "0x504",
+  "size": "0x40"
+ },
+ {
+  "property": "RepTransitionSingleActorData",
+  "offset": "0x544",
+  "size": "0x40"
+ },
+ {
+  "property": "Bindings",
+  "offset": "0x584",
+  "size": "0x40"
+ },
+ {
+  "property": "IKTargets",
+  "offset": "0x624",
+  "size": "0x16"
+ },
+ {
+  "property": "WarpTargetNamesCache",
+  "offset": "0x640",
+  "size": "0x16"
+ }
+]

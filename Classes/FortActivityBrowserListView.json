@@ -1,0 +1,67 @@
+[
+ {
+  "property": "DirectionalNavigationTimeThreshold",
+  "offset": "0x1096",
+  "size": "0x4"
+ },
+ {
+  "property": "DiscoverItemRowClass",
+  "offset": "0x1104",
+  "size": "0x8"
+ },
+ {
+  "property": "HomebarItemRowClass",
+  "offset": "0x1112",
+  "size": "0x8"
+ },
+ {
+  "property": "BannerItemRowClass",
+  "offset": "0x1120",
+  "size": "0x8"
+ },
+ {
+  "property": "NonScrollingItemRowClass",
+  "offset": "0x1128",
+  "size": "0x8"
+ },
+ {
+  "property": "ScrollingViewModelItemRowClass",
+  "offset": "0x1136",
+  "size": "0x8"
+ },
+ {
+  "property": "TabBarItemRowClass",
+  "offset": "0x1144",
+  "size": "0x8"
+ },
+ {
+  "property": "RowTypes",
+  "offset": "0x1152",
+  "size": "0x80"
+ },
+ {
+  "property": "OverrideItemSelector",
+  "offset": "0x1232",
+  "size": "0x8"
+ },
+ {
+  "property": "SurfaceViewModel",
+  "offset": "0x1240",
+  "size": "0x8"
+ },
+ {
+  "property": "bAllowNonFullGridRows",
+  "offset": "0x1248",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseTinyOffsetWhenScrollingIntoView",
+  "offset": "0x1249",
+  "size": "0x1"
+ },
+ {
+  "property": "bAllowInternalRowSelection",
+  "offset": "0x1250",
+  "size": "0x1"
+ }
+]

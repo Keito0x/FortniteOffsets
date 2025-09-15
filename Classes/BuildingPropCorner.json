@@ -1,0 +1,12 @@
+[
+ {
+  "property": "PrimaryWall",
+  "offset": "0x3024",
+  "size": "0x8"
+ },
+ {
+  "property": "SecondaryWall",
+  "offset": "0x3032",
+  "size": "0x8"
+ }
+]

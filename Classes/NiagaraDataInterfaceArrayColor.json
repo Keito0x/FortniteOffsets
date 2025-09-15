@@ -1,0 +1,7 @@
+[
+ {
+  "property": "ColorData",
+  "offset": "0x80",
+  "size": "0x16"
+ }
+]

@@ -1,0 +1,27 @@
+[
+ {
+  "property": "bReplicateLongInteractionDetails",
+  "offset": "0x3024",
+  "size": "0x1"
+ },
+ {
+  "property": "Unknown_ffield",
+  "offset": "0x3025",
+  "size": "0x1"
+ },
+ {
+  "property": "òØØ§'''–7–˜''''''§'''''''''''''''¯'•‘•9†é#òØØ''''''''¥'K'''''7QWë#òØØWcÖë#òØØ'”0Ú'åØØŒ5¯§åØØCfûs#òØØg{+j#òØØ''''''''''''''''§'§§'§§''!'''''''''''OmÖ'åØØ'Gÿ&''''''''''''C‘ò#òØØ§'$''''';²7ö#òØØ;²7ö#òØØ''$'§'''²7ö#òØØ²7ö#òØØ''''''''''''''''²7ö#òØØ²7ö#òØØOöè#òØØ''''''''''''''''''''''''§'''''''''''''''''''''''–‘•:°'«&“••ž7–‘+±7ö#òØØ'''''''''%''g§''''''''''''''''''þ.©ê‘‰¾g?ø#òØØ§'''''''E˜''''''§'''''''''''''''¬'qAuÓ9†é#òØØ''''''''¥'K'''''7QWë#òØØWcÖë#òØØ—0Ú'åØØw¾'§åØØ{—ûs#òØØ?z+j#òØØ''''''''''''''''''§§'§§''!''''''''''''˜mÖ'åØØ+v&'''''''''''''''''''''§'$'''''C17ö#òØØC17ö#òØØ''$'§'''W17ö#òØØW17ö#òØØ'''''''''''''''''±7ö#òØØ'±7ö#òØØ''''''''''''''''''''''''''''''''§'''''''''''''''''''''''''''''''''«&“•''''''''s07ö#òØØ/Hë#òØØ'%''g§''''''#òØØ''''''''''''''''''''''''''''''''''''''''''''''''''''''''>'Ç''''''''''''''''''''¥'K'''''7QWë#òØØWcÖë#òØØ''''''''''''''''''''''''''''''''''''''''''''''''''''''''%'''''u'['''''3GW'åØØ''''7ö#òØØ”•°7–'%''g§'''''':°°''''''''ž±—g?ø#",
+  "offset": "0x3025",
+  "size": "0x1"
+ },
+ {
+  "property": "MarkerDisplay",
+  "offset": "0x3032",
+  "size": "0x176"
+ },
+ {
+  "property": "/)•]Œ¦¦)¨•YYYYYYYYYYYYYYYYYYYYYYYYYYYÏÕXzíoëcëkDÎÎnëÌIˆ]Œ¦¦êëÎIèm`îY[YYÙYYYYYYDÎÎnYYYYYYYYàîjcÏéãcAf†]Œ¦¦ÙYYY`èIèuæYYYYYYÙYYYYYYYYYYYYYYYÑYymëïëyGø—]Œ¦¦YYYYYYYYÛY5YYYYYI/)•]Œ¦¦)¨•]Œ¦¦YêN¤Y›¦¦yòKÑÙ›¦¦=…]Œ¦¦U]Œ¦¦YYYYYYYYYYYYYYYYÙYÙÙYÙÙYxY_YYYYYnYeYYYYY1e¨Y›¦¦Y9XYYYYYYYYYYYY=hïŒ]Œ¦¦ÙYZYYYYYEÌIˆ]Œ¦¦EÌIˆ]Œ¦¦YYZYÙYYYqÌIˆ]Œ¦¦qÌIˆ]Œ¦¦YYYYYYYYYYYYYYYYaÌIˆ]Œ¦¦aÌIˆ]Œ¦¦1óˆ–]Œ¦¦YYYYYYYYYYYYYYYYYYYYYYYYÙYYYYYYYYYYYYYYYYYYYYYYYèm`îïëDÎY`ÕXzíoëëàIèm`îïUÏIˆ]Œ¦¦YYYYYYYYY[YYÙYYYYYYYYYYYYYYYYYY€P×n”ï÷ÀAf†]Œ¦¦ÙYYYYYYY;æYYYYYYÙYYYYYYYYYYYYYYYÒYy?­yGø—]Œ¦¦YYYYYYYYÛY5YYYYYI",
+  "offset": "0x3208",
+  "size": "0x24"
+ }
+]

@@ -1,0 +1,17 @@
+[
+ {
+  "property": "LevelToTest",
+  "offset": "0x80",
+  "size": "0x4"
+ },
+ {
+  "property": "RegistryToTest",
+  "offset": "0x88",
+  "size": "0x40"
+ },
+ {
+  "property": "SpriteOverride",
+  "offset": "0x128",
+  "size": "0x8"
+ }
+]

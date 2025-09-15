@@ -1,0 +1,57 @@
+[
+ {
+  "property": "Name",
+  "offset": "0x40",
+  "size": "0x16"
+ },
+ {
+  "property": "StateTags",
+  "offset": "0x56",
+  "size": "0x32"
+ },
+ {
+  "property": "ID",
+  "offset": "0x88",
+  "size": "0x4"
+ },
+ {
+  "property": "Children",
+  "offset": "0x96",
+  "size": "0x16"
+ },
+ {
+  "property": "ParallelRegions",
+  "offset": "0x112",
+  "size": "0x16"
+ },
+ {
+  "property": "Components",
+  "offset": "0x128",
+  "size": "0x16"
+ },
+ {
+  "property": "MinimumUnloadTime",
+  "offset": "0x144",
+  "size": "0x4"
+ },
+ {
+  "property": "AutomationType",
+  "offset": "0x148",
+  "size": "0x1"
+ },
+ {
+  "property": "AutomationRules",
+  "offset": "0x152",
+  "size": "0x16"
+ },
+ {
+  "property": "bSupportsBacktracking",
+  "offset": "0x168",
+  "size": "0x1"
+ },
+ {
+  "property": "bOverrideIncomingBacktracks",
+  "offset": "0x169",
+  "size": "0x1"
+ }
+]

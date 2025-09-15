@@ -1,0 +1,42 @@
+[
+ {
+  "property": "Operations",
+  "offset": "0x40",
+  "size": "0x80"
+ },
+ {
+  "property": "OperationsReadyForContextUpdate",
+  "offset": "0x120",
+  "size": "0x80"
+ },
+ {
+  "property": "Context",
+  "offset": "0x200",
+  "size": "0x8"
+ },
+ {
+  "property": "LocalPlayer",
+  "offset": "0x208",
+  "size": "0x8"
+ },
+ {
+  "property": "ContextChanges",
+  "offset": "0x216",
+  "size": "0x80"
+ },
+ {
+  "property": "ReverseContextChanges",
+  "offset": "0x296",
+  "size": "0x80"
+ },
+ {
+  "property": "Parameters",
+  "offset": "0x376",
+  "size": "0x40"
+ },
+ {
+  "property": "TransitionEventTag",
+  "offset": "0x416",
+  "size": "0x4"
+ }
+]

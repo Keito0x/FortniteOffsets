@@ -1,0 +1,32 @@
+[
+ {
+  "property": "Speed",
+  "offset": "0x40",
+  "size": "0x4"
+ },
+ {
+  "property": "StartDelay",
+  "offset": "0x44",
+  "size": "0x4"
+ },
+ {
+  "property": "EndDelay",
+  "offset": "0x48",
+  "size": "0x4"
+ },
+ {
+  "property": "FadeInDelay",
+  "offset": "0x52",
+  "size": "0x4"
+ },
+ {
+  "property": "FadeOutDelay",
+  "offset": "0x56",
+  "size": "0x4"
+ },
+ {
+  "property": "Clipping",
+  "offset": "0x60",
+  "size": "0x1"
+ }
+]

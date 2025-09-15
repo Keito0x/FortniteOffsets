@@ -1,0 +1,12 @@
+[
+ {
+  "property": "ProcessingInterestsState",
+  "offset": "0x312",
+  "size": "0x1"
+ },
+ {
+  "property": "ContainsPendingFavorites",
+  "offset": "0x400",
+  "size": "0x1"
+ }
+]

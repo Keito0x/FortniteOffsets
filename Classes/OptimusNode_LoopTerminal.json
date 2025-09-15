@@ -1,0 +1,27 @@
+[
+ {
+  "property": "TerminalType",
+  "offset": "0x304",
+  "size": "0x4"
+ },
+ {
+  "property": "LoopInfo",
+  "offset": "0x312",
+  "size": "0x24"
+ },
+ {
+  "property": "IndexPin",
+  "offset": "0x336",
+  "size": "0x8"
+ },
+ {
+  "property": "CountPin",
+  "offset": "0x344",
+  "size": "0x8"
+ },
+ {
+  "property": "PinPairInfos",
+  "offset": "0x352",
+  "size": "0x16"
+ }
+]

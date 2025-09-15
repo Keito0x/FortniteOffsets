@@ -1,0 +1,87 @@
+[
+ {
+  "property": "GroundCollsionProfile",
+  "offset": "0x2496",
+  "size": "0x4"
+ },
+ {
+  "property": "WaveSpawnSoundCue",
+  "offset": "0x2504",
+  "size": "0x8"
+ },
+ {
+  "property": "LootTableNameOverride",
+  "offset": "0x2512",
+  "size": "0x4"
+ },
+ {
+  "property": "LastGroundLocationHitResult",
+  "offset": "0x2520",
+  "size": "0x248"
+ },
+ {
+  "property": "SpawnOffsetZ",
+  "offset": "0x2768",
+  "size": "0x4"
+ },
+ {
+  "property": "SearchingSoundCueLoop",
+  "offset": "0x2776",
+  "size": "0x8"
+ },
+ {
+  "property": "bReplicateLongUseNotifies",
+  "offset": "0x2784",
+  "size": "0x1"
+ },
+ {
+  "property": "bDisableAbilitySystemReplication",
+  "offset": "0x2785",
+  "size": "0x1"
+ },
+ {
+  "property": "CachedSpecialActorIdx",
+  "offset": "0x2788",
+  "size": "0x4"
+ },
+ {
+  "property": "SpecialActorID",
+  "offset": "0x2792",
+  "size": "0x4"
+ },
+ {
+  "property": "InStormDespawnTimeInSeconds",
+  "offset": "0x2800",
+  "size": "0x40"
+ },
+ {
+  "property": "CachedInStormDespawnTimeInSeconds",
+  "offset": "0x2840",
+  "size": "0x4"
+ },
+ {
+  "property": "LongInteractAudioComponent",
+  "offset": "0x2848",
+  "size": "0x8"
+ },
+ {
+  "property": "SpectatorMapIcon",
+  "offset": "0x2872",
+  "size": "0x8"
+ },
+ {
+  "property": "LinkToActorComponent",
+  "offset": "0x2880",
+  "size": "0x8"
+ },
+ {
+  "property": "NumPlayersInteracting",
+  "offset": "0x2888",
+  "size": "0x4"
+ },
+ {
+  "property": "bVisualizePlayerInteractionChanges",
+  "offset": "0x2892",
+  "size": "0x1"
+ }
+]

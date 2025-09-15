@@ -1,0 +1,12 @@
+[
+ {
+  "property": "CenterPopupModalWidgetClass",
+  "offset": "0x880",
+  "size": "0x32"
+ },
+ {
+  "property": "CenterPopupModalWidget",
+  "offset": "0x920",
+  "size": "0x8"
+ }
+]

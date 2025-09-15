@@ -1,0 +1,12 @@
+[
+ {
+  "property": "TimerState",
+  "offset": "0x104",
+  "size": "0x1"
+ },
+ {
+  "property": "TimeLeftText",
+  "offset": "0x112",
+  "size": "0x16"
+ }
+]

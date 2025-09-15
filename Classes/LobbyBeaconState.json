@@ -1,0 +1,27 @@
+[
+ {
+  "property": "MaxPlayers",
+  "offset": "0x680",
+  "size": "0x4"
+ },
+ {
+  "property": "LobbyBeaconPlayerStateClass",
+  "offset": "0x688",
+  "size": "0x8"
+ },
+ {
+  "property": "bLobbyStarted",
+  "offset": "0x704",
+  "size": "0x1"
+ },
+ {
+  "property": "WaitForPlayersTimeRemaining",
+  "offset": "0x708",
+  "size": "0x4"
+ },
+ {
+  "property": "Players",
+  "offset": "0x712",
+  "size": "0x288"
+ }
+]

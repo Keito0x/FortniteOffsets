@@ -1,0 +1,12 @@
+[
+ {
+  "property": "SemanticVersion",
+  "offset": "0x40",
+  "size": "0x16"
+ },
+ {
+  "property": "Profiles",
+  "offset": "0x56",
+  "size": "0x16"
+ }
+]

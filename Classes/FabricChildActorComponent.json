@@ -1,0 +1,27 @@
+[
+ {
+  "property": "InWorldKnobModulatorPort",
+  "offset": "0x672",
+  "size": "0x8"
+ },
+ {
+  "property": "bUseScreenGrid",
+  "offset": "0x680",
+  "size": "0x1"
+ },
+ {
+  "property": "ScreenGridPosition",
+  "offset": "0x688",
+  "size": "0x16"
+ },
+ {
+  "property": "ModulatorPortSaveData",
+  "offset": "0x704",
+  "size": "0x32"
+ },
+ {
+  "property": "CableManagerClassForModulatorPorts",
+  "offset": "0x768",
+  "size": "0x8"
+ }
+]

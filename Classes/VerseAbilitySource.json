@@ -1,0 +1,12 @@
+[
+ {
+  "property": "ActivatableAbilities",
+  "offset": "0x40",
+  "size": "0x280"
+ },
+ {
+  "property": "AbilitySystemComponent",
+  "offset": "0x320",
+  "size": "0x8"
+ }
+]

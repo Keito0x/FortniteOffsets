@@ -1,0 +1,22 @@
+[
+ {
+  "property": "ShownVisibility",
+  "offset": "0x400",
+  "size": "0x1"
+ },
+ {
+  "property": "ActiveWidgetIndex",
+  "offset": "0x404",
+  "size": "0x4"
+ },
+ {
+  "property": "bAutoActivateSlot",
+  "offset": "0x408",
+  "size": "0x1"
+ },
+ {
+  "property": "bActivateFirstSlotOnAdding",
+  "offset": "0x409",
+  "size": "0x1"
+ }
+]

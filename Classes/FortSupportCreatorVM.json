@@ -1,0 +1,17 @@
+[
+ {
+  "property": "CurrentlySupportedCreatorName",
+  "offset": "0x112",
+  "size": "0x16"
+ },
+ {
+  "property": "ProspectSupportedCreatorName",
+  "offset": "0x128",
+  "size": "0x16"
+ },
+ {
+  "property": "SupportExpirationTime",
+  "offset": "0x144",
+  "size": "0x8"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "property": "IsPendingProjectIDSet",
+  "offset": "0x2096",
+  "size": "0x1"
+ },
+ {
+  "property": "PendingProjectID",
+  "offset": "0x2104",
+  "size": "0x16"
+ }
+]

@@ -1,0 +1,27 @@
+[
+ {
+  "property": "bEnableGameplayDebuggerInEditor",
+  "offset": "0x48",
+  "size": "0x1"
+ },
+ {
+  "property": "MaxViewDistance",
+  "offset": "0x52",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxViewAngle",
+  "offset": "0x56",
+  "size": "0x4"
+ },
+ {
+  "property": "EnabledCategories",
+  "offset": "0x64",
+  "size": "0x80"
+ },
+ {
+  "property": "FontSize",
+  "offset": "0x144",
+  "size": "0x4"
+ }
+]

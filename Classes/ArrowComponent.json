@@ -1,0 +1,32 @@
+[
+ {
+  "property": "ArrowColor",
+  "offset": "0x1304",
+  "size": "0x4"
+ },
+ {
+  "property": "ArrowSize",
+  "offset": "0x1308",
+  "size": "0x4"
+ },
+ {
+  "property": "ArrowLength",
+  "offset": "0x1312",
+  "size": "0x4"
+ },
+ {
+  "property": "ScreenSize",
+  "offset": "0x1316",
+  "size": "0x4"
+ },
+ {
+  "property": "bIsScreenSizeScaled",
+  "offset": "0x1320",
+  "size": "0x1"
+ },
+ {
+  "property": "bTreatAsASprite",
+  "offset": "0x1320",
+  "size": "0x1"
+ }
+]

@@ -1,0 +1,47 @@
+[
+ {
+  "property": "TeleportHelperClassToSpawn",
+  "offset": "0x200",
+  "size": "0x8"
+ },
+ {
+  "property": "DemonMaskVoidEquipmentTag",
+  "offset": "0x208",
+  "size": "0x4"
+ },
+ {
+  "property": "BGAToTeleport",
+  "offset": "0x212",
+  "size": "0x8"
+ },
+ {
+  "property": "CurrentTrackedVoidProjectile",
+  "offset": "0x220",
+  "size": "0x8"
+ },
+ {
+  "property": "OwnerFortPawn",
+  "offset": "0x228",
+  "size": "0x8"
+ },
+ {
+  "property": "TeleportHelperActor",
+  "offset": "0x236",
+  "size": "0x8"
+ },
+ {
+  "property": "bForceCrouch",
+  "offset": "0x244",
+  "size": "0x1"
+ },
+ {
+  "property": "bForceCrouchPredicted",
+  "offset": "0x245",
+  "size": "0x1"
+ },
+ {
+  "property": "OwnerFortMovementComp",
+  "offset": "0x248",
+  "size": "0x8"
+ }
+]

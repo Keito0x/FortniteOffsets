@@ -1,0 +1,12 @@
+[
+ {
+  "property": "CosmeticsData",
+  "offset": "0x880",
+  "size": "0x32"
+ },
+ {
+  "property": "CosmeticsDataCache",
+  "offset": "0x912",
+  "size": "0x8"
+ }
+]

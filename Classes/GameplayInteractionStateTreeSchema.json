@@ -1,0 +1,17 @@
+[
+ {
+  "property": "ContextActorClass",
+  "offset": "0x40",
+  "size": "0x8"
+ },
+ {
+  "property": "SmartObjectActorClass",
+  "offset": "0x48",
+  "size": "0x8"
+ },
+ {
+  "property": "ContextDataDescs",
+  "offset": "0x56",
+  "size": "0x16"
+ }
+]

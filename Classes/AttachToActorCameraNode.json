@@ -1,0 +1,22 @@
+[
+ {
+  "property": "Attachment",
+  "offset": "0x56",
+  "size": "0x24"
+ },
+ {
+  "property": "AttachmentDataID",
+  "offset": "0x80",
+  "size": "0x4"
+ },
+ {
+  "property": "AttachToLocation",
+  "offset": "0x88",
+  "size": "0x16"
+ },
+ {
+  "property": "AttachToRotation",
+  "offset": "0x104",
+  "size": "0x16"
+ }
+]

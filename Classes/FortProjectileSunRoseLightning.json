@@ -1,0 +1,27 @@
+[
+ {
+  "property": "ExplosionDamageGEs",
+  "offset": "0x2912",
+  "size": "0x16"
+ },
+ {
+  "property": "ExplosionGELevel",
+  "offset": "0x2928",
+  "size": "0x4"
+ },
+ {
+  "property": "ExplosionTraceChannel",
+  "offset": "0x2932",
+  "size": "0x1"
+ },
+ {
+  "property": "MaxHitsPerFrame",
+  "offset": "0x2936",
+  "size": "0x40"
+ },
+ {
+  "property": "ExplosionAsyncLOSTargetingHandle",
+  "offset": "0x3688",
+  "size": "0x4"
+ }
+]

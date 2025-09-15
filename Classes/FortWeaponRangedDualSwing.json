@@ -1,0 +1,87 @@
+[
+ {
+  "property": "OverrideSwingingControlParams",
+  "offset": "0x10792",
+  "size": "0x80"
+ },
+ {
+  "property": "InitialOverrideSwingingControlParamsTag",
+  "offset": "0x10872",
+  "size": "0x4"
+ },
+ {
+  "property": "ReticleTypeTag",
+  "offset": "0x10876",
+  "size": "0x4"
+ },
+ {
+  "property": "BP_ReticleUpdate",
+  "offset": "0x10880",
+  "size": "0x16"
+ },
+ {
+  "property": "bAlwaysUseDefaultReticleColor",
+  "offset": "0x10896",
+  "size": "0x1"
+ },
+ {
+  "property": "RopeAttachPointActor",
+  "offset": "0x10904",
+  "size": "0x8"
+ },
+ {
+  "property": "RopeAnchor",
+  "offset": "0x10912",
+  "size": "0x8"
+ },
+ {
+  "property": "Rope",
+  "offset": "0x10920",
+  "size": "0x8"
+ },
+ {
+  "property": "SwingSocketName",
+  "offset": "0x10928",
+  "size": "0x4"
+ },
+ {
+  "property": "RopeMeshLengthMultiplier",
+  "offset": "0x10932",
+  "size": "0x4"
+ },
+ {
+  "property": "RopeUpdateFrequency",
+  "offset": "0x10936",
+  "size": "0x4"
+ },
+ {
+  "property": "RopeFadeTime",
+  "offset": "0x10940",
+  "size": "0x4"
+ },
+ {
+  "property": "HitCheckFrequency",
+  "offset": "0x10968",
+  "size": "0x40"
+ },
+ {
+  "property": "MaximumHeightToStartSkidding",
+  "offset": "0x11008",
+  "size": "0x4"
+ },
+ {
+  "property": "SkiddingTag",
+  "offset": "0x11012",
+  "size": "0x4"
+ },
+ {
+  "property": "MaximumSwingHitWallAngle",
+  "offset": "0x11016",
+  "size": "0x4"
+ },
+ {
+  "property": "MinimumSwingHitGroundAngle",
+  "offset": "0x11020",
+  "size": "0x4"
+ }
+]

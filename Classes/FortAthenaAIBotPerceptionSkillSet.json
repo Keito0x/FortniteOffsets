@@ -1,0 +1,242 @@
+[
+ {
+  "property": "SightReactionTime",
+  "offset": "0x48",
+  "size": "0x40"
+ },
+ {
+  "property": "SightRandomDeviation",
+  "offset": "0x88",
+  "size": "0x40"
+ },
+ {
+  "property": "SightRandomAddition",
+  "offset": "0x128",
+  "size": "0x40"
+ },
+ {
+  "property": "SightReactionSpecializations",
+  "offset": "0x168",
+  "size": "0x16"
+ },
+ {
+  "property": "LoseSightTime",
+  "offset": "0x184",
+  "size": "0x40"
+ },
+ {
+  "property": "LoseSightRandomDeviation",
+  "offset": "0x224",
+  "size": "0x40"
+ },
+ {
+  "property": "DecayToLKPALevelTime",
+  "offset": "0x264",
+  "size": "0x40"
+ },
+ {
+  "property": "DecayToLKPALevelTimeRandomDeviation",
+  "offset": "0x304",
+  "size": "0x40"
+ },
+ {
+  "property": "SightSuspicionTime",
+  "offset": "0x344",
+  "size": "0x40"
+ },
+ {
+  "property": "SightSuspicionRandomDeviation",
+  "offset": "0x384",
+  "size": "0x40"
+ },
+ {
+  "property": "EnemyMarkedReactionTime",
+  "offset": "0x424",
+  "size": "0x40"
+ },
+ {
+  "property": "EnemyMarkedReactionRandomDeviation",
+  "offset": "0x464",
+  "size": "0x40"
+ },
+ {
+  "property": "ChancesToHelpOnMarkedEnemy",
+  "offset": "0x504",
+  "size": "0x40"
+ },
+ {
+  "property": "DamageReactionTime",
+  "offset": "0x544",
+  "size": "0x40"
+ },
+ {
+  "property": "DamageRandomDeviation",
+  "offset": "0x584",
+  "size": "0x40"
+ },
+ {
+  "property": "HearingReactionTime",
+  "offset": "0x624",
+  "size": "0x40"
+ },
+ {
+  "property": "HearingRandomDeviation",
+  "offset": "0x664",
+  "size": "0x40"
+ },
+ {
+  "property": "MaxHearingLocationError",
+  "offset": "0x704",
+  "size": "0x40"
+ },
+ {
+  "property": "DefaultTargetHeuristicSettings",
+  "offset": "0x744",
+  "size": "0x896"
+ },
+ {
+  "property": "TargetHeuristicSettingsSpecializations",
+  "offset": "0x1640",
+  "size": "0x16"
+ },
+ {
+  "property": "ObstacleDistanceOverrideTargeting",
+  "offset": "0x1656",
+  "size": "0x40"
+ },
+ {
+  "property": "ObstacleForgetDistance",
+  "offset": "0x1696",
+  "size": "0x40"
+ },
+ {
+  "property": "ObstacleMinimumBlockingTime",
+  "offset": "0x1736",
+  "size": "0x40"
+ },
+ {
+  "property": "SoundSettings",
+  "offset": "0x1776",
+  "size": "0x960"
+ },
+ {
+  "property": "AlertedAccumulatedLoudnessLimit",
+  "offset": "0x2736",
+  "size": "0x40"
+ },
+ {
+  "property": "AlertedAccumulatedDamageLimit",
+  "offset": "0x2776",
+  "size": "0x40"
+ },
+ {
+  "property": "LKPAccumulatedLoudnessLimit",
+  "offset": "0x2816",
+  "size": "0x40"
+ },
+ {
+  "property": "EnemyMarkingDelay",
+  "offset": "0x2856",
+  "size": "0x40"
+ },
+ {
+  "property": "EnemyMarkingDelayRandomDeviation",
+  "offset": "0x2896",
+  "size": "0x40"
+ },
+ {
+  "property": "AdditionalMarkedEnemyLKPForgetTime",
+  "offset": "0x2936",
+  "size": "0x40"
+ },
+ {
+  "property": "AdditionalMarkedEnemyLKPForgetDistance",
+  "offset": "0x2976",
+  "size": "0x40"
+ },
+ {
+  "property": "AlertLevelConfigs",
+  "offset": "0x3016",
+  "size": "0x16"
+ },
+ {
+  "property": "ProjectileThreatForgetTime",
+  "offset": "0x3032",
+  "size": "0x40"
+ },
+ {
+  "property": "TrapDetectionDistanceMax",
+  "offset": "0x3072",
+  "size": "0x40"
+ },
+ {
+  "property": "TrapDetectionDistanceMaxDeviation",
+  "offset": "0x3112",
+  "size": "0x40"
+ },
+ {
+  "property": "TrapDetectionChanceWhenPerpendicular",
+  "offset": "0x3152",
+  "size": "0x40"
+ },
+ {
+  "property": "TrapDetectionChanceWhenParallel",
+  "offset": "0x3192",
+  "size": "0x40"
+ },
+ {
+  "property": "TrapDetectionEvaluationAngleThreshold",
+  "offset": "0x3232",
+  "size": "0x40"
+ },
+ {
+  "property": "TrapDetectionAutomaticIfWithinCreationTime",
+  "offset": "0x3272",
+  "size": "0x40"
+ },
+ {
+  "property": "StealthMeterEnable",
+  "offset": "0x3312",
+  "size": "0x40"
+ },
+ {
+  "property": "StealthMeterThreshold",
+  "offset": "0x3352",
+  "size": "0x40"
+ },
+ {
+  "property": "StealthMeterIncreaseSpeed",
+  "offset": "0x3392",
+  "size": "0x40"
+ },
+ {
+  "property": "StealthMeterDecreaseSpeed",
+  "offset": "0x3432",
+  "size": "0x40"
+ },
+ {
+  "property": "StealthMeterAllowSharedTarget",
+  "offset": "0x3472",
+  "size": "0x40"
+ },
+ {
+  "property": "bStealthMeterForceLKPWhenDamagedAndThreatened",
+  "offset": "0x3512",
+  "size": "0x40"
+ },
+ {
+  "property": "ShouldUpdateProximityToPlayers",
+  "offset": "0x3552",
+  "size": "0x40"
+ },
+ {
+  "property": "PlayerProximityUpdateInterval",
+  "offset": "0x3592",
+  "size": "0x40"
+ },
+ {
+  "property": "PlayerInProximityDistance",
+  "offset": "0x3632",
+  "size": "0x40"
+ }
+]

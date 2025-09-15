@@ -1,0 +1,117 @@
+[
+ {
+  "property": "StereoSpreadScaleFactor",
+  "offset": "0x200",
+  "size": "0x4"
+ },
+ {
+  "property": "FadeInDuration",
+  "offset": "0x240",
+  "size": "0x4"
+ },
+ {
+  "property": "FadeOutDuration",
+  "offset": "0x244",
+  "size": "0x4"
+ },
+ {
+  "property": "bSyncPlayerAudio",
+  "offset": "0x248",
+  "size": "0x1"
+ },
+ {
+  "property": "bRestartAudioOnPlay",
+  "offset": "0x249",
+  "size": "0x1"
+ },
+ {
+  "property": "CanBeHeardBy",
+  "offset": "0x250",
+  "size": "0x1"
+ },
+ {
+  "property": "PlayLocation",
+  "offset": "0x251",
+  "size": "0x1"
+ },
+ {
+  "property": "AutoplayOptions",
+  "offset": "0x252",
+  "size": "0x1"
+ },
+ {
+  "property": "FortMinigameProgressComponent",
+  "offset": "0x296",
+  "size": "0x8"
+ },
+ {
+  "property": "CreativeProxyManager",
+  "offset": "0x304",
+  "size": "0x8"
+ },
+ {
+  "property": "CreativeRegisteredPlayersManagerComponent",
+  "offset": "0x312",
+  "size": "0x8"
+ },
+ {
+  "property": "AudioComponent",
+  "offset": "0x320",
+  "size": "0x8"
+ },
+ {
+  "property": "MusicClockComponent",
+  "offset": "0x328",
+  "size": "0x8"
+ },
+ {
+  "property": "PlayerAudioComponents",
+  "offset": "0x336",
+  "size": "0x80"
+ },
+ {
+  "property": "ClientCachedProxy",
+  "offset": "0x416",
+  "size": "0x8"
+ },
+ {
+  "property": "LastSoundPlayed",
+  "offset": "0x424",
+  "size": "0x8"
+ },
+ {
+  "property": "ServerInstigatorData",
+  "offset": "0x432",
+  "size": "0x64"
+ },
+ {
+  "property": "bEnabled",
+  "offset": "0x496",
+  "size": "0x1"
+ },
+ {
+  "property": "bAudioLoaded",
+  "offset": "0x536",
+  "size": "0x1"
+ },
+ {
+  "property": "CachedInstigatorData",
+  "offset": "0x544",
+  "size": "0x64"
+ },
+ {
+  "property": "RegisteredPlayerIds",
+  "offset": "0x608",
+  "size": "0x16"
+ },
+ {
+  "property": "NonRegisteredPlayerIds",
+  "offset": "0x624",
+  "size": "0x16"
+ },
+ {
+  "property": "CurrentAutoplayState",
+  "offset": "0x640",
+  "size": "0x1"
+ }
+]

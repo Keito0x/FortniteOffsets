@@ -1,0 +1,17 @@
+[
+ {
+  "property": "CosmeticDownloadSubstitutionSettings",
+  "offset": "0x232",
+  "size": "0x80"
+ },
+ {
+  "property": "CosmeticPlaceholderItemDefs",
+  "offset": "0x312",
+  "size": "0x80"
+ },
+ {
+  "property": "CosmeticPlaceholderParts",
+  "offset": "0x392",
+  "size": "0x80"
+ }
+]

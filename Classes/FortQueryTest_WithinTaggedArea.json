@@ -1,0 +1,17 @@
+[
+ {
+  "property": "TagQuery",
+  "offset": "0x504",
+  "size": "0x72"
+ },
+ {
+  "property": "AreaExtentBuffer",
+  "offset": "0x576",
+  "size": "0x24"
+ },
+ {
+  "property": "bAssumeInfiniteHeightForArea",
+  "offset": "0x600",
+  "size": "0x1"
+ }
+]

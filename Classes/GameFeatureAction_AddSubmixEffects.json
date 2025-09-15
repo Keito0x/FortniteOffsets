@@ -1,0 +1,22 @@
+[
+ {
+  "property": "Effects",
+  "offset": "0x56",
+  "size": "0x16"
+ },
+ {
+  "property": "bIgnoreForLowEnd",
+  "offset": "0x72",
+  "size": "0x1"
+ },
+ {
+  "property": "LoadedSubmixes",
+  "offset": "0x80",
+  "size": "0x16"
+ },
+ {
+  "property": "LoadedEffects",
+  "offset": "0x96",
+  "size": "0x16"
+ }
+]

@@ -1,0 +1,17 @@
+[
+ {
+  "property": "StreamingProxiesNeedingReregister",
+  "offset": "0x144",
+  "size": "0x80"
+ },
+ {
+  "property": "LandscapeActors",
+  "offset": "0x232",
+  "size": "0x16"
+ },
+ {
+  "property": "Proxies",
+  "offset": "0x248",
+  "size": "0x16"
+ }
+]

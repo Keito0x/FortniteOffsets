@@ -1,0 +1,32 @@
+[
+ {
+  "property": "CachedGameState",
+  "offset": "0x48",
+  "size": "0x8"
+ },
+ {
+  "property": "CachedLivingWorldManager",
+  "offset": "0x56",
+  "size": "0x8"
+ },
+ {
+  "property": "PointProviderFiltersTags",
+  "offset": "0x64",
+  "size": "0x32"
+ },
+ {
+  "property": "SpawnLimiter",
+  "offset": "0x96",
+  "size": "0x104"
+ },
+ {
+  "property": "Box",
+  "offset": "0x200",
+  "size": "0x56"
+ },
+ {
+  "property": "Locations",
+  "offset": "0x256",
+  "size": "0x16"
+ }
+]

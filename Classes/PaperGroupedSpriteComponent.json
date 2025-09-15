@@ -1,0 +1,12 @@
+[
+ {
+  "property": "InstanceMaterials",
+  "offset": "0x1376",
+  "size": "0x16"
+ },
+ {
+  "property": "PerInstanceSpriteData",
+  "offset": "0x1392",
+  "size": "0x16"
+ }
+]

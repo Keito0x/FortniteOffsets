@@ -1,0 +1,17 @@
+[
+ {
+  "property": "DroneAllowedInteractionTags",
+  "offset": "0x864",
+  "size": "0x32"
+ },
+ {
+  "property": "DroneBlockedInteractionTags",
+  "offset": "0x896",
+  "size": "0x32"
+ },
+ {
+  "property": "bIsControllingDrone",
+  "offset": "0x928",
+  "size": "0x1"
+ }
+]

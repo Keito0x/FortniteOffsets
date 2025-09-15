@@ -1,0 +1,22 @@
+[
+ {
+  "property": "FunctionGraphIdentifier",
+  "offset": "0x288",
+  "size": "0x24"
+ },
+ {
+  "property": "DefaultComponentPin",
+  "offset": "0x312",
+  "size": "0x8"
+ },
+ {
+  "property": "ResolvedFunctionGraph",
+  "offset": "0x320",
+  "size": "0x8"
+ },
+ {
+  "property": "FunctionGraph",
+  "offset": "0x328",
+  "size": "0x32"
+ }
+]

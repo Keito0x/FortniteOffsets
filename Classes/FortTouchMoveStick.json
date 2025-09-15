@@ -1,0 +1,67 @@
+[
+ {
+  "property": "bMoveStickIsLocked",
+  "offset": "0x1201",
+  "size": "0x1"
+ },
+ {
+  "property": "AutorunLockZoneSizePropertyTag",
+  "offset": "0x1204",
+  "size": "0x4"
+ },
+ {
+  "property": "AutoRunPaddingPropertyTag",
+  "offset": "0x1208",
+  "size": "0x4"
+ },
+ {
+  "property": "SizeBox_AutorunLockZoneHidden",
+  "offset": "0x1216",
+  "size": "0x8"
+ },
+ {
+  "property": "SizeBox_AutorunDirectionArrowSpaceSize",
+  "offset": "0x1224",
+  "size": "0x8"
+ },
+ {
+  "property": "SizeBox_AutorunLockZoneSize",
+  "offset": "0x1232",
+  "size": "0x8"
+ },
+ {
+  "property": "AutorunLockZone",
+  "offset": "0x1240",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_AutorunDirectionArrow",
+  "offset": "0x1248",
+  "size": "0x8"
+ },
+ {
+  "property": "Overlay_AutorunLockZone",
+  "offset": "0x1256",
+  "size": "0x8"
+ },
+ {
+  "property": "DefaultAutorunLockZoneSize",
+  "offset": "0x1264",
+  "size": "0x4"
+ },
+ {
+  "property": "DefaultAutorunLockZoneTopPadding",
+  "offset": "0x1268",
+  "size": "0x4"
+ },
+ {
+  "property": "bAllowDoubleTapToAutorunEvenIfNotAlwaysVisible",
+  "offset": "0x1272",
+  "size": "0x1"
+ },
+ {
+  "property": "AutoRunEnhancedInputData",
+  "offset": "0x1280",
+  "size": "0x80"
+ }
+]

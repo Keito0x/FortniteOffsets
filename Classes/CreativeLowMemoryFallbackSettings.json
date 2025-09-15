@@ -1,0 +1,22 @@
+[
+ {
+  "property": "WarningToastIcon",
+  "offset": "0x48",
+  "size": "0x32"
+ },
+ {
+  "property": "DefaultText",
+  "offset": "0x80",
+  "size": "0x48"
+ },
+ {
+  "property": "PlaylistOverrideThresholds",
+  "offset": "0x128",
+  "size": "0x80"
+ },
+ {
+  "property": "PlaylistOverrideText",
+  "offset": "0x208",
+  "size": "0x80"
+ }
+]

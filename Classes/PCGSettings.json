@@ -1,0 +1,47 @@
+[
+ {
+  "property": "Seed",
+  "offset": "0x80",
+  "size": "0x4"
+ },
+ {
+  "property": "bExecutionDependencyRequired",
+  "offset": "0x84",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseSeed",
+  "offset": "0x96",
+  "size": "0x1"
+ },
+ {
+  "property": "CachedOverridableParams",
+  "offset": "0x160",
+  "size": "0x16"
+ },
+ {
+  "property": "bExecuteOnGPU",
+  "offset": "0x177",
+  "size": "0x1"
+ },
+ {
+  "property": "bDumpCookedHLSL",
+  "offset": "0x178",
+  "size": "0x1"
+ },
+ {
+  "property": "bDumpDataDescriptions",
+  "offset": "0x179",
+  "size": "0x1"
+ },
+ {
+  "property": "bPrintShaderDebugValues",
+  "offset": "0x180",
+  "size": "0x1"
+ },
+ {
+  "property": "DebugBufferSize",
+  "offset": "0x184",
+  "size": "0x4"
+ }
+]

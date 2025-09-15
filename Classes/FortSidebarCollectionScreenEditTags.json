@@ -1,0 +1,12 @@
+[
+ {
+  "property": "SocialTagCollectionData",
+  "offset": "0x1704",
+  "size": "0x8"
+ },
+ {
+  "property": "SocialTagCategory",
+  "offset": "0x1712",
+  "size": "0x1"
+ }
+]

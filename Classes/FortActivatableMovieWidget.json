@@ -1,0 +1,184 @@
+[
+ {
+  "property": "bOverwriteSkip",
+  "offset": "0x1128",
+  "size": "0x1"
+ },
+ {
+  "property": "OnMediaError",
+  "offset": "0x1136",
+  "size": "0x16"
+ },
+ {
+  "property": "bMediaPreEndCheckEnabled",
+  "offset": "0x1152",
+  "size": "0x1"
+ },
+ {
+  "property": "VideoConfig",
+  "offset": "0x1160",
+  "size": "0x152"
+ },
+ {
+  "property": "bInWholeFade",
+  "offset": "0x1336",
+  "size": "0x1"
+ },
+ {
+  "property": "bInColorFade",
+  "offset": "0x1337",
+  "size": "0x1"
+ },
+ {
+  "property": "PressToSkipAction",
+  "offset": "0x1344",
+  "size": "0x16"
+ },
+ {
+  "property": "HoldToSkipAction",
+  "offset": "0x1360",
+  "size": "0x16"
+ },
+ {
+  "property": "Image_Color",
+  "offset": "0x1376",
+  "size": "0x8"
+ },
+ {
+  "property": "bAutoBroadcastRebuild",
+  "offset": "0x1384",
+  "size": "0x1"
+ },
+ {
+  "property": "bShowSubtitles",
+  "offset": "0x1385",
+  "size": "0x1"
+ },
+ {
+  "property": "bNoAudio",
+  "offset": "0x1386",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableInputControl",
+  "offset": "0x1387",
+  "size": "0x1"
+ },
+ {
+  "property": "VideoPlayer",
+  "offset": "0x1392",
+  "size": "0x8"
+ },
+ {
+  "property": "SoundClass",
+  "offset": "0x1400",
+  "size": "0x8"
+ },
+ {
+  "property": "SoundComponent",
+  "offset": "0x1408",
+  "size": "0x8"
+ },
+ {
+  "property": "SubtitlePlayer",
+  "offset": "0x1416",
+  "size": "0x8"
+ },
+ {
+  "property": "SubtitleOverlays",
+  "offset": "0x1424",
+  "size": "0x8"
+ },
+ {
+  "property": "LastInteractionTime",
+  "offset": "0x1488",
+  "size": "0x4"
+ },
+ {
+  "property": "bControlsVisible",
+  "offset": "0x1492",
+  "size": "0x1"
+ },
+ {
+  "property": "Image_VideoTexture",
+  "offset": "0x1496",
+  "size": "0x8"
+ },
+ {
+  "property": "VideoTextureColor",
+  "offset": "0x1504",
+  "size": "0x16"
+ },
+ {
+  "property": "Subtitles",
+  "offset": "0x1520",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_Skip",
+  "offset": "0x1528",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_Throbber",
+  "offset": "0x1536",
+  "size": "0x8"
+ },
+ {
+  "property": "SafeZonePadding",
+  "offset": "0x1544",
+  "size": "0x8"
+ },
+ {
+  "property": "SafeZoneColor",
+  "offset": "0x1552",
+  "size": "0x16"
+ },
+ {
+  "property": "ActiveSoundMix",
+  "offset": "0x1568",
+  "size": "0x8"
+ },
+ {
+  "property": "DefaultSubmix",
+  "offset": "0x1576",
+  "size": "0x8"
+ },
+ {
+  "property": "LicensedSubmix",
+  "offset": "0x1584",
+  "size": "0x8"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x1600",
+  "size": "0x8"
+ },
+ {
+  "property": "BaseStreamingVideo",
+  "offset": "0x1608",
+  "size": "0x8"
+ },
+ {
+  "property": "MediaPreEndEvent",
+  "offset": "0x1616",
+  "size": "0x16"
+ },
+ {
+  "property": "MediaVolumeChangeEvent",
+  "offset": "0x1632",
+  "size": "0x16"
+ },
+ {
+  "property": "'''''O1gш#тШШ/11Й'еШШ‡›ю#тШШ''''''''Ў'#'''''Ў'''Ў'''''''''''''''''''k‡›ю#тШШ§'''''''W5
+s#тШШ?и#тШШ''''''''Ў'''''''''''''''''''''''6Pф#тШШ#'''''''c±gш#тШШ&'''''''±gш#тШШ''''''''''-&Ѓ‘†—''''''''o_`Ј§еШШ+VGs#тШШK…gш#тШШ''''''''¦'''''''''''''''''''''''''{#тШШ''''''''''''''''§'''''''''''''''''''''''§'''''''''''''''oІgш#тШШ?¤1_'еШШ''''''''''''''''Ў''''''''§'''§''''''''''''''''''''''''''''''''''(j#тШШ(j#тШШ§'''''''§'''''''''''''''''''''''Ъ¬s#тШШ#'''''''1gш#тШШ§'''''''/1gш#тШШ''''''''''-&Ѓ‘†—''''''''O‰U'еШШ+5
+s#тШШ‘и#тШШ''''''''Ў'''''''''''''''''''''''gf'#''''рЃgs#тШШ''''''''''''''''''''''''''''''''''''''''§''''''''''",
+  "offset": "0x1648",
+  "size": "0x16"
+ },
+ {
+  "property": "WidgetEndReachedEvent",
+  "offset": "0x1688",
+  "size": "0x16"
+ }
+]

@@ -1,0 +1,27 @@
+[
+ {
+  "property": "AllowedActorClass",
+  "offset": "0x80",
+  "size": "0x8"
+ },
+ {
+  "property": "SearchRadius",
+  "offset": "0x88",
+  "size": "0x56"
+ },
+ {
+  "property": "ListenerContext",
+  "offset": "0x144",
+  "size": "0x8"
+ },
+ {
+  "property": "SenseToUse",
+  "offset": "0x152",
+  "size": "0x8"
+ },
+ {
+  "property": "bIncludeKnownActors",
+  "offset": "0x160",
+  "size": "0x1"
+ }
+]

@@ -1,0 +1,32 @@
+[
+ {
+  "property": "WeaponKeyName",
+  "offset": "0x168",
+  "size": "0x4"
+ },
+ {
+  "property": "ThrowableAttacksName",
+  "offset": "0x172",
+  "size": "0x4"
+ },
+ {
+  "property": "TargetActorName",
+  "offset": "0x176",
+  "size": "0x4"
+ },
+ {
+  "property": "UrgentMovementName",
+  "offset": "0x180",
+  "size": "0x4"
+ },
+ {
+  "property": "bSkipTargetChecks",
+  "offset": "0x184",
+  "size": "0x1"
+ },
+ {
+  "property": "CacheAimingDigestedSkillSet",
+  "offset": "0x192",
+  "size": "0x8"
+ }
+]

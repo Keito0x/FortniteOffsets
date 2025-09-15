@@ -1,0 +1,17 @@
+[
+ {
+  "property": "Text_Title",
+  "offset": "0x1120",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_Description",
+  "offset": "0x1128",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_Confirm",
+  "offset": "0x1136",
+  "size": "0x8"
+ }
+]

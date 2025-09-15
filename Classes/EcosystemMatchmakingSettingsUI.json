@@ -1,0 +1,22 @@
+[
+ {
+  "property": "MatchmakingSettingsModal",
+  "offset": "0x40",
+  "size": "0x32"
+ },
+ {
+  "property": "MatchFoundWidgetsForProductTagEntries",
+  "offset": "0x72",
+  "size": "0x16"
+ },
+ {
+  "property": "DefaultMatchFoundWidget",
+  "offset": "0x88",
+  "size": "0x32"
+ },
+ {
+  "property": "RankedSplashModal",
+  "offset": "0x120",
+  "size": "0x32"
+ }
+]

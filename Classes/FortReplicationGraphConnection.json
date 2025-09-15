@@ -1,0 +1,27 @@
+[
+ {
+  "property": "NetConnection",
+  "offset": "0x40",
+  "size": "0x8"
+ },
+ {
+  "property": "DebugActor",
+  "offset": "0x372",
+  "size": "0x8"
+ },
+ {
+  "property": "LastGatherLocations",
+  "offset": "0x384",
+  "size": "0x16"
+ },
+ {
+  "property": "ConnectionGraphNodes",
+  "offset": "0x576",
+  "size": "0x16"
+ },
+ {
+  "property": "TearOffNode",
+  "offset": "0x592",
+  "size": "0x8"
+ }
+]

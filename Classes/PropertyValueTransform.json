@@ -1,0 +1,22 @@
+[
+ {
+  "property": "Properties",
+  "offset": "0x136",
+  "size": "0x16"
+ },
+ {
+  "property": "PropertyIndices",
+  "offset": "0x152",
+  "size": "0x16"
+ },
+ {
+  "property": "CapturedPropSegments",
+  "offset": "0x168",
+  "size": "0x16"
+ },
+ {
+  "property": "",
+  "offset": "0x98741524",
+  "size": "0x0"
+ }
+]

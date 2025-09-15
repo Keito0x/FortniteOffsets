@@ -1,0 +1,37 @@
+[
+ {
+  "property": "ScaredLoopAlpha",
+  "offset": "0x1496",
+  "size": "0x4"
+ },
+ {
+  "property": "RandomStartTime",
+  "offset": "0x1500",
+  "size": "0x4"
+ },
+ {
+  "property": "ScaredAlphaCurve",
+  "offset": "0x1504",
+  "size": "0x136"
+ },
+ {
+  "property": "IdleAnimLength",
+  "offset": "0x1640",
+  "size": "0x4"
+ },
+ {
+  "property": "ScaredMaxTime",
+  "offset": "0x1644",
+  "size": "0x4"
+ },
+ {
+  "property": "bHiding",
+  "offset": "0x1648",
+  "size": "0x1"
+ },
+ {
+  "property": "ScaredAmount",
+  "offset": "0x1652",
+  "size": "0x4"
+ }
+]

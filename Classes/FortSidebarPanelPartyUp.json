@@ -1,0 +1,12 @@
+[
+ {
+  "property": "SpecialNavWidget",
+  "offset": "0x1184",
+  "size": "0x8"
+ },
+ {
+  "property": "UserTree_PartyUp",
+  "offset": "0x1192",
+  "size": "0x8"
+ }
+]

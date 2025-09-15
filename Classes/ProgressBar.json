@@ -1,0 +1,47 @@
+[
+ {
+  "property": "WidgetStyle",
+  "offset": "0x368",
+  "size": "0x560"
+ },
+ {
+  "property": "Percent",
+  "offset": "0x928",
+  "size": "0x4"
+ },
+ {
+  "property": "BarFillType",
+  "offset": "0x932",
+  "size": "0x1"
+ },
+ {
+  "property": "BarFillStyle",
+  "offset": "0x933",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsMarquee",
+  "offset": "0x934",
+  "size": "0x1"
+ },
+ {
+  "property": "BorderPadding",
+  "offset": "0x936",
+  "size": "0x16"
+ },
+ {
+  "property": "PercentDelegate",
+  "offset": "0x952",
+  "size": "0x12"
+ },
+ {
+  "property": "FillColorAndOpacity",
+  "offset": "0x964",
+  "size": "0x16"
+ },
+ {
+  "property": "FillColorAndOpacityDelegate",
+  "offset": "0x980",
+  "size": "0x12"
+ }
+]

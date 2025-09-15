@@ -1,0 +1,12 @@
+[
+ {
+  "property": "bAutoDetectFormat",
+  "offset": "0x40",
+  "size": "0x1"
+ },
+ {
+  "property": "bWaitForBothFields",
+  "offset": "0x41",
+  "size": "0x1"
+ }
+]

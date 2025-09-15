@@ -1,0 +1,27 @@
+[
+ {
+  "property": "OlderBackgroundStreamoutSeconds",
+  "offset": "0x1144",
+  "size": "0x4"
+ },
+ {
+  "property": "bDeactivateOnClose",
+  "offset": "0x1148",
+  "size": "0x1"
+ },
+ {
+  "property": "Image_Background",
+  "offset": "0x1152",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_Close",
+  "offset": "0x1160",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_TouchClose",
+  "offset": "0x1168",
+  "size": "0x8"
+ }
+]

@@ -1,0 +1,27 @@
+[
+ {
+  "property": "QueryExtent",
+  "offset": "0x192",
+  "size": "0x4"
+ },
+ {
+  "property": "duration",
+  "offset": "0x196",
+  "size": "0x4"
+ },
+ {
+  "property": "DurationVariation",
+  "offset": "0x200",
+  "size": "0x4"
+ },
+ {
+  "property": "DebugZOffset",
+  "offset": "0x204",
+  "size": "0x4"
+ },
+ {
+  "property": "AngleThresholdInDegrees",
+  "offset": "0x208",
+  "size": "0x4"
+ }
+]

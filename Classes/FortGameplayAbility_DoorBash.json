@@ -1,0 +1,92 @@
+[
+ {
+  "property": "HF_DoorBashEnabled",
+  "offset": "0x2920",
+  "size": "0x40"
+ },
+ {
+  "property": "HF_ForwardDoorCheckMult",
+  "offset": "0x2960",
+  "size": "0x40"
+ },
+ {
+  "property": "HF_LaunchPawnImpulseMult",
+  "offset": "0x3000",
+  "size": "0x40"
+ },
+ {
+  "property": "HF_PawnVelocityMinThreshold",
+  "offset": "0x3040",
+  "size": "0x40"
+ },
+ {
+  "property": "HF_EndAbilityGracePeriod",
+  "offset": "0x3080",
+  "size": "0x40"
+ },
+ {
+  "property": "HF_DoorCheckPeriod",
+  "offset": "0x3120",
+  "size": "0x40"
+ },
+ {
+  "property": "HF_PawnLaunchOverlapRadius",
+  "offset": "0x3160",
+  "size": "0x40"
+ },
+ {
+  "property": "HF_DelayNewDoorCheckTimerAfterSuccess",
+  "offset": "0x3200",
+  "size": "0x40"
+ },
+ {
+  "property": "DoorBashMale",
+  "offset": "0x3240",
+  "size": "0x8"
+ },
+ {
+  "property": "DoorBashFemale",
+  "offset": "0x3248",
+  "size": "0x8"
+ },
+ {
+  "property": "GC_DoorImpact",
+  "offset": "0x3256",
+  "size": "0x4"
+ },
+ {
+  "property": "GC_LaunchPlayer",
+  "offset": "0x3260",
+  "size": "0x4"
+ },
+ {
+  "property": "AdditionalQuestSourceTags",
+  "offset": "0x3264",
+  "size": "0x32"
+ },
+ {
+  "property": "DoorCheckQueryTypes",
+  "offset": "0x3296",
+  "size": "0x16"
+ },
+ {
+  "property": "PawnObjectQueryTypes",
+  "offset": "0x3312",
+  "size": "0x16"
+ },
+ {
+  "property": "SkipAnimationTag",
+  "offset": "0x3328",
+  "size": "0x4"
+ },
+ {
+  "property": "AllowActionWithoutSprintTag",
+  "offset": "0x3332",
+  "size": "0x4"
+ },
+ {
+  "property": "EventDoorBashSuccessTag",
+  "offset": "0x3336",
+  "size": "0x4"
+ }
+]

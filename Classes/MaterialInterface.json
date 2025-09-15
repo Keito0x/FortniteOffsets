@@ -1,0 +1,47 @@
+[
+ {
+  "property": "SubsurfaceProfile",
+  "offset": "0x56",
+  "size": "0x8"
+ },
+ {
+  "property": "SubsurfaceProfiles",
+  "offset": "0x64",
+  "size": "0x16"
+ },
+ {
+  "property": "SpecularProfiles",
+  "offset": "0x80",
+  "size": "0x16"
+ },
+ {
+  "property": "NeuralProfile",
+  "offset": "0x96",
+  "size": "0x8"
+ },
+ {
+  "property": "LightmassSettings",
+  "offset": "0x136",
+  "size": "0x16"
+ },
+ {
+  "property": "TextureStreamingData",
+  "offset": "0x152",
+  "size": "0x16"
+ },
+ {
+  "property": "AssetUserData",
+  "offset": "0x168",
+  "size": "0x16"
+ },
+ {
+  "property": "CachedTexturesSamplingInfo",
+  "offset": "0x184",
+  "size": "0x24"
+ },
+ {
+  "property": "bIncludedInBaseGame",
+  "offset": "0x212",
+  "size": "0x1"
+ }
+]

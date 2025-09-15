@@ -1,0 +1,12 @@
+[
+ {
+  "property": "AssociatedQuestCategory",
+  "offset": "0x776",
+  "size": "0x4"
+ },
+ {
+  "property": "Button_GoToQuests",
+  "offset": "0x784",
+  "size": "0x8"
+ }
+]

@@ -1,0 +1,227 @@
+[
+ {
+  "property": "GoldenPoiPercents",
+  "offset": "0x680",
+  "size": "0x40"
+ },
+ {
+  "property": "GoldenPoiPercentOfSelectedAtBusPathEnd",
+  "offset": "0x720",
+  "size": "0x40"
+ },
+ {
+  "property": "GoldenPoiDistanceAroundBusPathEnd",
+  "offset": "0x760",
+  "size": "0x40"
+ },
+ {
+  "property": "GoldenPoiDistanceMustBeAwayFromBusPath",
+  "offset": "0x800",
+  "size": "0x40"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x840",
+  "size": "0x16"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x856",
+  "size": "0x16"
+ },
+ {
+  "property": "BuildingGameplayActorSpawnDetails",
+  "offset": "0x872",
+  "size": "0x16"
+ },
+ {
+  "property": "VendingMachineClass",
+  "offset": "0x888",
+  "size": "0x32"
+ },
+ {
+  "property": "VendingMachineRarityCount",
+  "offset": "0x920",
+  "size": "0x40"
+ },
+ {
+  "property": "WeaponUpgradeMachineClass",
+  "offset": "0x960",
+  "size": "0x32"
+ },
+ {
+  "property": "WeaponUpgradeMachineSpawnChance",
+  "offset": "0x992",
+  "size": "0x40"
+ },
+ {
+  "property": "LlamaClass",
+  "offset": "0x1032",
+  "size": "0x8"
+ },
+ {
+  "property": "LlamaQuantityMin",
+  "offset": "0x1040",
+  "size": "0x40"
+ },
+ {
+  "property": "LlamaQuantityMax",
+  "offset": "0x1080",
+  "size": "0x40"
+ },
+ {
+  "property": "SupplyDropInfoList",
+  "offset": "0x1120",
+  "size": "0x16"
+ },
+ {
+  "property": "SupplyDropMinPlacementHeight",
+  "offset": "0x1136",
+  "size": "0x40"
+ },
+ {
+  "property": "SupplyDropMaxPlacementHeight",
+  "offset": "0x1176",
+  "size": "0x40"
+ },
+ {
+  "property": "SupplyDropAvoidWaterTraceMinZ",
+  "offset": "0x1216",
+  "size": "0x40"
+ },
+ {
+  "property": "bShouldLlamaAvoidUnwalkableTerrain",
+  "offset": "0x1256",
+  "size": "0x40"
+ },
+ {
+  "property": "bShouldSupplyDropAvoidUnwalkableTerrain",
+  "offset": "0x1296",
+  "size": "0x40"
+ },
+ {
+  "property": "AircraftClass",
+  "offset": "0x1336",
+  "size": "0x8"
+ },
+ {
+  "property": "AircraftSpawnZone",
+  "offset": "0x1344",
+  "size": "0x40"
+ },
+ {
+  "property": "AircraftDropZone",
+  "offset": "0x1384",
+  "size": "0x40"
+ },
+ {
+  "property": "AircraftDropVolume",
+  "offset": "0x1424",
+  "size": "0x8"
+ },
+ {
+  "property": "AircraftDropVolumeProjectionFailsafeExtent_X",
+  "offset": "0x1432",
+  "size": "0x40"
+ },
+ {
+  "property": "AircraftDropVolumeProjectionFailsafeExtent_Y",
+  "offset": "0x1472",
+  "size": "0x40"
+ },
+ {
+  "property": "SkydivingScanForImpactWorldZ",
+  "offset": "0x1512",
+  "size": "0x40"
+ },
+ {
+  "property": "SkydivingForceDeployParachuteWorldZ",
+  "offset": "0x1552",
+  "size": "0x40"
+ },
+ {
+  "property": "FlightInfos",
+  "offset": "0x1592",
+  "size": "0x16"
+ },
+ {
+  "property": "CachedPlayableBoundsForClients",
+  "offset": "0x1608",
+  "size": "0x56"
+ },
+ {
+  "property": "AircraftDeviationAngle",
+  "offset": "0x1664",
+  "size": "0x40"
+ },
+ {
+  "property": "AircraftDistanceFromMidLine",
+  "offset": "0x1704",
+  "size": "0x40"
+ },
+ {
+  "property": "AircraftHeight",
+  "offset": "0x1744",
+  "size": "0x40"
+ },
+ {
+  "property": "AircraftSpeed",
+  "offset": "0x1784",
+  "size": "0x40"
+ },
+ {
+  "property": "AircraftDesiredDoorOpenTime",
+  "offset": "0x1824",
+  "size": "0x40"
+ },
+ {
+  "property": "PlayableBoundsVolume",
+  "offset": "0x1880",
+  "size": "0x8"
+ },
+ {
+  "property": "SafeZoneStartDelay",
+  "offset": "0x1888",
+  "size": "0x40"
+ },
+ {
+  "property": "SafeZoneStartingRadius",
+  "offset": "0x1928",
+  "size": "0x40"
+ },
+ {
+  "property": "SafeZoneVolumeDefinitions",
+  "offset": "0x1968",
+  "size": "0x16"
+ },
+ {
+  "property": "SafeZoneVolumeDefinitionIndexToDraw",
+  "offset": "0x1984",
+  "size": "0x4"
+ },
+ {
+  "property": "SafeZoneDefinition",
+  "offset": "0x1992",
+  "size": "0x664"
+ },
+ {
+  "property": "SafeZoneStorm",
+  "offset": "0x2656",
+  "size": "0x8"
+ },
+ {
+  "property": "WarmupBuildingFoundation",
+  "offset": "0x2664",
+  "size": "0x32"
+ },
+ {
+  "property": "WarmupActor",
+  "offset": "0x2696",
+  "size": "0x32"
+ },
+ {
+  "property": "MapInfoPriority",
+  "offset": "0x2728",
+  "size": "0x4"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "property": "LegacyEmotePickerClass",
+  "offset": "0x48",
+  "size": "0x32"
+ },
+ {
+  "property": "LegacySquadCommsPickerClass",
+  "offset": "0x80",
+  "size": "0x32"
+ }
+]

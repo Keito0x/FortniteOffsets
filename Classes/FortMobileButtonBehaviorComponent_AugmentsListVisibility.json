@@ -1,0 +1,27 @@
+[
+ {
+  "property": "ButtonBehavior",
+  "offset": "0x40",
+  "size": "0x8"
+ },
+ {
+  "property": "ButtonBehaviorComponentOverrides",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "bCanTick",
+  "offset": "0x65",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsVisibilityProxy",
+  "offset": "0x66",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsSpriteProxy",
+  "offset": "0x67",
+  "size": "0x1"
+ }
+]

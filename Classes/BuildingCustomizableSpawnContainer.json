@@ -1,0 +1,12 @@
+[
+ {
+  "property": "SpawnItems",
+  "offset": "0x3680",
+  "size": "0x16"
+ },
+ {
+  "property": "ItemListComponent",
+  "offset": "0x3696",
+  "size": "0x8"
+ }
+]

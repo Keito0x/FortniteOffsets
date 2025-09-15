@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Blacklist",
+  "offset": "0x40",
+  "size": "0x16"
+ },
+ {
+  "property": "MaxAllowedSize",
+  "offset": "0x56",
+  "size": "0x4"
+ }
+]

@@ -1,0 +1,17 @@
+[
+ {
+  "property": "SessionHelper",
+  "offset": "0x120",
+  "size": "0x8"
+ },
+ {
+  "property": "CurrentSearchParams",
+  "offset": "0x144",
+  "size": "0x32"
+ },
+ {
+  "property": "CurrentSearchPassState",
+  "offset": "0x176",
+  "size": "0x24"
+ }
+]

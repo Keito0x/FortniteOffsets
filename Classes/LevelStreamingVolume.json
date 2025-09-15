@@ -1,0 +1,22 @@
+[
+ {
+  "property": "StreamingLevelNames",
+  "offset": "0x736",
+  "size": "0x16"
+ },
+ {
+  "property": "bEditorPreVisOnly",
+  "offset": "0x752",
+  "size": "0x1"
+ },
+ {
+  "property": "bDisabled",
+  "offset": "0x752",
+  "size": "0x1"
+ },
+ {
+  "property": "StreamingUsage",
+  "offset": "0x756",
+  "size": "0x1"
+ }
+]

@@ -1,0 +1,17 @@
+[
+ {
+  "property": "Context",
+  "offset": "0x232",
+  "size": "0x32"
+ },
+ {
+  "property": "VehicleAudioComponentGroup",
+  "offset": "0x264",
+  "size": "0x8"
+ },
+ {
+  "property": "ScrapingAudioComponent",
+  "offset": "0x272",
+  "size": "0x8"
+ }
+]

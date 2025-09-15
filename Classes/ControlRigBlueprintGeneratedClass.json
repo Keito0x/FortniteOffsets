@@ -1,0 +1,52 @@
+[
+ {
+  "property": "PreviewSkeletalMesh",
+  "offset": "0x968",
+  "size": "0x24"
+ },
+ {
+  "property": "bExposesAnimatableControls",
+  "offset": "0x992",
+  "size": "0x1"
+ },
+ {
+  "property": "bAllowMultipleInstances",
+  "offset": "0x993",
+  "size": "0x1"
+ },
+ {
+  "property": "ControlRigType",
+  "offset": "0x994",
+  "size": "0x1"
+ },
+ {
+  "property": "ItemTypeDisplayName",
+  "offset": "0x996",
+  "size": "0x4"
+ },
+ {
+  "property": "RigModuleSettings",
+  "offset": "0x1000",
+  "size": "0x120"
+ },
+ {
+  "property": "ModuleReferenceData",
+  "offset": "0x1120",
+  "size": "0x16"
+ },
+ {
+  "property": "CustomThumbnail",
+  "offset": "0x1136",
+  "size": "0x16"
+ },
+ {
+  "property": "bSupportsInversion",
+  "offset": "0x1152",
+  "size": "0x1"
+ },
+ {
+  "property": "bSupportsControls",
+  "offset": "0x1153",
+  "size": "0x1"
+ }
+]

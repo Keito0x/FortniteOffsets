@@ -1,0 +1,22 @@
+[
+ {
+  "property": "Collection",
+  "offset": "0x40",
+  "size": "0x8"
+ },
+ {
+  "property": "OverridenParameters",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "ParameterStorage",
+  "offset": "0x64",
+  "size": "0x136"
+ },
+ {
+  "property": "SourceMaterialCollectionInstance",
+  "offset": "0x200",
+  "size": "0x8"
+ }
+]

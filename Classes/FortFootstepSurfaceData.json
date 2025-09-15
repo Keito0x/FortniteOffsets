@@ -1,0 +1,27 @@
+[
+ {
+  "property": "Surface1P",
+  "offset": "0x48",
+  "size": "0x168"
+ },
+ {
+  "property": "Surface3P",
+  "offset": "0x216",
+  "size": "0x168"
+ },
+ {
+  "property": "VerticalPitchMaxBelow",
+  "offset": "0x384",
+  "size": "0x4"
+ },
+ {
+  "property": "VerticalPitchMaxAbove",
+  "offset": "0x388",
+  "size": "0x4"
+ },
+ {
+  "property": "VerticalPitchTileRange",
+  "offset": "0x392",
+  "size": "0x4"
+ }
+]

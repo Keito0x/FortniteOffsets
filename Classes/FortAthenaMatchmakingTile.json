@@ -1,0 +1,52 @@
+[
+ {
+  "property": "GameModeImage",
+  "offset": "0x5616",
+  "size": "0x8"
+ },
+ {
+  "property": "AdSpace",
+  "offset": "0x5624",
+  "size": "0x8"
+ },
+ {
+  "property": "AdText",
+  "offset": "0x5632",
+  "size": "0x8"
+ },
+ {
+  "property": "SpecialAdText",
+  "offset": "0x5640",
+  "size": "0x8"
+ },
+ {
+  "property": "GameModeName",
+  "offset": "0x5648",
+  "size": "0x8"
+ },
+ {
+  "property": "SubGameModeName",
+  "offset": "0x5656",
+  "size": "0x8"
+ },
+ {
+  "property": "BorderDisplayStyle",
+  "offset": "0x5664",
+  "size": "0x4"
+ },
+ {
+  "property": "CMSPlaylistEntry",
+  "offset": "0x5672",
+  "size": "0x120"
+ },
+ {
+  "property": "Violator_ActiveFriends",
+  "offset": "0x5792",
+  "size": "0x8"
+ },
+ {
+  "property": "TilePlaylistData",
+  "offset": "0x5800",
+  "size": "0x80"
+ }
+]

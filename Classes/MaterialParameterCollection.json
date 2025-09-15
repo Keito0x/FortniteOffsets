@@ -1,0 +1,37 @@
+[
+ {
+  "property": "StateId",
+  "offset": "0x40",
+  "size": "0x16"
+ },
+ {
+  "property": "ScalarParameters",
+  "offset": "0x56",
+  "size": "0x16"
+ },
+ {
+  "property": "VectorParameters",
+  "offset": "0x72",
+  "size": "0x16"
+ },
+ {
+  "property": "base",
+  "offset": "0x88",
+  "size": "0x8"
+ },
+ {
+  "property": "BaseStateId",
+  "offset": "0x96",
+  "size": "0x16"
+ },
+ {
+  "property": "ScalarParameterBaseOverrides",
+  "offset": "0x112",
+  "size": "0x80"
+ },
+ {
+  "property": "VectorParameterBaseOverrides",
+  "offset": "0x192",
+  "size": "0x80"
+ }
+]

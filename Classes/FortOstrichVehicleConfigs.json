@@ -1,0 +1,532 @@
+[
+ {
+  "property": "NumWheelsTouchingGroundForWheelsOnGround",
+  "offset": "0x40",
+  "size": "0x4"
+ },
+ {
+  "property": "TimeToIdleBrake",
+  "offset": "0x44",
+  "size": "0x4"
+ },
+ {
+  "property": "ChangeDirBrakeDelta",
+  "offset": "0x48",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleSleepCounter",
+  "offset": "0x52",
+  "size": "0x4"
+ },
+ {
+  "property": "GasPedalDownMinSpeed",
+  "offset": "0x56",
+  "size": "0x4"
+ },
+ {
+  "property": "AcceleratingSpeedThresholdMin",
+  "offset": "0x60",
+  "size": "0x4"
+ },
+ {
+  "property": "AcceleratingSpeedThresholdMax",
+  "offset": "0x64",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleMaxFOV",
+  "offset": "0x68",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleMinFOVSpeed",
+  "offset": "0x72",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleMaxFOVSpeed",
+  "offset": "0x76",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleFOVInterpSpeed",
+  "offset": "0x80",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleFOVPassengerInterpSpeed",
+  "offset": "0x84",
+  "size": "0x4"
+ },
+ {
+  "property": "CameraSpaceForwardDistanceOverride",
+  "offset": "0x88",
+  "size": "0x4"
+ },
+ {
+  "property": "bStandingPlayerMatchesVehicleOrientation",
+  "offset": "0x92",
+  "size": "0x1"
+ },
+ {
+  "property": "bPreventCameraBlockedByFriendlyPassenger",
+  "offset": "0x93",
+  "size": "0x1"
+ },
+ {
+  "property": "bPreventCameraBlockedByEnemyPassenger",
+  "offset": "0x94",
+  "size": "0x1"
+ },
+ {
+  "property": "DriverCameraShakeClass",
+  "offset": "0x96",
+  "size": "0x8"
+ },
+ {
+  "property": "OffroadCamShakeClass",
+  "offset": "0x104",
+  "size": "0x8"
+ },
+ {
+  "property": "OffroadCameraShakeOscillationYAmplitude",
+  "offset": "0x112",
+  "size": "0x4"
+ },
+ {
+  "property": "OffroadCameraShakeOscillationZAmplitude",
+  "offset": "0x116",
+  "size": "0x4"
+ },
+ {
+  "property": "OffroadCameraShakeMaxVehicleSpeed",
+  "offset": "0x120",
+  "size": "0x4"
+ },
+ {
+  "property": "OffroadCameraShakeOscillationRotationAmplitude",
+  "offset": "0x124",
+  "size": "0x4"
+ },
+ {
+  "property": "OffroadCameraShakeOscillationMinFrequency",
+  "offset": "0x128",
+  "size": "0x4"
+ },
+ {
+  "property": "OffroadCameraShakeOscillationMaxFrequency",
+  "offset": "0x132",
+  "size": "0x4"
+ },
+ {
+  "property": "AcceleratingCamShakeClass",
+  "offset": "0x136",
+  "size": "0x8"
+ },
+ {
+  "property": "AcceleratingMaxSpeedForCameraShakeIntensity",
+  "offset": "0x144",
+  "size": "0x4"
+ },
+ {
+  "property": "AcceleratingMaxCameraShakeIntensity",
+  "offset": "0x148",
+  "size": "0x4"
+ },
+ {
+  "property": "AcceleratingCameraShakeIntensityFalloff",
+  "offset": "0x152",
+  "size": "0x4"
+ },
+ {
+  "property": "AcceleratingForceFeedbackDuration",
+  "offset": "0x156",
+  "size": "0x4"
+ },
+ {
+  "property": "bAcceleratingAffectsLeftLarge",
+  "offset": "0x160",
+  "size": "0x1"
+ },
+ {
+  "property": "bAcceleratingAffectsLeftSmall",
+  "offset": "0x161",
+  "size": "0x1"
+ },
+ {
+  "property": "bAcceleratingAffectsRightLarge",
+  "offset": "0x162",
+  "size": "0x1"
+ },
+ {
+  "property": "bAcceleratingAffectsRightSmall",
+  "offset": "0x163",
+  "size": "0x1"
+ },
+ {
+  "property": "AcceleratingMaxSpeedForForceFeedbackIntensity",
+  "offset": "0x164",
+  "size": "0x4"
+ },
+ {
+  "property": "AcceleratingMaxForceFeedbackIntensity",
+  "offset": "0x168",
+  "size": "0x4"
+ },
+ {
+  "property": "AcceleratingForceFeedbackIntensityFalloff",
+  "offset": "0x172",
+  "size": "0x4"
+ },
+ {
+  "property": "InteractDistanceScalar",
+  "offset": "0x176",
+  "size": "0x4"
+ },
+ {
+  "property": "MinFallDamageHeight",
+  "offset": "0x180",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxFallDamageHeight",
+  "offset": "0x184",
+  "size": "0x4"
+ },
+ {
+  "property": "MinFallDamage",
+  "offset": "0x188",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxFallDamage",
+  "offset": "0x192",
+  "size": "0x4"
+ },
+ {
+  "property": "PlayerFallDamageMultiplier",
+  "offset": "0x196",
+  "size": "0x4"
+ },
+ {
+  "property": "bDamageFriendlyVehicles",
+  "offset": "0x200",
+  "size": "0x1"
+ },
+ {
+  "property": "bDamageOtherVehicles",
+  "offset": "0x201",
+  "size": "0x1"
+ },
+ {
+  "property": "bDamageOwnVehicle",
+  "offset": "0x202",
+  "size": "0x1"
+ },
+ {
+  "property": "bDamageAllowedFromOtherVehicle",
+  "offset": "0x203",
+  "size": "0x1"
+ },
+ {
+  "property": "VehicleEjectCooldown",
+  "offset": "0x204",
+  "size": "0x4"
+ },
+ {
+  "property": "PlayerToSocketSweepRadius",
+  "offset": "0x208",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleGravity",
+  "offset": "0x212",
+  "size": "0x4"
+ },
+ {
+  "property": "PlayerGravityMultiplier",
+  "offset": "0x216",
+  "size": "0x4"
+ },
+ {
+  "property": "PassengerDamageOnDestruction",
+  "offset": "0x220",
+  "size": "0x4"
+ },
+ {
+  "property": "MinFallDamageNormalScale",
+  "offset": "0x224",
+  "size": "0x4"
+ },
+ {
+  "property": "DriverExitLaunchScalar",
+  "offset": "0x228",
+  "size": "0x4"
+ },
+ {
+  "property": "DriverExitLaunchUpScalar",
+  "offset": "0x232",
+  "size": "0x4"
+ },
+ {
+  "property": "DriverExitInAirLaunchScalar",
+  "offset": "0x236",
+  "size": "0x4"
+ },
+ {
+  "property": "DriverExitInAirLaunchUpScalar",
+  "offset": "0x240",
+  "size": "0x4"
+ },
+ {
+  "property": "PassengerExitLaunchScalar",
+  "offset": "0x244",
+  "size": "0x4"
+ },
+ {
+  "property": "PassengerExitLaunchUpScalar",
+  "offset": "0x248",
+  "size": "0x4"
+ },
+ {
+  "property": "PassengerExitInAirLaunchScalar",
+  "offset": "0x252",
+  "size": "0x4"
+ },
+ {
+  "property": "PassengerExitInAirLaunchUpScalar",
+  "offset": "0x256",
+  "size": "0x4"
+ },
+ {
+  "property": "bCanDoTricks",
+  "offset": "0x260",
+  "size": "0x1"
+ },
+ {
+  "property": "bDriverCanUseInventory",
+  "offset": "0x261",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldDriverHaveReticle",
+  "offset": "0x262",
+  "size": "0x1"
+ },
+ {
+  "property": "bSupportsWraps",
+  "offset": "0x263",
+  "size": "0x1"
+ },
+ {
+  "property": "ExitVehicleCoolDown",
+  "offset": "0x264",
+  "size": "0x4"
+ },
+ {
+  "property": "bShouldProtectFromFireDamage",
+  "offset": "0x268",
+  "size": "0x1"
+ },
+ {
+  "property": "bInheritScale",
+  "offset": "0x269",
+  "size": "0x1"
+ },
+ {
+  "property": "HoldToExitTime",
+  "offset": "0x272",
+  "size": "0x4"
+ },
+ {
+  "property": "ForceExitZOffset",
+  "offset": "0x276",
+  "size": "0x4"
+ },
+ {
+  "property": "bBlockBuilding",
+  "offset": "0x280",
+  "size": "0x1"
+ },
+ {
+  "property": "bPreferDriverSeatWhenEmpty",
+  "offset": "0x281",
+  "size": "0x1"
+ },
+ {
+  "property": "bCanUseSkeletalMeshSimulationUpdatesChildTransforms",
+  "offset": "0x282",
+  "size": "0x1"
+ },
+ {
+  "property": "FireDamagePerSecond",
+  "offset": "0x284",
+  "size": "0x4"
+ },
+ {
+  "property": "FireDamageTickRate",
+  "offset": "0x288",
+  "size": "0x4"
+ },
+ {
+  "property": "bCanBeOnFire",
+  "offset": "0x292",
+  "size": "0x1"
+ },
+ {
+  "property": "DamageableParts",
+  "offset": "0x296",
+  "size": "0x16"
+ },
+ {
+  "property": "ToggleablePartNames",
+  "offset": "0x312",
+  "size": "0x16"
+ },
+ {
+  "property": "WeaponDynamicReticleData",
+  "offset": "0x328",
+  "size": "0x16"
+ },
+ {
+  "property": "UnoccupiedAutoDestroyTime",
+  "offset": "0x344",
+  "size": "0x40"
+ },
+ {
+  "property": "HUDTopSpeed",
+  "offset": "0x384",
+  "size": "0x4"
+ },
+ {
+  "property": "PlayerFacingLocName",
+  "offset": "0x392",
+  "size": "0x16"
+ },
+ {
+  "property": "WheelRotationRange",
+  "offset": "0x408",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleFrontLowLateralFrictionMultiplier",
+  "offset": "0x412",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleRearLowLateralFrictionMultiplier",
+  "offset": "0x416",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleFrontHighLateralFrictionMultiplier",
+  "offset": "0x420",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleRearHighLateralFrictionMultiplier",
+  "offset": "0x424",
+  "size": "0x4"
+ },
+ {
+  "property": "LowToHighFrictionDuration",
+  "offset": "0x428",
+  "size": "0x4"
+ },
+ {
+  "property": "UphillIncline",
+  "offset": "0x432",
+  "size": "0x4"
+ },
+ {
+  "property": "ReverseToForwardFrontFriction",
+  "offset": "0x436",
+  "size": "0x4"
+ },
+ {
+  "property": "ReverseToForwardRearFriction",
+  "offset": "0x440",
+  "size": "0x4"
+ },
+ {
+  "property": "ReverseToForwardMaxSpeed",
+  "offset": "0x444",
+  "size": "0x4"
+ },
+ {
+  "property": "TireModDataMapping",
+  "offset": "0x448",
+  "size": "0x80"
+ },
+ {
+  "property": "HonkTimeMax",
+  "offset": "0x528",
+  "size": "0x4"
+ },
+ {
+  "property": "HonkCooldownMax",
+  "offset": "0x532",
+  "size": "0x4"
+ },
+ {
+  "property": "HonkTimePerHonk",
+  "offset": "0x536",
+  "size": "0x4"
+ },
+ {
+  "property": "ServerExtraHealth",
+  "offset": "0x540",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxTimeZeroHealth",
+  "offset": "0x544",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxTimeExplosion",
+  "offset": "0x548",
+  "size": "0x4"
+ },
+ {
+  "property": "SelfDestructTime",
+  "offset": "0x552",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxTimeSelfDestructCleanup",
+  "offset": "0x556",
+  "size": "0x4"
+ },
+ {
+  "property": "SkipDamageWhileCriticalHealthTagQuery",
+  "offset": "0x560",
+  "size": "0x72"
+ },
+ {
+  "property": "SquadRestrictionEnabled",
+  "offset": "0x632",
+  "size": "0x40"
+ },
+ {
+  "property": "SquadRestrictionText",
+  "offset": "0x672",
+  "size": "0x16"
+ },
+ {
+  "property": "TeamRestrictionEnabled",
+  "offset": "0x688",
+  "size": "0x40"
+ },
+ {
+  "property": "TeamRestrictionText",
+  "offset": "0x728",
+  "size": "0x16"
+ },
+ {
+  "property": "WheelFXInfos",
+  "offset": "0x744",
+  "size": "0x80"
+ }
+]

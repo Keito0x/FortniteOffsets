@@ -1,0 +1,32 @@
+[
+ {
+  "property": "TagQuery",
+  "offset": "0x2936",
+  "size": "0x72"
+ },
+ {
+  "property": "NumberOfItemsToCheck",
+  "offset": "0x3008",
+  "size": "0x4"
+ },
+ {
+  "property": "AllItemTags",
+  "offset": "0x3016",
+  "size": "0x32"
+ },
+ {
+  "property": "CustomVerbNameTag",
+  "offset": "0x3048",
+  "size": "0x4"
+ },
+ {
+  "property": "ItemRaritiesToCheck",
+  "offset": "0x3056",
+  "size": "0x16"
+ },
+ {
+  "property": "bVerifyItemRaritiesToCheckArray",
+  "offset": "0x3072",
+  "size": "0x1"
+ }
+]

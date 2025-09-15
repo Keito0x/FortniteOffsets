@@ -1,0 +1,22 @@
+[
+ {
+  "property": "HasContentVisibility",
+  "offset": "0x776",
+  "size": "0x1"
+ },
+ {
+  "property": "NoContentVisibility",
+  "offset": "0x777",
+  "size": "0x1"
+ },
+ {
+  "property": "CompatibleTagVisibility",
+  "offset": "0x778",
+  "size": "0x1"
+ },
+ {
+  "property": "IncompatibleTagVisibility",
+  "offset": "0x779",
+  "size": "0x1"
+ }
+]

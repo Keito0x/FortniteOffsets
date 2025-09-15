@@ -1,0 +1,22 @@
+[
+ {
+  "property": "TotalNumPlayers",
+  "offset": "0x680",
+  "size": "0x4"
+ },
+ {
+  "property": "TotalNumTeams",
+  "offset": "0x684",
+  "size": "0x4"
+ },
+ {
+  "property": "TeamPrivateInfos",
+  "offset": "0x688",
+  "size": "0x16"
+ },
+ {
+  "property": "PerPlayerInfo",
+  "offset": "0x704",
+  "size": "0x16"
+ }
+]

@@ -1,0 +1,82 @@
+[
+ {
+  "property": "Agent0Area",
+  "offset": "0x72",
+  "size": "0x8"
+ },
+ {
+  "property": "Agent1Area",
+  "offset": "0x80",
+  "size": "0x8"
+ },
+ {
+  "property": "Agent2Area",
+  "offset": "0x88",
+  "size": "0x8"
+ },
+ {
+  "property": "Agent3Area",
+  "offset": "0x96",
+  "size": "0x8"
+ },
+ {
+  "property": "Agent4Area",
+  "offset": "0x104",
+  "size": "0x8"
+ },
+ {
+  "property": "Agent5Area",
+  "offset": "0x112",
+  "size": "0x8"
+ },
+ {
+  "property": "Agent6Area",
+  "offset": "0x120",
+  "size": "0x8"
+ },
+ {
+  "property": "Agent7Area",
+  "offset": "0x128",
+  "size": "0x8"
+ },
+ {
+  "property": "Agent8Area",
+  "offset": "0x136",
+  "size": "0x8"
+ },
+ {
+  "property": "Agent9Area",
+  "offset": "0x144",
+  "size": "0x8"
+ },
+ {
+  "property": "Agent10Area",
+  "offset": "0x152",
+  "size": "0x8"
+ },
+ {
+  "property": "Agent11Area",
+  "offset": "0x160",
+  "size": "0x8"
+ },
+ {
+  "property": "Agent12Area",
+  "offset": "0x168",
+  "size": "0x8"
+ },
+ {
+  "property": "Agent13Area",
+  "offset": "0x176",
+  "size": "0x8"
+ },
+ {
+  "property": "Agent14Area",
+  "offset": "0x184",
+  "size": "0x8"
+ },
+ {
+  "property": "Agent15Area",
+  "offset": "0x192",
+  "size": "0x8"
+ }
+]

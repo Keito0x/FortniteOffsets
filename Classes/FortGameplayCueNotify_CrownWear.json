@@ -1,0 +1,37 @@
+[
+ {
+  "property": "IntroFXVisualVolume",
+  "offset": "0x2504",
+  "size": "0x40"
+ },
+ {
+  "property": "IntroFXTimelineRate",
+  "offset": "0x2544",
+  "size": "0x40"
+ },
+ {
+  "property": "IntroFXUpdatePrecision",
+  "offset": "0x2584",
+  "size": "0x40"
+ },
+ {
+  "property": "IntroFXUpdateFrequencies",
+  "offset": "0x2624",
+  "size": "0x16"
+ },
+ {
+  "property": "IntroFXCurve",
+  "offset": "0x2640",
+  "size": "0x8"
+ },
+ {
+  "property": "IntroFXTimeline",
+  "offset": "0x2648",
+  "size": "0x8"
+ },
+ {
+  "property": "CrownParticleComponent",
+  "offset": "0x2656",
+  "size": "0x8"
+ }
+]

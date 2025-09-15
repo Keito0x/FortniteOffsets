@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Zoom2D",
+  "offset": "0x40",
+  "size": "0x4"
+ },
+ {
+  "property": "Location",
+  "offset": "0x44",
+  "size": "0x8"
+ }
+]

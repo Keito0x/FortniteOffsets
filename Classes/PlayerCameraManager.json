@@ -1,0 +1,177 @@
+[
+ {
+  "property": "PCOwner",
+  "offset": "0x680",
+  "size": "0x8"
+ },
+ {
+  "property": "Y_Y_Y_Y_YάYQYYYYYYYYYYYYYYYQYYYYYYYYYYYYYYYQYYYYYYYYYYYYYYYQYYYYYYYYYYYYYYYQYYYYYYYYYYYYYYYQYYYYYYYYYYYYYYYQYYYYYYYYYYYYYYYQYYYYYYYYYYYYYYY]YYYYYYYUYYYYYYYQYYYYYYYYYYYYYYYQYYYYYYY]YYYYYYY]YYYYYYYUYYYYYYYYAsƒ]¦¦YAS]¦¦Y)]¦¦YYYYYYYYXY¦XΙΨYΐΎτ_yYΩσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσΣσσϋ£¦¦¦_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_",
+  "offset": "0x688",
+  "size": "0x8"
+ },
+ {
+  "property": "DefaultFOV",
+  "offset": "0x700",
+  "size": "0x4"
+ },
+ {
+  "property": "DefaultOrthoWidth",
+  "offset": "0x708",
+  "size": "0x4"
+ },
+ {
+  "property": "DefaultAspectRatio",
+  "offset": "0x716",
+  "size": "0x4"
+ },
+ {
+  "property": "ViewTarget",
+  "offset": "0x832",
+  "size": "0x2272"
+ },
+ {
+  "property": "PendingViewTarget",
+  "offset": "0x3104",
+  "size": "0x2272"
+ },
+ {
+  "property": "CameraCachePrivate",
+  "offset": "0x5424",
+  "size": "0x2256"
+ },
+ {
+  "property": "LastFrameCameraCachePrivate",
+  "offset": "0x7680",
+  "size": "0x2256"
+ },
+ {
+  "property": "ModifierList",
+  "offset": "0x9936",
+  "size": "0x16"
+ },
+ {
+  "property": "DefaultModifiers",
+  "offset": "0x9952",
+  "size": "0x16"
+ },
+ {
+  "property": "FreeCamDistance",
+  "offset": "0x9968",
+  "size": "0x4"
+ },
+ {
+  "property": "FreeCamOffset",
+  "offset": "0x9976",
+  "size": "0x24"
+ },
+ {
+  "property": "ViewTargetOffset",
+  "offset": "0x10000",
+  "size": "0x24"
+ },
+ {
+  "property": "OnAudioFadeChangeEvent",
+  "offset": "0x10024",
+  "size": "0x16"
+ },
+ {
+  "property": "CameraLensEffects",
+  "offset": "0x10064",
+  "size": "0x16"
+ },
+ {
+  "property": "CachedCameraShakeMod",
+  "offset": "0x10080",
+  "size": "0x8"
+ },
+ {
+  "property": "PostProcessBlendCache",
+  "offset": "0x10088",
+  "size": "0x16"
+ },
+ {
+  "property": "AnimCameraActor",
+  "offset": "0x10136",
+  "size": "0x8"
+ },
+ {
+  "property": "bIsOrthographic",
+  "offset": "0x10144",
+  "size": "0x1"
+ },
+ {
+  "property": "bAutoCalculateOrthoPlanes",
+  "offset": "0x10144",
+  "size": "0x1"
+ },
+ {
+  "property": "AutoPlaneShift",
+  "offset": "0x10148",
+  "size": "0x4"
+ },
+ {
+  "property": "bUpdateOrthoPlanes",
+  "offset": "0x10152",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseCameraHeightAsViewTarget",
+  "offset": "0x10152",
+  "size": "0x1"
+ },
+ {
+  "property": "bDefaultConstrainAspectRatio",
+  "offset": "0x10152",
+  "size": "0x1"
+ },
+ {
+  "property": "bClientSimulatingViewTarget",
+  "offset": "0x10152",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseClientSideCameraUpdates",
+  "offset": "0x10153",
+  "size": "0x1"
+ },
+ {
+  "property": "bGameCameraCutThisFrame",
+  "offset": "0x10153",
+  "size": "0x1"
+ },
+ {
+  "property": "ViewPitchMin",
+  "offset": "0x10156",
+  "size": "0x4"
+ },
+ {
+  "property": "ViewPitchMax",
+  "offset": "0x10160",
+  "size": "0x4"
+ },
+ {
+  "property": "ViewYawMin",
+  "offset": "0x10164",
+  "size": "0x4"
+ },
+ {
+  "property": "ViewYawMax",
+  "offset": "0x10168",
+  "size": "0x4"
+ },
+ {
+  "property": "ViewRollMin",
+  "offset": "0x10172",
+  "size": "0x4"
+ },
+ {
+  "property": "ViewRollMax",
+  "offset": "0x10176",
+  "size": "0x4"
+ },
+ {
+  "property": "ServerUpdateCameraTimeout",
+  "offset": "0x10184",
+  "size": "0x4"
+ }
+]

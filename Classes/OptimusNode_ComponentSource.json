@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Binding",
+  "offset": "0x280",
+  "size": "0x8"
+ },
+ {
+  "property": "DuplicationInfo",
+  "offset": "0x288",
+  "size": "0x16"
+ }
+]

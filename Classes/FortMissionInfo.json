@@ -1,0 +1,242 @@
+[
+ {
+  "property": "MissionRef",
+  "offset": "0x48",
+  "size": "0x32"
+ },
+ {
+  "property": "MissionType",
+  "offset": "0x80",
+  "size": "0x1"
+ },
+ {
+  "property": "MissionTags",
+  "offset": "0x88",
+  "size": "0x32"
+ },
+ {
+  "property": "TimeOfDaySpeed",
+  "offset": "0x120",
+  "size": "0x4"
+ },
+ {
+  "property": "ZoneEndDelay",
+  "offset": "0x124",
+  "size": "0x4"
+ },
+ {
+  "property": "ZoneEndDelayOverrideForFailure",
+  "offset": "0x128",
+  "size": "0x4"
+ },
+ {
+  "property": "MissionRewardBadge",
+  "offset": "0x136",
+  "size": "0x8"
+ },
+ {
+  "property": "MissionRewardItemsLootTierGroup",
+  "offset": "0x144",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxRewardLootTierPoints",
+  "offset": "0x148",
+  "size": "0x4"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x152",
+  "size": "0x4"
+ },
+ {
+  "property": "UnderParBadge",
+  "offset": "0x160",
+  "size": "0x8"
+ },
+ {
+  "property": "MaxMissionPoints",
+  "offset": "0x168",
+  "size": "0x4"
+ },
+ {
+  "property": "bVictoryTileRequired",
+  "offset": "0x172",
+  "size": "0x1"
+ },
+ {
+  "property": "MissionDescription",
+  "offset": "0x176",
+  "size": "0x16"
+ },
+ {
+  "property": "MissionIcons",
+  "offset": "0x192",
+  "size": "0x1056"
+ },
+ {
+  "property": "EndOfMissionMediaSource",
+  "offset": "0x1248",
+  "size": "0x8"
+ },
+ {
+  "property": "bSkipEndOfMissionVideo",
+  "offset": "0x1256",
+  "size": "0x1"
+ },
+ {
+  "property": "DaysToLive",
+  "offset": "0x1260",
+  "size": "0x4"
+ },
+ {
+  "property": "ObjectiveBlocks",
+  "offset": "0x1264",
+  "size": "0x16"
+ },
+ {
+  "property": "bShowMinimapIconsOnlyIfFocused",
+  "offset": "0x1280",
+  "size": "0x1"
+ },
+ {
+  "property": "ExpectedCompletionTime",
+  "offset": "0x1284",
+  "size": "0x4"
+ },
+ {
+  "property": "MissionEncounterTime",
+  "offset": "0x1288",
+  "size": "0x4"
+ },
+ {
+  "property": "MissionPlacementInfo",
+  "offset": "0x1296",
+  "size": "0x64"
+ },
+ {
+  "property": "MinDistanceToOtherMissions",
+  "offset": "0x1360",
+  "size": "0x4"
+ },
+ {
+  "property": "MinDistanceToAllowSpawnPad",
+  "offset": "0x1364",
+  "size": "0x4"
+ },
+ {
+  "property": "PlacementActorInfo",
+  "offset": "0x1368",
+  "size": "0x24"
+ },
+ {
+  "property": "bStartPlayingOnLoad",
+  "offset": "0x1392",
+  "size": "0x1"
+ },
+ {
+  "property": "bRequiresActivation",
+  "offset": "0x1393",
+  "size": "0x1"
+ },
+ {
+  "property": "BluGloActivationRequirement",
+  "offset": "0x1396",
+  "size": "0x4"
+ },
+ {
+  "property": "bAllowDifficultyIncrease",
+  "offset": "0x1400",
+  "size": "0x1"
+ },
+ {
+  "property": "RewardsTitleText",
+  "offset": "0x1408",
+  "size": "0x16"
+ },
+ {
+  "property": "RewardsDescriptionText",
+  "offset": "0x1424",
+  "size": "0x16"
+ },
+ {
+  "property": "NonParticipationRewardsDescriptionText",
+  "offset": "0x1440",
+  "size": "0x16"
+ },
+ {
+  "property": "PopupWidgetData",
+  "offset": "0x1456",
+  "size": "0x576"
+ },
+ {
+  "property": "WeightedRewards",
+  "offset": "0x2032",
+  "size": "0x8"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x2040",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseRRV",
+  "offset": "0x2041",
+  "size": "0x1"
+ },
+ {
+  "property": "MissionName",
+  "offset": "0x2048",
+  "size": "0x16"
+ },
+ {
+  "property": "bShouldDisplayMissionName",
+  "offset": "0x2064",
+  "size": "0x1"
+ },
+ {
+  "property": "EncounterProfiles",
+  "offset": "0x2072",
+  "size": "0x16"
+ },
+ {
+  "property": "EncounterSequences",
+  "offset": "0x2088",
+  "size": "0x16"
+ },
+ {
+  "property": "MissionOptions",
+  "offset": "0x2104",
+  "size": "0x32"
+ },
+ {
+  "property": "MissionDifficultyOptionTags",
+  "offset": "0x2136",
+  "size": "0x32"
+ },
+ {
+  "property": "TaggedRewards",
+  "offset": "0x2168",
+  "size": "0x16"
+ },
+ {
+  "property": "PerDifficultyProperties",
+  "offset": "0x2184",
+  "size": "0x16"
+ },
+ {
+  "property": "ConfigParams",
+  "offset": "0x2200",
+  "size": "0x16"
+ },
+ {
+  "property": "AIServices",
+  "offset": "0x2216",
+  "size": "0x16"
+ },
+ {
+  "property": "GameData",
+  "offset": "0x2232",
+  "size": "0x32"
+ }
+]

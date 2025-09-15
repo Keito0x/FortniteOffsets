@@ -1,0 +1,22 @@
+[
+ {
+  "property": "Forward",
+  "offset": "0x144",
+  "size": "0x88"
+ },
+ {
+  "property": "Sideways",
+  "offset": "0x232",
+  "size": "0x88"
+ },
+ {
+  "property": "Backwards",
+  "offset": "0x320",
+  "size": "0x88"
+ },
+ {
+  "property": "AnyDirection",
+  "offset": "0x408",
+  "size": "0x88"
+ }
+]

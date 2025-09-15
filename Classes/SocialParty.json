@@ -1,0 +1,62 @@
+[
+ {
+  "property": "ReservationBeaconClientClass",
+  "offset": "0x96",
+  "size": "0x8"
+ },
+ {
+  "property": "SpectatorBeaconClientClass",
+  "offset": "0x104",
+  "size": "0x8"
+ },
+ {
+  "property": "OwningLocalUserId",
+  "offset": "0x128",
+  "size": "0x48"
+ },
+ {
+  "property": "CurrentLeaderId",
+  "offset": "0x176",
+  "size": "0x48"
+ },
+ {
+  "property": "PartyMembersById",
+  "offset": "0x224",
+  "size": "0x80"
+ },
+ {
+  "property": "PlatformUserInviteCooldown",
+  "offset": "0x384",
+  "size": "0x8"
+ },
+ {
+  "property": "PrimaryUserInviteCooldown",
+  "offset": "0x392",
+  "size": "0x8"
+ },
+ {
+  "property": "ReservationBeaconClient",
+  "offset": "0x504",
+  "size": "0x8"
+ },
+ {
+  "property": "SpectatorBeaconClient",
+  "offset": "0x516",
+  "size": "0x8"
+ },
+ {
+  "property": "JoinInProgressTimerRate",
+  "offset": "0x568",
+  "size": "0x4"
+ },
+ {
+  "property": "JoinInProgressRequestTimeout",
+  "offset": "0x572",
+  "size": "0x4"
+ },
+ {
+  "property": "JoinInProgressResponseTimeout",
+  "offset": "0x576",
+  "size": "0x4"
+ }
+]

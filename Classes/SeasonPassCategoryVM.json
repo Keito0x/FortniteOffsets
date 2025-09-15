@@ -1,0 +1,52 @@
+[
+ {
+  "property": "Category",
+  "offset": "0x104",
+  "size": "0x8"
+ },
+ {
+  "property": "OwnerSeasonPass",
+  "offset": "0x112",
+  "size": "0x8"
+ },
+ {
+  "property": "Pages",
+  "offset": "0x120",
+  "size": "0x16"
+ },
+ {
+  "property": "Title",
+  "offset": "0x136",
+  "size": "0x16"
+ },
+ {
+  "property": "bIsLocked",
+  "offset": "0x152",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsTimeLocked",
+  "offset": "0x153",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsLevelRewardLocked",
+  "offset": "0x154",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsDependentCategoryLocked",
+  "offset": "0x155",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsFullyClaimed",
+  "offset": "0x156",
+  "size": "0x1"
+ },
+ {
+  "property": "StatusText",
+  "offset": "0x160",
+  "size": "0x16"
+ }
+]

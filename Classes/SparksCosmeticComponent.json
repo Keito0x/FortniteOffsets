@@ -1,0 +1,72 @@
+[
+ {
+  "property": "CosmeticItemChanged",
+  "offset": "0x192",
+  "size": "0x16"
+ },
+ {
+  "property": "CosmeticChoiceChanged",
+  "offset": "0x208",
+  "size": "0x16"
+ },
+ {
+  "property": "OnLoadoutFilled",
+  "offset": "0x224",
+  "size": "0x16"
+ },
+ {
+  "property": "bIsLoadoutFilled",
+  "offset": "0x240",
+  "size": "0x1"
+ },
+ {
+  "property": "CurrentLoadout",
+  "offset": "0x328",
+  "size": "0x304"
+ },
+ {
+  "property": "ActiveAura",
+  "offset": "0x640",
+  "size": "0x8"
+ },
+ {
+  "property": "DefaultAuraItemDefID",
+  "offset": "0x648",
+  "size": "0x8"
+ },
+ {
+  "property": "AuraItemDef",
+  "offset": "0x656",
+  "size": "0x8"
+ },
+ {
+  "property": "DefaultInstrumentDefIDs",
+  "offset": "0x664",
+  "size": "0x80"
+ },
+ {
+  "property": "InstrumentDefs",
+  "offset": "0x744",
+  "size": "0x80"
+ },
+ {
+  "property": "DefaultSpotlightAnimDefIDs",
+  "offset": "0x952",
+  "size": "0x80"
+ },
+ {
+  "property": "SpotlightAnimDefs",
+  "offset": "0x1032",
+  "size": "0x80"
+ },
+ {
+  "property": "AllValidJamTracksShortNameCache",
+  "offset": "0x1208",
+  "size": "0x16"
+ },
+ {
+  "property": "HasCachedValidJamTracks",
+  "offset": "0x1224",
+  "size": "0x1"
+ }
+]

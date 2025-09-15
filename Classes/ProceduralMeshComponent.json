@@ -1,0 +1,37 @@
+[
+ {
+  "property": "bUseComplexAsSimpleCollision",
+  "offset": "0x1384",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseAsyncCooking",
+  "offset": "0x1385",
+  "size": "0x1"
+ },
+ {
+  "property": "ProcMeshBodySetup",
+  "offset": "0x1392",
+  "size": "0x8"
+ },
+ {
+  "property": "ProcMeshSections",
+  "offset": "0x1400",
+  "size": "0x16"
+ },
+ {
+  "property": "CollisionConvexElems",
+  "offset": "0x1416",
+  "size": "0x16"
+ },
+ {
+  "property": "LocalBounds",
+  "offset": "0x1432",
+  "size": "0x56"
+ },
+ {
+  "property": "AsyncBodySetupQueue",
+  "offset": "0x1488",
+  "size": "0x16"
+ }
+]

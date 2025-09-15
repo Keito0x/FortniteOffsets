@@ -1,0 +1,7 @@
+[
+ {
+  "property": "TournamentDetailsScreenParams",
+  "offset": "0x104",
+  "size": "0x40"
+ }
+]

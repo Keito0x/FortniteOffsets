@@ -1,0 +1,17 @@
+[
+ {
+  "property": "BangWrapper",
+  "offset": "0x5672",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_MobileIcon",
+  "offset": "0x5680",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_DisplayName",
+  "offset": "0x5688",
+  "size": "0x8"
+ }
+]

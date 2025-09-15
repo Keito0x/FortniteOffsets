@@ -1,0 +1,47 @@
+[
+ {
+  "property": "bBumperFinished",
+  "offset": "0x817",
+  "size": "0x1"
+ },
+ {
+  "property": "bVideoLoaded",
+  "offset": "0x818",
+  "size": "0x1"
+ },
+ {
+  "property": "YYYYYYYYYyyÙYYYYYYYYYYYYYYYYYY€P×n”ï÷ÀAf†]Œ¦¦ÙYYYYYYY;æYYYYYYÙYYYYYYYYYYYYYYYÒYy?­yGø—]Œ¦¦YYYYYYYYÛY5YYYYYI/)•]Œ¦¦)¨•]Œ¦¦aéN¤Y›¦¦	À`YÙ›¦¦é…]Œ¦¦AU]Œ¦¦YYYYYYYYYYYYYYYYYYÙÙYÙÙYxY_YYYYYbYeYYYYYYæ¨Y›¦¦UXYYYYYYYYYYYYYYYYYYYYYÙYZYYYYY=OIˆ]Œ¦¦=OIˆ]Œ¦¦YYZYÙYYY)OIˆ]Œ¦¦)OIˆ]Œ¦¦YYYYYYYYYYYYYYYYYÏIˆ]Œ¦¦YÏIˆ]Œ¦¦YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYÙYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYÕXzíoëYYYYYYYYNIˆ]Œ¦¦Qg6•]Œ¦¦Y[YYÙYYYYYY]Œ¦¦YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY@Y¹YYYYYYYYYYYYYYYYYYYYÛY5YYYYYI/)•]Œ¦¦)¨•]Œ¦¦YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x819",
+  "size": "0x1"
+ },
+ {
+  "property": "MovieWidgetClass",
+  "offset": "0x824",
+  "size": "0x8"
+ },
+ {
+  "property": "ActivityMovieWidget",
+  "offset": "0x832",
+  "size": "0x8"
+ },
+ {
+  "property": "bHasAudio",
+  "offset": "0x848",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseFullscreenDenylistCheck",
+  "offset": "0x849",
+  "size": "0x1"
+ },
+ {
+  "property": "MovieStartDelay",
+  "offset": "0x852",
+  "size": "0x4"
+ },
+ {
+  "property": "MovieRestartDelay",
+  "offset": "0x856",
+  "size": "0x4"
+ }
+]

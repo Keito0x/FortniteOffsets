@@ -1,0 +1,42 @@
+[
+ {
+  "property": "FloatCurves",
+  "offset": "0x48",
+  "size": "0x512"
+ },
+ {
+  "property": "AdjustHue",
+  "offset": "0x560",
+  "size": "0x4"
+ },
+ {
+  "property": "AdjustSaturation",
+  "offset": "0x564",
+  "size": "0x4"
+ },
+ {
+  "property": "AdjustBrightness",
+  "offset": "0x568",
+  "size": "0x4"
+ },
+ {
+  "property": "AdjustBrightnessCurve",
+  "offset": "0x572",
+  "size": "0x4"
+ },
+ {
+  "property": "AdjustVibrance",
+  "offset": "0x576",
+  "size": "0x4"
+ },
+ {
+  "property": "AdjustMinAlpha",
+  "offset": "0x580",
+  "size": "0x4"
+ },
+ {
+  "property": "AdjustMaxAlpha",
+  "offset": "0x584",
+  "size": "0x4"
+ }
+]

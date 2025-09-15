@@ -1,0 +1,12 @@
+[
+ {
+  "property": "ReplicationSystem",
+  "offset": "0x40",
+  "size": "0x8"
+ },
+ {
+  "property": "ActorBridge",
+  "offset": "0x48",
+  "size": "0x8"
+ }
+]

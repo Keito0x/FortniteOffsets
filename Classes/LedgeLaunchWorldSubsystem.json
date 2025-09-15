@@ -1,0 +1,27 @@
+[
+ {
+  "property": "YYYΎ|™]¦¦YYYYYYQYYYYYYYYYYYYYYYQYYYYYYYYYYYYYYY]YYYYYYYUYYYYYYYQYYYYYYYYYYYYYYYQYYYYYYY]YYYYYYY]YYYYYYYUYYYYYYYYAsƒ]¦¦Yy[]¦¦Y)]¦¦YYYYYYYYYY¦XΘΨΩΐΎτ_yYΩσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσσ£¦¦¦_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_Y_YYYSXÿοψιYYYYYYYY#έΩ›¦¦u»9]¦¦Uΐ†]¦¦YYYYYYYYΩYYYYYYYYYYYYYYYYYYYYYYYY]Y",
+  "offset": "0x48",
+  "size": "0x32"
+ },
+ {
+  "property": "InstancedLedgeActorClass",
+  "offset": "0x80",
+  "size": "0x32"
+ },
+ {
+  "property": "CachedConfigurationData",
+  "offset": "0x112",
+  "size": "0x8"
+ },
+ {
+  "property": "InstancedLedgeActor",
+  "offset": "0x120",
+  "size": "0x8"
+ },
+ {
+  "property": "CachedLedgeLaunchMap",
+  "offset": "0x128",
+  "size": "0x80"
+ }
+]

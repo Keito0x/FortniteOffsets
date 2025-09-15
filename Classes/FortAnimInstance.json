@@ -1,0 +1,242 @@
+[
+ {
+  "property": "bUpdateAllPawnProperties",
+  "offset": "0x1240",
+  "size": "0x1"
+ },
+ {
+  "property": "VelocityLerpAlpha",
+  "offset": "0x1244",
+  "size": "0x4"
+ },
+ {
+  "property": "PawnVelocity",
+  "offset": "0x1248",
+  "size": "0x24"
+ },
+ {
+  "property": "MinSpeed2DThreshold",
+  "offset": "0x1272",
+  "size": "0x4"
+ },
+ {
+  "property": "PawnSpeed2D",
+  "offset": "0x1276",
+  "size": "0x4"
+ },
+ {
+  "property": "PawnVelocityZ",
+  "offset": "0x1280",
+  "size": "0x4"
+ },
+ {
+  "property": "PawnMovementDirectionAzimuth",
+  "offset": "0x1284",
+  "size": "0x4"
+ },
+ {
+  "property": "PawnRotationRate",
+  "offset": "0x1288",
+  "size": "0x24"
+ },
+ {
+  "property": "PawnDeltaRotation",
+  "offset": "0x1312",
+  "size": "0x24"
+ },
+ {
+  "property": "PawnLastRotation",
+  "offset": "0x1336",
+  "size": "0x24"
+ },
+ {
+  "property": "PawnLastLocation",
+  "offset": "0x1360",
+  "size": "0x24"
+ },
+ {
+  "property": "bIsJumping",
+  "offset": "0x1384",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsFalling",
+  "offset": "0x1385",
+  "size": "0x1"
+ },
+ {
+  "property": "bSwingingLayerLinked",
+  "offset": "0x1386",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldPredictLanding",
+  "offset": "0x1387",
+  "size": "0x1"
+ },
+ {
+  "property": "bLandingPredicted",
+  "offset": "0x1388",
+  "size": "0x1"
+ },
+ {
+  "property": "PredictedFallTimeLeft",
+  "offset": "0x1392",
+  "size": "0x4"
+ },
+ {
+  "property": "PredictedFallDistanceLeft",
+  "offset": "0x1396",
+  "size": "0x4"
+ },
+ {
+  "property": "FallLookAheadSubStepping",
+  "offset": "0x1400",
+  "size": "0x4"
+ },
+ {
+  "property": "FallLookAheadMaxIterations",
+  "offset": "0x1404",
+  "size": "0x4"
+ },
+ {
+  "property": "bDebugLandPrediction",
+  "offset": "0x1408",
+  "size": "0x1"
+ },
+ {
+  "property": "bRecordJumpPositions",
+  "offset": "0x1409",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsRecordingJump",
+  "offset": "0x1410",
+  "size": "0x1"
+ },
+ {
+  "property": "RecordJumpFrameCount",
+  "offset": "0x1412",
+  "size": "0x4"
+ },
+ {
+  "property": "RecordJumpInitialJumpLocation",
+  "offset": "0x1416",
+  "size": "0x24"
+ },
+ {
+  "property": "AimPitch",
+  "offset": "0x1440",
+  "size": "0x4"
+ },
+ {
+  "property": "AimYaw",
+  "offset": "0x1444",
+  "size": "0x4"
+ },
+ {
+  "property": "TimeForRecentlyFired",
+  "offset": "0x1448",
+  "size": "0x4"
+ },
+ {
+  "property": "TimeToReachRelaxedLevel1",
+  "offset": "0x1452",
+  "size": "0x4"
+ },
+ {
+  "property": "TimeToReachRelaxedLevel2",
+  "offset": "0x1456",
+  "size": "0x4"
+ },
+ {
+  "property": "MinTimeAfterFiredBeforeWallRelaxed",
+  "offset": "0x1460",
+  "size": "0x4"
+ },
+ {
+  "property": "bRecentlyFired",
+  "offset": "0x1464",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsRelaxedLevel1",
+  "offset": "0x1465",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsWeaponLoweredNearWall",
+  "offset": "0x1466",
+  "size": "0x1"
+ },
+ {
+  "property": "bExitedRelaxedThisUpdate",
+  "offset": "0x1467",
+  "size": "0x1"
+ },
+ {
+  "property": "bLowerWeaponNearWallDuringTargeting",
+  "offset": "0x1468",
+  "size": "0x1"
+ },
+ {
+  "property": "RelaxedLevelTimeCounter",
+  "offset": "0x1472",
+  "size": "0x4"
+ },
+ {
+  "property": "SavedWeaponLastFireTime",
+  "offset": "0x1476",
+  "size": "0x4"
+ },
+ {
+  "property": "RequestedRelaxedState",
+  "offset": "0x1488",
+  "size": "0x1"
+ },
+ {
+  "property": "bClothEnabled",
+  "offset": "0x1489",
+  "size": "0x1"
+ },
+ {
+  "property": "bAnimDynamicsEnabled",
+  "offset": "0x1489",
+  "size": "0x1"
+ },
+ {
+  "property": "bRigidBodyEnabled",
+  "offset": "0x1489",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsInGoop",
+  "offset": "0x1490",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsBeingRidden",
+  "offset": "0x1491",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsSliding",
+  "offset": "0x1492",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsKneeSliding",
+  "offset": "0x1493",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsBaseballSliding",
+  "offset": "0x1494",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsRelaxedLevel2Internal",
+  "offset": "0x1495",
+  "size": "0x1"
+ }
+]

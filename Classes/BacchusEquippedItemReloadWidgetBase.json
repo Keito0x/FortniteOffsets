@@ -1,0 +1,37 @@
+[
+ {
+  "property": "Split",
+  "offset": "0x1600",
+  "size": "0x8"
+ },
+ {
+  "property": "UtilityAmmoIcon",
+  "offset": "0x1608",
+  "size": "0x8"
+ },
+ {
+  "property": "SwitchPopUpBox",
+  "offset": "0x1616",
+  "size": "0x8"
+ },
+ {
+  "property": "SwitchPopUpBoxTextBlock",
+  "offset": "0x1624",
+  "size": "0x8"
+ },
+ {
+  "property": "NameIntroAnimation",
+  "offset": "0x1632",
+  "size": "0x8"
+ },
+ {
+  "property": "NameOutroAnimation",
+  "offset": "0x1640",
+  "size": "0x8"
+ },
+ {
+  "property": "Split1",
+  "offset": "0x1648",
+  "size": "0x8"
+ }
+]

@@ -1,0 +1,672 @@
+[
+ {
+  "property": "PhysMaterial",
+  "offset": "0x224",
+  "size": "0x8"
+ },
+ {
+  "property": "PhysMaterialMask",
+  "offset": "0x232",
+  "size": "0x8"
+ },
+ {
+  "property": "PhysicalMaterialMap",
+  "offset": "0x240",
+  "size": "0x64"
+ },
+ {
+  "property": "RenderTracePhysicalMaterialOutputs",
+  "offset": "0x304",
+  "size": "0x16"
+ },
+ {
+  "property": "MaterialDomain",
+  "offset": "0x320",
+  "size": "0x1"
+ },
+ {
+  "property": "Unknown_ffield",
+  "offset": "0x321",
+  "size": "0x1"
+ },
+ {
+  "property": "DecalBlendMode",
+  "offset": "0x322",
+  "size": "0x1"
+ },
+ {
+  "property": "MaterialDecalResponse",
+  "offset": "0x323",
+  "size": "0x1"
+ },
+ {
+  "property": "NaniteOverrideMaterial",
+  "offset": "0x328",
+  "size": "0x48"
+ },
+ {
+  "property": "DisplacementScaling",
+  "offset": "0x376",
+  "size": "0x8"
+ },
+ {
+  "property": "DisplacementFadeRange",
+  "offset": "0x384",
+  "size": "0x8"
+ },
+ {
+  "property": "ShadingModel",
+  "offset": "0x392",
+  "size": "0x1"
+ },
+ {
+  "property": "bCastDynamicShadowAsMasked",
+  "offset": "0x393",
+  "size": "0x1"
+ },
+ {
+  "property": "ShadingModels",
+  "offset": "0x394",
+  "size": "0x2"
+ },
+ {
+  "property": "OpacityMaskClipValue",
+  "offset": "0x396",
+  "size": "0x4"
+ },
+ {
+  "property": "bEnableSeparateTranslucency",
+  "offset": "0x400",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableResponsiveAA",
+  "offset": "0x400",
+  "size": "0x1"
+ },
+ {
+  "property": "bScreenSpaceReflections",
+  "offset": "0x400",
+  "size": "0x1"
+ },
+ {
+  "property": "bContactShadows",
+  "offset": "0x400",
+  "size": "0x1"
+ },
+ {
+  "property": "TwoSided",
+  "offset": "0x400",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsThinSurface",
+  "offset": "0x400",
+  "size": "0x1"
+ },
+ {
+  "property": "DitheredLODTransition",
+  "offset": "0x400",
+  "size": "0x1"
+ },
+ {
+  "property": "DitherOpacityMask",
+  "offset": "0x400",
+  "size": "0x1"
+ },
+ {
+  "property": "bAllowNegativeEmissiveColor",
+  "offset": "0x401",
+  "size": "0x1"
+ },
+ {
+  "property": "bHasPixelAnimation",
+  "offset": "0x401",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableTessellation",
+  "offset": "0x401",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableDisplacementFade",
+  "offset": "0x401",
+  "size": "0x1"
+ },
+ {
+  "property": "TranslucencyPass",
+  "offset": "0x402",
+  "size": "0x1"
+ },
+ {
+  "property": "TranslucencyLightingMode",
+  "offset": "0x403",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableMobileSeparateTranslucency",
+  "offset": "0x404",
+  "size": "0x1"
+ },
+ {
+  "property": "NumCustomizedUVs",
+  "offset": "0x408",
+  "size": "0x4"
+ },
+ {
+  "property": "TranslucencyDirectionalLightingIntensity",
+  "offset": "0x412",
+  "size": "0x4"
+ },
+ {
+  "property": "TranslucentShadowDensityScale",
+  "offset": "0x416",
+  "size": "0x4"
+ },
+ {
+  "property": "TranslucentSelfShadowDensityScale",
+  "offset": "0x420",
+  "size": "0x4"
+ },
+ {
+  "property": "TranslucentSelfShadowSecondDensityScale",
+  "offset": "0x424",
+  "size": "0x4"
+ },
+ {
+  "property": "TranslucentSelfShadowSecondOpacity",
+  "offset": "0x428",
+  "size": "0x4"
+ },
+ {
+  "property": "TranslucentBackscatteringExponent",
+  "offset": "0x432",
+  "size": "0x4"
+ },
+ {
+  "property": "TranslucentMultipleScatteringExtinction",
+  "offset": "0x436",
+  "size": "0x16"
+ },
+ {
+  "property": "TranslucentShadowStartOffset",
+  "offset": "0x452",
+  "size": "0x4"
+ },
+ {
+  "property": "bDisableDepthTest",
+  "offset": "0x456",
+  "size": "0x1"
+ },
+ {
+  "property": "bWriteOnlyAlpha",
+  "offset": "0x456",
+  "size": "0x1"
+ },
+ {
+  "property": "bGenerateSphericalParticleNormals",
+  "offset": "0x456",
+  "size": "0x1"
+ },
+ {
+  "property": "bTangentSpaceNormal",
+  "offset": "0x456",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseEmissiveForDynamicAreaLighting",
+  "offset": "0x456",
+  "size": "0x1"
+ },
+ {
+  "property": "bUsedAsSpecialEngineMaterial",
+  "offset": "0x456",
+  "size": "0x1"
+ },
+ {
+  "property": "bSubstrateRoughnessTracking",
+  "offset": "0x456",
+  "size": "0x1"
+ },
+ {
+  "property": "bUsedWithSkeletalMesh",
+  "offset": "0x456",
+  "size": "0x1"
+ },
+ {
+  "property": "bUsedWithEditorCompositing",
+  "offset": "0x457",
+  "size": "0x1"
+ },
+ {
+  "property": "bUsedWithParticleSprites",
+  "offset": "0x457",
+  "size": "0x1"
+ },
+ {
+  "property": "bUsedWithBeamTrails",
+  "offset": "0x457",
+  "size": "0x1"
+ },
+ {
+  "property": "bUsedWithMeshParticles",
+  "offset": "0x457",
+  "size": "0x1"
+ },
+ {
+  "property": "bUsedWithNiagaraSprites",
+  "offset": "0x457",
+  "size": "0x1"
+ },
+ {
+  "property": "bUsedWithNiagaraRibbons",
+  "offset": "0x457",
+  "size": "0x1"
+ },
+ {
+  "property": "bUsedWithNiagaraMeshParticles",
+  "offset": "0x457",
+  "size": "0x1"
+ },
+ {
+  "property": "bUsedWithGeometryCache",
+  "offset": "0x457",
+  "size": "0x1"
+ },
+ {
+  "property": "bUsedWithMaterialCache",
+  "offset": "0x458",
+  "size": "0x1"
+ },
+ {
+  "property": "bUsedWithStaticLighting",
+  "offset": "0x458",
+  "size": "0x1"
+ },
+ {
+  "property": "bUsedWithMorphTargets",
+  "offset": "0x458",
+  "size": "0x1"
+ },
+ {
+  "property": "bUsedWithSplineMeshes",
+  "offset": "0x458",
+  "size": "0x1"
+ },
+ {
+  "property": "bUsedWithInstancedStaticMeshes",
+  "offset": "0x458",
+  "size": "0x1"
+ },
+ {
+  "property": "bUsedWithGeometryCollections",
+  "offset": "0x458",
+  "size": "0x1"
+ },
+ {
+  "property": "bUsesDistortion",
+  "offset": "0x458",
+  "size": "0x1"
+ },
+ {
+  "property": "bRootNodeOverridesDefaultDistortion",
+  "offset": "0x458",
+  "size": "0x1"
+ },
+ {
+  "property": "bUsedWithClothing",
+  "offset": "0x459",
+  "size": "0x1"
+ },
+ {
+  "property": "bUsedWithWater",
+  "offset": "0x460",
+  "size": "0x1"
+ },
+ {
+  "property": "bUsedWithHairStrands",
+  "offset": "0x460",
+  "size": "0x1"
+ },
+ {
+  "property": "bUsedWithLidarPointCloud",
+  "offset": "0x460",
+  "size": "0x1"
+ },
+ {
+  "property": "bUsedWithVirtualHeightfieldMesh",
+  "offset": "0x460",
+  "size": "0x1"
+ },
+ {
+  "property": "bUsedWithNanite",
+  "offset": "0x460",
+  "size": "0x1"
+ },
+ {
+  "property": "bUsedWithVolumetricCloud",
+  "offset": "0x460",
+  "size": "0x1"
+ },
+ {
+  "property": "bUsedWithHeterogeneousVolumes",
+  "offset": "0x460",
+  "size": "0x1"
+ },
+ {
+  "property": "bUsedWithStaticMesh",
+  "offset": "0x460",
+  "size": "0x1"
+ },
+ {
+  "property": "bUsedWithUI",
+  "offset": "0x464",
+  "size": "0x1"
+ },
+ {
+  "property": "bForceCompatibleWithLightFunctionAtlas",
+  "offset": "0x464",
+  "size": "0x1"
+ },
+ {
+  "property": "bAutomaticallySetUsageInEditor",
+  "offset": "0x464",
+  "size": "0x1"
+ },
+ {
+  "property": "bFullyRough",
+  "offset": "0x464",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseFullPrecision",
+  "offset": "0x464",
+  "size": "0x1"
+ },
+ {
+  "property": "FloatPrecisionMode",
+  "offset": "0x465",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseLightmapDirectionality",
+  "offset": "0x466",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseAlphaToCoverage",
+  "offset": "0x466",
+  "size": "0x1"
+ },
+ {
+  "property": "bForwardRenderUsePreintegratedGFForSimpleIBL",
+  "offset": "0x468",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseHQForwardReflections",
+  "offset": "0x472",
+  "size": "0x1"
+ },
+ {
+  "property": "bForwardBlendsSkyLightCubemaps",
+  "offset": "0x472",
+  "size": "0x1"
+ },
+ {
+  "property": "bUsePlanarForwardReflections",
+  "offset": "0x472",
+  "size": "0x1"
+ },
+ {
+  "property": "bNormalCurvatureToRoughness",
+  "offset": "0x472",
+  "size": "0x1"
+ },
+ {
+  "property": "AllowTranslucentCustomDepthWrites",
+  "offset": "0x472",
+  "size": "0x1"
+ },
+ {
+  "property": "bAllowFrontLayerTranslucency",
+  "offset": "0x472",
+  "size": "0x1"
+ },
+ {
+  "property": "bCompatibleWithLumenCardSharing",
+  "offset": "0x472",
+  "size": "0x1"
+ },
+ {
+  "property": "Wireframe",
+  "offset": "0x472",
+  "size": "0x1"
+ },
+ {
+  "property": "bAllowTranslucentLocalLightShadow",
+  "offset": "0x473",
+  "size": "0x1"
+ },
+ {
+  "property": "TranslucentLocalLightShadowQuality",
+  "offset": "0x476",
+  "size": "0x4"
+ },
+ {
+  "property": "TranslucentDirectionalLightShadowQuality",
+  "offset": "0x480",
+  "size": "0x4"
+ },
+ {
+  "property": "ShadingRate",
+  "offset": "0x484",
+  "size": "0x1"
+ },
+ {
+  "property": "bAllowVariableRateShading",
+  "offset": "0x485",
+  "size": "0x1"
+ },
+ {
+  "property": "bCanMaskedBeAssumedOpaque",
+  "offset": "0x485",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsMasked",
+  "offset": "0x485",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsPreviewMaterial",
+  "offset": "0x485",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsFunctionPreviewMaterial",
+  "offset": "0x485",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseMaterialAttributes",
+  "offset": "0x485",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableExecWire",
+  "offset": "0x485",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableNewHLSLGenerator",
+  "offset": "0x485",
+  "size": "0x1"
+ },
+ {
+  "property": "bCastRayTracedShadows",
+  "offset": "0x486",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseTranslucencyVertexFog",
+  "offset": "0x486",
+  "size": "0x1"
+ },
+ {
+  "property": "bApplyCloudFogging",
+  "offset": "0x486",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsSky",
+  "offset": "0x486",
+  "size": "0x1"
+ },
+ {
+  "property": "bComputeFogPerPixel",
+  "offset": "0x486",
+  "size": "0x1"
+ },
+ {
+  "property": "bOutputTranslucentVelocity",
+  "offset": "0x486",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsTranslucencyVelocityFromDepth",
+  "offset": "0x486",
+  "size": "0x1"
+ },
+ {
+  "property": "bAllowDevelopmentShaderCompile",
+  "offset": "0x486",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsMaterialEditorStatsMaterial",
+  "offset": "0x487",
+  "size": "0x1"
+ },
+ {
+  "property": "bRelaxRuntimeVirtualTextureRestrictions",
+  "offset": "0x487",
+  "size": "0x1"
+ },
+ {
+  "property": "BlendableLocation",
+  "offset": "0x488",
+  "size": "0x1"
+ },
+ {
+  "property": "BlendableOutputAlpha",
+  "offset": "0x489",
+  "size": "0x1"
+ },
+ {
+  "property": "UserSceneTexture",
+  "offset": "0x492",
+  "size": "0x4"
+ },
+ {
+  "property": "UserTextureDivisor",
+  "offset": "0x496",
+  "size": "0x8"
+ },
+ {
+  "property": "ResolutionRelativeToInput",
+  "offset": "0x504",
+  "size": "0x4"
+ },
+ {
+  "property": "bDisablePreExposureScale",
+  "offset": "0x508",
+  "size": "0x1"
+ },
+ {
+  "property": "bUsedWithNeuralNetworks",
+  "offset": "0x508",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableStencilTest",
+  "offset": "0x508",
+  "size": "0x1"
+ },
+ {
+  "property": "StencilCompare",
+  "offset": "0x509",
+  "size": "0x1"
+ },
+ {
+  "property": "StencilRefValue",
+  "offset": "0x510",
+  "size": "0x1"
+ },
+ {
+  "property": "NeuralProfileId",
+  "offset": "0x511",
+  "size": "0x1"
+ },
+ {
+  "property": "RefractionMode",
+  "offset": "0x512",
+  "size": "0x1"
+ },
+ {
+  "property": "RefractionMethod",
+  "offset": "0x513",
+  "size": "0x1"
+ },
+ {
+  "property": "RefractionCoverageMode",
+  "offset": "0x514",
+  "size": "0x1"
+ },
+ {
+  "property": "PixelDepthOffsetMode",
+  "offset": "0x515",
+  "size": "0x1"
+ },
+ {
+  "property": "BlendablePriority",
+  "offset": "0x516",
+  "size": "0x4"
+ },
+ {
+  "property": "bIsBlendable",
+  "offset": "0x520",
+  "size": "0x1"
+ },
+ {
+  "property": "PreshaderGap",
+  "offset": "0x522",
+  "size": "0x2"
+ },
+ {
+  "property": "UsageFlagWarnings",
+  "offset": "0x524",
+  "size": "0x4"
+ },
+ {
+  "property": "RefractionDepthBias",
+  "offset": "0x532",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxWorldPositionOffsetDisplacement",
+  "offset": "0x536",
+  "size": "0x4"
+ },
+ {
+  "property": "bAlwaysEvaluateWorldPositionOffset",
+  "offset": "0x540",
+  "size": "0x1"
+ },
+ {
+  "property": "StateId",
+  "offset": "0x548",
+  "size": "0x16"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "property": "SecondsBetweenTicks",
+  "offset": "0x160",
+  "size": "0x4"
+ },
+ {
+  "property": "RemainingSeconds",
+  "offset": "0x164",
+  "size": "0x4"
+ }
+]

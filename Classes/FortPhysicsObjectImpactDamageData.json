@@ -1,0 +1,12 @@
+[
+ {
+  "property": "ImpactDataProperties",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "DelayBeforeNextImpactDamageEvent",
+  "offset": "0x64",
+  "size": "0x40"
+ }
+]

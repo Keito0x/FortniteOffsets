@@ -1,0 +1,12 @@
+[
+ {
+  "property": "SkeletalMesh",
+  "offset": "0x48",
+  "size": "0x8"
+ },
+ {
+  "property": "DeformerInstance",
+  "offset": "0x200",
+  "size": "0x8"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "property": "bEnableReverbSend",
+  "offset": "0x40",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableSendToAudioLink",
+  "offset": "0x41",
+  "size": "0x1"
+ }
+]

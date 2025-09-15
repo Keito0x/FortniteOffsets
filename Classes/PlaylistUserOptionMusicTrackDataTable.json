@@ -1,0 +1,12 @@
+[
+ {
+  "property": "DataTable",
+  "offset": "0x440",
+  "size": "0x8"
+ },
+ {
+  "property": "DefaultValue",
+  "offset": "0x448",
+  "size": "0x16"
+ }
+]

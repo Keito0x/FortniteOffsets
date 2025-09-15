@@ -1,0 +1,17 @@
+[
+ {
+  "property": "bX",
+  "offset": "0x40",
+  "size": "0x1"
+ },
+ {
+  "property": "bY",
+  "offset": "0x41",
+  "size": "0x1"
+ },
+ {
+  "property": "bZ",
+  "offset": "0x42",
+  "size": "0x1"
+ }
+]

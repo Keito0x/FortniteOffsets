@@ -1,0 +1,17 @@
+[
+ {
+  "property": "bAllowEditing",
+  "offset": "0x896",
+  "size": "0x1"
+ },
+ {
+  "property": "bShowAddingWidgetInSocialTagWhenSelected",
+  "offset": "0x897",
+  "size": "0x1"
+ },
+ {
+  "property": "SidebarSocialTagList",
+  "offset": "0x904",
+  "size": "0x8"
+ }
+]

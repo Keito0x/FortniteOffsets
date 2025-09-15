@@ -1,0 +1,12 @@
+[
+ {
+  "property": "BuildingActorsToDestroy",
+  "offset": "0x2912",
+  "size": "0x16"
+ },
+ {
+  "property": "BuildingActorsToIgnore",
+  "offset": "0x2928",
+  "size": "0x16"
+ }
+]

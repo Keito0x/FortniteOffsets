@@ -1,0 +1,17 @@
+[
+ {
+  "property": "bIncludeWaves",
+  "offset": "0x504",
+  "size": "0x1"
+ },
+ {
+  "property": "bSimpleWaves",
+  "offset": "0x505",
+  "size": "0x1"
+ },
+ {
+  "property": "bIgnoreExclusionVolumes",
+  "offset": "0x506",
+  "size": "0x1"
+ }
+]

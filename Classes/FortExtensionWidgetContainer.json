@@ -1,0 +1,12 @@
+[
+ {
+  "property": "ExtensionSlot",
+  "offset": "0x1152",
+  "size": "0x1"
+ },
+ {
+  "property": "AdditionalSlots",
+  "offset": "0x1160",
+  "size": "0x16"
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "property": "LoadoutTitle",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "LoadoutDescription",
+  "offset": "0x64",
+  "size": "0x16"
+ },
+ {
+  "property": "LoadoutInfo",
+  "offset": "0x80",
+  "size": "0x16"
+ },
+ {
+  "property": "LoadoutEnabled",
+  "offset": "0x96",
+  "size": "0x40"
+ }
+]

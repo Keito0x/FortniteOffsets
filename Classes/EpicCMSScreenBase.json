@@ -1,0 +1,22 @@
+[
+ {
+  "property": "TileSetFieldName",
+  "offset": "0x1432",
+  "size": "0x16"
+ },
+ {
+  "property": "TileTypeToTileClassDataTable",
+  "offset": "0x1448",
+  "size": "0x32"
+ },
+ {
+  "property": "LayoutErrorClass",
+  "offset": "0x1480",
+  "size": "0x32"
+ },
+ {
+  "property": "LayoutTypeToLayoutClassDataTable",
+  "offset": "0x1512",
+  "size": "0x32"
+ }
+]

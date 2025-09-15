@@ -1,0 +1,12 @@
+[
+ {
+  "property": "PersistentLineBatchers",
+  "offset": "0x192",
+  "size": "0x16"
+ },
+ {
+  "property": "DebugDrawTexts",
+  "offset": "0x208",
+  "size": "0x16"
+ }
+]

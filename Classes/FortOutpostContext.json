@@ -1,0 +1,17 @@
+[
+ {
+  "property": "OnBuildingLevelChanged",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "OnItemsNeedRefresh",
+  "offset": "0x64",
+  "size": "0x16"
+ },
+ {
+  "property": "OnGooContentNeedRefresh",
+  "offset": "0x80",
+  "size": "0x16"
+ }
+]

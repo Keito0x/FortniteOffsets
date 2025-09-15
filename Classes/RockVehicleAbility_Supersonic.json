@@ -1,0 +1,42 @@
+[
+ {
+  "property": "OnTrailsActivate",
+  "offset": "0x208",
+  "size": "0x16"
+ },
+ {
+  "property": "OnTrailsDeactivate",
+  "offset": "0x224",
+  "size": "0x16"
+ },
+ {
+  "property": "TurnOffTime",
+  "offset": "0x240",
+  "size": "0x48"
+ },
+ {
+  "property": "TurnOnTime",
+  "offset": "0x288",
+  "size": "0x48"
+ },
+ {
+  "property": "bUseTurnOnTimeRequirement",
+  "offset": "0x336",
+  "size": "0x1"
+ },
+ {
+  "property": "TurnOffSpeedBuffer",
+  "offset": "0x344",
+  "size": "0x48"
+ },
+ {
+  "property": "TimeBelowSupersonic",
+  "offset": "0x392",
+  "size": "0x4"
+ },
+ {
+  "property": "WorldTimeSupersonicExceeded",
+  "offset": "0x396",
+  "size": "0x4"
+ }
+]

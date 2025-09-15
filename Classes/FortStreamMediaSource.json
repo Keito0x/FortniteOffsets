@@ -1,0 +1,12 @@
+[
+ {
+  "property": "FortDownloadLocalizedOverlays",
+  "offset": "0x2160",
+  "size": "0x8"
+ },
+ {
+  "property": "Unknown_ffield",
+  "offset": "0x2168",
+  "size": "0x8"
+ }
+]

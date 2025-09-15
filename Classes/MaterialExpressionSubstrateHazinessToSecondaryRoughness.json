@@ -1,0 +1,12 @@
+[
+ {
+  "property": "BaseRoughness",
+  "offset": "0x176",
+  "size": "0x40"
+ },
+ {
+  "property": "Haziness",
+  "offset": "0x216",
+  "size": "0x40"
+ }
+]

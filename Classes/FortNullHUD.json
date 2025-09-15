@@ -1,0 +1,12 @@
+[
+ {
+  "property": "AthenaHUDMenu",
+  "offset": "0x1264",
+  "size": "0x8"
+ },
+ {
+  "property": "ActionBar_BottomBar",
+  "offset": "0x1272",
+  "size": "0x8"
+ }
+]

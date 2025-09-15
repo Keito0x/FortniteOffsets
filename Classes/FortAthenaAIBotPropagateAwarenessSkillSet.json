@@ -1,0 +1,12 @@
+[
+ {
+  "property": "PropagationMaxDistance",
+  "offset": "0x48",
+  "size": "0x40"
+ },
+ {
+  "property": "FOV",
+  "offset": "0x88",
+  "size": "0x40"
+ }
+]

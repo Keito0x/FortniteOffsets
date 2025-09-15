@@ -1,0 +1,72 @@
+[
+ {
+  "property": "OpenSocialPanelActionTag",
+  "offset": "0x1120",
+  "size": "0x4"
+ },
+ {
+  "property": "OpenMainMenuActionTag",
+  "offset": "0x1124",
+  "size": "0x4"
+ },
+ {
+  "property": "SwitchProfileActionTag",
+  "offset": "0x1128",
+  "size": "0x4"
+ },
+ {
+  "property": "TriggeringSocialPanelInputAction",
+  "offset": "0x1136",
+  "size": "0x16"
+ },
+ {
+  "property": "TriggeringMainMenuInputAction",
+  "offset": "0x1152",
+  "size": "0x16"
+ },
+ {
+  "property": "SwitchProfileInputAction",
+  "offset": "0x1168",
+  "size": "0x16"
+ },
+ {
+  "property": "NewSidebarInjectionSlot",
+  "offset": "0x1184",
+  "size": "0x8"
+ },
+ {
+  "property": "OldSidebarInjectionSlot",
+  "offset": "0x1192",
+  "size": "0x8"
+ },
+ {
+  "property": "OldSidebarSoftClassPtr",
+  "offset": "0x1200",
+  "size": "0x32"
+ },
+ {
+  "property": "OldSidebar",
+  "offset": "0x1232",
+  "size": "0x8"
+ },
+ {
+  "property": "NewSidebarVM",
+  "offset": "0x1240",
+  "size": "0x8"
+ },
+ {
+  "property": "Unknown_ffield",
+  "offset": "0x1248",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_BackBoard",
+  "offset": "0x1256",
+  "size": "0x8"
+ },
+ {
+  "property": "BladesMenu_XpBar",
+  "offset": "0x1264",
+  "size": "0x8"
+ }
+]

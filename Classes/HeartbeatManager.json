@@ -1,0 +1,27 @@
+[
+ {
+  "property": "bShouldTrackLocation",
+  "offset": "0x64",
+  "size": "0x1"
+ },
+ {
+  "property": "TrackLocationFrequencySec",
+  "offset": "0x68",
+  "size": "0x4"
+ },
+ {
+  "property": "bShouldSendPerMinuteResourceAndDamageEvents",
+  "offset": "0x72",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldSendPerMinuteVehicleEvents",
+  "offset": "0x73",
+  "size": "0x1"
+ },
+ {
+  "property": "AnalyticsClientEngagementsManager",
+  "offset": "0x104",
+  "size": "0x8"
+ }
+]

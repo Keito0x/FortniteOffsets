@@ -1,0 +1,17 @@
+[
+ {
+  "property": "Radius",
+  "offset": "0x40",
+  "size": "0x4"
+ },
+ {
+  "property": "OverlayArc",
+  "offset": "0x44",
+  "size": "0x4"
+ },
+ {
+  "property": "Height",
+  "offset": "0x48",
+  "size": "0x4"
+ }
+]

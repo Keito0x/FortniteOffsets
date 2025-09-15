@@ -1,0 +1,37 @@
+[
+ {
+  "property": "OnTrackedObjectiveAdded",
+  "offset": "0x192",
+  "size": "0x16"
+ },
+ {
+  "property": "OnTrackedObjectiveChanged",
+  "offset": "0x208",
+  "size": "0x16"
+ },
+ {
+  "property": "OnTrackedObjectiveRemoved",
+  "offset": "0x224",
+  "size": "0x16"
+ },
+ {
+  "property": "OnTrackedObjectiveStateChanged",
+  "offset": "0x240",
+  "size": "0x16"
+ },
+ {
+  "property": "OnTrackedObjectiveAllowedInteractionChanged",
+  "offset": "0x256",
+  "size": "0x16"
+ },
+ {
+  "property": "OnTrackedObjectiveTeamUpdated",
+  "offset": "0x272",
+  "size": "0x16"
+ },
+ {
+  "property": "ObjectiveArray",
+  "offset": "0x288",
+  "size": "0x296"
+ }
+]

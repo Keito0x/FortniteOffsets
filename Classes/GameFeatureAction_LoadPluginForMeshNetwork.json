@@ -1,0 +1,17 @@
+[
+ {
+  "property": "PluginsToLoad",
+  "offset": "0x40",
+  "size": "0x16"
+ },
+ {
+  "property": "bEnsureThisPluginIsLoaded",
+  "offset": "0x56",
+  "size": "0x1"
+ },
+ {
+  "property": "RestrictToMapName",
+  "offset": "0x64",
+  "size": "0x16"
+ }
+]

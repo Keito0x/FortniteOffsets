@@ -1,0 +1,12 @@
+[
+ {
+  "property": "PurchasePassWidget",
+  "offset": "0x48",
+  "size": "0x32"
+ },
+ {
+  "property": "PurchaseBundleWidget",
+  "offset": "0x80",
+  "size": "0x32"
+ }
+]

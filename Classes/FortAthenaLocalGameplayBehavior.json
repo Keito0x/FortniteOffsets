@@ -1,0 +1,7 @@
+[
+ {
+  "property": "bNeedToAwakeDuringExecution",
+  "offset": "0x704",
+  "size": "0x1"
+ }
+]

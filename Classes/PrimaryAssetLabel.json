@@ -1,0 +1,37 @@
+[
+ {
+  "property": "Rules",
+  "offset": "0x48",
+  "size": "0x12"
+ },
+ {
+  "property": "bLabelAssetsInMyDirectory",
+  "offset": "0x60",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsRuntimeLabel",
+  "offset": "0x60",
+  "size": "0x1"
+ },
+ {
+  "property": "bIncludeRedirectors",
+  "offset": "0x60",
+  "size": "0x1"
+ },
+ {
+  "property": "ExplicitAssets",
+  "offset": "0x64",
+  "size": "0x16"
+ },
+ {
+  "property": "ExplicitBlueprints",
+  "offset": "0x80",
+  "size": "0x16"
+ },
+ {
+  "property": "AssetCollection",
+  "offset": "0x96",
+  "size": "0x4"
+ }
+]

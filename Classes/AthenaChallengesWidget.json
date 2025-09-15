@@ -1,0 +1,17 @@
+[
+ {
+  "property": "DynamicEntryBox_ChallengeEntries",
+  "offset": "0x944",
+  "size": "0x8"
+ },
+ {
+  "property": "PrioritizedWidgetData",
+  "offset": "0x1032",
+  "size": "0x2"
+ },
+ {
+  "property": "bXPSystemRequiredForChallenges",
+  "offset": "0x1034",
+  "size": "0x1"
+ }
+]

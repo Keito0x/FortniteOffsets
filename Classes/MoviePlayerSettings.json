@@ -1,0 +1,17 @@
+[
+ {
+  "property": "bWaitForMoviesToComplete",
+  "offset": "0x40",
+  "size": "0x1"
+ },
+ {
+  "property": "bMoviesAreSkippable",
+  "offset": "0x41",
+  "size": "0x1"
+ },
+ {
+  "property": "StartupMovies",
+  "offset": "0x48",
+  "size": "0x16"
+ }
+]

@@ -1,0 +1,37 @@
+[
+ {
+  "property": "EntryBox_PositiveInteractions",
+  "offset": "0x1232",
+  "size": "0x8"
+ },
+ {
+  "property": "EntryBox_NegativeInteractions",
+  "offset": "0x1240",
+  "size": "0x8"
+ },
+ {
+  "property": "Spacer_InteractionSeparator",
+  "offset": "0x1248",
+  "size": "0x8"
+ },
+ {
+  "property": "Switcher_Confirmation",
+  "offset": "0x1256",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_ConfirmationLabel",
+  "offset": "0x1264",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_Confirm",
+  "offset": "0x1272",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_Decline",
+  "offset": "0x1280",
+  "size": "0x8"
+ }
+]

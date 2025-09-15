@@ -1,0 +1,12 @@
+[
+ {
+  "property": "GpuSyncMode",
+  "offset": "0x64",
+  "size": "0x1"
+ },
+ {
+  "property": "InitialValue",
+  "offset": "0x68",
+  "size": "0x4"
+ }
+]

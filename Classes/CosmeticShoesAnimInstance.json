@@ -1,0 +1,92 @@
+[
+ {
+  "property": "CurrentSkeleton",
+  "offset": "0x40",
+  "size": "0x8"
+ },
+ {
+  "property": "RootMotionMode",
+  "offset": "0x48",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseMultiThreadedAnimationUpdate",
+  "offset": "0x49",
+  "size": "0x1"
+ },
+ {
+  "property": "bUsingCopyPoseFromMesh",
+  "offset": "0x49",
+  "size": "0x1"
+ },
+ {
+  "property": "bReceiveNotifiesFromLinkedInstances",
+  "offset": "0x49",
+  "size": "0x1"
+ },
+ {
+  "property": "bPropagateNotifiesToLinkedInstances",
+  "offset": "0x49",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseMainInstanceMontageEvaluationData",
+  "offset": "0x49",
+  "size": "0x1"
+ },
+ {
+  "property": "bQueueMontageEvents",
+  "offset": "0x51",
+  "size": "0x1"
+ },
+ {
+  "property": "OnMontageBlendingOut",
+  "offset": "0x56",
+  "size": "0x16"
+ },
+ {
+  "property": "OnMontageBlendedIn",
+  "offset": "0x72",
+  "size": "0x16"
+ },
+ {
+  "property": "OnMontageStarted",
+  "offset": "0x88",
+  "size": "0x16"
+ },
+ {
+  "property": "OnMontageEnded",
+  "offset": "0x104",
+  "size": "0x16"
+ },
+ {
+  "property": "OnAllMontageInstancesEnded",
+  "offset": "0x120",
+  "size": "0x16"
+ },
+ {
+  "property": "OnMontageSectionChanged",
+  "offset": "0x136",
+  "size": "0x16"
+ },
+ {
+  "property": "SlotGroupInertializationRequestDataMap",
+  "offset": "0x328",
+  "size": "0x80"
+ },
+ {
+  "property": "NotifyQueue",
+  "offset": "0x480",
+  "size": "0x120"
+ },
+ {
+  "property": "ActiveAnimNotifyState",
+  "offset": "0x600",
+  "size": "0x16"
+ },
+ {
+  "property": "ActiveAnimNotifyEventReference",
+  "offset": "0x616",
+  "size": "0x16"
+ }
+]

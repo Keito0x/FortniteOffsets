@@ -1,0 +1,22 @@
+[
+ {
+  "property": "JointToAlign",
+  "offset": "0x48",
+  "size": "0x4"
+ },
+ {
+  "property": "JointToMove",
+  "offset": "0x52",
+  "size": "0x4"
+ },
+ {
+  "property": "MoveLimit",
+  "offset": "0x56",
+  "size": "0x4"
+ },
+ {
+  "property": "bFreezeAlignment",
+  "offset": "0x60",
+  "size": "0x1"
+ }
+]

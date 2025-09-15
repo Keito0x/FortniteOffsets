@@ -1,0 +1,27 @@
+[
+ {
+  "property": "UniquePartitionName",
+  "offset": "0x40",
+  "size": "0x4"
+ },
+ {
+  "property": "bUseRegistryExtension",
+  "offset": "0x44",
+  "size": "0x1"
+ },
+ {
+  "property": "SettingRegistryExtensionClass",
+  "offset": "0x48",
+  "size": "0x32"
+ },
+ {
+  "property": "ClientSettingRecordPartitionClass",
+  "offset": "0x80",
+  "size": "0x32"
+ },
+ {
+  "property": "MarkupClass",
+  "offset": "0x112",
+  "size": "0x32"
+ }
+]

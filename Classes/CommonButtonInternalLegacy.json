@@ -1,0 +1,37 @@
+[
+ {
+  "property": "OnDoubleClicked",
+  "offset": "0x1536",
+  "size": "0x16"
+ },
+ {
+  "property": "MinWidth",
+  "offset": "0x1584",
+  "size": "0x4"
+ },
+ {
+  "property": "MinHeight",
+  "offset": "0x1588",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxWidth",
+  "offset": "0x1592",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxHeight",
+  "offset": "0x1596",
+  "size": "0x4"
+ },
+ {
+  "property": "bButtonEnabled",
+  "offset": "0x1600",
+  "size": "0x1"
+ },
+ {
+  "property": "bInteractionEnabled",
+  "offset": "0x1601",
+  "size": "0x1"
+ }
+]

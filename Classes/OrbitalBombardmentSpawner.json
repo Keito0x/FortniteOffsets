@@ -1,0 +1,42 @@
+[
+ {
+  "property": "BombardmentPhases",
+  "offset": "0x680",
+  "size": "0x16"
+ },
+ {
+  "property": "BombardmentStartTime",
+  "offset": "0x696",
+  "size": "0x4"
+ },
+ {
+  "property": "UpdateRate",
+  "offset": "0x704",
+  "size": "0x40"
+ },
+ {
+  "property": "PreBombardmentDelay",
+  "offset": "0x744",
+  "size": "0x40"
+ },
+ {
+  "property": "BombardmentMaxLengthFailsafe",
+  "offset": "0x784",
+  "size": "0x40"
+ },
+ {
+  "property": "LifespanPostBombardment",
+  "offset": "0x824",
+  "size": "0x40"
+ },
+ {
+  "property": "MissileSpawnHeight",
+  "offset": "0x864",
+  "size": "0x40"
+ },
+ {
+  "property": "MissileAngle",
+  "offset": "0x904",
+  "size": "0x40"
+ }
+]

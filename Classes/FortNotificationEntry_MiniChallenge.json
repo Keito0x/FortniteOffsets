@@ -1,0 +1,17 @@
+[
+ {
+  "property": "CompletedQuestData",
+  "offset": "0x880",
+  "size": "0x104"
+ },
+ {
+  "property": "MiniChallenge",
+  "offset": "0x984",
+  "size": "0x8"
+ },
+ {
+  "property": "XpSubNotification",
+  "offset": "0x992",
+  "size": "0x8"
+ }
+]

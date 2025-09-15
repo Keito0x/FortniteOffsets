@@ -1,0 +1,37 @@
+[
+ {
+  "property": "OnResetToast",
+  "offset": "0x944",
+  "size": "0x16"
+ },
+ {
+  "property": "TimeToShowToast",
+  "offset": "0x992",
+  "size": "0x4"
+ },
+ {
+  "property": "ActivationDelay",
+  "offset": "0x996",
+  "size": "0x4"
+ },
+ {
+  "property": "PrioritizationData",
+  "offset": "0x1000",
+  "size": "0x2"
+ },
+ {
+  "property": "WidgetSwitcher_Toasts",
+  "offset": "0x1008",
+  "size": "0x8"
+ },
+ {
+  "property": "ActiveCollectionItemToastWidget",
+  "offset": "0x1016",
+  "size": "0x8"
+ },
+ {
+  "property": "bHasPrioritizedWidgetFocus",
+  "offset": "0x1040",
+  "size": "0x1"
+ }
+]

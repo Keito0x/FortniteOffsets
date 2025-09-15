@@ -1,0 +1,12 @@
+[
+ {
+  "property": "RepresentedMemberIndex",
+  "offset": "0x5656",
+  "size": "0x4"
+ },
+ {
+  "property": "CurrentConnectionState",
+  "offset": "0x5660",
+  "size": "0x1"
+ }
+]

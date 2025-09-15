@@ -1,0 +1,12 @@
+[
+ {
+  "property": "bServerHiddenState",
+  "offset": "0x216",
+  "size": "0x1"
+ },
+ {
+  "property": "ReplicatedBackpackData",
+  "offset": "0x224",
+  "size": "0x24"
+ }
+]

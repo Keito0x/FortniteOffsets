@@ -1,0 +1,237 @@
+[
+ {
+  "property": "PropSpeedPerLinearSpeed",
+  "offset": "0x2576",
+  "size": "0x4"
+ },
+ {
+  "property": "PropSpeedPerLinearSpeedPassive",
+  "offset": "0x2580",
+  "size": "0x4"
+ },
+ {
+  "property": "PropSpeedAccelLerpPerSecond",
+  "offset": "0x2584",
+  "size": "0x4"
+ },
+ {
+  "property": "PropSpeedDecelLerpPerSecond",
+  "offset": "0x2588",
+  "size": "0x4"
+ },
+ {
+  "property": "TaxiPitchProjTarget",
+  "offset": "0x2592",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxAltitudeZ",
+  "offset": "0x2596",
+  "size": "0x4"
+ },
+ {
+  "property": "StallAltitudeZ",
+  "offset": "0x2600",
+  "size": "0x4"
+ },
+ {
+  "property": "StallTime",
+  "offset": "0x2604",
+  "size": "0x4"
+ },
+ {
+  "property": "StuckTimeBeforeStall",
+  "offset": "0x2608",
+  "size": "0x4"
+ },
+ {
+  "property": "MinSkipShocksAltitudeZ",
+  "offset": "0x2612",
+  "size": "0x4"
+ },
+ {
+  "property": "AltitudeUpdateFrequency",
+  "offset": "0x2616",
+  "size": "0x4"
+ },
+ {
+  "property": "ControlStateNetUpdateFrequency",
+  "offset": "0x2620",
+  "size": "0x4"
+ },
+ {
+  "property": "ForceHeadingUpdateFrequency",
+  "offset": "0x2624",
+  "size": "0x4"
+ },
+ {
+  "property": "BaseFlightParams",
+  "offset": "0x2632",
+  "size": "0x224"
+ },
+ {
+  "property": "AileronRollMatchRate",
+  "offset": "0x2856",
+  "size": "0x4"
+ },
+ {
+  "property": "AileronRollRotationalDampingCoefficient",
+  "offset": "0x2860",
+  "size": "0x4"
+ },
+ {
+  "property": "AileronRollMaxRotationalDampingTorque",
+  "offset": "0x2864",
+  "size": "0x4"
+ },
+ {
+  "property": "DivebombSpeedMinKmh",
+  "offset": "0x2868",
+  "size": "0x4"
+ },
+ {
+  "property": "DivebombSpeedMaxKmh",
+  "offset": "0x2872",
+  "size": "0x4"
+ },
+ {
+  "property": "DivebombSteerPitchRate",
+  "offset": "0x2876",
+  "size": "0x4"
+ },
+ {
+  "property": "DivebombHeadingMatchRate",
+  "offset": "0x2880",
+  "size": "0x4"
+ },
+ {
+  "property": "HardRollHeadingMatchRate",
+  "offset": "0x2884",
+  "size": "0x4"
+ },
+ {
+  "property": "HardRollHeadingSteerRate",
+  "offset": "0x2888",
+  "size": "0x4"
+ },
+ {
+  "property": "HardRollOffsetPercent",
+  "offset": "0x2892",
+  "size": "0x4"
+ },
+ {
+  "property": "TimeBeforeStallWithNoPassengersInAir",
+  "offset": "0x2896",
+  "size": "0x4"
+ },
+ {
+  "property": "TimeBeforeStallWithNoPassengersOnGround",
+  "offset": "0x2900",
+  "size": "0x4"
+ },
+ {
+  "property": "BoostTopSpeedKmh",
+  "offset": "0x2904",
+  "size": "0x4"
+ },
+ {
+  "property": "BoostThrust",
+  "offset": "0x2908",
+  "size": "0x4"
+ },
+ {
+  "property": "AileronRollDoubleClickSpeed",
+  "offset": "0x2912",
+  "size": "0x4"
+ },
+ {
+  "property": "BoostConfig",
+  "offset": "0x2920",
+  "size": "0x40"
+ },
+ {
+  "property": "AileronRollConfig",
+  "offset": "0x2960",
+  "size": "0x40"
+ },
+ {
+  "property": "PitchBiasOnGround",
+  "offset": "0x3000",
+  "size": "0x4"
+ },
+ {
+  "property": "HeadingAutoCenterRate",
+  "offset": "0x3004",
+  "size": "0x4"
+ },
+ {
+  "property": "RollAutoCenterRate",
+  "offset": "0x3008",
+  "size": "0x4"
+ },
+ {
+  "property": "AirbrakeDragCoefficient",
+  "offset": "0x3012",
+  "size": "0x4"
+ },
+ {
+  "property": "bEngineStallAtCriticalHealth",
+  "offset": "0x3016",
+  "size": "0x1"
+ },
+ {
+  "property": "bCheckContactForcesForForwardForce",
+  "offset": "0x3017",
+  "size": "0x1"
+ },
+ {
+  "property": "bSkipApplyForwardForceIfBoosting",
+  "offset": "0x3018",
+  "size": "0x1"
+ },
+ {
+  "property": "bCheckContactForcesForBrakeForce",
+  "offset": "0x3019",
+  "size": "0x1"
+ },
+ {
+  "property": "bAllowCruiseControl",
+  "offset": "0x3020",
+  "size": "0x1"
+ },
+ {
+  "property": "CruiseSpeedCorrectionMagnitude",
+  "offset": "0x3024",
+  "size": "0x4"
+ },
+ {
+  "property": "DamageToPassengersWhenDowned",
+  "offset": "0x3028",
+  "size": "0x4"
+ },
+ {
+  "property": "bTakeDamageFromLandscape",
+  "offset": "0x3032",
+  "size": "0x1"
+ },
+ {
+  "property": "MinSpeedForLandscapeDamage",
+  "offset": "0x3036",
+  "size": "0x4"
+ },
+ {
+  "property": "MinLandscapeDamage",
+  "offset": "0x3040",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxLandscapeDamage",
+  "offset": "0x3044",
+  "size": "0x4"
+ },
+ {
+  "property": "BoostingLandscapeDamage",
+  "offset": "0x3048",
+  "size": "0x4"
+ }
+]

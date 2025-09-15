@@ -1,0 +1,32 @@
+[
+ {
+  "property": "LinkOffsetFromSplineStart",
+  "offset": "0x512",
+  "size": "0x24"
+ },
+ {
+  "property": "LinkOffsetFromSplineEnd",
+  "offset": "0x536",
+  "size": "0x24"
+ },
+ {
+  "property": "bOverrideSnapRadius",
+  "offset": "0x560",
+  "size": "0x1"
+ },
+ {
+  "property": "SnapRadiusOverride",
+  "offset": "0x564",
+  "size": "0x4"
+ },
+ {
+  "property": "bOverrideSnapHeight",
+  "offset": "0x568",
+  "size": "0x1"
+ },
+ {
+  "property": "SnapHeightOverride",
+  "offset": "0x572",
+  "size": "0x4"
+ }
+]

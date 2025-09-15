@@ -1,0 +1,12 @@
+[
+ {
+  "property": "SourceDefinitions",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "BakedDefinition",
+  "offset": "0x64",
+  "size": "0x8"
+ }
+]

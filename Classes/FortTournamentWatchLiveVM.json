@@ -1,0 +1,22 @@
+[
+ {
+  "property": "bIsModelInitialized",
+  "offset": "0x104",
+  "size": "0x1"
+ },
+ {
+  "property": "CompeteUIManager",
+  "offset": "0x120",
+  "size": "0x8"
+ },
+ {
+  "property": "TournamentName",
+  "offset": "0x128",
+  "size": "0x16"
+ },
+ {
+  "property": "LiveGames",
+  "offset": "0x144",
+  "size": "0x16"
+ }
+]

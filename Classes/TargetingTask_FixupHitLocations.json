@@ -1,0 +1,12 @@
+[
+ {
+  "property": "TargetFilterQuery",
+  "offset": "0x40",
+  "size": "0x72"
+ },
+ {
+  "property": "bTraceComplex",
+  "offset": "0x112",
+  "size": "0x1"
+ }
+]

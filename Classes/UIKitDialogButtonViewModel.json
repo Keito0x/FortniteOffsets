@@ -1,0 +1,27 @@
+[
+ {
+  "property": "Text",
+  "offset": "0x104",
+  "size": "0x16"
+ },
+ {
+  "property": "ActionType",
+  "offset": "0x120",
+  "size": "0x1"
+ },
+ {
+  "property": "DataTable",
+  "offset": "0x128",
+  "size": "0x32"
+ },
+ {
+  "property": "InputAction",
+  "offset": "0x160",
+  "size": "0x4"
+ },
+ {
+  "property": "bAutoDeactivate",
+  "offset": "0x164",
+  "size": "0x1"
+ }
+]

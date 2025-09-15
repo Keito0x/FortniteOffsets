@@ -1,0 +1,17 @@
+[
+ {
+  "property": "RegistriesToAdd",
+  "offset": "0x40",
+  "size": "0x16"
+ },
+ {
+  "property": "bPreloadInEditor",
+  "offset": "0x56",
+  "size": "0x1"
+ },
+ {
+  "property": "bPreloadInCommandlets",
+  "offset": "0x57",
+  "size": "0x1"
+ }
+]

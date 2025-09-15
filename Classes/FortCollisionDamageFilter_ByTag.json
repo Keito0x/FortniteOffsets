@@ -1,0 +1,12 @@
+[
+ {
+  "property": "SourceActorTag",
+  "offset": "0x48",
+  "size": "0x4"
+ },
+ {
+  "property": "TargetActorTag",
+  "offset": "0x52",
+  "size": "0x4"
+ }
+]

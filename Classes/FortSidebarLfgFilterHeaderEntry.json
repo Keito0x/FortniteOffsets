@@ -1,0 +1,12 @@
+[
+ {
+  "property": "FocusedInputActionWidget",
+  "offset": "0x5656",
+  "size": "0x8"
+ },
+ {
+  "property": "UnfocusedInputActionWidget",
+  "offset": "0x5664",
+  "size": "0x8"
+ }
+]

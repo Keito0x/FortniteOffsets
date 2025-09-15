@@ -1,0 +1,22 @@
+[
+ {
+  "property": "VictoryCrownPlaylistData",
+  "offset": "0x200",
+  "size": "0x8"
+ },
+ {
+  "property": "bInitializeSuccess",
+  "offset": "0x208",
+  "size": "0x1"
+ },
+ {
+  "property": "bSelectedPlaylistSupportCrown",
+  "offset": "0x209",
+  "size": "0x1"
+ },
+ {
+  "property": "PersistentParty",
+  "offset": "0x216",
+  "size": "0x8"
+ }
+]

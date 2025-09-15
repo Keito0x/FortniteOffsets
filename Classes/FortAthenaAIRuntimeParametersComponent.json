@@ -1,0 +1,12 @@
+[
+ {
+  "property": "RegisteredParametersProviders",
+  "offset": "0x192",
+  "size": "0x80"
+ },
+ {
+  "property": "ExtractedRuntimeParameters",
+  "offset": "0x272",
+  "size": "0x80"
+ }
+]

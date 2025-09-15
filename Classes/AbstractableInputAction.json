@@ -1,0 +1,12 @@
+[
+ {
+  "property": "InputArchetype",
+  "offset": "0x120",
+  "size": "0x32"
+ },
+ {
+  "property": "UISortOrder",
+  "offset": "0x152",
+  "size": "0x4"
+ }
+]

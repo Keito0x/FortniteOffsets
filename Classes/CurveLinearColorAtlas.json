@@ -1,0 +1,12 @@
+[
+ {
+  "property": "TextureSize",
+  "offset": "0x352",
+  "size": "0x4"
+ },
+ {
+  "property": "GradientCurves",
+  "offset": "0x360",
+  "size": "0x16"
+ }
+]

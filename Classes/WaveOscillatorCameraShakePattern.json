@@ -1,0 +1,57 @@
+[
+ {
+  "property": "LocationAmplitudeMultiplier",
+  "offset": "0x88",
+  "size": "0x4"
+ },
+ {
+  "property": "LocationFrequencyMultiplier",
+  "offset": "0x92",
+  "size": "0x4"
+ },
+ {
+  "property": "X",
+  "offset": "0x96",
+  "size": "0x12"
+ },
+ {
+  "property": "Y",
+  "offset": "0x108",
+  "size": "0x12"
+ },
+ {
+  "property": "Z",
+  "offset": "0x120",
+  "size": "0x12"
+ },
+ {
+  "property": "RotationAmplitudeMultiplier",
+  "offset": "0x132",
+  "size": "0x4"
+ },
+ {
+  "property": "RotationFrequencyMultiplier",
+  "offset": "0x136",
+  "size": "0x4"
+ },
+ {
+  "property": "pitch",
+  "offset": "0x140",
+  "size": "0x12"
+ },
+ {
+  "property": "Yaw",
+  "offset": "0x152",
+  "size": "0x12"
+ },
+ {
+  "property": "Roll",
+  "offset": "0x164",
+  "size": "0x12"
+ },
+ {
+  "property": "FOV",
+  "offset": "0x176",
+  "size": "0x12"
+ }
+]

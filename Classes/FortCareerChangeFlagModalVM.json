@@ -1,0 +1,22 @@
+[
+ {
+  "property": "OnFlagChanged",
+  "offset": "0x176",
+  "size": "0x16"
+ },
+ {
+  "property": "RegionLockDaysRemaining",
+  "offset": "0x192",
+  "size": "0x4"
+ },
+ {
+  "property": "bAllowedToChangeFlag",
+  "offset": "0x196",
+  "size": "0x1"
+ },
+ {
+  "property": "AvailableRegions",
+  "offset": "0x200",
+  "size": "0x16"
+ }
+]

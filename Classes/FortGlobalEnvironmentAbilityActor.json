@@ -1,0 +1,12 @@
+[
+ {
+  "property": "AbilitySystemComponent",
+  "offset": "0x688",
+  "size": "0x8"
+ },
+ {
+  "property": "DamageSet",
+  "offset": "0x696",
+  "size": "0x8"
+ }
+]

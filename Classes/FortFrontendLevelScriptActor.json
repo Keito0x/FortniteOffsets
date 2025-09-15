@@ -1,0 +1,12 @@
+[
+ {
+  "property": "CommanderPreviewPedestalActor",
+  "offset": "0x704",
+  "size": "0x32"
+ },
+ {
+  "property": "HeroLoadoutPreviewPedestalActor",
+  "offset": "0x736",
+  "size": "0x32"
+ }
+]

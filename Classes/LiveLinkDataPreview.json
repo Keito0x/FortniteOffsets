@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Subjects",
+  "offset": "0x680",
+  "size": "0x16"
+ },
+ {
+  "property": "",
+  "offset": "0x98741524",
+  "size": "0x0"
+ }
+]

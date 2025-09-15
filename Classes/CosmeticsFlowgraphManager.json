@@ -1,0 +1,32 @@
+[
+ {
+  "property": "CosmeticCategories",
+  "offset": "0x40",
+  "size": "0x80"
+ },
+ {
+  "property": "AllocatedContexts",
+  "offset": "0x120",
+  "size": "0x16"
+ },
+ {
+  "property": "ActorToVarianceFlow",
+  "offset": "0x136",
+  "size": "0x80"
+ },
+ {
+  "property": "UniquePassContexts",
+  "offset": "0x216",
+  "size": "0x16"
+ },
+ {
+  "property": "CosmeticFlowOptionSets",
+  "offset": "0x240",
+  "size": "0x80"
+ },
+ {
+  "property": "FlowgraphDebugger",
+  "offset": "0x336",
+  "size": "0x8"
+ }
+]

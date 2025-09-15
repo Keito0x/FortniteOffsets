@@ -1,0 +1,22 @@
+[
+ {
+  "property": "InitialPlacement",
+  "offset": "0x104",
+  "size": "0x8"
+ },
+ {
+  "property": "CurrentPlacement",
+  "offset": "0x112",
+  "size": "0x8"
+ },
+ {
+  "property": "PositionDelta",
+  "offset": "0x120",
+  "size": "0x4"
+ },
+ {
+  "property": "bIsDataValid",
+  "offset": "0x124",
+  "size": "0x1"
+ }
+]

@@ -1,0 +1,27 @@
+[
+ {
+  "property": "Connectivity",
+  "offset": "0x3304",
+  "size": "0x8"
+ },
+ {
+  "property": "TerrainVisualModifierActor",
+  "offset": "0x3312",
+  "size": "0x8"
+ },
+ {
+  "property": "bCanRegenHealth",
+  "offset": "0x3320",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldPersist",
+  "offset": "0x3321",
+  "size": "0x1"
+ },
+ {
+  "property": "bPreventDestroyingFoliageWhenPlaced",
+  "offset": "0x3322",
+  "size": "0x1"
+ }
+]

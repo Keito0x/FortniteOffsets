@@ -1,0 +1,12 @@
+[
+ {
+  "property": "WaveTier",
+  "offset": "0x1312",
+  "size": "0x4"
+ },
+ {
+  "property": "VisualizerRadius",
+  "offset": "0x1316",
+  "size": "0x4"
+ }
+]

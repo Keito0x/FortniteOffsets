@@ -1,0 +1,17 @@
+[
+ {
+  "property": "Unknown_ffield",
+  "offset": "0x816",
+  "size": "0x8"
+ },
+ {
+  "property": "ActiveButtons",
+  "offset": "0x824",
+  "size": "0x16"
+ },
+ {
+  "property": "InactiveButtons",
+  "offset": "0x840",
+  "size": "0x16"
+ }
+]

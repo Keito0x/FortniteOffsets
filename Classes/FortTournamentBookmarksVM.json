@@ -1,0 +1,17 @@
+[
+ {
+  "property": "UpcomingTournaments",
+  "offset": "0x104",
+  "size": "0x16"
+ },
+ {
+  "property": "bIsTournamentLobby",
+  "offset": "0x120",
+  "size": "0x1"
+ },
+ {
+  "property": "CompeteUIManager",
+  "offset": "0x128",
+  "size": "0x8"
+ }
+]

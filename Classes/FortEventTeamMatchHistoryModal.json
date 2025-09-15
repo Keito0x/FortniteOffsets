@@ -1,0 +1,42 @@
+[
+ {
+  "property": "ListView_MatchHistory",
+  "offset": "0x1488",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_TeamNames",
+  "offset": "0x1496",
+  "size": "0x8"
+ },
+ {
+  "property": "Widget_AltStat0",
+  "offset": "0x1504",
+  "size": "0x8"
+ },
+ {
+  "property": "Widget_AltStat1",
+  "offset": "0x1512",
+  "size": "0x8"
+ },
+ {
+  "property": "Widget_AltStat2",
+  "offset": "0x1520",
+  "size": "0x8"
+ },
+ {
+  "property": "Widget_AltStat3",
+  "offset": "0x1528",
+  "size": "0x8"
+ },
+ {
+  "property": "LeaderboardEntryData",
+  "offset": "0x1536",
+  "size": "0x8"
+ },
+ {
+  "property": "LastClickedMatchHistoryEntry",
+  "offset": "0x1544",
+  "size": "0x8"
+ }
+]

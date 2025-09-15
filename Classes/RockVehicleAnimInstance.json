@@ -1,0 +1,32 @@
+[
+ {
+  "property": "BouncyChassis",
+  "offset": "0x1704",
+  "size": "0x12"
+ },
+ {
+  "property": "WheelInfoFR",
+  "offset": "0x1716",
+  "size": "0x20"
+ },
+ {
+  "property": "WheelInfoFL",
+  "offset": "0x1736",
+  "size": "0x20"
+ },
+ {
+  "property": "WheelInfoBR",
+  "offset": "0x1756",
+  "size": "0x20"
+ },
+ {
+  "property": "WheelInfoBL",
+  "offset": "0x1776",
+  "size": "0x20"
+ },
+ {
+  "property": "WheelLerpSpeed",
+  "offset": "0x1796",
+  "size": "0x4"
+ }
+]

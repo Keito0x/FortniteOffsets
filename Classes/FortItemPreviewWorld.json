@@ -1,0 +1,57 @@
+[
+ {
+  "property": "PreviewSceneChangerTags",
+  "offset": "0x688",
+  "size": "0x32"
+ },
+ {
+  "property": "BackgroundMaterial",
+  "offset": "0x720",
+  "size": "0x8"
+ },
+ {
+  "property": "BackgroundMaterialDynamic",
+  "offset": "0x728",
+  "size": "0x8"
+ },
+ {
+  "property": "FloorMaterial",
+  "offset": "0x736",
+  "size": "0x8"
+ },
+ {
+  "property": "FloorMaterialDynamic",
+  "offset": "0x744",
+  "size": "0x8"
+ },
+ {
+  "property": "SceneBackgroundComponent",
+  "offset": "0x752",
+  "size": "0x8"
+ },
+ {
+  "property": "SceneBackground",
+  "offset": "0x760",
+  "size": "0x8"
+ },
+ {
+  "property": "SceneChangerComponent",
+  "offset": "0x768",
+  "size": "0x8"
+ },
+ {
+  "property": "PreviewSceneChanger",
+  "offset": "0x776",
+  "size": "0x8"
+ },
+ {
+  "property": "CachedBackgroundData",
+  "offset": "0x784",
+  "size": "0x88"
+ },
+ {
+  "property": "bHasFloor",
+  "offset": "0x874",
+  "size": "0x1"
+ }
+]

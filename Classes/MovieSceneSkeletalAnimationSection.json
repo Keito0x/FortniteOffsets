@@ -1,0 +1,112 @@
+[
+ {
+  "property": "Params",
+  "offset": "0x272",
+  "size": "0x336"
+ },
+ {
+  "property": "AnimSequence",
+  "offset": "0x608",
+  "size": "0x8"
+ },
+ {
+  "property": "Animation",
+  "offset": "0x616",
+  "size": "0x8"
+ },
+ {
+  "property": "StartOffset",
+  "offset": "0x624",
+  "size": "0x4"
+ },
+ {
+  "property": "EndOffset",
+  "offset": "0x628",
+  "size": "0x4"
+ },
+ {
+  "property": "PlayRate",
+  "offset": "0x632",
+  "size": "0x4"
+ },
+ {
+  "property": "bReverse",
+  "offset": "0x636",
+  "size": "0x1"
+ },
+ {
+  "property": "SlotName",
+  "offset": "0x640",
+  "size": "0x4"
+ },
+ {
+  "property": "StartLocationOffset",
+  "offset": "0x648",
+  "size": "0x24"
+ },
+ {
+  "property": "StartRotationOffset",
+  "offset": "0x672",
+  "size": "0x24"
+ },
+ {
+  "property": "MatchedBoneName",
+  "offset": "0x696",
+  "size": "0x4"
+ },
+ {
+  "property": "MatchedLocationOffset",
+  "offset": "0x704",
+  "size": "0x24"
+ },
+ {
+  "property": "MatchedRotationOffset",
+  "offset": "0x728",
+  "size": "0x24"
+ },
+ {
+  "property": "bMatchWithPrevious",
+  "offset": "0x752",
+  "size": "0x1"
+ },
+ {
+  "property": "bMatchTranslation",
+  "offset": "0x752",
+  "size": "0x1"
+ },
+ {
+  "property": "bMatchIncludeZHeight",
+  "offset": "0x752",
+  "size": "0x1"
+ },
+ {
+  "property": "bMatchRotationYaw",
+  "offset": "0x752",
+  "size": "0x1"
+ },
+ {
+  "property": "bMatchRotationPitch",
+  "offset": "0x752",
+  "size": "0x1"
+ },
+ {
+  "property": "bMatchRotationRoll",
+  "offset": "0x752",
+  "size": "0x1"
+ },
+ {
+  "property": "bDebugForceTickPose",
+  "offset": "0x752",
+  "size": "0x1"
+ },
+ {
+  "property": "MixedAnimationTarget",
+  "offset": "0x760",
+  "size": "0x16"
+ },
+ {
+  "property": "MixedAnimationPriority",
+  "offset": "0x776",
+  "size": "0x4"
+ }
+]

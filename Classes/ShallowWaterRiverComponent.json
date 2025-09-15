@@ -1,0 +1,202 @@
+[
+ {
+  "property": "NiagaraRiverSimulation",
+  "offset": "0x1304",
+  "size": "0x8"
+ },
+ {
+  "property": "ResolutionMaxAxis",
+  "offset": "0x1312",
+  "size": "0x4"
+ },
+ {
+  "property": "SourceSize",
+  "offset": "0x1316",
+  "size": "0x4"
+ },
+ {
+  "property": "SimSpeed",
+  "offset": "0x1320",
+  "size": "0x4"
+ },
+ {
+  "property": "NumSteps",
+  "offset": "0x1324",
+  "size": "0x4"
+ },
+ {
+  "property": "bMatchSpline",
+  "offset": "0x1328",
+  "size": "0x1"
+ },
+ {
+  "property": "MatchSplineHeightAmount",
+  "offset": "0x1332",
+  "size": "0x4"
+ },
+ {
+  "property": "RemoveOutsideSplineAmount",
+  "offset": "0x1336",
+  "size": "0x4"
+ },
+ {
+  "property": "SourceRiverWaterBodies",
+  "offset": "0x1344",
+  "size": "0x16"
+ },
+ {
+  "property": "SinkRiverWaterBodies",
+  "offset": "0x1360",
+  "size": "0x16"
+ },
+ {
+  "property": "RenderState",
+  "offset": "0x1376",
+  "size": "0x1"
+ },
+ {
+  "property": "BakedSimMaterial",
+  "offset": "0x1384",
+  "size": "0x8"
+ },
+ {
+  "property": "BakedSimRiverToLakeTransitionMaterial",
+  "offset": "0x1392",
+  "size": "0x8"
+ },
+ {
+  "property": "BakedSimRiverToOceanTransitionMaterial",
+  "offset": "0x1400",
+  "size": "0x8"
+ },
+ {
+  "property": "SplineRiverMaterial",
+  "offset": "0x1408",
+  "size": "0x8"
+ },
+ {
+  "property": "SplineRiverToLakeTransitionMaterial",
+  "offset": "0x1416",
+  "size": "0x8"
+ },
+ {
+  "property": "SplineRiverToOceanTransitionMaterial",
+  "offset": "0x1424",
+  "size": "0x8"
+ },
+ {
+  "property": "SmoothingWidth",
+  "offset": "0x1432",
+  "size": "0x4"
+ },
+ {
+  "property": "SmoothingCutoff",
+  "offset": "0x1436",
+  "size": "0x4"
+ },
+ {
+  "property": "BakedWaterSurfaceTexture",
+  "offset": "0x1440",
+  "size": "0x8"
+ },
+ {
+  "property": "BakedFoamTexture",
+  "offset": "0x1448",
+  "size": "0x8"
+ },
+ {
+  "property": "BakedWaterSurfaceNormalTexture",
+  "offset": "0x1456",
+  "size": "0x8"
+ },
+ {
+  "property": "bUseCapture",
+  "offset": "0x1464",
+  "size": "0x1"
+ },
+ {
+  "property": "BottomContourLandscapeActors",
+  "offset": "0x1472",
+  "size": "0x16"
+ },
+ {
+  "property": "BottomContourActors",
+  "offset": "0x1488",
+  "size": "0x16"
+ },
+ {
+  "property": "BottomContourTags",
+  "offset": "0x1504",
+  "size": "0x16"
+ },
+ {
+  "property": "BottomContourCaptureOffset",
+  "offset": "0x1520",
+  "size": "0x4"
+ },
+ {
+  "property": "DilatedBottomContourActors",
+  "offset": "0x1528",
+  "size": "0x16"
+ },
+ {
+  "property": "DilatedBottomContourTags",
+  "offset": "0x1544",
+  "size": "0x16"
+ },
+ {
+  "property": "BottomContourCollisionDilation",
+  "offset": "0x1560",
+  "size": "0x4"
+ },
+ {
+  "property": "RiverSimSystem",
+  "offset": "0x1568",
+  "size": "0x8"
+ },
+ {
+  "property": "WaterInfoTexture",
+  "offset": "0x1576",
+  "size": "0x8"
+ },
+ {
+  "property": "BakedWaterSurfaceRT",
+  "offset": "0x1584",
+  "size": "0x8"
+ },
+ {
+  "property": "BakedFoamRT",
+  "offset": "0x1592",
+  "size": "0x8"
+ },
+ {
+  "property": "BakedWaterSurfaceNormalRT",
+  "offset": "0x1600",
+  "size": "0x8"
+ },
+ {
+  "property": "BakedSim",
+  "offset": "0x1608",
+  "size": "0x8"
+ },
+ {
+  "property": "AllWaterBodies",
+  "offset": "0x1624",
+  "size": "0x80"
+ },
+ {
+  "property": "WorldGridSize",
+  "offset": "0x1704",
+  "size": "0x16"
+ },
+ {
+  "property": "SystemPos",
+  "offset": "0x1720",
+  "size": "0x24"
+ },
+ {
+  "property": "NormalDetailRT",
+  "offset": "0x1744",
+  "size": "0x8"
+ }
+]

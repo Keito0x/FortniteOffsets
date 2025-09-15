@@ -1,0 +1,382 @@
+[
+ {
+  "property": "bDrawTriangleEdges",
+  "offset": "0x1248",
+  "size": "0x1"
+ },
+ {
+  "property": "bDrawPolyEdges",
+  "offset": "0x1248",
+  "size": "0x1"
+ },
+ {
+  "property": "bDrawFilledPolys",
+  "offset": "0x1248",
+  "size": "0x1"
+ },
+ {
+  "property": "bDrawNavMeshEdges",
+  "offset": "0x1248",
+  "size": "0x1"
+ },
+ {
+  "property": "bDrawTileBounds",
+  "offset": "0x1248",
+  "size": "0x1"
+ },
+ {
+  "property": "bDrawTileResolutions",
+  "offset": "0x1248",
+  "size": "0x1"
+ },
+ {
+  "property": "bDrawPathCollidingGeometry",
+  "offset": "0x1248",
+  "size": "0x1"
+ },
+ {
+  "property": "bDrawTileLabels",
+  "offset": "0x1248",
+  "size": "0x1"
+ },
+ {
+  "property": "bDrawTileBuildTimes",
+  "offset": "0x1249",
+  "size": "0x1"
+ },
+ {
+  "property": "bDrawTileBuildTimesHeatMap",
+  "offset": "0x1249",
+  "size": "0x1"
+ },
+ {
+  "property": "bDrawPolygonLabels",
+  "offset": "0x1249",
+  "size": "0x1"
+ },
+ {
+  "property": "bDrawDefaultPolygonCost",
+  "offset": "0x1249",
+  "size": "0x1"
+ },
+ {
+  "property": "bDrawPolygonFlags",
+  "offset": "0x1249",
+  "size": "0x1"
+ },
+ {
+  "property": "bDrawLabelsOnPathNodes",
+  "offset": "0x1249",
+  "size": "0x1"
+ },
+ {
+  "property": "bDrawNavLinks",
+  "offset": "0x1249",
+  "size": "0x1"
+ },
+ {
+  "property": "bDrawFailedNavLinks",
+  "offset": "0x1249",
+  "size": "0x1"
+ },
+ {
+  "property": "bDrawClusters",
+  "offset": "0x1250",
+  "size": "0x1"
+ },
+ {
+  "property": "bDrawOctree",
+  "offset": "0x1250",
+  "size": "0x1"
+ },
+ {
+  "property": "bDrawOctreeDetails",
+  "offset": "0x1250",
+  "size": "0x1"
+ },
+ {
+  "property": "bDrawMarkedForbiddenPolys",
+  "offset": "0x1250",
+  "size": "0x1"
+ },
+ {
+  "property": "bDistinctlyDrawTilesBeingBuilt",
+  "offset": "0x1250",
+  "size": "0x1"
+ },
+ {
+  "property": "DrawOffset",
+  "offset": "0x1252",
+  "size": "0x4"
+ },
+ {
+  "property": "TileGenerationDebug",
+  "offset": "0x1256",
+  "size": "0x48"
+ },
+ {
+  "property": "bFixedTilePoolSize",
+  "offset": "0x1304",
+  "size": "0x1"
+ },
+ {
+  "property": "TilePoolSize",
+  "offset": "0x1308",
+  "size": "0x4"
+ },
+ {
+  "property": "TileSizeUU",
+  "offset": "0x1312",
+  "size": "0x4"
+ },
+ {
+  "property": "CellSize",
+  "offset": "0x1316",
+  "size": "0x4"
+ },
+ {
+  "property": "CellHeight",
+  "offset": "0x1320",
+  "size": "0x4"
+ },
+ {
+  "property": "AgentMaxStepHeight",
+  "offset": "0x1324",
+  "size": "0x4"
+ },
+ {
+  "property": "NavMeshResolutionParams",
+  "offset": "0x1328",
+  "size": "0x36"
+ },
+ {
+  "property": "AgentRadius",
+  "offset": "0x1364",
+  "size": "0x4"
+ },
+ {
+  "property": "AgentHeight",
+  "offset": "0x1368",
+  "size": "0x4"
+ },
+ {
+  "property": "AgentMaxSlope",
+  "offset": "0x1372",
+  "size": "0x4"
+ },
+ {
+  "property": "MinRegionArea",
+  "offset": "0x1376",
+  "size": "0x4"
+ },
+ {
+  "property": "MergeRegionSize",
+  "offset": "0x1380",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxVerticalMergeError",
+  "offset": "0x1384",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxSimplificationError",
+  "offset": "0x1388",
+  "size": "0x4"
+ },
+ {
+  "property": "SimplificationElevationRatio",
+  "offset": "0x1392",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxSimultaneousTileGenerationJobsCount",
+  "offset": "0x1396",
+  "size": "0x4"
+ },
+ {
+  "property": "TileNumberHardLimit",
+  "offset": "0x1400",
+  "size": "0x4"
+ },
+ {
+  "property": "ExpectedMaxLayersPerTile",
+  "offset": "0x1404",
+  "size": "0x4"
+ },
+ {
+  "property": "PolyRefTileBits",
+  "offset": "0x1408",
+  "size": "0x4"
+ },
+ {
+  "property": "PolyRefNavPolyBits",
+  "offset": "0x1412",
+  "size": "0x4"
+ },
+ {
+  "property": "PolyRefSaltBits",
+  "offset": "0x1416",
+  "size": "0x4"
+ },
+ {
+  "property": "NavMeshOriginOffset",
+  "offset": "0x1424",
+  "size": "0x24"
+ },
+ {
+  "property": "DefaultDrawDistance",
+  "offset": "0x1448",
+  "size": "0x4"
+ },
+ {
+  "property": "DefaultMaxSearchNodes",
+  "offset": "0x1452",
+  "size": "0x4"
+ },
+ {
+  "property": "DefaultMaxHierarchicalSearchNodes",
+  "offset": "0x1456",
+  "size": "0x4"
+ },
+ {
+  "property": "LedgeSlopeFilterMode",
+  "offset": "0x1460",
+  "size": "0x1"
+ },
+ {
+  "property": "RegionPartitioning",
+  "offset": "0x1461",
+  "size": "0x1"
+ },
+ {
+  "property": "LayerPartitioning",
+  "offset": "0x1462",
+  "size": "0x1"
+ },
+ {
+  "property": "RegionChunkSplits",
+  "offset": "0x1464",
+  "size": "0x4"
+ },
+ {
+  "property": "LayerChunkSplits",
+  "offset": "0x1468",
+  "size": "0x4"
+ },
+ {
+  "property": "bSortNavigationAreasByCost",
+  "offset": "0x1472",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsWorldPartitioned",
+  "offset": "0x1472",
+  "size": "0x1"
+ },
+ {
+  "property": "bGenerateNavLinks",
+  "offset": "0x1472",
+  "size": "0x1"
+ },
+ {
+  "property": "bPerformVoxelFiltering",
+  "offset": "0x1472",
+  "size": "0x1"
+ },
+ {
+  "property": "bMarkLowHeightAreas",
+  "offset": "0x1472",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseExtraTopCellWhenMarkingAreas",
+  "offset": "0x1472",
+  "size": "0x1"
+ },
+ {
+  "property": "bFilterLowSpanSequences",
+  "offset": "0x1472",
+  "size": "0x1"
+ },
+ {
+  "property": "bFilterLowSpanFromTileCache",
+  "offset": "0x1472",
+  "size": "0x1"
+ },
+ {
+  "property": "bDoFullyAsyncNavDataGathering",
+  "offset": "0x1473",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseBetterOffsetsFromCorners",
+  "offset": "0x1473",
+  "size": "0x1"
+ },
+ {
+  "property": "bStoreEmptyTileLayers",
+  "offset": "0x1473",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseVirtualFilters",
+  "offset": "0x1473",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseVirtualGeometryFilteringAndDirtying",
+  "offset": "0x1473",
+  "size": "0x1"
+ },
+ {
+  "property": "bAllowNavLinkAsPathEnd",
+  "offset": "0x1473",
+  "size": "0x1"
+ },
+ {
+  "property": "TimeSliceFilterLedgeSpansMaxYProcess",
+  "offset": "0x1476",
+  "size": "0x4"
+ },
+ {
+  "property": "TimeSliceLongDurationDebug",
+  "offset": "0x1480",
+  "size": "0x8"
+ },
+ {
+  "property": "InvokerTilePriorityBumpDistanceThresholdInTileUnits",
+  "offset": "0x1488",
+  "size": "0x4"
+ },
+ {
+  "property": "InvokerTilePriorityBumpIncrease",
+  "offset": "0x1492",
+  "size": "0x1"
+ },
+ {
+  "property": "NavLinkJumpDownConfig",
+  "offset": "0x1496",
+  "size": "0x88"
+ },
+ {
+  "property": "bUseVoxelCache",
+  "offset": "0x1588",
+  "size": "0x1"
+ },
+ {
+  "property": "TileSetUpdateInterval",
+  "offset": "0x1592",
+  "size": "0x4"
+ },
+ {
+  "property": "HeuristicScale",
+  "offset": "0x1596",
+  "size": "0x4"
+ },
+ {
+  "property": "VerticalDeviationFromGroundCompensation",
+  "offset": "0x1600",
+  "size": "0x4"
+ }
+]

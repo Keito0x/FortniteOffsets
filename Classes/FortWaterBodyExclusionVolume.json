@@ -1,0 +1,12 @@
+[
+ {
+  "property": "ExclusionMode",
+  "offset": "0x752",
+  "size": "0x4"
+ },
+ {
+  "property": "WaterBodies",
+  "offset": "0x760",
+  "size": "0x16"
+ }
+]

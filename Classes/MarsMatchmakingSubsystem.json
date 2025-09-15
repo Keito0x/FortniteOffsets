@@ -1,0 +1,12 @@
+[
+ {
+  "property": "MaxPlayersPerMission",
+  "offset": "0x64",
+  "size": "0x4"
+ },
+ {
+  "property": "MissionPreparationTimeSeconds",
+  "offset": "0x68",
+  "size": "0x4"
+ }
+]

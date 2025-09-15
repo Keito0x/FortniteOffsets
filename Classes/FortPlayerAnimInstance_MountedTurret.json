@@ -1,0 +1,37 @@
+[
+ {
+  "property": "VelocityImpact",
+  "offset": "0x4888",
+  "size": "0x240"
+ },
+ {
+  "property": "ImpactDisplacement",
+  "offset": "0x5128",
+  "size": "0x24"
+ },
+ {
+  "property": "MountedTurret",
+  "offset": "0x5152",
+  "size": "0x8"
+ },
+ {
+  "property": "PedalScaler",
+  "offset": "0x5160",
+  "size": "0x4"
+ },
+ {
+  "property": "TurnRate",
+  "offset": "0x5164",
+  "size": "0x4"
+ },
+ {
+  "property": "PitchRate",
+  "offset": "0x5168",
+  "size": "0x4"
+ },
+ {
+  "property": "AimingPitchLastTick",
+  "offset": "0x5172",
+  "size": "0x4"
+ }
+]

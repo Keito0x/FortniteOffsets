@@ -1,0 +1,17 @@
+[
+ {
+  "property": "PendingSortItem",
+  "offset": "0x120",
+  "size": "0x8"
+ },
+ {
+  "property": "PendingFilterItem",
+  "offset": "0x128",
+  "size": "0x8"
+ },
+ {
+  "property": "PendingOptionItems",
+  "offset": "0x136",
+  "size": "0x80"
+ }
+]

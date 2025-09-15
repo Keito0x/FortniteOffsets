@@ -1,0 +1,12 @@
+[
+ {
+  "property": "InAppSoundsAllowedMix",
+  "offset": "0x40",
+  "size": "0x32"
+ },
+ {
+  "property": "AppActiveSoundMix",
+  "offset": "0x72",
+  "size": "0x32"
+ }
+]

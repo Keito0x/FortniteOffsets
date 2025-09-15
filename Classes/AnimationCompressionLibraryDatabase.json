@@ -1,0 +1,22 @@
+[
+ {
+  "property": "CookedCompressedBytes",
+  "offset": "0x40",
+  "size": "0x16"
+ },
+ {
+  "property": "CookedAnimSequenceMappings",
+  "offset": "0x56",
+  "size": "0x16"
+ },
+ {
+  "property": "MaxStreamRequestSizeKB",
+  "offset": "0x288",
+  "size": "0x4"
+ },
+ {
+  "property": "DefaultVisualFidelity",
+  "offset": "0x292",
+  "size": "0x1"
+ }
+]

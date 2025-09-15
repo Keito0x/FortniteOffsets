@@ -1,0 +1,67 @@
+[
+ {
+  "property": "SourceBinding",
+  "offset": "0x56",
+  "size": "0x24"
+ },
+ {
+  "property": "bGenerateAtlas",
+  "offset": "0x80",
+  "size": "0x1"
+ },
+ {
+  "property": "bGenerateFrames",
+  "offset": "0x80",
+  "size": "0x1"
+ },
+ {
+  "property": "bExportFrames",
+  "offset": "0x80",
+  "size": "0x1"
+ },
+ {
+  "property": "bSetTextureAddressX",
+  "offset": "0x80",
+  "size": "0x1"
+ },
+ {
+  "property": "bSetTextureAddressY",
+  "offset": "0x80",
+  "size": "0x1"
+ },
+ {
+  "property": "FrameSize",
+  "offset": "0x84",
+  "size": "0x8"
+ },
+ {
+  "property": "AtlasTextureSize",
+  "offset": "0x92",
+  "size": "0x8"
+ },
+ {
+  "property": "TextureAddressX",
+  "offset": "0x108",
+  "size": "0x1"
+ },
+ {
+  "property": "TextureAddressY",
+  "offset": "0x109",
+  "size": "0x1"
+ },
+ {
+  "property": "AtlasAssetPathFormat",
+  "offset": "0x112",
+  "size": "0x16"
+ },
+ {
+  "property": "FramesAssetPathFormat",
+  "offset": "0x128",
+  "size": "0x16"
+ },
+ {
+  "property": "FramesExportPathFormat",
+  "offset": "0x144",
+  "size": "0x16"
+ }
+]

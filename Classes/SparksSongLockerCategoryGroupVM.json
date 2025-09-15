@@ -1,0 +1,62 @@
+[
+ {
+  "property": "CategoryGroupCollection",
+  "offset": "0x104",
+  "size": "0x8"
+ },
+ {
+  "property": "CategoryGroupConfig",
+  "offset": "0x112",
+  "size": "0x8"
+ },
+ {
+  "property": "Icon",
+  "offset": "0x120",
+  "size": "0x8"
+ },
+ {
+  "property": "Categories",
+  "offset": "0x128",
+  "size": "0x16"
+ },
+ {
+  "property": "CategoryItems",
+  "offset": "0x144",
+  "size": "0x16"
+ },
+ {
+  "property": "NewItemsInCategoryGroupCount",
+  "offset": "0x160",
+  "size": "0x4"
+ },
+ {
+  "property": "GatedItemsInCategoryGroupCount",
+  "offset": "0x164",
+  "size": "0x4"
+ },
+ {
+  "property": "ArchivedItemsInCategoryGroupCount",
+  "offset": "0x168",
+  "size": "0x4"
+ },
+ {
+  "property": "bIsLinkedToPreset",
+  "offset": "0x172",
+  "size": "0x1"
+ },
+ {
+  "property": "LinkedPresetName",
+  "offset": "0x176",
+  "size": "0x16"
+ },
+ {
+  "property": "bIsActiveArchetype",
+  "offset": "0x192",
+  "size": "0x1"
+ },
+ {
+  "property": "bShuffleEnabled",
+  "offset": "0x193",
+  "size": "0x1"
+ }
+]

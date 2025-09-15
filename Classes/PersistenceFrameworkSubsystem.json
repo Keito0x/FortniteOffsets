@@ -1,0 +1,22 @@
+[
+ {
+  "property": "ModeName",
+  "offset": "0x72",
+  "size": "0x4"
+ },
+ {
+  "property": "DeinitProcess",
+  "offset": "0x80",
+  "size": "0x8"
+ },
+ {
+  "property": "ServiceWrappers",
+  "offset": "0x88",
+  "size": "0x16"
+ },
+ {
+  "property": "ClassToExtension",
+  "offset": "0x104",
+  "size": "0x80"
+ }
+]

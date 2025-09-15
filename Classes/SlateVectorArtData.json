@@ -1,0 +1,27 @@
+[
+ {
+  "property": "VertexData",
+  "offset": "0x40",
+  "size": "0x16"
+ },
+ {
+  "property": "IndexData",
+  "offset": "0x56",
+  "size": "0x16"
+ },
+ {
+  "property": "Material",
+  "offset": "0x72",
+  "size": "0x8"
+ },
+ {
+  "property": "ExtentMin",
+  "offset": "0x80",
+  "size": "0x16"
+ },
+ {
+  "property": "ExtentMax",
+  "offset": "0x96",
+  "size": "0x16"
+ }
+]

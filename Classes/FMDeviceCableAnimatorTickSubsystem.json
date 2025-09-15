@@ -1,0 +1,17 @@
+[
+ {
+  "property": "ActiveTickList",
+  "offset": "0x96",
+  "size": "0x16"
+ },
+ {
+  "property": "AllEnabledObjects",
+  "offset": "0x112",
+  "size": "0x16"
+ },
+ {
+  "property": "AllRegisteredObjects",
+  "offset": "0x128",
+  "size": "0x80"
+ }
+]

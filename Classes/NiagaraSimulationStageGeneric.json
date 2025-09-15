@@ -1,0 +1,97 @@
+[
+ {
+  "property": "EnabledBinding",
+  "offset": "0x56",
+  "size": "0x40"
+ },
+ {
+  "property": "IterationSource",
+  "offset": "0x96",
+  "size": "0x1"
+ },
+ {
+  "property": "NumIterations",
+  "offset": "0x104",
+  "size": "0x24"
+ },
+ {
+  "property": "ExecuteBehavior",
+  "offset": "0x128",
+  "size": "0x1"
+ },
+ {
+  "property": "bDisablePartialParticleUpdate",
+  "offset": "0x132",
+  "size": "0x1"
+ },
+ {
+  "property": "DataInterface",
+  "offset": "0x136",
+  "size": "0x24"
+ },
+ {
+  "property": "bParticleIterationStateEnabled",
+  "offset": "0x160",
+  "size": "0x1"
+ },
+ {
+  "property": "ParticleIterationStateBinding",
+  "offset": "0x168",
+  "size": "0x40"
+ },
+ {
+  "property": "ParticleIterationStateRange",
+  "offset": "0x208",
+  "size": "0x8"
+ },
+ {
+  "property": "bGpuDispatchForceLinear",
+  "offset": "0x216",
+  "size": "0x1"
+ },
+ {
+  "property": "bOverrideGpuDispatchNumThreads",
+  "offset": "0x216",
+  "size": "0x1"
+ },
+ {
+  "property": "OverrideGpuDispatchNumThreadsX",
+  "offset": "0x224",
+  "size": "0x24"
+ },
+ {
+  "property": "OverrideGpuDispatchNumThreadsY",
+  "offset": "0x248",
+  "size": "0x24"
+ },
+ {
+  "property": "OverrideGpuDispatchNumThreadsZ",
+  "offset": "0x272",
+  "size": "0x24"
+ },
+ {
+  "property": "DirectDispatchType",
+  "offset": "0x296",
+  "size": "0x1"
+ },
+ {
+  "property": "DirectDispatchElementType",
+  "offset": "0x297",
+  "size": "0x1"
+ },
+ {
+  "property": "ElementCountX",
+  "offset": "0x304",
+  "size": "0x24"
+ },
+ {
+  "property": "ElementCountY",
+  "offset": "0x328",
+  "size": "0x24"
+ },
+ {
+  "property": "ElementCountZ",
+  "offset": "0x352",
+  "size": "0x24"
+ }
+]

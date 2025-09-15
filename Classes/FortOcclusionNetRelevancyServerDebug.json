@@ -1,0 +1,7 @@
+[
+ {
+  "property": "ServerCurrentStats",
+  "offset": "0x680",
+  "size": "0x80"
+ }
+]

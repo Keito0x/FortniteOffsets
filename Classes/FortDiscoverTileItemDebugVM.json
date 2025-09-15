@@ -1,0 +1,12 @@
+[
+ {
+  "property": "TileItemVM",
+  "offset": "0x104",
+  "size": "0x8"
+ },
+ {
+  "property": "OwningButton",
+  "offset": "0x120",
+  "size": "0x8"
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "property": "LeftMarginCurve",
+  "offset": "0x272",
+  "size": "0x280"
+ },
+ {
+  "property": "TopMarginCurve",
+  "offset": "0x552",
+  "size": "0x280"
+ },
+ {
+  "property": "RightMarginCurve",
+  "offset": "0x832",
+  "size": "0x280"
+ },
+ {
+  "property": "BottomMarginCurve",
+  "offset": "0x1112",
+  "size": "0x280"
+ }
+]

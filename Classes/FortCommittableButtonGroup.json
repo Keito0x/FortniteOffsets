@@ -1,0 +1,7 @@
+[
+ {
+  "property": "OnButtonCommitted",
+  "offset": "0x512",
+  "size": "0x16"
+ }
+]

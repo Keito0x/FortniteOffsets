@@ -1,0 +1,12 @@
+[
+ {
+  "property": "IsEnabled",
+  "offset": "0x88",
+  "size": "0x1"
+ },
+ {
+  "property": "LastIsEnabled",
+  "offset": "0x88",
+  "size": "0x1"
+ }
+]

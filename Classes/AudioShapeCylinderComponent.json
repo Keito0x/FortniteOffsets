@@ -1,0 +1,12 @@
+[
+ {
+  "property": "HalfHeight",
+  "offset": "0x536",
+  "size": "0x4"
+ },
+ {
+  "property": "Radius",
+  "offset": "0x540",
+  "size": "0x4"
+ }
+]

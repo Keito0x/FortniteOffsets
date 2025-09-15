@@ -1,0 +1,32 @@
+[
+ {
+  "property": "SkinWeightProfile",
+  "offset": "0x40",
+  "size": "0x4"
+ },
+ {
+  "property": "BoneNames",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "ExpandTowardsRoot",
+  "offset": "0x64",
+  "size": "0x4"
+ },
+ {
+  "property": "ExpandTowardsLeaf",
+  "offset": "0x68",
+  "size": "0x4"
+ },
+ {
+  "property": "bDebugDrawIncludedBones",
+  "offset": "0x72",
+  "size": "0x1"
+ },
+ {
+  "property": "DebugDrawColor",
+  "offset": "0x76",
+  "size": "0x4"
+ }
+]

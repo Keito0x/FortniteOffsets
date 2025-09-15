@@ -1,0 +1,52 @@
+[
+ {
+  "property": "StartSound",
+  "offset": "0x56",
+  "size": "0x8"
+ },
+ {
+  "property": "StartParticleSystem",
+  "offset": "0x64",
+  "size": "0x8"
+ },
+ {
+  "property": "StartParticleSystemParameters",
+  "offset": "0x72",
+  "size": "0x16"
+ },
+ {
+  "property": "AttachPoint",
+  "offset": "0x88",
+  "size": "0x4"
+ },
+ {
+  "property": "bStayAttached",
+  "offset": "0x92",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseHitResult",
+  "offset": "0x93",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseWeapon",
+  "offset": "0x94",
+  "size": "0x1"
+ },
+ {
+  "property": "bIgnoreRotation",
+  "offset": "0x95",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseUnsmoothedNetworkPosition",
+  "offset": "0x96",
+  "size": "0x1"
+ },
+ {
+  "property": "PoolingMethod",
+  "offset": "0x97",
+  "size": "0x1"
+ }
+]

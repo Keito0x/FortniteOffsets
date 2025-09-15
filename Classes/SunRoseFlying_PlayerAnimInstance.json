@@ -1,0 +1,232 @@
+[
+ {
+  "property": "AscenderTag",
+  "offset": "0x4888",
+  "size": "0x4"
+ },
+ {
+  "property": "GrindRailsTag",
+  "offset": "0x4892",
+  "size": "0x4"
+ },
+ {
+  "property": "WingedFlightTag",
+  "offset": "0x4896",
+  "size": "0x4"
+ },
+ {
+  "property": "WingsForceCrashTag",
+  "offset": "0x4900",
+  "size": "0x4"
+ },
+ {
+  "property": "WingsLeapingTag",
+  "offset": "0x4904",
+  "size": "0x4"
+ },
+ {
+  "property": "CurrentHeightAboveWorld",
+  "offset": "0x4908",
+  "size": "0x4"
+ },
+ {
+  "property": "Fuel",
+  "offset": "0x4912",
+  "size": "0x4"
+ },
+ {
+  "property": "GlidePitch",
+  "offset": "0x4916",
+  "size": "0x4"
+ },
+ {
+  "property": "GlidePitchAlpha",
+  "offset": "0x4920",
+  "size": "0x4"
+ },
+ {
+  "property": "GlidePitchInterp",
+  "offset": "0x4924",
+  "size": "0x4"
+ },
+ {
+  "property": "GlidePitchTarget",
+  "offset": "0x4928",
+  "size": "0x4"
+ },
+ {
+  "property": "GlideRoll",
+  "offset": "0x4932",
+  "size": "0x4"
+ },
+ {
+  "property": "GlideRollCombined",
+  "offset": "0x4936",
+  "size": "0x4"
+ },
+ {
+  "property": "GlideRollCombinedTarget",
+  "offset": "0x4940",
+  "size": "0x4"
+ },
+ {
+  "property": "GlideRollInterp",
+  "offset": "0x4944",
+  "size": "0x4"
+ },
+ {
+  "property": "GroundBlendTime",
+  "offset": "0x4948",
+  "size": "0x4"
+ },
+ {
+  "property": "pelvis",
+  "offset": "0x4952",
+  "size": "0x4"
+ },
+ {
+  "property": "PitchAlpha",
+  "offset": "0x4956",
+  "size": "0x4"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x4960",
+  "size": "0x4"
+ },
+ {
+  "property": "SlowDownOrLandAlpha",
+  "offset": "0x4964",
+  "size": "0x4"
+ },
+ {
+  "property": "SlowDownOrLandTarget",
+  "offset": "0x4968",
+  "size": "0x4"
+ },
+ {
+  "property": "SlowSpeedAlpha",
+  "offset": "0x4972",
+  "size": "0x4"
+ },
+ {
+  "property": "YawAlpha",
+  "offset": "0x4976",
+  "size": "0x4"
+ },
+ {
+  "property": "YawBlend",
+  "offset": "0x4980",
+  "size": "0x4"
+ },
+ {
+  "property": "RandomInteger",
+  "offset": "0x4984",
+  "size": "0x4"
+ },
+ {
+  "property": "bIsAllowWingFlap",
+  "offset": "0x4988",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsAscending",
+  "offset": "0x4988",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsBoostStartEnd",
+  "offset": "0x4988",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsDodgeLeft",
+  "offset": "0x4988",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsDodgeRight",
+  "offset": "0x4988",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsExtBoostEarly",
+  "offset": "0x4988",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsFlyingStart",
+  "offset": "0x4988",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsForceDive",
+  "offset": "0x4988",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsLeapInterruptible",
+  "offset": "0x4989",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsHighWithNoFuel",
+  "offset": "0x4989",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsOnAscender",
+  "offset": "0x4989",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsOnGrindRail",
+  "offset": "0x4989",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsPlayDiveHitToIdle",
+  "offset": "0x4989",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsPlayLandAdditive",
+  "offset": "0x4989",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsWingLeaping",
+  "offset": "0x4989",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsWingReplenish",
+  "offset": "0x4989",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsWingsBoosting",
+  "offset": "0x4990",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsWingsCrashing",
+  "offset": "0x4990",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsWingsFlying",
+  "offset": "0x4990",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsDiveStart",
+  "offset": "0x4990",
+  "size": "0x1"
+ },
+ {
+  "property": "bToBoosting",
+  "offset": "0x4990",
+  "size": "0x1"
+ }
+]

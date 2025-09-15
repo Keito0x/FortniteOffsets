@@ -1,0 +1,17 @@
+[
+ {
+  "property": "MeshWeights",
+  "offset": "0x576",
+  "size": "0x80"
+ },
+ {
+  "property": "",
+  "offset": "0x-1987613955",
+  "size": "0x-1949984191"
+ },
+ {
+  "property": "",
+  "offset": "0x98741524",
+  "size": "0x0"
+ }
+]

@@ -1,0 +1,17 @@
+[
+ {
+  "property": "MessageReplicatorArray",
+  "offset": "0x40",
+  "size": "0x288"
+ },
+ {
+  "property": "Key",
+  "offset": "0x328",
+  "size": "0x8"
+ },
+ {
+  "property": "AuthoritativeKey",
+  "offset": "0x336",
+  "size": "0x8"
+ }
+]

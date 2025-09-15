@@ -1,0 +1,7 @@
+[
+ {
+  "property": "BasicData",
+  "offset": "0x800",
+  "size": "0x256"
+ }
+]

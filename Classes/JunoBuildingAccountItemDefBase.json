@@ -1,0 +1,12 @@
+[
+ {
+  "property": "JunoBuildingFrontendPreviewScale",
+  "offset": "0x1120",
+  "size": "0x4"
+ },
+ {
+  "property": "JunoBuildingFrontendFramingCenterOffsetRatio",
+  "offset": "0x1128",
+  "size": "0x16"
+ }
+]

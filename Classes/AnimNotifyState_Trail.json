@@ -1,0 +1,32 @@
+[
+ {
+  "property": "PSTemplate",
+  "offset": "0x48",
+  "size": "0x8"
+ },
+ {
+  "property": "FirstSocketName",
+  "offset": "0x56",
+  "size": "0x4"
+ },
+ {
+  "property": "SecondSocketName",
+  "offset": "0x60",
+  "size": "0x4"
+ },
+ {
+  "property": "WidthScaleMode",
+  "offset": "0x64",
+  "size": "0x1"
+ },
+ {
+  "property": "WidthScaleCurve",
+  "offset": "0x68",
+  "size": "0x4"
+ },
+ {
+  "property": "bRecycleSpawnedSystems",
+  "offset": "0x72",
+  "size": "0x1"
+ }
+]

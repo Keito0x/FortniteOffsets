@@ -1,0 +1,22 @@
+[
+ {
+  "property": "LegacyKBMActionBindingName",
+  "offset": "0x48",
+  "size": "0x4"
+ },
+ {
+  "property": "LegacyGamepadActionBindingName",
+  "offset": "0x52",
+  "size": "0x4"
+ },
+ {
+  "property": "DefaultCategories",
+  "offset": "0x56",
+  "size": "0x80"
+ },
+ {
+  "property": "CategoryConfigs",
+  "offset": "0x136",
+  "size": "0x16"
+ }
+]

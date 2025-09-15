@@ -1,0 +1,42 @@
+[
+ {
+  "property": "SupportedActions",
+  "offset": "0x1136",
+  "size": "0x16"
+ },
+ {
+  "property": "ExcludedSupportedActions",
+  "offset": "0x1152",
+  "size": "0x16"
+ },
+ {
+  "property": "DefaultSelectedAction",
+  "offset": "0x1168",
+  "size": "0x32"
+ },
+ {
+  "property": "ListView_ServerBrowser",
+  "offset": "0x1200",
+  "size": "0x8"
+ },
+ {
+  "property": "NavigateLeftInputAction",
+  "offset": "0x1208",
+  "size": "0x16"
+ },
+ {
+  "property": "NavigateRightInputAction",
+  "offset": "0x1224",
+  "size": "0x16"
+ },
+ {
+  "property": "Button_Cancel",
+  "offset": "0x1256",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_CloseTouch",
+  "offset": "0x1264",
+  "size": "0x8"
+ }
+]

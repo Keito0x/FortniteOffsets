@@ -1,0 +1,92 @@
+[
+ {
+  "property": "bOverridePawnStats",
+  "offset": "0x48",
+  "size": "0x1"
+ },
+ {
+  "property": "bOverrideDirectionalSpeedMultiplier",
+  "offset": "0x48",
+  "size": "0x1"
+ },
+ {
+  "property": "bOverrideMovementInput",
+  "offset": "0x48",
+  "size": "0x1"
+ },
+ {
+  "property": "bOverrideMovementCurves",
+  "offset": "0x48",
+  "size": "0x1"
+ },
+ {
+  "property": "bOverrideStepUp",
+  "offset": "0x48",
+  "size": "0x1"
+ },
+ {
+  "property": "bOverrideMeleeCombatSpeedMultiplier",
+  "offset": "0x48",
+  "size": "0x1"
+ },
+ {
+  "property": "bOverrideDirectionalADSSpeedMultiplier",
+  "offset": "0x48",
+  "size": "0x1"
+ },
+ {
+  "property": "bOverrideWeaponSpeedMultiplier",
+  "offset": "0x48",
+  "size": "0x1"
+ },
+ {
+  "property": "bOverrideDataRegistryCurves",
+  "offset": "0x49",
+  "size": "0x1"
+ },
+ {
+  "property": "PawnStatsOverride",
+  "offset": "0x56",
+  "size": "0x16"
+ },
+ {
+  "property": "DirectionalSpeedMultiplierOverrideData",
+  "offset": "0x72",
+  "size": "0x24"
+ },
+ {
+  "property": "MovementInputOverride",
+  "offset": "0x96",
+  "size": "0x8"
+ },
+ {
+  "property": "MovementCurveOverrideData",
+  "offset": "0x104",
+  "size": "0x960"
+ },
+ {
+  "property": "StepUpOverride",
+  "offset": "0x1064",
+  "size": "0x4"
+ },
+ {
+  "property": "MeleeCombatSpeedMultiplierOverride",
+  "offset": "0x1068",
+  "size": "0x4"
+ },
+ {
+  "property": "DirectionalADSSpeedMultiplierOverrideData",
+  "offset": "0x1072",
+  "size": "0x16"
+ },
+ {
+  "property": "WeaponSpeedMultiplierData",
+  "offset": "0x1088",
+  "size": "0x32"
+ },
+ {
+  "property": "DataRegistryOverrides",
+  "offset": "0x1120",
+  "size": "0x8"
+ }
+]

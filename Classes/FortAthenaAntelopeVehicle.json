@@ -1,0 +1,312 @@
+[
+ {
+  "property": "LeanPositionBack",
+  "offset": "0x8776",
+  "size": "0x24"
+ },
+ {
+  "property": "LeanPositionTargetBack",
+  "offset": "0x8800",
+  "size": "0x24"
+ },
+ {
+  "property": "LeanPositionFront",
+  "offset": "0x8848",
+  "size": "0x24"
+ },
+ {
+  "property": "LeanPositionFrontMaxLag",
+  "offset": "0x8872",
+  "size": "0x4"
+ },
+ {
+  "property": "LeanPositionFrontLagCoefficient",
+  "offset": "0x8876",
+  "size": "0x4"
+ },
+ {
+  "property": "BackLeanSocketPosition",
+  "offset": "0x8952",
+  "size": "0x24"
+ },
+ {
+  "property": "LeanImpulseScaleBack",
+  "offset": "0x8976",
+  "size": "0x4"
+ },
+ {
+  "property": "BounceOffsetBack",
+  "offset": "0x8984",
+  "size": "0x24"
+ },
+ {
+  "property": "BounceCurve",
+  "offset": "0x9008",
+  "size": "0x8"
+ },
+ {
+  "property": "BoostSlideColors",
+  "offset": "0x9016",
+  "size": "0x16"
+ },
+ {
+  "property": "HandBrakeSkidParam",
+  "offset": "0x9032",
+  "size": "0x4"
+ },
+ {
+  "property": "BoostParam",
+  "offset": "0x9036",
+  "size": "0x4"
+ },
+ {
+  "property": "MovementParam",
+  "offset": "0x9040",
+  "size": "0x4"
+ },
+ {
+  "property": "BatteryParam",
+  "offset": "0x9044",
+  "size": "0x4"
+ },
+ {
+  "property": "RumbleIntensity",
+  "offset": "0x9048",
+  "size": "0x4"
+ },
+ {
+  "property": "bBoostCameraActive",
+  "offset": "0x9052",
+  "size": "0x1"
+ },
+ {
+  "property": "bLocalPlayerADS",
+  "offset": "0x9053",
+  "size": "0x1"
+ },
+ {
+  "property": "DriverCameraShake",
+  "offset": "0x9056",
+  "size": "0x8"
+ },
+ {
+  "property": "PassengerCameraShake",
+  "offset": "0x9064",
+  "size": "0x8"
+ },
+ {
+  "property": "LocalPlayerPawn",
+  "offset": "0x9072",
+  "size": "0x8"
+ },
+ {
+  "property": "PSC_Boost_Flames",
+  "offset": "0x9080",
+  "size": "0x8"
+ },
+ {
+  "property": "CachedSkidValue",
+  "offset": "0x9088",
+  "size": "0x4"
+ },
+ {
+  "property": "CachedAudioEngineRevUp",
+  "offset": "0x9096",
+  "size": "0x8"
+ },
+ {
+  "property": "CachedAudioSkid",
+  "offset": "0x9104",
+  "size": "0x8"
+ },
+ {
+  "property": "CachedAudioScrape",
+  "offset": "0x9112",
+  "size": "0x8"
+ },
+ {
+  "property": "CachedAudioWind",
+  "offset": "0x9120",
+  "size": "0x8"
+ },
+ {
+  "property": "CachedAudioBoost",
+  "offset": "0x9128",
+  "size": "0x8"
+ },
+ {
+  "property": "CachedAudioHandbrakeSkid",
+  "offset": "0x9136",
+  "size": "0x8"
+ },
+ {
+  "property": "CachedAudioBoostCharge",
+  "offset": "0x9144",
+  "size": "0x8"
+ },
+ {
+  "property": "CachedAudioEngineIdle",
+  "offset": "0x9152",
+  "size": "0x8"
+ },
+ {
+  "property": "bOutOfRangeAudioParamsSet",
+  "offset": "0x9160",
+  "size": "0x1"
+ },
+ {
+  "property": "bBudgetBasedAudioParamsCleared",
+  "offset": "0x9161",
+  "size": "0x1"
+ },
+ {
+  "property": "BoostMeterMID",
+  "offset": "0x9168",
+  "size": "0x8"
+ },
+ {
+  "property": "BodyMID",
+  "offset": "0x9176",
+  "size": "0x8"
+ },
+ {
+  "property": "PSC_ATV_Engine_Ready",
+  "offset": "0x9184",
+  "size": "0x8"
+ },
+ {
+  "property": "PS_Sputtering_Flames_Template",
+  "offset": "0x9192",
+  "size": "0x8"
+ },
+ {
+  "property": "bHaveTriggeredBoostFX",
+  "offset": "0x9200",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsUsingSputteringFlamesTemplate",
+  "offset": "0x9201",
+  "size": "0x1"
+ },
+ {
+  "property": "bAreWheelsIced",
+  "offset": "0x9202",
+  "size": "0x1"
+ },
+ {
+  "property": "RenderingDetailMode",
+  "offset": "0x9204",
+  "size": "0x4"
+ },
+ {
+  "property": "CacheWheelsBackOpacity",
+  "offset": "0x9208",
+  "size": "0x4"
+ },
+ {
+  "property": "CacheWheelsFrontOpacity",
+  "offset": "0x9212",
+  "size": "0x4"
+ },
+ {
+  "property": "WheelBlursFront",
+  "offset": "0x9216",
+  "size": "0x8"
+ },
+ {
+  "property": "WheelBlursBack",
+  "offset": "0x9224",
+  "size": "0x8"
+ },
+ {
+  "property": "WheelBlur_BL",
+  "offset": "0x9232",
+  "size": "0x8"
+ },
+ {
+  "property": "WheelBlur_BR",
+  "offset": "0x9240",
+  "size": "0x8"
+ },
+ {
+  "property": "WheelBlur_FL",
+  "offset": "0x9248",
+  "size": "0x8"
+ },
+ {
+  "property": "WheelBlur_FR",
+  "offset": "0x9256",
+  "size": "0x8"
+ },
+ {
+  "property": "bIsBoosting",
+  "offset": "0x9268",
+  "size": "0x1"
+ },
+ {
+  "property": "NaturalSlideState",
+  "offset": "0x9296",
+  "size": "0x1"
+ },
+ {
+  "property": "BounceForceBack",
+  "offset": "0x9312",
+  "size": "0x4"
+ },
+ {
+  "property": "PSC_WheelDust",
+  "offset": "0x9352",
+  "size": "0x8"
+ },
+ {
+  "property": "PSC_WheelSlide",
+  "offset": "0x9360",
+  "size": "0x8"
+ },
+ {
+  "property": "PSC_TrailLeft",
+  "offset": "0x9368",
+  "size": "0x8"
+ },
+ {
+  "property": "PSC_TrailRight",
+  "offset": "0x9376",
+  "size": "0x8"
+ },
+ {
+  "property": "bPlayingBoostFX",
+  "offset": "0x9384",
+  "size": "0x1"
+ },
+ {
+  "property": "bPlayingBoostFXForward",
+  "offset": "0x9385",
+  "size": "0x1"
+ },
+ {
+  "property": "BoostFXTime",
+  "offset": "0x9388",
+  "size": "0x4"
+ },
+ {
+  "property": "BoostFXFOVOffset",
+  "offset": "0x9392",
+  "size": "0x4"
+ },
+ {
+  "property": "BoostFXStrengthCurve",
+  "offset": "0x9400",
+  "size": "0x8"
+ },
+ {
+  "property": "BoostFXRumbleStrengthCurve",
+  "offset": "0x9408",
+  "size": "0x8"
+ },
+ {
+  "property": "FortAntelopeVehicleConfigs",
+  "offset": "0x9424",
+  "size": "0x8"
+ }
+]

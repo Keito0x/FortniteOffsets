@@ -1,0 +1,27 @@
+[
+ {
+  "property": "ActiveChartEntries",
+  "offset": "0x40",
+  "size": "0x80"
+ },
+ {
+  "property": "InactiveChartEntries",
+  "offset": "0x120",
+  "size": "0x80"
+ },
+ {
+  "property": "DeactivationRequests",
+  "offset": "0x200",
+  "size": "0x16"
+ },
+ {
+  "property": "Manager",
+  "offset": "0x232",
+  "size": "0x8"
+ },
+ {
+  "property": "PlayerResources",
+  "offset": "0x240",
+  "size": "0x8"
+ }
+]

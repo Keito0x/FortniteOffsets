@@ -1,0 +1,17 @@
+[
+ {
+  "property": "NavType",
+  "offset": "0x1120",
+  "size": "0x1"
+ },
+ {
+  "property": "Button",
+  "offset": "0x1128",
+  "size": "0x8"
+ },
+ {
+  "property": "AvailableTooltip",
+  "offset": "0x1136",
+  "size": "0x8"
+ }
+]

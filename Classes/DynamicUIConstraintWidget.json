@@ -1,0 +1,32 @@
+[
+ {
+  "property": "Anchor",
+  "offset": "0x128",
+  "size": "0x4"
+ },
+ {
+  "property": "TargetWidget",
+  "offset": "0x136",
+  "size": "0x120"
+ },
+ {
+  "property": "TargetAnchor",
+  "offset": "0x256",
+  "size": "0x4"
+ },
+ {
+  "property": "Fallbacks",
+  "offset": "0x264",
+  "size": "0x16"
+ },
+ {
+  "property": "bConstrainToUnallowedWidgets",
+  "offset": "0x280",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseFallbacks",
+  "offset": "0x280",
+  "size": "0x1"
+ }
+]

@@ -1,0 +1,87 @@
+[
+ {
+  "property": "ZiplineVelocity",
+  "offset": "0x2656",
+  "size": "0x40"
+ },
+ {
+  "property": "ZiplineAcceleration",
+  "offset": "0x2696",
+  "size": "0x40"
+ },
+ {
+  "property": "ZiplineVariableSpeedEnabled",
+  "offset": "0x2736",
+  "size": "0x40"
+ },
+ {
+  "property": "DownhillAcceleration",
+  "offset": "0x2776",
+  "size": "0x40"
+ },
+ {
+  "property": "UphillAcceleration",
+  "offset": "0x2816",
+  "size": "0x40"
+ },
+ {
+  "property": "DownhillDeceleration",
+  "offset": "0x2856",
+  "size": "0x40"
+ },
+ {
+  "property": "UphillDeceleration",
+  "offset": "0x2896",
+  "size": "0x40"
+ },
+ {
+  "property": "ZiplineDownhillSpeed",
+  "offset": "0x2936",
+  "size": "0x40"
+ },
+ {
+  "property": "ZiplineUphillSpeed",
+  "offset": "0x2976",
+  "size": "0x40"
+ },
+ {
+  "property": "ZiplineUphillSpeedMin",
+  "offset": "0x3016",
+  "size": "0x40"
+ },
+ {
+  "property": "ZiplineEntryOffset",
+  "offset": "0x3056",
+  "size": "0x40"
+ },
+ {
+  "property": "ZiplineExitOffset",
+  "offset": "0x3096",
+  "size": "0x40"
+ },
+ {
+  "property": "StartPosition",
+  "offset": "0x3136",
+  "size": "0x24"
+ },
+ {
+  "property": "EndPosition",
+  "offset": "0x3160",
+  "size": "0x24"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x3184",
+  "size": "0x1"
+ },
+ {
+  "property": "InteractIconPlacementCapsule",
+  "offset": "0x3188",
+  "size": "0x8"
+ },
+ {
+  "property": "DestructionEnabled",
+  "offset": "0x3200",
+  "size": "0x40"
+ }
+]

@@ -1,0 +1,232 @@
+[
+ {
+  "property": "OnRiderStartedRiding",
+  "offset": "0x200",
+  "size": "0x16"
+ },
+ {
+  "property": "OnRiderStoppedRiding",
+  "offset": "0x216",
+  "size": "0x16"
+ },
+ {
+  "property": "bRiderCanBeHidden",
+  "offset": "0x232",
+  "size": "0x1"
+ },
+ {
+  "property": "bActorCanBeHidden",
+  "offset": "0x233",
+  "size": "0x1"
+ },
+ {
+  "property": "RiderAnimLayerOverlayClass",
+  "offset": "0x240",
+  "size": "0x8"
+ },
+ {
+  "property": "AttachSocket",
+  "offset": "0x248",
+  "size": "0x4"
+ },
+ {
+  "property": "AttachLocationOffset",
+  "offset": "0x256",
+  "size": "0x24"
+ },
+ {
+  "property": "AttachRotationOffset",
+  "offset": "0x280",
+  "size": "0x24"
+ },
+ {
+  "property": "ClientAttachGuideSocket",
+  "offset": "0x304",
+  "size": "0x4"
+ },
+ {
+  "property": "ClientAttachGuideLocationOffset",
+  "offset": "0x312",
+  "size": "0x24"
+ },
+ {
+  "property": "RidablePropAttachSocket",
+  "offset": "0x336",
+  "size": "0x4"
+ },
+ {
+  "property": "RidablePropAttachLocationOffset",
+  "offset": "0x344",
+  "size": "0x24"
+ },
+ {
+  "property": "RidablePropAttachRotationOffset",
+  "offset": "0x368",
+  "size": "0x24"
+ },
+ {
+  "property": "RidablePropAttachScale",
+  "offset": "0x392",
+  "size": "0x4"
+ },
+ {
+  "property": "RidablePropAttachRiderVerticalBuffer",
+  "offset": "0x396",
+  "size": "0x4"
+ },
+ {
+  "property": "RiderPropAttachBoundsOverride",
+  "offset": "0x400",
+  "size": "0x56"
+ },
+ {
+  "property": "bOverrideNoiseGeneration",
+  "offset": "0x456",
+  "size": "0x1"
+ },
+ {
+  "property": "RiderMovementNoiseOverride",
+  "offset": "0x460",
+  "size": "0x12"
+ },
+ {
+  "property": "bUsesCameraOverride",
+  "offset": "0x472",
+  "size": "0x1"
+ },
+ {
+  "property": "CameraModeClassOverride",
+  "offset": "0x480",
+  "size": "0x8"
+ },
+ {
+  "property": "SprintCameraModeClassOverride",
+  "offset": "0x488",
+  "size": "0x8"
+ },
+ {
+  "property": "UseTargetingAdditionalViewTargetSpaceViewOffsetOverride",
+  "offset": "0x496",
+  "size": "0x40"
+ },
+ {
+  "property": "TargetingAdditionalViewTargetSpaceViewOffsetOverride",
+  "offset": "0x536",
+  "size": "0x56"
+ },
+ {
+  "property": "RidingStartedGameplayCueTag",
+  "offset": "0x592",
+  "size": "0x4"
+ },
+ {
+  "property": "WhileBeingRiddenGameplayCueTag",
+  "offset": "0x596",
+  "size": "0x4"
+ },
+ {
+  "property": "RidingStoppedGameplayCueTag",
+  "offset": "0x600",
+  "size": "0x4"
+ },
+ {
+  "property": "WeaponTargetingSourceOffsetModifier",
+  "offset": "0x608",
+  "size": "0x24"
+ },
+ {
+  "property": "RidableTag",
+  "offset": "0x632",
+  "size": "0x4"
+ },
+ {
+  "property": "EnergyDepletedTag",
+  "offset": "0x636",
+  "size": "0x4"
+ },
+ {
+  "property": "PlaylistTagBlacklistRowHandle",
+  "offset": "0x640",
+  "size": "0x16"
+ },
+ {
+  "property": "bNeedRoomToBeRidden",
+  "offset": "0x656",
+  "size": "0x1"
+ },
+ {
+  "property": "ActiveRider",
+  "offset": "0x664",
+  "size": "0x8"
+ },
+ {
+  "property": "LastRider",
+  "offset": "0x672",
+  "size": "0x8"
+ },
+ {
+  "property": "RidableProp",
+  "offset": "0x680",
+  "size": "0x8"
+ },
+ {
+  "property": "OriginalCapsuleRadius",
+  "offset": "0x688",
+  "size": "0x4"
+ },
+ {
+  "property": "OriginalCapsuleHalfHeight",
+  "offset": "0x692",
+  "size": "0x4"
+ },
+ {
+  "property": "RidingCapsuleRadius",
+  "offset": "0x696",
+  "size": "0x4"
+ },
+ {
+  "property": "RidingCapsuleHalfHeight",
+  "offset": "0x700",
+  "size": "0x4"
+ },
+ {
+  "property": "bOriginalClientPositionSmoothingThrottlingSetting",
+  "offset": "0x704",
+  "size": "0x1"
+ },
+ {
+  "property": "LockRotationToRidableActor",
+  "offset": "0x705",
+  "size": "0x1"
+ },
+ {
+  "property": "MaxHalfAimingAngle",
+  "offset": "0x712",
+  "size": "0x40"
+ },
+ {
+  "property": "PrimaryFireMontageAnimCoreTypeOverrides",
+  "offset": "0x752",
+  "size": "0x16"
+ },
+ {
+  "property": "PrimaryFireMontageTagOverrides",
+  "offset": "0x768",
+  "size": "0x16"
+ },
+ {
+  "property": "PettingData",
+  "offset": "0x784",
+  "size": "0x272"
+ },
+ {
+  "property": "RestoreCollisionHandle",
+  "offset": "0x1056",
+  "size": "0x8"
+ },
+ {
+  "property": "bIsSprinting",
+  "offset": "0x1080",
+  "size": "0x1"
+ }
+]

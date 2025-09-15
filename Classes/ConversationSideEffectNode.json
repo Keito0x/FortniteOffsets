@@ -1,0 +1,22 @@
+[
+ {
+  "property": "EvalWorldContextObj",
+  "offset": "0x40",
+  "size": "0x8"
+ },
+ {
+  "property": "NodeName",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "Compiled_NodeGUID",
+  "offset": "0x64",
+  "size": "0x16"
+ },
+ {
+  "property": "ParentNode",
+  "offset": "0x80",
+  "size": "0x8"
+ }
+]

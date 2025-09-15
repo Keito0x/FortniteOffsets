@@ -1,0 +1,117 @@
+[
+ {
+  "property": "SurfaceSoundsTable",
+  "offset": "0x224",
+  "size": "0x8"
+ },
+ {
+  "property": "OnSurfaceEnterSoundsTable",
+  "offset": "0x232",
+  "size": "0x8"
+ },
+ {
+  "property": "OnSurfaceExitSoundsTable",
+  "offset": "0x240",
+  "size": "0x8"
+ },
+ {
+  "property": "LandingSoundsTable",
+  "offset": "0x248",
+  "size": "0x8"
+ },
+ {
+  "property": "SurfaceSoundFadeOutDuration",
+  "offset": "0x256",
+  "size": "0x4"
+ },
+ {
+  "property": "MinAirTimeForLandSound",
+  "offset": "0x260",
+  "size": "0x4"
+ },
+ {
+  "property": "SurfaceSpeedParameterName",
+  "offset": "0x264",
+  "size": "0x4"
+ },
+ {
+  "property": "SlipAngleParameterName",
+  "offset": "0x268",
+  "size": "0x4"
+ },
+ {
+  "property": "bMapSlipAngleToCustomRange",
+  "offset": "0x272",
+  "size": "0x1"
+ },
+ {
+  "property": "SourceSlipAngleRange",
+  "offset": "0x280",
+  "size": "0x16"
+ },
+ {
+  "property": "TargetSlipAngleRange",
+  "offset": "0x296",
+  "size": "0x16"
+ },
+ {
+  "property": "bClampTargetSlipAngleRange",
+  "offset": "0x312",
+  "size": "0x1"
+ },
+ {
+  "property": "CompressionMagnitudeParameterName",
+  "offset": "0x316",
+  "size": "0x4"
+ },
+ {
+  "property": "bMapCompressionMagnitudeToCustomRange",
+  "offset": "0x320",
+  "size": "0x1"
+ },
+ {
+  "property": "SourceCompressionMagnitudeRange",
+  "offset": "0x328",
+  "size": "0x16"
+ },
+ {
+  "property": "TargetCompressionMagnitudeRange",
+  "offset": "0x344",
+  "size": "0x16"
+ },
+ {
+  "property": "bClampTargetCompressionMagnitudeRange",
+  "offset": "0x360",
+  "size": "0x1"
+ },
+ {
+  "property": "LandingVelocityParameterName",
+  "offset": "0x364",
+  "size": "0x4"
+ },
+ {
+  "property": "bMapLandingVelocityToCustomRange",
+  "offset": "0x368",
+  "size": "0x1"
+ },
+ {
+  "property": "SourceLandingVelocityRange",
+  "offset": "0x376",
+  "size": "0x16"
+ },
+ {
+  "property": "TargetLandingVelocityRange",
+  "offset": "0x392",
+  "size": "0x16"
+ },
+ {
+  "property": "bClampLandingVelocityRange",
+  "offset": "0x408",
+  "size": "0x1"
+ },
+ {
+  "property": "SurfaceAudioComponents",
+  "offset": "0x424",
+  "size": "0x16"
+ }
+]

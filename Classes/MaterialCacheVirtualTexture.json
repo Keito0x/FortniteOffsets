@@ -1,0 +1,17 @@
+[
+ {
+  "property": "OwningComponent",
+  "offset": "0x320",
+  "size": "0x8"
+ },
+ {
+  "property": "MaterialStackProvider",
+  "offset": "0x328",
+  "size": "0x8"
+ },
+ {
+  "property": "TileCount",
+  "offset": "0x336",
+  "size": "0x8"
+ }
+]

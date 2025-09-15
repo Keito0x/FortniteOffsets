@@ -1,0 +1,37 @@
+[
+ {
+  "property": "SourceBus",
+  "offset": "0x1144",
+  "size": "0x8"
+ },
+ {
+  "property": "SoundClass",
+  "offset": "0x1152",
+  "size": "0x8"
+ },
+ {
+  "property": "HoldToSkipAction",
+  "offset": "0x1160",
+  "size": "0x16"
+ },
+ {
+  "property": "Button_Skip",
+  "offset": "0x1176",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_VideoTexture",
+  "offset": "0x1184",
+  "size": "0x8"
+ },
+ {
+  "property": "SkipButtonTimeout",
+  "offset": "0x1192",
+  "size": "0x4"
+ },
+ {
+  "property": "SoundComponent",
+  "offset": "0x1216",
+  "size": "0x8"
+ }
+]

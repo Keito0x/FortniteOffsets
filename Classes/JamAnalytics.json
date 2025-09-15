@@ -1,0 +1,17 @@
+[
+ {
+  "property": "MinLoopLength",
+  "offset": "0x264",
+  "size": "0x40"
+ },
+ {
+  "property": "JamPlayspace",
+  "offset": "0x304",
+  "size": "0x8"
+ },
+ {
+  "property": "LoopStartTimes",
+  "offset": "0x312",
+  "size": "0x80"
+ }
+]

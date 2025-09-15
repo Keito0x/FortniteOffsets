@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Parts",
+  "offset": "0x832",
+  "size": "0x16"
+ },
+ {
+  "property": "ResourceRequirements",
+  "offset": "0x848",
+  "size": "0x16"
+ }
+]

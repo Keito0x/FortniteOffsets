@@ -1,0 +1,12 @@
+[
+ {
+  "property": "LoadoutSchema",
+  "offset": "0x40",
+  "size": "0x8"
+ },
+ {
+  "property": "Categories",
+  "offset": "0x48",
+  "size": "0x16"
+ }
+]

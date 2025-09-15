@@ -1,0 +1,42 @@
+[
+ {
+  "property": "StaticMeshComponent",
+  "offset": "0x680",
+  "size": "0x8"
+ },
+ {
+  "property": "InstancedStaticMeshComponents",
+  "offset": "0x688",
+  "size": "0x80"
+ },
+ {
+  "property": "Proxy",
+  "offset": "0x768",
+  "size": "0x8"
+ },
+ {
+  "property": "Key",
+  "offset": "0x776",
+  "size": "0x4"
+ },
+ {
+  "property": "LODDrawDistance",
+  "offset": "0x780",
+  "size": "0x4"
+ },
+ {
+  "property": "LODLevel",
+  "offset": "0x784",
+  "size": "0x4"
+ },
+ {
+  "property": "SubActors",
+  "offset": "0x792",
+  "size": "0x16"
+ },
+ {
+  "property": "CachedNumHLODLevels",
+  "offset": "0x808",
+  "size": "0x1"
+ }
+]

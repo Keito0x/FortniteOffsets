@@ -1,0 +1,32 @@
+[
+ {
+  "property": "VisibilityControls",
+  "offset": "0x768",
+  "size": "0x80"
+ },
+ {
+  "property": "bShowForGamepad",
+  "offset": "0x848",
+  "size": "0x1"
+ },
+ {
+  "property": "bShowForMouseAndKeyboard",
+  "offset": "0x849",
+  "size": "0x1"
+ },
+ {
+  "property": "bShowForTouch",
+  "offset": "0x850",
+  "size": "0x1"
+ },
+ {
+  "property": "VisibleType",
+  "offset": "0x851",
+  "size": "0x1"
+ },
+ {
+  "property": "HiddenType",
+  "offset": "0x852",
+  "size": "0x1"
+ }
+]

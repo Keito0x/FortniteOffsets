@@ -1,0 +1,17 @@
+[
+ {
+  "property": "TransformsBaseComponent",
+  "offset": "0x192",
+  "size": "0x40"
+ },
+ {
+  "property": "SignificantTransforms",
+  "offset": "0x232",
+  "size": "0x16"
+ },
+ {
+  "property": "ProviderTags",
+  "offset": "0x248",
+  "size": "0x32"
+ }
+]

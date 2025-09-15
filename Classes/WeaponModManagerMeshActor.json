@@ -1,0 +1,12 @@
+[
+ {
+  "property": "HISMComponents",
+  "offset": "0x680",
+  "size": "0x80"
+ },
+ {
+  "property": "ISMComponents",
+  "offset": "0x760",
+  "size": "0x80"
+ }
+]

@@ -1,0 +1,27 @@
+[
+ {
+  "property": "WorldFacts",
+  "offset": "0x120",
+  "size": "0x80"
+ },
+ {
+  "property": "ActiveConversationsByCharacter",
+  "offset": "0x200",
+  "size": "0x80"
+ },
+ {
+  "property": "ActiveConversations",
+  "offset": "0x280",
+  "size": "0x16"
+ },
+ {
+  "property": "ExpiredConversations",
+  "offset": "0x296",
+  "size": "0x16"
+ },
+ {
+  "property": "",
+  "offset": "0x98741524",
+  "size": "0x0"
+ }
+]

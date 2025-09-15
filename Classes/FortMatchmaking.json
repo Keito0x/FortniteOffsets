@@ -1,0 +1,52 @@
+[
+ {
+  "property": "ReservationBeaconClientClass",
+  "offset": "0x328",
+  "size": "0x8"
+ },
+ {
+  "property": "ReservationBeaconClient",
+  "offset": "0x336",
+  "size": "0x8"
+ },
+ {
+  "property": "LobbyBeaconClient",
+  "offset": "0x344",
+  "size": "0x8"
+ },
+ {
+  "property": "ControllerId",
+  "offset": "0x464",
+  "size": "0x4"
+ },
+ {
+  "property": "TempZoneInstanceId",
+  "offset": "0x472",
+  "size": "0x16"
+ },
+ {
+  "property": "CachedMatchmakingSearchParams",
+  "offset": "0x488",
+  "size": "0x200"
+ },
+ {
+  "property": "Matchmaking",
+  "offset": "0x976",
+  "size": "0x8"
+ },
+ {
+  "property": "LastCriticalMissionSessionId",
+  "offset": "0x984",
+  "size": "0x16"
+ },
+ {
+  "property": "LastMatchmakingPrivacyConfiguration",
+  "offset": "0x1000",
+  "size": "0x1"
+ },
+ {
+  "property": "bUpdateLinkCodeHistory",
+  "offset": "0x1001",
+  "size": "0x1"
+ }
+]

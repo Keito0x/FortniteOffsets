@@ -1,0 +1,12 @@
+[
+ {
+  "property": "TreeView_Help",
+  "offset": "0x1488",
+  "size": "0x8"
+ },
+ {
+  "property": "ScrollBox_HelpEntry",
+  "offset": "0x1496",
+  "size": "0x8"
+ }
+]

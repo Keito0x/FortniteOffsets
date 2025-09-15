@@ -1,0 +1,62 @@
+[
+ {
+  "property": "bBuoyancyEnabled",
+  "offset": "0x48",
+  "size": "0x1"
+ },
+ {
+  "property": "bKeepFloatingObjectsAwake",
+  "offset": "0x49",
+  "size": "0x1"
+ },
+ {
+  "property": "WaterDensity",
+  "offset": "0x52",
+  "size": "0x4"
+ },
+ {
+  "property": "WaterDrag",
+  "offset": "0x56",
+  "size": "0x4"
+ },
+ {
+  "property": "CollisionChannelForWaterObjects",
+  "offset": "0x60",
+  "size": "0x1"
+ },
+ {
+  "property": "MaxNumBoundsSubdivisions",
+  "offset": "0x64",
+  "size": "0x4"
+ },
+ {
+  "property": "MinBoundsSubdivisionVol",
+  "offset": "0x68",
+  "size": "0x4"
+ },
+ {
+  "property": "SurfaceTouchCallbackFlags",
+  "offset": "0x72",
+  "size": "0x1"
+ },
+ {
+  "property": "MinVelocityForSurfaceTouchCallback",
+  "offset": "0x76",
+  "size": "0x4"
+ },
+ {
+  "property": "bEnableSplineKeyCacheGrid",
+  "offset": "0x80",
+  "size": "0x1"
+ },
+ {
+  "property": "SplineKeyCacheGridSize",
+  "offset": "0x84",
+  "size": "0x4"
+ },
+ {
+  "property": "SplineKeyCacheLimit",
+  "offset": "0x88",
+  "size": "0x4"
+ }
+]

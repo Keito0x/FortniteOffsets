@@ -1,0 +1,12 @@
+[
+ {
+  "property": "SerializedComponents",
+  "offset": "0x200",
+  "size": "0x16"
+ },
+ {
+  "property": "bForceOwnerReplication",
+  "offset": "0x216",
+  "size": "0x1"
+ }
+]

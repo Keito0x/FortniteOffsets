@@ -1,0 +1,17 @@
+[
+ {
+  "property": "RegisteredWorldPartitions",
+  "offset": "0x1112",
+  "size": "0x16"
+ },
+ {
+  "property": "IoStorePackageHandler",
+  "offset": "0x1192",
+  "size": "0x8"
+ },
+ {
+  "property": "ChunkTypeFlags",
+  "offset": "0x1200",
+  "size": "0x4"
+ }
+]

@@ -1,0 +1,27 @@
+[
+ {
+  "property": "OwningTankVehicle",
+  "offset": "0x1504",
+  "size": "0x8"
+ },
+ {
+  "property": "MinTurretPitch",
+  "offset": "0x1512",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxTurretPitch",
+  "offset": "0x1516",
+  "size": "0x4"
+ },
+ {
+  "property": "bDistanceMeterEnabled",
+  "offset": "0x1520",
+  "size": "0x1"
+ },
+ {
+  "property": "bTankOrientationEventsEnabled",
+  "offset": "0x1521",
+  "size": "0x1"
+ }
+]

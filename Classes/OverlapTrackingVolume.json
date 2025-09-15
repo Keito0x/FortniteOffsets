@@ -1,0 +1,27 @@
+[
+ {
+  "property": "ActiveOverlapComponents",
+  "offset": "0x680",
+  "size": "0x16"
+ },
+ {
+  "property": "bUseDeprecatedOverlapAllTesting",
+  "offset": "0x696",
+  "size": "0x1"
+ },
+ {
+  "property": "VolumeTags",
+  "offset": "0x704",
+  "size": "0x32"
+ },
+ {
+  "property": "LinkedVolumes",
+  "offset": "0x736",
+  "size": "0x16"
+ },
+ {
+  "property": "OverlapComponentHandling",
+  "offset": "0x752",
+  "size": "0x16"
+ }
+]

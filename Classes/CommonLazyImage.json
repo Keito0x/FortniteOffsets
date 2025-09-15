@@ -1,0 +1,22 @@
+[
+ {
+  "property": "LoadingBackgroundBrush",
+  "offset": "0x656",
+  "size": "0x176"
+ },
+ {
+  "property": "LoadingThrobberBrush",
+  "offset": "0x832",
+  "size": "0x176"
+ },
+ {
+  "property": "MaterialTextureParamName",
+  "offset": "0x1008",
+  "size": "0x4"
+ },
+ {
+  "property": "BP_OnLoadingStateChanged",
+  "offset": "0x1016",
+  "size": "0x16"
+ }
+]

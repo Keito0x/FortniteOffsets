@@ -1,0 +1,7 @@
+[
+ {
+  "property": "bRandomizeResults",
+  "offset": "0x208",
+  "size": "0x56"
+ }
+]

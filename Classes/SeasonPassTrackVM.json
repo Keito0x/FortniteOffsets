@@ -1,0 +1,32 @@
+[
+ {
+  "property": "Rewards",
+  "offset": "0x104",
+  "size": "0x16"
+ },
+ {
+  "property": "OwnerPassPage",
+  "offset": "0x120",
+  "size": "0x8"
+ },
+ {
+  "property": "OwnerSeasonPassVM",
+  "offset": "0x128",
+  "size": "0x8"
+ },
+ {
+  "property": "PlayerController",
+  "offset": "0x136",
+  "size": "0x8"
+ },
+ {
+  "property": "RewardsNeededForUnlock",
+  "offset": "0x144",
+  "size": "0x4"
+ },
+ {
+  "property": "LevelsNeededForUnlock",
+  "offset": "0x148",
+  "size": "0x4"
+ }
+]

@@ -1,0 +1,17 @@
+[
+ {
+  "property": "LinkState",
+  "offset": "0x104",
+  "size": "0x1"
+ },
+ {
+  "property": "CategoryPresetVM",
+  "offset": "0x112",
+  "size": "0x8"
+ },
+ {
+  "property": "CategoryGroupVM",
+  "offset": "0x120",
+  "size": "0x8"
+ }
+]

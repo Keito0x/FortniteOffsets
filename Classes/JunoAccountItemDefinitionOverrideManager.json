@@ -1,0 +1,42 @@
+[
+ {
+  "property": "JunoHeroDefinition",
+  "offset": "0x48",
+  "size": "0x8"
+ },
+ {
+  "property": "DefaultCharacters",
+  "offset": "0x56",
+  "size": "0x8"
+ },
+ {
+  "property": "PreviewActorClasses",
+  "offset": "0x64",
+  "size": "0x80"
+ },
+ {
+  "property": "GameplayTagParentsToRemoveFromOverrides",
+  "offset": "0x144",
+  "size": "0x80"
+ },
+ {
+  "property": "GameplayTagsToAdd",
+  "offset": "0x224",
+  "size": "0x80"
+ },
+ {
+  "property": "CosmeticsMarkupGameplayTagsToAllow",
+  "offset": "0x304",
+  "size": "0x80"
+ },
+ {
+  "property": "CosmeticsProhibitedByHotfix",
+  "offset": "0x384",
+  "size": "0x80"
+ },
+ {
+  "property": "Overrides",
+  "offset": "0x464",
+  "size": "0x80"
+ }
+]

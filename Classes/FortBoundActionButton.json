@@ -1,0 +1,32 @@
+[
+ {
+  "property": "KeyboardStyle",
+  "offset": "0x5560",
+  "size": "0x8"
+ },
+ {
+  "property": "LargeKeyboardStyle",
+  "offset": "0x5568",
+  "size": "0x8"
+ },
+ {
+  "property": "GamepadStyle",
+  "offset": "0x5576",
+  "size": "0x8"
+ },
+ {
+  "property": "LargeGamepadStyle",
+  "offset": "0x5584",
+  "size": "0x8"
+ },
+ {
+  "property": "MobileStyle",
+  "offset": "0x5592",
+  "size": "0x8"
+ },
+ {
+  "property": "LargeMobileStyle",
+  "offset": "0x5600",
+  "size": "0x8"
+ }
+]

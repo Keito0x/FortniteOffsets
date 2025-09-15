@@ -1,0 +1,22 @@
+[
+ {
+  "property": "bIsOnRegularSpectatingMode",
+  "offset": "0x104",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsOnFreeCameraSpectatingMode",
+  "offset": "0x105",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsOnFreeRotationSpectatingMode",
+  "offset": "0x106",
+  "size": "0x1"
+ },
+ {
+  "property": "SpectatorViewmodels",
+  "offset": "0x112",
+  "size": "0x16"
+ }
+]

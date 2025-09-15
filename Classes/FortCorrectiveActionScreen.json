@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Button_Continue",
+  "offset": "0x1152",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_PrivacyPolicy",
+  "offset": "0x1160",
+  "size": "0x8"
+ }
+]

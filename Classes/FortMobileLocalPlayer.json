@@ -1,0 +1,47 @@
+[
+ {
+  "property": "FortOnlineAccount",
+  "offset": "0x736",
+  "size": "0x8"
+ },
+ {
+  "property": "CachedRewardReport",
+  "offset": "0x784",
+  "size": "0x88"
+ },
+ {
+  "property": "CachedScoreReports",
+  "offset": "0x872",
+  "size": "0x16"
+ },
+ {
+  "property": "ClientSettingsRecord",
+  "offset": "0x888",
+  "size": "0x8"
+ },
+ {
+  "property": "SupervisedSettingsManager",
+  "offset": "0x896",
+  "size": "0x8"
+ },
+ {
+  "property": "bControllerAttached",
+  "offset": "0x922",
+  "size": "0x1"
+ },
+ {
+  "property": "PlatformUID",
+  "offset": "0x1400",
+  "size": "0x48"
+ },
+ {
+  "property": "PlayerReportingInfoContainer",
+  "offset": "0x1448",
+  "size": "0x112"
+ },
+ {
+  "property": "PoiTracker",
+  "offset": "0x1560",
+  "size": "0x8"
+ }
+]

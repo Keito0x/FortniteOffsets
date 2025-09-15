@@ -1,0 +1,17 @@
+[
+ {
+  "property": "PlayerInput",
+  "offset": "0x384",
+  "size": "0x8"
+ },
+ {
+  "property": "CurrentInputStack",
+  "offset": "0x408",
+  "size": "0x16"
+ },
+ {
+  "property": "Unknown_ffield",
+  "offset": "0x424",
+  "size": "0x80"
+ }
+]

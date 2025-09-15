@@ -1,0 +1,137 @@
+[
+ {
+  "property": "DefaultSmashableArea",
+  "offset": "0x5656",
+  "size": "0x32"
+ },
+ {
+  "property": "JumpDownArea",
+  "offset": "0x5688",
+  "size": "0x32"
+ },
+ {
+  "property": "JumpDownSmashableArea",
+  "offset": "0x5720",
+  "size": "0x32"
+ },
+ {
+  "property": "JumpDownSmashableArea2",
+  "offset": "0x5752",
+  "size": "0x32"
+ },
+ {
+  "property": "JumpDownSmashableArea3",
+  "offset": "0x5784",
+  "size": "0x32"
+ },
+ {
+  "property": "LinkGlobalProxies",
+  "offset": "0x5816",
+  "size": "0x16"
+ },
+ {
+  "property": "NamedNavmeshes",
+  "offset": "0x5832",
+  "size": "0x16"
+ },
+ {
+  "property": "NavLinkBlockers",
+  "offset": "0x5848",
+  "size": "0x16"
+ },
+ {
+  "property": "PathEstimators",
+  "offset": "0x5880",
+  "size": "0x16"
+ },
+ {
+  "property": "InescapableZones",
+  "offset": "0x5896",
+  "size": "0x16"
+ },
+ {
+  "property": "bAllowAutoRebuild",
+  "offset": "0x5912",
+  "size": "0x1"
+ },
+ {
+  "property": "bRebuildOnInitialUnlock",
+  "offset": "0x5912",
+  "size": "0x1"
+ },
+ {
+  "property": "bUsesStreamedInNavLevel",
+  "offset": "0x5912",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseStaticMeshLinks",
+  "offset": "0x5912",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseStaticWorldLinksDown",
+  "offset": "0x5912",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseStaticWorldLinksUp",
+  "offset": "0x5912",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseJumpLinkActors",
+  "offset": "0x5912",
+  "size": "0x1"
+ },
+ {
+  "property": "bGenerateWallClimbLinks",
+  "offset": "0x5912",
+  "size": "0x1"
+ },
+ {
+  "property": "bGenerateClamberLinks",
+  "offset": "0x5913",
+  "size": "0x1"
+ },
+ {
+  "property": "bGenerateHurdleLinks",
+  "offset": "0x5913",
+  "size": "0x1"
+ },
+ {
+  "property": "UndermineHorizontalTileLimit",
+  "offset": "0x5916",
+  "size": "0x4"
+ },
+ {
+  "property": "UndermineVerticalTileLimit",
+  "offset": "0x5920",
+  "size": "0x4"
+ },
+ {
+  "property": "DirtyAreasUpdateFreqInactive",
+  "offset": "0x5924",
+  "size": "0x4"
+ },
+ {
+  "property": "NavGraphData",
+  "offset": "0x6144",
+  "size": "0x8"
+ },
+ {
+  "property": "CompositePathGoals",
+  "offset": "0x6152",
+  "size": "0x16"
+ },
+ {
+  "property": "AtlasCells",
+  "offset": "0x6168",
+  "size": "0x16"
+ },
+ {
+  "property": "MetaNavCachedAreas",
+  "offset": "0x6200",
+  "size": "0x16"
+ }
+]

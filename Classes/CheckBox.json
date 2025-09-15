@@ -1,0 +1,47 @@
+[
+ {
+  "property": "CheckedState",
+  "offset": "0x384",
+  "size": "0x1"
+ },
+ {
+  "property": "CheckedStateDelegate",
+  "offset": "0x388",
+  "size": "0x12"
+ },
+ {
+  "property": "WidgetStyle",
+  "offset": "0x400",
+  "size": "0x2384"
+ },
+ {
+  "property": "HorizontalAlignment",
+  "offset": "0x2784",
+  "size": "0x1"
+ },
+ {
+  "property": "ClickMethod",
+  "offset": "0x2785",
+  "size": "0x1"
+ },
+ {
+  "property": "TouchMethod",
+  "offset": "0x2786",
+  "size": "0x1"
+ },
+ {
+  "property": "PressMethod",
+  "offset": "0x2787",
+  "size": "0x1"
+ },
+ {
+  "property": "IsFocusable",
+  "offset": "0x2788",
+  "size": "0x1"
+ },
+ {
+  "property": "OnCheckStateChanged",
+  "offset": "0x2792",
+  "size": "0x16"
+ }
+]

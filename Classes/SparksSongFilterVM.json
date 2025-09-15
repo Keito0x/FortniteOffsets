@@ -1,0 +1,32 @@
+[
+ {
+  "property": "SortFilter",
+  "offset": "0x104",
+  "size": "0x8"
+ },
+ {
+  "property": "FilteredCatalogItems",
+  "offset": "0x112",
+  "size": "0x16"
+ },
+ {
+  "property": "FilteredSongItems",
+  "offset": "0x128",
+  "size": "0x16"
+ },
+ {
+  "property": "OwningController",
+  "offset": "0x144",
+  "size": "0x8"
+ },
+ {
+  "property": "ItemVMClass",
+  "offset": "0x152",
+  "size": "0x8"
+ },
+ {
+  "property": "¬¥%¿VÇ¹bŞú¡6+¶„ìõ]kÓ›‚ÚÈ9¹Âìj—cù•÷=ã™)¤åo2VÅ0(ræ3µ¥€¶‰¡x·Tšbƒ‹D,òÙ† ÓÄ%“p=0` Éã"½kJc&*ğvq¢@Ö.ûı¦Ş±êôSFH<jP.v¹!y,Õ:xÒÍ©EK»„S†¯¹s£f‡·J7¿gY~°63CKH¾xozç<³ÏäWJ&“¸r3ÌCµã¾RJŒ‹",
+  "offset": "0x160",
+  "size": "0x8"
+ }
+]

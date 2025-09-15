@@ -1,0 +1,27 @@
+[
+ {
+  "property": "OptionName",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "ItemType",
+  "offset": "0x64",
+  "size": "0x8"
+ },
+ {
+  "property": "bAutoSortTests",
+  "offset": "0x72",
+  "size": "0x1"
+ },
+ {
+  "property": "bCanRunAsync",
+  "offset": "0x72",
+  "size": "0x1"
+ },
+ {
+  "property": "EnvQueryResultNormalizationOption",
+  "offset": "0x76",
+  "size": "0x1"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "property": "bEnablePublishing",
+  "offset": "0x568",
+  "size": "0x1"
+ },
+ {
+  "property": "bRequirePublishingPermissions",
+  "offset": "0x569",
+  "size": "0x1"
+ }
+]

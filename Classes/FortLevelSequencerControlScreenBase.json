@@ -1,0 +1,12 @@
+[
+ {
+  "property": "DefaultLevelSequencerTag",
+  "offset": "0x1120",
+  "size": "0x4"
+ },
+ {
+  "property": "AssociatedLevelSequenceActor",
+  "offset": "0x1128",
+  "size": "0x8"
+ }
+]

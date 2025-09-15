@@ -1,0 +1,47 @@
+[
+ {
+  "property": "Sequence",
+  "offset": "0x40",
+  "size": "0x8"
+ },
+ {
+  "property": "PlayRate",
+  "offset": "0x48",
+  "size": "0x4"
+ },
+ {
+  "property": "Scale",
+  "offset": "0x52",
+  "size": "0x4"
+ },
+ {
+  "property": "BlendInTime",
+  "offset": "0x56",
+  "size": "0x4"
+ },
+ {
+  "property": "BlendOutTime",
+  "offset": "0x60",
+  "size": "0x4"
+ },
+ {
+  "property": "RandomSegmentDuration",
+  "offset": "0x64",
+  "size": "0x4"
+ },
+ {
+  "property": "bRandomSegment",
+  "offset": "0x68",
+  "size": "0x1"
+ },
+ {
+  "property": "Player",
+  "offset": "0x72",
+  "size": "0x8"
+ },
+ {
+  "property": "CameraStandIn",
+  "offset": "0x80",
+  "size": "0x8"
+ }
+]

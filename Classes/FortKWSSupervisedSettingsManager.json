@@ -1,0 +1,22 @@
+[
+ {
+  "property": "Unknown_ffield",
+  "offset": "0x1080",
+  "size": "0x8"
+ },
+ {
+  "property": "GenericTimezoneOverrides",
+  "offset": "0x1104",
+  "size": "0x16"
+ },
+ {
+  "property": "GMTTimezoneOverrides",
+  "offset": "0x1120",
+  "size": "0x16"
+ },
+ {
+  "property": "GMTDefaultOverride",
+  "offset": "0x1136",
+  "size": "0x16"
+ }
+]

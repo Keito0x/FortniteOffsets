@@ -1,0 +1,17 @@
+[
+ {
+  "property": "TagList",
+  "offset": "0x48",
+  "size": "0x32"
+ },
+ {
+  "property": "bApplyBlendOutTimeOverride",
+  "offset": "0x80",
+  "size": "0x1"
+ },
+ {
+  "property": "BlendOutTimeOverride",
+  "offset": "0x84",
+  "size": "0x4"
+ }
+]

@@ -1,0 +1,17 @@
+[
+ {
+  "property": "min",
+  "offset": "0x56",
+  "size": "0x4"
+ },
+ {
+  "property": "max",
+  "offset": "0x60",
+  "size": "0x4"
+ },
+ {
+  "property": "bInteger",
+  "offset": "0x64",
+  "size": "0x1"
+ }
+]

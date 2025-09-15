@@ -1,0 +1,17 @@
+[
+ {
+  "property": "StartlinePriority",
+  "offset": "0x792",
+  "size": "0x4"
+ },
+ {
+  "property": "IsClaimedZDistanceCheck",
+  "offset": "0x796",
+  "size": "0x4"
+ },
+ {
+  "property": "DelMarRaceManager",
+  "offset": "0x800",
+  "size": "0x8"
+ }
+]

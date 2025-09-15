@@ -1,0 +1,27 @@
+[
+ {
+  "property": "EventLevelScreenData",
+  "offset": "0x1264",
+  "size": "0x8"
+ },
+ {
+  "property": "CinematicMovieWidgetInstance",
+  "offset": "0x1272",
+  "size": "0x8"
+ },
+ {
+  "property": "StreamedVideoOpeningTimer",
+  "offset": "0x1280",
+  "size": "0x8"
+ },
+ {
+  "property": "bCollapseTopbar",
+  "offset": "0x1288",
+  "size": "0x1"
+ },
+ {
+  "property": "bCollapseBottombar",
+  "offset": "0x1289",
+  "size": "0x1"
+ }
+]

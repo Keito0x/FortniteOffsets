@@ -1,0 +1,22 @@
+[
+ {
+  "property": "BurstEffectData",
+  "offset": "0x976",
+  "size": "0x328"
+ },
+ {
+  "property": "BurstResult",
+  "offset": "0x1304",
+  "size": "0x72"
+ },
+ {
+  "property": "MaxBurstLatentLifetime",
+  "offset": "0x1376",
+  "size": "0x4"
+ },
+ {
+  "property": "bRunBlueprintOnRecycle",
+  "offset": "0x1380",
+  "size": "0x1"
+ }
+]

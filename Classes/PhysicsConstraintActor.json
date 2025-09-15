@@ -1,0 +1,22 @@
+[
+ {
+  "property": "ConstraintComp",
+  "offset": "0x680",
+  "size": "0x8"
+ },
+ {
+  "property": "ConstraintActor1",
+  "offset": "0x688",
+  "size": "0x8"
+ },
+ {
+  "property": "ConstraintActor2",
+  "offset": "0x696",
+  "size": "0x8"
+ },
+ {
+  "property": "bDisableCollision",
+  "offset": "0x704",
+  "size": "0x1"
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "property": "LetoToggleDormancyAction",
+  "offset": "0x1264",
+  "size": "0x16"
+ },
+ {
+  "property": "MLPLoginAction",
+  "offset": "0x1280",
+  "size": "0x16"
+ },
+ {
+  "property": "MLPTakeControlAction",
+  "offset": "0x1296",
+  "size": "0x16"
+ },
+ {
+  "property": "ContentNotFoundModalClass",
+  "offset": "0x1312",
+  "size": "0x8"
+ }
+]

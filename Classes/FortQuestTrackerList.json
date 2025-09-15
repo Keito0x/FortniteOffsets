@@ -1,0 +1,27 @@
+[
+ {
+  "property": "bConfigureAsHUD",
+  "offset": "0x824",
+  "size": "0x1"
+ },
+ {
+  "property": "QuestList",
+  "offset": "0x832",
+  "size": "0x8"
+ },
+ {
+  "property": "HUDCachedQuests",
+  "offset": "0x840",
+  "size": "0x16"
+ },
+ {
+  "property": "OnSizeEstimateChangedDelegate",
+  "offset": "0x856",
+  "size": "0x16"
+ },
+ {
+  "property": "bHasHiddenItemsDueToSize",
+  "offset": "0x872",
+  "size": "0x1"
+ }
+]

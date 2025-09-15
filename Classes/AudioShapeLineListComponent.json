@@ -1,0 +1,12 @@
+[
+ {
+  "property": "PointList",
+  "offset": "0x536",
+  "size": "0x16"
+ },
+ {
+  "property": "bClosedLoop",
+  "offset": "0x552",
+  "size": "0x1"
+ }
+]

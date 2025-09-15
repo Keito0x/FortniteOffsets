@@ -1,0 +1,72 @@
+[
+ {
+  "property": "Animation",
+  "offset": "0x40",
+  "size": "0x8"
+ },
+ {
+  "property": "StartTime",
+  "offset": "0x48",
+  "size": "0x4"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x52",
+  "size": "0x4"
+ },
+ {
+  "property": "PreviousPosition",
+  "offset": "0x56",
+  "size": "0x4"
+ },
+ {
+  "property": "CurrentPosition",
+  "offset": "0x60",
+  "size": "0x4"
+ },
+ {
+  "property": "Weight",
+  "offset": "0x64",
+  "size": "0x4"
+ },
+ {
+  "property": "PlayRate",
+  "offset": "0x68",
+  "size": "0x4"
+ },
+ {
+  "property": "StartTransform",
+  "offset": "0x80",
+  "size": "0x96"
+ },
+ {
+  "property": "ActualStartTime",
+  "offset": "0x176",
+  "size": "0x4"
+ },
+ {
+  "property": "TotalRootMotionWithinWindow",
+  "offset": "0x192",
+  "size": "0x96"
+ },
+ {
+  "property": "OnActivateDelegate",
+  "offset": "0x288",
+  "size": "0x12"
+ },
+ {
+  "property": "OnUpdateDelegate",
+  "offset": "0x300",
+  "size": "0x12"
+ },
+ {
+  "property": "OnDeactivateDelegate",
+  "offset": "0x312",
+  "size": "0x12"
+ },
+ {
+  "property": "State",
+  "offset": "0x324",
+  "size": "0x1"
+ }
+]

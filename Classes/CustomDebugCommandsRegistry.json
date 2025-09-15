@@ -1,0 +1,22 @@
+[
+ {
+  "property": "RootSettings",
+  "offset": "0x160",
+  "size": "0x16"
+ },
+ {
+  "property": "RegisteredSettings",
+  "offset": "0x176",
+  "size": "0x80"
+ },
+ {
+  "property": "OwningLocalPlayer",
+  "offset": "0x256",
+  "size": "0x8"
+ },
+ {
+  "property": "EditConditionCache",
+  "offset": "0x264",
+  "size": "0x8"
+ }
+]

@@ -1,0 +1,37 @@
+[
+ {
+  "property": "VoiceRepReportModalClass",
+  "offset": "0x5672",
+  "size": "0x8"
+ },
+ {
+  "property": "JoinLeaveButton",
+  "offset": "0x5680",
+  "size": "0x8"
+ },
+ {
+  "property": "ReportButton",
+  "offset": "0x5688",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_ChannelTitle",
+  "offset": "0x5696",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_ChannelTitle_Hover",
+  "offset": "0x5704",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_ChannelInfo",
+  "offset": "0x5712",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_ChannelInfo_Hover",
+  "offset": "0x5720",
+  "size": "0x8"
+ }
+]

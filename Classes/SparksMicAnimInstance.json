@@ -1,0 +1,97 @@
+[
+ {
+  "property": "InstrumentPSC",
+  "offset": "0x1000",
+  "size": "0x8"
+ },
+ {
+  "property": "SparksMusicPlayspace",
+  "offset": "0x1008",
+  "size": "0x8"
+ },
+ {
+  "property": "MusicClock",
+  "offset": "0x1016",
+  "size": "0x8"
+ },
+ {
+  "property": "MidiEventDriver",
+  "offset": "0x1024",
+  "size": "0x16"
+ },
+ {
+  "property": "Instrument",
+  "offset": "0x1040",
+  "size": "0x1"
+ },
+ {
+  "property": "PreviewBPM",
+  "offset": "0x1044",
+  "size": "0x4"
+ },
+ {
+  "property": "LipSyncAsset",
+  "offset": "0x1048",
+  "size": "0x8"
+ },
+ {
+  "property": "bAllowLipSyncAnimations",
+  "offset": "0x1056",
+  "size": "0x1"
+ },
+ {
+  "property": "HomebaseBPMs",
+  "offset": "0x1064",
+  "size": "0x56"
+ },
+ {
+  "property": "PlayBPMs",
+  "offset": "0x1120",
+  "size": "0x56"
+ },
+ {
+  "property": "SoloBPMs",
+  "offset": "0x1176",
+  "size": "0x56"
+ },
+ {
+  "property": "IdleBPMs",
+  "offset": "0x1232",
+  "size": "0x56"
+ },
+ {
+  "property": "TransitionBPMs",
+  "offset": "0x1288",
+  "size": "0x56"
+ },
+ {
+  "property": "SongBeatAndTime",
+  "offset": "0x1344",
+  "size": "0x16"
+ },
+ {
+  "property": "SongGenre",
+  "offset": "0x1360",
+  "size": "0x4"
+ },
+ {
+  "property": "SongIntensity",
+  "offset": "0x1364",
+  "size": "0x4"
+ },
+ {
+  "property": "DesiredSongIntensity",
+  "offset": "0x1368",
+  "size": "0x4"
+ },
+ {
+  "property": "bCanPlayMidiAnimations",
+  "offset": "0x1372",
+  "size": "0x1"
+ },
+ {
+  "property": "bMusicBeatIsActive",
+  "offset": "0x1373",
+  "size": "0x1"
+ }
+]

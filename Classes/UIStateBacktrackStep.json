@@ -1,0 +1,27 @@
+[
+ {
+  "property": "TransitionTag",
+  "offset": "0x40",
+  "size": "0x4"
+ },
+ {
+  "property": "ReturnState",
+  "offset": "0x48",
+  "size": "0x8"
+ },
+ {
+  "property": "AvailableState",
+  "offset": "0x56",
+  "size": "0x8"
+ },
+ {
+  "property": "ReverseContextChanges",
+  "offset": "0x64",
+  "size": "0x80"
+ },
+ {
+  "property": "AvailablePaths",
+  "offset": "0x144",
+  "size": "0x16"
+ }
+]

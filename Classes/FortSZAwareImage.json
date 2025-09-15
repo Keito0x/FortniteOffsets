@@ -1,0 +1,22 @@
+[
+ {
+  "property": "AnchorLeft",
+  "offset": "0x656",
+  "size": "0x1"
+ },
+ {
+  "property": "AnchorRight",
+  "offset": "0x657",
+  "size": "0x1"
+ },
+ {
+  "property": "AnchorTop",
+  "offset": "0x658",
+  "size": "0x1"
+ },
+ {
+  "property": "AnchorBottom",
+  "offset": "0x659",
+  "size": "0x1"
+ }
+]

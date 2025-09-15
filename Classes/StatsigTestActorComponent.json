@@ -1,0 +1,17 @@
+[
+ {
+  "property": "bInitializeAsync",
+  "offset": "0x192",
+  "size": "0x1"
+ },
+ {
+  "property": "SDKKey",
+  "offset": "0x200",
+  "size": "0x16"
+ },
+ {
+  "property": "UserId",
+  "offset": "0x216",
+  "size": "0x16"
+ }
+]

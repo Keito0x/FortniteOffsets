@@ -1,0 +1,37 @@
+[
+ {
+  "property": "Guid",
+  "offset": "0x40",
+  "size": "0x16"
+ },
+ {
+  "property": "VariableName",
+  "offset": "0x56",
+  "size": "0x4"
+ },
+ {
+  "property": "DataType",
+  "offset": "0x64",
+  "size": "0x40"
+ },
+ {
+  "property": "DefaultValueStruct",
+  "offset": "0x104",
+  "size": "0x16"
+ },
+ {
+  "property": "CachedShaderValue",
+  "offset": "0x120",
+  "size": "0x32"
+ },
+ {
+  "property": "ValueData",
+  "offset": "0x152",
+  "size": "0x16"
+ },
+ {
+  "property": "DefaultValue",
+  "offset": "0x168",
+  "size": "0x8"
+ }
+]

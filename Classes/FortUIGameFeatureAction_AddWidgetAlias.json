@@ -1,0 +1,12 @@
+[
+ {
+  "property": "WidgetAliases",
+  "offset": "0x40",
+  "size": "0x80"
+ },
+ {
+  "property": "bIsMobileOnly",
+  "offset": "0x120",
+  "size": "0x1"
+ }
+]

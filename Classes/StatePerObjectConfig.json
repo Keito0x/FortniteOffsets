@@ -1,0 +1,12 @@
+[
+ {
+  "property": "PerObjectConfigSection",
+  "offset": "0x80",
+  "size": "0x16"
+ },
+ {
+  "property": "bEnabled",
+  "offset": "0x96",
+  "size": "0x1"
+ }
+]

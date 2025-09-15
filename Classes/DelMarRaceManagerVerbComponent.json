@@ -1,0 +1,17 @@
+[
+ {
+  "property": "CachedRaceManager",
+  "offset": "0x192",
+  "size": "0x8"
+ },
+ {
+  "property": "PositionalTracker",
+  "offset": "0x200",
+  "size": "0x8"
+ },
+ {
+  "property": "PrevRacePositions",
+  "offset": "0x208",
+  "size": "0x16"
+ }
+]

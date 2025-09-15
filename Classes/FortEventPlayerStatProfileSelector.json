@@ -1,0 +1,12 @@
+[
+ {
+  "property": "ProfileList",
+  "offset": "0x1488",
+  "size": "0x8"
+ },
+ {
+  "property": "HoveredName",
+  "offset": "0x1496",
+  "size": "0x8"
+ }
+]

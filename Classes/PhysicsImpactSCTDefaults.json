@@ -1,0 +1,27 @@
+[
+ {
+  "property": "ImpactTypeParameterName",
+  "offset": "0x144",
+  "size": "0x4"
+ },
+ {
+  "property": "StrengthParameterName",
+  "offset": "0x148",
+  "size": "0x4"
+ },
+ {
+  "property": "Light",
+  "offset": "0x152",
+  "size": "0x88"
+ },
+ {
+  "property": "Medium",
+  "offset": "0x240",
+  "size": "0x88"
+ },
+ {
+  "property": "Heavy",
+  "offset": "0x328",
+  "size": "0x88"
+ }
+]

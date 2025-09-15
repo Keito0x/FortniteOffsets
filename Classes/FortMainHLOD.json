@@ -1,0 +1,22 @@
+[
+ {
+  "property": "LODLevel",
+  "offset": "0x688",
+  "size": "0x4"
+ },
+ {
+  "property": "bRequireWarmup",
+  "offset": "0x692",
+  "size": "0x1"
+ },
+ {
+  "property": "SourceCellGuid",
+  "offset": "0x696",
+  "size": "0x16"
+ },
+ {
+  "property": "StandaloneHLODGuid",
+  "offset": "0x712",
+  "size": "0x16"
+ }
+]

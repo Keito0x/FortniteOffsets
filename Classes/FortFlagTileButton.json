@@ -1,0 +1,22 @@
+[
+ {
+  "property": "IconParamName",
+  "offset": "0x5624",
+  "size": "0x4"
+ },
+ {
+  "property": "SourceObject",
+  "offset": "0x5632",
+  "size": "0x8"
+ },
+ {
+  "property": "FlagImage",
+  "offset": "0x5640",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_Active",
+  "offset": "0x5648",
+  "size": "0x8"
+ }
+]

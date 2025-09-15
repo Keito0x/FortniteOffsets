@@ -1,0 +1,12 @@
+[
+ {
+  "property": "bShouldInterpolateLocation",
+  "offset": "0x496",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldInterpolateRotation",
+  "offset": "0x497",
+  "size": "0x1"
+ }
+]

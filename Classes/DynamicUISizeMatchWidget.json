@@ -1,0 +1,22 @@
+[
+ {
+  "property": "TargetWidget",
+  "offset": "0x96",
+  "size": "0x120"
+ },
+ {
+  "property": "MatchType",
+  "offset": "0x216",
+  "size": "0x4"
+ },
+ {
+  "property": "Fallbacks",
+  "offset": "0x224",
+  "size": "0x16"
+ },
+ {
+  "property": "bUseFallbacks",
+  "offset": "0x240",
+  "size": "0x1"
+ }
+]

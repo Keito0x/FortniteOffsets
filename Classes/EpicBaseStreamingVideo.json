@@ -1,0 +1,87 @@
+[
+ {
+  "property": "VideoOnTerminalError",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "VideoOnSuccess",
+  "offset": "0x64",
+  "size": "0x16"
+ },
+ {
+  "property": "VideoOnClosed",
+  "offset": "0x80",
+  "size": "0x16"
+ },
+ {
+  "property": "VideoOnEndReached",
+  "offset": "0x96",
+  "size": "0x16"
+ },
+ {
+  "property": "VideoOnOpened",
+  "offset": "0x112",
+  "size": "0x16"
+ },
+ {
+  "property": "VideoOnOpenTimeout",
+  "offset": "0x128",
+  "size": "0x16"
+ },
+ {
+  "property": "VideoOnResumed",
+  "offset": "0x144",
+  "size": "0x16"
+ },
+ {
+  "property": "MediaSource",
+  "offset": "0x160",
+  "size": "0x8"
+ },
+ {
+  "property": "MediaPlayer",
+  "offset": "0x168",
+  "size": "0x8"
+ },
+ {
+  "property": "VideoSize",
+  "offset": "0x176",
+  "size": "0x8"
+ },
+ {
+  "property": "PriorityInfo",
+  "offset": "0x184",
+  "size": "0x3"
+ },
+ {
+  "property": "DefaultSubmix",
+  "offset": "0x208",
+  "size": "0x8"
+ },
+ {
+  "property": "LicensedSubmix",
+  "offset": "0x216",
+  "size": "0x8"
+ },
+ {
+  "property": "MediaSoundComponent",
+  "offset": "0x224",
+  "size": "0x8"
+ },
+ {
+  "property": "PendingMediaTexture",
+  "offset": "0x320",
+  "size": "0x8"
+ },
+ {
+  "property": "bAwaitingRetry",
+  "offset": "0x328",
+  "size": "0x1"
+ },
+ {
+  "property": "RetryDelayElapsed",
+  "offset": "0x332",
+  "size": "0x4"
+ }
+]

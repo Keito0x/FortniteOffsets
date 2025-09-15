@@ -1,0 +1,32 @@
+[
+ {
+  "property": "NewMapsDataLayersLogicOperator",
+  "offset": "0x48",
+  "size": "0x1"
+ },
+ {
+  "property": "bNewMapsEnableWorldPartition",
+  "offset": "0x49",
+  "size": "0x1"
+ },
+ {
+  "property": "bNewMapsEnableWorldPartitionStreaming",
+  "offset": "0x50",
+  "size": "0x1"
+ },
+ {
+  "property": "EditorHashDefaultClass",
+  "offset": "0x56",
+  "size": "0x8"
+ },
+ {
+  "property": "RuntimeHashDefaultClass",
+  "offset": "0x64",
+  "size": "0x8"
+ },
+ {
+  "property": "PropertyOverridePolicy",
+  "offset": "0x72",
+  "size": "0x8"
+ }
+]

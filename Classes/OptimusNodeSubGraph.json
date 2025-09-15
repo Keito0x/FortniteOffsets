@@ -1,0 +1,12 @@
+[
+ {
+  "property": "InputBindings",
+  "offset": "0x152",
+  "size": "0x16"
+ },
+ {
+  "property": "OutputBindings",
+  "offset": "0x168",
+  "size": "0x16"
+ }
+]

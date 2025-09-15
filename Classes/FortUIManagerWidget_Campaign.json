@@ -1,0 +1,12 @@
+[
+ {
+  "property": "NavigationManager",
+  "offset": "0x1112",
+  "size": "0x8"
+ },
+ {
+  "property": "TalkingHead",
+  "offset": "0x1120",
+  "size": "0x8"
+ }
+]

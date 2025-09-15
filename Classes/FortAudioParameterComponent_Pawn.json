@@ -1,0 +1,12 @@
+[
+ {
+  "property": "CachedPawnOwner",
+  "offset": "0x248",
+  "size": "0x8"
+ },
+ {
+  "property": "CachedLocalPC",
+  "offset": "0x256",
+  "size": "0x8"
+ }
+]

@@ -1,0 +1,7 @@
+[
+ {
+  "property": "CommonTargetFrameRate",
+  "offset": "0x176",
+  "size": "0x8"
+ }
+]

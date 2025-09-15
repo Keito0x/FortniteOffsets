@@ -1,0 +1,17 @@
+[
+ {
+  "property": "MouseKeyboardTrackedInputPointerConfig",
+  "offset": "0x816",
+  "size": "0x24"
+ },
+ {
+  "property": "TouchInputTrackedInputPointerConfig",
+  "offset": "0x840",
+  "size": "0x24"
+ },
+ {
+  "property": "InjectedInputActions",
+  "offset": "0x944",
+  "size": "0x80"
+ }
+]

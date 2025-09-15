@@ -1,0 +1,22 @@
+[
+ {
+  "property": "ElapsedSleepTime",
+  "offset": "0x160",
+  "size": "0x4"
+ },
+ {
+  "property": "PlayState",
+  "offset": "0x164",
+  "size": "0x1"
+ },
+ {
+  "property": "BP_OnGrantPlaytimeRequestStatusUpdate",
+  "offset": "0x168",
+  "size": "0x16"
+ },
+ {
+  "property": "BP_OnRequestAdditionalPlaytimeStatusUpdate",
+  "offset": "0x184",
+  "size": "0x16"
+ }
+]

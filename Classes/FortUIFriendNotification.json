@@ -1,0 +1,17 @@
+[
+ {
+  "property": "FriendActionType",
+  "offset": "0x256",
+  "size": "0x1"
+ },
+ {
+  "property": "FriendUniqueId",
+  "offset": "0x264",
+  "size": "0x48"
+ },
+ {
+  "property": "bShowTags",
+  "offset": "0x312",
+  "size": "0x1"
+ }
+]

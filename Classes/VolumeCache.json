@@ -1,0 +1,27 @@
+[
+ {
+  "property": "FilePath",
+  "offset": "0x40",
+  "size": "0x16"
+ },
+ {
+  "property": "CacheType",
+  "offset": "0x56",
+  "size": "0x1"
+ },
+ {
+  "property": "Resolution",
+  "offset": "0x60",
+  "size": "0x12"
+ },
+ {
+  "property": "FrameRangeStart",
+  "offset": "0x72",
+  "size": "0x4"
+ },
+ {
+  "property": "FrameRangeEnd",
+  "offset": "0x76",
+  "size": "0x4"
+ }
+]

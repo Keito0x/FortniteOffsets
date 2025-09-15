@@ -1,0 +1,22 @@
+[
+ {
+  "property": "LastTextCommittedType",
+  "offset": "0x1040",
+  "size": "0x1"
+ },
+ {
+  "property": "Button_RenameInputButton",
+  "offset": "0x1048",
+  "size": "0x8"
+ },
+ {
+  "property": "OnTextCommitByEnter",
+  "offset": "0x1056",
+  "size": "0x16"
+ },
+ {
+  "property": "OnRenameInput",
+  "offset": "0x1072",
+  "size": "0x16"
+ }
+]

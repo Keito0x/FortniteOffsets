@@ -1,0 +1,52 @@
+[
+ {
+  "property": "ServerMemSharedInKb",
+  "offset": "0x680",
+  "size": "0x8"
+ },
+ {
+  "property": "ServerMemUniqueInKb",
+  "offset": "0x688",
+  "size": "0x8"
+ },
+ {
+  "property": "ServerMemVirtualInKb",
+  "offset": "0x696",
+  "size": "0x8"
+ },
+ {
+  "property": "ServerMemPhysicalInKb",
+  "offset": "0x704",
+  "size": "0x8"
+ },
+ {
+  "property": "SharedDeltaInLastMinute",
+  "offset": "0x712",
+  "size": "0x8"
+ },
+ {
+  "property": "SharedDeltaSinceProcessStart",
+  "offset": "0x720",
+  "size": "0x8"
+ },
+ {
+  "property": "SharedDeltaSinceDebugStart",
+  "offset": "0x728",
+  "size": "0x8"
+ },
+ {
+  "property": "UniqueDeltaInLastMinute",
+  "offset": "0x736",
+  "size": "0x8"
+ },
+ {
+  "property": "UniqueDeltaSinceProcessStart",
+  "offset": "0x744",
+  "size": "0x8"
+ },
+ {
+  "property": "UniqueDeltaSinceDebugStart",
+  "offset": "0x752",
+  "size": "0x8"
+ }
+]

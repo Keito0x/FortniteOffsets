@@ -1,0 +1,27 @@
+[
+ {
+  "property": "bEnableWorldManager",
+  "offset": "0x48",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableWorldManagerInPIE",
+  "offset": "0x49",
+  "size": "0x1"
+ },
+ {
+  "property": "WorldPersistenceCompatibilityVersion",
+  "offset": "0x52",
+  "size": "0x4"
+ },
+ {
+  "property": "DeviceProfileSuffix",
+  "offset": "0x56",
+  "size": "0x16"
+ },
+ {
+  "property": "WorldManagementHandler",
+  "offset": "0x112",
+  "size": "0x8"
+ }
+]

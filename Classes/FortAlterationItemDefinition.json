@@ -1,0 +1,32 @@
+[
+ {
+  "property": "AlterationType",
+  "offset": "0x312",
+  "size": "0x1"
+ },
+ {
+  "property": "DefaultCosmetic",
+  "offset": "0x320",
+  "size": "0x1536"
+ },
+ {
+  "property": "ConditionalCosmetics",
+  "offset": "0x1856",
+  "size": "0x16"
+ },
+ {
+  "property": "AdditionalGameplayTags",
+  "offset": "0x1872",
+  "size": "0x16"
+ },
+ {
+  "property": "AlterationAbilitySet",
+  "offset": "0x1888",
+  "size": "0x32"
+ },
+ {
+  "property": "AdditionalRespecCosts",
+  "offset": "0x1920",
+  "size": "0x16"
+ }
+]

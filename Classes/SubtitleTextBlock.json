@@ -1,0 +1,17 @@
+[
+ {
+  "property": "DialogSubtitleBlock",
+  "offset": "0x776",
+  "size": "0x8"
+ },
+ {
+  "property": "CaptionSubtitleBlock",
+  "offset": "0x784",
+  "size": "0x8"
+ },
+ {
+  "property": "DescriptionSubtitleBlock",
+  "offset": "0x792",
+  "size": "0x8"
+ }
+]

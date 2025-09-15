@@ -1,0 +1,32 @@
+[
+ {
+  "property": "JumpPenalties",
+  "offset": "0x22816",
+  "size": "0x16"
+ },
+ {
+  "property": "JumpPenaltyResetTime",
+  "offset": "0x22832",
+  "size": "0x4"
+ },
+ {
+  "property": "NetworkSkipSkyDivingCollisionForPawnLOD",
+  "offset": "0x22848",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxAccelerationFlying",
+  "offset": "0x22852",
+  "size": "0x4"
+ },
+ {
+  "property": "bDontOrientRotationMovingVertically",
+  "offset": "0x22856",
+  "size": "0x1"
+ },
+ {
+  "property": "bForceBinaryMovementInputVector",
+  "offset": "0x22857",
+  "size": "0x1"
+ }
+]

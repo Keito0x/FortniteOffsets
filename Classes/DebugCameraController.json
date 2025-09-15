@@ -1,0 +1,92 @@
+[
+ {
+  "property": "bShowSelectedInfo",
+  "offset": "0x1848",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsFrozenRendering",
+  "offset": "0x1848",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsOrbitingSelectedActor",
+  "offset": "0x1848",
+  "size": "0x1"
+ },
+ {
+  "property": "bOrbitPivotUseCenter",
+  "offset": "0x1848",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableBufferVisualization",
+  "offset": "0x1848",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableBufferVisualizationFullMode",
+  "offset": "0x1848",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsBufferVisualizationInputSetup",
+  "offset": "0x1848",
+  "size": "0x1"
+ },
+ {
+  "property": "bLastDisplayEnabled",
+  "offset": "0x1848",
+  "size": "0x1"
+ },
+ {
+  "property": "DrawFrustum",
+  "offset": "0x1856",
+  "size": "0x8"
+ },
+ {
+  "property": "SelectedActor",
+  "offset": "0x1864",
+  "size": "0x8"
+ },
+ {
+  "property": "SelectedComponent",
+  "offset": "0x1872",
+  "size": "0x8"
+ },
+ {
+  "property": "SelectedHitPoint",
+  "offset": "0x1880",
+  "size": "0x248"
+ },
+ {
+  "property": "OriginalControllerRef",
+  "offset": "0x2128",
+  "size": "0x8"
+ },
+ {
+  "property": "OriginalPlayer",
+  "offset": "0x2136",
+  "size": "0x8"
+ },
+ {
+  "property": "SpeedScale",
+  "offset": "0x2144",
+  "size": "0x4"
+ },
+ {
+  "property": "InitialMaxSpeed",
+  "offset": "0x2148",
+  "size": "0x4"
+ },
+ {
+  "property": "InitialAccel",
+  "offset": "0x2152",
+  "size": "0x4"
+ },
+ {
+  "property": "InitialDecel",
+  "offset": "0x2156",
+  "size": "0x4"
+ }
+]

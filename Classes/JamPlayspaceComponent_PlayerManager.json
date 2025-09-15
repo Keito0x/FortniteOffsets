@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Interactors",
+  "offset": "0x480",
+  "size": "0x16"
+ },
+ {
+  "property": "PlayerPawnCache",
+  "offset": "0x496",
+  "size": "0x80"
+ }
+]

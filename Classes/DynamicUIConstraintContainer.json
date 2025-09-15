@@ -1,0 +1,17 @@
+[
+ {
+  "property": "WidgetsToContain",
+  "offset": "0x128",
+  "size": "0x16"
+ },
+ {
+  "property": "Padding",
+  "offset": "0x144",
+  "size": "0x16"
+ },
+ {
+  "property": "bMustMatchAllWidgets",
+  "offset": "0x160",
+  "size": "0x1"
+ }
+]

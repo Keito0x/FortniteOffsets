@@ -1,0 +1,27 @@
+[
+ {
+  "property": "PriorityFillOrder",
+  "offset": "0x888",
+  "size": "0x16"
+ },
+ {
+  "property": "AutoJammerProfilePic",
+  "offset": "0x904",
+  "size": "0x32"
+ },
+ {
+  "property": "JamCompanionSong",
+  "offset": "0x936",
+  "size": "0x4"
+ },
+ {
+  "property": "bShouldJamCompanionStaggerAutoJammers",
+  "offset": "0x940",
+  "size": "0x1"
+ },
+ {
+  "property": "TooCloseToJamErrorMessage",
+  "offset": "0x944",
+  "size": "0x4"
+ }
+]

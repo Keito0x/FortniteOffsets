@@ -1,0 +1,42 @@
+[
+ {
+  "property": "TransformMask",
+  "offset": "0x328",
+  "size": "0x4"
+ },
+ {
+  "property": "Translation",
+  "offset": "0x336",
+  "size": "0x840"
+ },
+ {
+  "property": "Rotation",
+  "offset": "0x1176",
+  "size": "0x840"
+ },
+ {
+  "property": "Scale",
+  "offset": "0x2016",
+  "size": "0x840"
+ },
+ {
+  "property": "ManualWeight",
+  "offset": "0x2856",
+  "size": "0x272"
+ },
+ {
+  "property": "OverrideRegistry",
+  "offset": "0x3128",
+  "size": "0x8"
+ },
+ {
+  "property": "Constraints",
+  "offset": "0x3136",
+  "size": "0x8"
+ },
+ {
+  "property": "bUseQuaternionInterpolation",
+  "offset": "0x3144",
+  "size": "0x1"
+ }
+]

@@ -1,0 +1,7 @@
+[
+ {
+  "property": "WidgetByViewModelClassName",
+  "offset": "0x48",
+  "size": "0x80"
+ }
+]

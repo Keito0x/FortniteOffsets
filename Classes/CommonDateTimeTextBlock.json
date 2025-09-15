@@ -1,0 +1,12 @@
+[
+ {
+  "property": "CustomTimespanFormat",
+  "offset": "0x832",
+  "size": "0x16"
+ },
+ {
+  "property": "bCustomTimespanLeadingZeros",
+  "offset": "0x848",
+  "size": "0x1"
+ }
+]

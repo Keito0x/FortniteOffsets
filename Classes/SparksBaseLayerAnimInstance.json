@@ -1,0 +1,37 @@
+[
+ {
+  "property": "InstrumentPSC",
+  "offset": "0x1256",
+  "size": "0x8"
+ },
+ {
+  "property": "SparksPlayspace",
+  "offset": "0x1264",
+  "size": "0x8"
+ },
+ {
+  "property": "Instrument",
+  "offset": "0x1272",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsRoamingOrNotAnimatable",
+  "offset": "0x1273",
+  "size": "0x1"
+ },
+ {
+  "property": "InstrumentSlotTag",
+  "offset": "0x1276",
+  "size": "0x4"
+ },
+ {
+  "property": "AnimatableState",
+  "offset": "0x1280",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsRoaming",
+  "offset": "0x1281",
+  "size": "0x1"
+ }
+]

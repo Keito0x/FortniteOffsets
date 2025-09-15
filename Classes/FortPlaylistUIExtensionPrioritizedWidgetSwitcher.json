@@ -1,0 +1,22 @@
+[
+ {
+  "property": "ContentHorizontalAlignment",
+  "offset": "0x632",
+  "size": "0x1"
+ },
+ {
+  "property": "ContentVerticalAlignment",
+  "offset": "0x633",
+  "size": "0x1"
+ },
+ {
+  "property": "ExtensionSlots",
+  "offset": "0x640",
+  "size": "0x16"
+ },
+ {
+  "property": "PlaylistUIExtensionLoader",
+  "offset": "0x656",
+  "size": "0x8"
+ }
+]

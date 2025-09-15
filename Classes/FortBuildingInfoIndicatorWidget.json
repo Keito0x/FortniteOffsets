@@ -1,0 +1,27 @@
+[
+ {
+  "property": "Wood_MeshPreviewMap",
+  "offset": "0x1048",
+  "size": "0x80"
+ },
+ {
+  "property": "Stone_MeshPreviewMap",
+  "offset": "0x1128",
+  "size": "0x80"
+ },
+ {
+  "property": "Metal_MeshPreviewMap",
+  "offset": "0x1208",
+  "size": "0x80"
+ },
+ {
+  "property": "BuildingResetNames",
+  "offset": "0x1288",
+  "size": "0x16"
+ },
+ {
+  "property": "Mesh_Preview",
+  "offset": "0x1304",
+  "size": "0x8"
+ }
+]

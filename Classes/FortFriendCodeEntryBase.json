@@ -1,0 +1,32 @@
+[
+ {
+  "property": "FriendCode",
+  "offset": "0x5656",
+  "size": "0x32"
+ },
+ {
+  "property": "LinkDataTextBox",
+  "offset": "0x5688",
+  "size": "0x8"
+ },
+ {
+  "property": "DebugName",
+  "offset": "0x5696",
+  "size": "0x16"
+ },
+ {
+  "property": "LengthOfCode",
+  "offset": "0x5712",
+  "size": "0x4"
+ },
+ {
+  "property": "SharedMessage",
+  "offset": "0x5720",
+  "size": "0x16"
+ },
+ {
+  "property": "SharedMessageNoInvite",
+  "offset": "0x5736",
+  "size": "0x16"
+ }
+]

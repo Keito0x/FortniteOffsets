@@ -1,0 +1,17 @@
+[
+ {
+  "property": "FirstActorKey",
+  "offset": "0x104",
+  "size": "0x40"
+ },
+ {
+  "property": "SecondActorKey",
+  "offset": "0x144",
+  "size": "0x40"
+ },
+ {
+  "property": "AcceptedAffiliations",
+  "offset": "0x184",
+  "size": "0x4"
+ }
+]

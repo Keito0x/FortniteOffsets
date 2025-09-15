@@ -1,0 +1,27 @@
+[
+ {
+  "property": "SplineMeshComponents",
+  "offset": "0x5664",
+  "size": "0x16"
+ },
+ {
+  "property": "LakeTransitionMaterial",
+  "offset": "0x5680",
+  "size": "0x8"
+ },
+ {
+  "property": "LakeTransitionMID",
+  "offset": "0x5688",
+  "size": "0x8"
+ },
+ {
+  "property": "OceanTransitionMaterial",
+  "offset": "0x5696",
+  "size": "0x8"
+ },
+ {
+  "property": "OceanTransitionMID",
+  "offset": "0x5704",
+  "size": "0x8"
+ }
+]

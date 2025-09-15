@@ -1,0 +1,17 @@
+[
+ {
+  "property": "MidiNoteEvents",
+  "offset": "0x40",
+  "size": "0x80"
+ },
+ {
+  "property": "MidiTextEvents",
+  "offset": "0x120",
+  "size": "0x80"
+ },
+ {
+  "property": "MidiFilePtr",
+  "offset": "0x200",
+  "size": "0x8"
+ }
+]

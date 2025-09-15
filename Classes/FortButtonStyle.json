@@ -1,0 +1,67 @@
+[
+ {
+  "property": "NormalBase",
+  "offset": "0x48",
+  "size": "0x1088"
+ },
+ {
+  "property": "NormalHovered",
+  "offset": "0x1136",
+  "size": "0x1088"
+ },
+ {
+  "property": "NormalPressed",
+  "offset": "0x2224",
+  "size": "0x1088"
+ },
+ {
+  "property": "SelectedBase",
+  "offset": "0x3312",
+  "size": "0x1088"
+ },
+ {
+  "property": "SelectedHovered",
+  "offset": "0x4400",
+  "size": "0x1088"
+ },
+ {
+  "property": "SelectedPressed",
+  "offset": "0x5488",
+  "size": "0x1088"
+ },
+ {
+  "property": "Disabled",
+  "offset": "0x6576",
+  "size": "0x1088"
+ },
+ {
+  "property": "ButtonPadding",
+  "offset": "0x7664",
+  "size": "0x96"
+ },
+ {
+  "property": "Font",
+  "offset": "0x7760",
+  "size": "0x528"
+ },
+ {
+  "property": "CustomPadding",
+  "offset": "0x8288",
+  "size": "0x96"
+ },
+ {
+  "property": "PressedSlateSound",
+  "offset": "0x8384",
+  "size": "0x24"
+ },
+ {
+  "property": "ClickedSlateSound",
+  "offset": "0x8408",
+  "size": "0x24"
+ },
+ {
+  "property": "HoveredSlateSound",
+  "offset": "0x8432",
+  "size": "0x24"
+ }
+]

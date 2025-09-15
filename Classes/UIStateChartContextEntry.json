@@ -1,0 +1,12 @@
+[
+ {
+  "property": "CommonValue",
+  "offset": "0x40",
+  "size": "0x16"
+ },
+ {
+  "property": "PlayerOverrides",
+  "offset": "0x56",
+  "size": "0x80"
+ }
+]

@@ -1,0 +1,7 @@
+[
+ {
+  "property": "AnimContextsAvailabilities",
+  "offset": "0x64",
+  "size": "0x16"
+ }
+]

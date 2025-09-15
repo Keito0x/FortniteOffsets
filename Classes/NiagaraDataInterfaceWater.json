@@ -1,0 +1,22 @@
+[
+ {
+  "property": "bFindWaterBodyOnSpawn",
+  "offset": "0x56",
+  "size": "0x1"
+ },
+ {
+  "property": "bEvaluateSystemDepth",
+  "offset": "0x57",
+  "size": "0x1"
+ },
+ {
+  "property": "bEvaluateSystemDepthPerFrame",
+  "offset": "0x58",
+  "size": "0x1"
+ },
+ {
+  "property": "SourceBodyComponent",
+  "offset": "0x64",
+  "size": "0x32"
+ }
+]

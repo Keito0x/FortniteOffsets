@@ -1,0 +1,12 @@
+[
+ {
+  "property": "SoundIndicatorComponent",
+  "offset": "0x464",
+  "size": "0x8"
+ },
+ {
+  "property": "PlayerPawn",
+  "offset": "0x472",
+  "size": "0x8"
+ }
+]

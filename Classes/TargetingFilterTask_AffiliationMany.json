@@ -1,0 +1,22 @@
+[
+ {
+  "property": "AffiliationTypes",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "FortPawnAffiliationTypes",
+  "offset": "0x64",
+  "size": "0x1"
+ },
+ {
+  "property": "BuildingActorAffiliationTypes",
+  "offset": "0x65",
+  "size": "0x1"
+ },
+ {
+  "property": "SpecificAffiliationTypes",
+  "offset": "0x72",
+  "size": "0x80"
+ }
+]

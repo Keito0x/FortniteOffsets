@@ -1,0 +1,32 @@
+[
+ {
+  "property": "SoftMissingFriendsModalClass",
+  "offset": "0x1168",
+  "size": "0x32"
+ },
+ {
+  "property": "SidebarBackButton",
+  "offset": "0x1200",
+  "size": "0x8"
+ },
+ {
+  "property": "Header",
+  "offset": "0x1208",
+  "size": "0x8"
+ },
+ {
+  "property": "WBP_RebootRallyTimer",
+  "offset": "0x1216",
+  "size": "0x8"
+ },
+ {
+  "property": "UserTree_RebootRally",
+  "offset": "0x1224",
+  "size": "0x8"
+ },
+ {
+  "property": "RebootRallyTooltip",
+  "offset": "0x1248",
+  "size": "0x8"
+ }
+]

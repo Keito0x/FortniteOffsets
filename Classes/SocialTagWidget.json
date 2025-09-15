@@ -1,0 +1,42 @@
+[
+ {
+  "property": "Image_CheckMark",
+  "offset": "0x5536",
+  "size": "0x8"
+ },
+ {
+  "property": "TagCategory",
+  "offset": "0x5544",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsSystemTag",
+  "offset": "0x5545",
+  "size": "0x1"
+ },
+ {
+  "property": "bShowCategoryCustomization",
+  "offset": "0x5546",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsSelectable",
+  "offset": "0x5547",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableMultiSelection",
+  "offset": "0x5548",
+  "size": "0x1"
+ },
+ {
+  "property": "bShowAddingWhenSelected",
+  "offset": "0x5549",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsCheckmarkEnabled",
+  "offset": "0x5568",
+  "size": "0x1"
+ }
+]

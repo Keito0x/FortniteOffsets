@@ -1,0 +1,17 @@
+[
+ {
+  "property": "ControllerComponents",
+  "offset": "0x192",
+  "size": "0x16"
+ },
+ {
+  "property": "PlayerStateComponents",
+  "offset": "0x208",
+  "size": "0x16"
+ },
+ {
+  "property": "ActorComponents",
+  "offset": "0x224",
+  "size": "0x16"
+ }
+]

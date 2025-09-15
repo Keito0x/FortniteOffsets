@@ -1,0 +1,22 @@
+[
+ {
+  "property": "WeaponLabelText",
+  "offset": "0x848",
+  "size": "0x16"
+ },
+ {
+  "property": "GameModeLabelText",
+  "offset": "0x864",
+  "size": "0x16"
+ },
+ {
+  "property": "ContentManagementListView",
+  "offset": "0x880",
+  "size": "0x8"
+ },
+ {
+  "property": "CachedActivities",
+  "offset": "0x912",
+  "size": "0x16"
+ }
+]

@@ -1,0 +1,1702 @@
+[
+ {
+  "property": "LinkedAnimGraphsData",
+  "offset": "0x1512",
+  "size": "0x48"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x1560",
+  "size": "0x4"
+ },
+ {
+  "property": "GameTime",
+  "offset": "0x1564",
+  "size": "0x4"
+ },
+ {
+  "property": "FortPlayerPawn",
+  "offset": "0x1568",
+  "size": "0x8"
+ },
+ {
+  "property": "AnimBodyType",
+  "offset": "0x1576",
+  "size": "0x1"
+ },
+ {
+  "property": "Gender",
+  "offset": "0x1577",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsRemoteClient",
+  "offset": "0x1578",
+  "size": "0x1"
+ },
+ {
+  "property": "FallAnimDuration",
+  "offset": "0x1580",
+  "size": "0x4"
+ },
+ {
+  "property": "FallPlayRate",
+  "offset": "0x1584",
+  "size": "0x4"
+ },
+ {
+  "property": "CommonVehicleInput",
+  "offset": "0x1588",
+  "size": "0x8"
+ },
+ {
+  "property": "TurnInPlaceInput",
+  "offset": "0x1600",
+  "size": "0x256"
+ },
+ {
+  "property": "ZiplineInput",
+  "offset": "0x1856",
+  "size": "0x56"
+ },
+ {
+  "property": "TurnInitiatingStates",
+  "offset": "0x1912",
+  "size": "0x24"
+ },
+ {
+  "property": "TurnTransitionStates",
+  "offset": "0x1936",
+  "size": "0x24"
+ },
+ {
+  "property": "RandomizeMontageSectionInput",
+  "offset": "0x1960",
+  "size": "0x24"
+ },
+ {
+  "property": "SlopeInfoInput",
+  "offset": "0x1984",
+  "size": "0x96"
+ },
+ {
+  "property": "StrideWarpingInputClampConstants",
+  "offset": "0x2080",
+  "size": "0x20"
+ },
+ {
+  "property": "WalkStrideWarpingClampValues",
+  "offset": "0x2100",
+  "size": "0x20"
+ },
+ {
+  "property": "RunStrideWarpingClampValues",
+  "offset": "0x2120",
+  "size": "0x20"
+ },
+ {
+  "property": "TransitionPropertiesInput",
+  "offset": "0x2140",
+  "size": "0x1"
+ },
+ {
+  "property": "DBNOTurnPlayRate",
+  "offset": "0x2144",
+  "size": "0x4"
+ },
+ {
+  "property": "DBNOTurnPlayRateAbs",
+  "offset": "0x2148",
+  "size": "0x4"
+ },
+ {
+  "property": "EmoteAnimOffset",
+  "offset": "0x2152",
+  "size": "0x24"
+ },
+ {
+  "property": "AdjustedAimBase",
+  "offset": "0x2176",
+  "size": "0x620"
+ },
+ {
+  "property": "AdjustedAimAthena",
+  "offset": "0x2796",
+  "size": "0x620"
+ },
+ {
+  "property": "AdjustedAim",
+  "offset": "0x3416",
+  "size": "0x620"
+ },
+ {
+  "property": "HandIKInput",
+  "offset": "0x4036",
+  "size": "0x32"
+ },
+ {
+  "property": "ADSToNonADSBlendTime",
+  "offset": "0x4068",
+  "size": "0x4"
+ },
+ {
+  "property": "NonADSToADSBlendTime",
+  "offset": "0x4072",
+  "size": "0x4"
+ },
+ {
+  "property": "NonADSToADSAlphaBlendOption",
+  "offset": "0x4076",
+  "size": "0x1"
+ },
+ {
+  "property": "DesiredNonADSToADSBlendTime",
+  "offset": "0x4080",
+  "size": "0x4"
+ },
+ {
+  "property": "MotionMatchingWithoutProceduralLayeringBlendTime",
+  "offset": "0x4084",
+  "size": "0x4"
+ },
+ {
+  "property": "BlendOutOfWallBlockTime",
+  "offset": "0x4088",
+  "size": "0x4"
+ },
+ {
+  "property": "HandIKRetargetingWeight",
+  "offset": "0x4092",
+  "size": "0x4"
+ },
+ {
+  "property": "HandIKRetargetingAxisAlpha",
+  "offset": "0x4096",
+  "size": "0x24"
+ },
+ {
+  "property": "RightHandIKAlpha",
+  "offset": "0x4120",
+  "size": "0x4"
+ },
+ {
+  "property": "LeftHandIKAlpha",
+  "offset": "0x4124",
+  "size": "0x4"
+ },
+ {
+  "property": "IKHandLeftInPelvisSpaceAlpha",
+  "offset": "0x4128",
+  "size": "0x4"
+ },
+ {
+  "property": "LegIKAlpha",
+  "offset": "0x4132",
+  "size": "0x4"
+ },
+ {
+  "property": "StrideWarpingAlpha",
+  "offset": "0x4136",
+  "size": "0x4"
+ },
+ {
+  "property": "Skydiving",
+  "offset": "0x4144",
+  "size": "0x144"
+ },
+ {
+  "property": "FreeFall_AimPitch",
+  "offset": "0x4288",
+  "size": "0x4"
+ },
+ {
+  "property": "bIsSlopeSliding",
+  "offset": "0x4292",
+  "size": "0x1"
+ },
+ {
+  "property": "SlopeSlidingPitch",
+  "offset": "0x4296",
+  "size": "0x4"
+ },
+ {
+  "property": "SlopeSlidingRoll",
+  "offset": "0x4300",
+  "size": "0x4"
+ },
+ {
+  "property": "SlopeSlidingAlpha",
+  "offset": "0x4304",
+  "size": "0x4"
+ },
+ {
+  "property": "JumpAdditiveLayerAlpha",
+  "offset": "0x4308",
+  "size": "0x4"
+ },
+ {
+  "property": "AdditiveFullBodySlotAlpha",
+  "offset": "0x4312",
+  "size": "0x4"
+ },
+ {
+  "property": "JumpAdditiveLayerPassthrough",
+  "offset": "0x4316",
+  "size": "0x20"
+ },
+ {
+  "property": "JumpAdditiveLeanAlpha",
+  "offset": "0x4336",
+  "size": "0x4"
+ },
+ {
+  "property": "DisableArmsHeadAdditiveCurveAlpha",
+  "offset": "0x4340",
+  "size": "0x4"
+ },
+ {
+  "property": "DisableIKRootAdditiveCurveAlpha",
+  "offset": "0x4344",
+  "size": "0x4"
+ },
+ {
+  "property": "DisableUpperBodyAdditiveMeshSpaceCurveAlpha",
+  "offset": "0x4348",
+  "size": "0x4"
+ },
+ {
+  "property": "UpperBodySlotLowerBodyMaskAlpha",
+  "offset": "0x4352",
+  "size": "0x4"
+ },
+ {
+  "property": "UpperBodySlotLowerBodyMaskBlendProgress",
+  "offset": "0x4356",
+  "size": "0x4"
+ },
+ {
+  "property": "DBNOCarryProxyTable",
+  "offset": "0x4360",
+  "size": "0x8"
+ },
+ {
+  "property": "CurrentAnimSet",
+  "offset": "0x4368",
+  "size": "0x352"
+ },
+ {
+  "property": "CurrentGliderAnimSet",
+  "offset": "0x4720",
+  "size": "0x616"
+ },
+ {
+  "property": "CurrentWeaponAdditiveAnimSet",
+  "offset": "0x5336",
+  "size": "0x56"
+ },
+ {
+  "property": "CurrentTacticalStateAnimSet",
+  "offset": "0x5392",
+  "size": "0x48"
+ },
+ {
+  "property": "BonesHiddenByAnimSet",
+  "offset": "0x5440",
+  "size": "0x16"
+ },
+ {
+  "property": "ItemLayerAnimInstance",
+  "offset": "0x5456",
+  "size": "0x8"
+ },
+ {
+  "property": "AimPitchAdjustment",
+  "offset": "0x5464",
+  "size": "0x4"
+ },
+ {
+  "property": "AimYawAdjustment",
+  "offset": "0x5468",
+  "size": "0x4"
+ },
+ {
+  "property": "PlayMeleeAttackAO",
+  "offset": "0x5472",
+  "size": "0x4"
+ },
+ {
+  "property": "LastFramePawnTransform",
+  "offset": "0x5488",
+  "size": "0x96"
+ },
+ {
+  "property": "WeaponModAnimData",
+  "offset": "0x5584",
+  "size": "0x24"
+ },
+ {
+  "property": "WeaponModLeftHandPoseOffset",
+  "offset": "0x5608",
+  "size": "0x8"
+ },
+ {
+  "property": "MaxAimYawAdjustment",
+  "offset": "0x5616",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxPitch",
+  "offset": "0x5620",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxYaw",
+  "offset": "0x5624",
+  "size": "0x4"
+ },
+ {
+  "property": "ReticleAimDistance",
+  "offset": "0x5628",
+  "size": "0x4"
+ },
+ {
+  "property": "AimAdjustmentInterpSpeed",
+  "offset": "0x5632",
+  "size": "0x4"
+ },
+ {
+  "property": "WeaponFireBlendTime",
+  "offset": "0x5636",
+  "size": "0x4"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x5640",
+  "size": "0x8"
+ },
+ {
+  "property": "ConsumableOffsetPose",
+  "offset": "0x5648",
+  "size": "0x8"
+ },
+ {
+  "property": "MissingCosmeticUpperBodyOverride",
+  "offset": "0x5656",
+  "size": "0x8"
+ },
+ {
+  "property": "MissingCosmeticLowerBodyOverride",
+  "offset": "0x5664",
+  "size": "0x8"
+ },
+ {
+  "property": "MissingCosmeticLowerBodyInMotionOverride",
+  "offset": "0x5672",
+  "size": "0x8"
+ },
+ {
+  "property": "bEnableMissingCosmeticOverride",
+  "offset": "0x5680",
+  "size": "0x1"
+ },
+ {
+  "property": "bAimWeaponTowardsReticle",
+  "offset": "0x5680",
+  "size": "0x1"
+ },
+ {
+  "property": "bDebugWeaponAiming",
+  "offset": "0x5680",
+  "size": "0x1"
+ },
+ {
+  "property": "bCachedPawnTransform",
+  "offset": "0x5680",
+  "size": "0x1"
+ },
+ {
+  "property": "bHasValidWeaponMuzzleSocket",
+  "offset": "0x5680",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldUseCrouchUpperBodySlot",
+  "offset": "0x5680",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldUseCrouchInPlaceAdditiveSlot",
+  "offset": "0x5680",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsEquipMontagePlaying",
+  "offset": "0x5680",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsConsumableEquipped",
+  "offset": "0x5681",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsChannelingConsumable",
+  "offset": "0x5681",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsOnGround",
+  "offset": "0x5681",
+  "size": "0x1"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x5681",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsTargetingConsumableThrow",
+  "offset": "0x5681",
+  "size": "0x1"
+ },
+ {
+  "property": "bPlayUpperBodyTargeting",
+  "offset": "0x5681",
+  "size": "0x1"
+ },
+ {
+  "property": "bPlayingRootMotion",
+  "offset": "0x5681",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsStunned",
+  "offset": "0x5681",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsTowed",
+  "offset": "0x5682",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsTowedOrSliding",
+  "offset": "0x5682",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsMontagePlaying",
+  "offset": "0x5682",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsPlayingMeleeAnim",
+  "offset": "0x5682",
+  "size": "0x1"
+ },
+ {
+  "property": "bRecentlyFiredAbility",
+  "offset": "0x5682",
+  "size": "0x1"
+ },
+ {
+  "property": "bDisableUpperBodySlotOnLowerBodyInIdle",
+  "offset": "0x5682",
+  "size": "0x1"
+ },
+ {
+  "property": "bWasRelaxedLevel1",
+  "offset": "0x5682",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsRelaxedNearWall",
+  "offset": "0x5683",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsCrouching",
+  "offset": "0x5684",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsCrouchMoving",
+  "offset": "0x5684",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsCrouchSprinting",
+  "offset": "0x5684",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsSurfaceSwimming",
+  "offset": "0x5684",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsDiveJumping",
+  "offset": "0x5684",
+  "size": "0x1"
+ },
+ {
+  "property": "bSwimmingIsWaterLanding",
+  "offset": "0x5684",
+  "size": "0x1"
+ },
+ {
+  "property": "ApplySourcePoseLeftHandMaskAlpha",
+  "offset": "0x5688",
+  "size": "0x4"
+ },
+ {
+  "property": "ApplySourcePoseRightHandMaskAlpha",
+  "offset": "0x5692",
+  "size": "0x4"
+ },
+ {
+  "property": "bSwimmingHasReachedJumpBottom",
+  "offset": "0x5696",
+  "size": "0x1"
+ },
+ {
+  "property": "bSwimmingHeadUnderWaterDuringWaterLand",
+  "offset": "0x5696",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsSprinting",
+  "offset": "0x5696",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsAccelerating2D",
+  "offset": "0x5696",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsMoving2D",
+  "offset": "0x5696",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsOnFoot",
+  "offset": "0x5696",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsMovingOnFoot",
+  "offset": "0x5696",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsIdle",
+  "offset": "0x5696",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsIdleOrSettling",
+  "offset": "0x5697",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsStoppingOrIdle",
+  "offset": "0x5697",
+  "size": "0x1"
+ },
+ {
+  "property": "bWasMoving2D",
+  "offset": "0x5697",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsAboveMinimumLocomotionSpeed",
+  "offset": "0x5697",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsBackpedaling",
+  "offset": "0x5697",
+  "size": "0x1"
+ },
+ {
+  "property": "bSkipJumpStart",
+  "offset": "0x5697",
+  "size": "0x1"
+ },
+ {
+  "property": "bExitLanding",
+  "offset": "0x5697",
+  "size": "0x1"
+ },
+ {
+  "property": "LocomotionStyle",
+  "offset": "0x5698",
+  "size": "0x1"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x5699",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsBeingInterrogated",
+  "offset": "0x5699",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsUsingJetpack",
+  "offset": "0x5699",
+  "size": "0x1"
+ },
+ {
+  "property": "bGoopJumpExecuted",
+  "offset": "0x5700",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsUsingRemoteControlPawn",
+  "offset": "0x5701",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsInVehicle",
+  "offset": "0x5701",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsValetDriver",
+  "offset": "0x5701",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsValetPassenger",
+  "offset": "0x5701",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsInShoppingCart",
+  "offset": "0x5701",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsInCannon",
+  "offset": "0x5701",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsFiredFromCannon",
+  "offset": "0x5701",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsDBNOCarrying",
+  "offset": "0x5701",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsDBNOCarried",
+  "offset": "0x5702",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsFemale",
+  "offset": "0x5702",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsHidingInProp",
+  "offset": "0x5702",
+  "size": "0x1"
+ },
+ {
+  "property": "bHasBalloons",
+  "offset": "0x5702",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsGhost",
+  "offset": "0x5702",
+  "size": "0x1"
+ },
+ {
+  "property": "bHasIcyFeet",
+  "offset": "0x5702",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsMovingAndInMotionEmote",
+  "offset": "0x5702",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsPlayingEmote",
+  "offset": "0x5702",
+  "size": "0x1"
+ },
+ {
+  "property": "StaticToTraversalBlendTime",
+  "offset": "0x5704",
+  "size": "0x4"
+ },
+ {
+  "property": "TraversalToStaticBlendTime",
+  "offset": "0x5708",
+  "size": "0x4"
+ },
+ {
+  "property": "FullBodyToUpperbodyInMotionBlendTime",
+  "offset": "0x5712",
+  "size": "0x4"
+ },
+ {
+  "property": "bUseUpperBodyInMotionSlot",
+  "offset": "0x5716",
+  "size": "0x1"
+ },
+ {
+  "property": "bPlayLowerBodyLocomotionOverFullBodySlot",
+  "offset": "0x5716",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsGrappleRopeActive",
+  "offset": "0x5716",
+  "size": "0x1"
+ },
+ {
+  "property": "FullBodyInAirFallTimeThreshold",
+  "offset": "0x5720",
+  "size": "0x4"
+ },
+ {
+  "property": "FullBodyInAirLowerBodyWeight",
+  "offset": "0x5724",
+  "size": "0x4"
+ },
+ {
+  "property": "TargetingWeight",
+  "offset": "0x5728",
+  "size": "0x4"
+ },
+ {
+  "property": "bHasMeleeTwistCurve",
+  "offset": "0x5732",
+  "size": "0x1"
+ },
+ {
+  "property": "bHasNonZeroMeleeTwistCurve",
+  "offset": "0x5733",
+  "size": "0x1"
+ },
+ {
+  "property": "MeleeTwistCurveValue",
+  "offset": "0x5736",
+  "size": "0x4"
+ },
+ {
+  "property": "JumpUpperBodyBlendWeight",
+  "offset": "0x5740",
+  "size": "0x4"
+ },
+ {
+  "property": "RightArmMaskWeight",
+  "offset": "0x5744",
+  "size": "0x4"
+ },
+ {
+  "property": "LeftArmMaskWeight",
+  "offset": "0x5748",
+  "size": "0x4"
+ },
+ {
+  "property": "FullBodyAimOffsetAlpha",
+  "offset": "0x5752",
+  "size": "0x4"
+ },
+ {
+  "property": "bEnableMotionAdditive",
+  "offset": "0x5756",
+  "size": "0x1"
+ },
+ {
+  "property": "LocomotionAdditiveAlpha",
+  "offset": "0x5760",
+  "size": "0x4"
+ },
+ {
+  "property": "MinMovementBaseSpeedForAdditive",
+  "offset": "0x5764",
+  "size": "0x4"
+ },
+ {
+  "property": "MovementBaseSpeed",
+  "offset": "0x5768",
+  "size": "0x24"
+ },
+ {
+  "property": "BaseLocomotionAdditiveAlpha",
+  "offset": "0x5792",
+  "size": "0x4"
+ },
+ {
+  "property": "LocalAccelYawAngle",
+  "offset": "0x5796",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxSpeed",
+  "offset": "0x5800",
+  "size": "0x4"
+ },
+ {
+  "property": "VelocityZ",
+  "offset": "0x5804",
+  "size": "0x4"
+ },
+ {
+  "property": "Speed2D",
+  "offset": "0x5808",
+  "size": "0x4"
+ },
+ {
+  "property": "RidingSpeed2D",
+  "offset": "0x5812",
+  "size": "0x4"
+ },
+ {
+  "property": "LocalVelocityYawAngle",
+  "offset": "0x5816",
+  "size": "0x4"
+ },
+ {
+  "property": "LocalVelocityYawAngleMinusJogBlendSpaceRotation",
+  "offset": "0x5820",
+  "size": "0x4"
+ },
+ {
+  "property": "LocalVelocityYawAngleMinusMeleeTwist",
+  "offset": "0x5824",
+  "size": "0x4"
+ },
+ {
+  "property": "LocalAccelVelocityYawDelta",
+  "offset": "0x5828",
+  "size": "0x4"
+ },
+ {
+  "property": "AngularVelocityYaw",
+  "offset": "0x5832",
+  "size": "0x4"
+ },
+ {
+  "property": "SpeedAdjustedPlayrate",
+  "offset": "0x5836",
+  "size": "0x4"
+ },
+ {
+  "property": "LeanAdditiveAlpha",
+  "offset": "0x5840",
+  "size": "0x4"
+ },
+ {
+  "property": "LeanAngle",
+  "offset": "0x5844",
+  "size": "0x4"
+ },
+ {
+  "property": "FramerateDependentLeanAngle",
+  "offset": "0x5848",
+  "size": "0x4"
+ },
+ {
+  "property": "SprintYawAngle",
+  "offset": "0x5852",
+  "size": "0x4"
+ },
+ {
+  "property": "YawDeltaCurrentTick",
+  "offset": "0x5856",
+  "size": "0x4"
+ },
+ {
+  "property": "YawDeltaLastTick",
+  "offset": "0x5860",
+  "size": "0x4"
+ },
+ {
+  "property": "YawDeltaSmoothed",
+  "offset": "0x5864",
+  "size": "0x4"
+ },
+ {
+  "property": "AbsYawDeltaSmoothed",
+  "offset": "0x5868",
+  "size": "0x4"
+ },
+ {
+  "property": "PawnToVehicleDeltaYawAngleDegrees",
+  "offset": "0x5872",
+  "size": "0x4"
+ },
+ {
+  "property": "SavedWeaponAbilityLastFireTime",
+  "offset": "0x5876",
+  "size": "0x4"
+ },
+ {
+  "property": "SwimmingImmersionDepth",
+  "offset": "0x5880",
+  "size": "0x4"
+ },
+ {
+  "property": "bHasNoHeadOrNeckTag",
+  "offset": "0x5884",
+  "size": "0x1"
+ },
+ {
+  "property": "bApplyCrouchMovingAdditiveSkinFix",
+  "offset": "0x5884",
+  "size": "0x1"
+ },
+ {
+  "property": "WorldAcceleration",
+  "offset": "0x5888",
+  "size": "0x24"
+ },
+ {
+  "property": "LocalAcceleration",
+  "offset": "0x5912",
+  "size": "0x24"
+ },
+ {
+  "property": "WorldVelocity",
+  "offset": "0x5936",
+  "size": "0x24"
+ },
+ {
+  "property": "LocalVelocity",
+  "offset": "0x5960",
+  "size": "0x24"
+ },
+ {
+  "property": "ActorRotationLastTick",
+  "offset": "0x5984",
+  "size": "0x24"
+ },
+ {
+  "property": "WeaponCoreAnim",
+  "offset": "0x6008",
+  "size": "0x1"
+ },
+ {
+  "property": "WeaponCoreAnimForEmptyHands",
+  "offset": "0x6009",
+  "size": "0x1"
+ },
+ {
+  "property": "DefaultWeaponAnimSet",
+  "offset": "0x6016",
+  "size": "0x8"
+ },
+ {
+  "property": "DefaultAnimAssets",
+  "offset": "0x6024",
+  "size": "0x16"
+ },
+ {
+  "property": "WeaponAnimSet",
+  "offset": "0x6040",
+  "size": "0x8"
+ },
+ {
+  "property": "WeaponAnimAssets",
+  "offset": "0x6048",
+  "size": "0x16"
+ },
+ {
+  "property": "WeaponOverrideAnimSet",
+  "offset": "0x6064",
+  "size": "0x8"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x6072",
+  "size": "0x8"
+ },
+ {
+  "property": "WeaponAnimSetForEmptyHands",
+  "offset": "0x6080",
+  "size": "0x8"
+ },
+ {
+  "property": "FirstPersonAdditiveAlpha",
+  "offset": "0x6088",
+  "size": "0x4"
+ },
+ {
+  "property": "bUseFirstPersonUpperBodySlot",
+  "offset": "0x6092",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseFirstPersonMeshRotationUpperBodySlot",
+  "offset": "0x6092",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseFirstPersonPreAimOffsetsSlot",
+  "offset": "0x6092",
+  "size": "0x1"
+ },
+ {
+  "property": "bWeaponHolstered",
+  "offset": "0x6092",
+  "size": "0x1"
+ },
+ {
+  "property": "CurrentGliderAnimSetDataAsset",
+  "offset": "0x6096",
+  "size": "0x8"
+ },
+ {
+  "property": "PreviousFrameLocomotionCardinalDirection",
+  "offset": "0x6104",
+  "size": "0x1"
+ },
+ {
+  "property": "LocomotionCardinalDirection",
+  "offset": "0x6105",
+  "size": "0x1"
+ },
+ {
+  "property": "JumpUpperBodyBlendSpeed",
+  "offset": "0x6108",
+  "size": "0x4"
+ },
+ {
+  "property": "AuthoredCrouchSprintSpeed",
+  "offset": "0x6112",
+  "size": "0x4"
+ },
+ {
+  "property": "AuthoredCrouchWalkSpeed",
+  "offset": "0x6116",
+  "size": "0x4"
+ },
+ {
+  "property": "AuthoredCrouchJogSpeed",
+  "offset": "0x6120",
+  "size": "0x4"
+ },
+ {
+  "property": "AuthoredSprintSpeed",
+  "offset": "0x6124",
+  "size": "0x4"
+ },
+ {
+  "property": "AuthoredWalkSpeed",
+  "offset": "0x6128",
+  "size": "0x4"
+ },
+ {
+  "property": "AuthoredJogBwdSpeed",
+  "offset": "0x6132",
+  "size": "0x4"
+ },
+ {
+  "property": "AuthoredJogFwdSpeed",
+  "offset": "0x6136",
+  "size": "0x4"
+ },
+ {
+  "property": "AuthoredJogStrafeSpeed",
+  "offset": "0x6140",
+  "size": "0x4"
+ },
+ {
+  "property": "LeanFadeInSpeed",
+  "offset": "0x6144",
+  "size": "0x4"
+ },
+ {
+  "property": "LeanFadeOutSpeed",
+  "offset": "0x6148",
+  "size": "0x4"
+ },
+ {
+  "property": "PostEquipRelaxedTimer",
+  "offset": "0x6152",
+  "size": "0x4"
+ },
+ {
+  "property": "PostEquipSlidingRelaxedTimer",
+  "offset": "0x6156",
+  "size": "0x4"
+ },
+ {
+  "property": "IdleRelaxedTimer",
+  "offset": "0x6160",
+  "size": "0x4"
+ },
+ {
+  "property": "MovingRelaxedTimer",
+  "offset": "0x6164",
+  "size": "0x4"
+ },
+ {
+  "property": "EffectiveMovingRelaxedTimer",
+  "offset": "0x6168",
+  "size": "0x4"
+ },
+ {
+  "property": "bIsShieldUp",
+  "offset": "0x6172",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsJumpBoosting",
+  "offset": "0x6172",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableAimOffsets",
+  "offset": "0x6172",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldProcessFullAnimUpdate",
+  "offset": "0x6172",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsInAir",
+  "offset": "0x6172",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnterLanding",
+  "offset": "0x6172",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsWaterJump",
+  "offset": "0x6172",
+  "size": "0x1"
+ },
+ {
+  "property": "bPlayRelaxedEntry",
+  "offset": "0x6172",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsGrapplerActive",
+  "offset": "0x6173",
+  "size": "0x1"
+ },
+ {
+  "property": "bSwimmingIsWaterPaddlingToSurface",
+  "offset": "0x6173",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsMeleeGuarding",
+  "offset": "0x6173",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsMeleeDeflecting",
+  "offset": "0x6173",
+  "size": "0x1"
+ },
+ {
+  "property": "bUsingUncleBrolly",
+  "offset": "0x6173",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsPlayingForwardMotionAnim",
+  "offset": "0x6173",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsPatrolling",
+  "offset": "0x6173",
+  "size": "0x1"
+ },
+ {
+  "property": "HeadTrackingReticleSocketName",
+  "offset": "0x6176",
+  "size": "0x4"
+ },
+ {
+  "property": "HeadTrackingReticleInterpSpeed",
+  "offset": "0x6180",
+  "size": "0x4"
+ },
+ {
+  "property": "HeadTrackingReticleAdjustment",
+  "offset": "0x6184",
+  "size": "0x24"
+ },
+ {
+  "property": "GameplayTagAnimations",
+  "offset": "0x6208",
+  "size": "0x16"
+ },
+ {
+  "property": "LargeBodyAdditiveSlotAlpha",
+  "offset": "0x6224",
+  "size": "0x4"
+ },
+ {
+  "property": "LargeFemaleIdlePelvisOffset",
+  "offset": "0x6232",
+  "size": "0x24"
+ },
+ {
+  "property": "IdlePelvisOffset",
+  "offset": "0x6256",
+  "size": "0x24"
+ },
+ {
+  "property": "IdlePelvisOffsetAlpha",
+  "offset": "0x6280",
+  "size": "0x4"
+ },
+ {
+  "property": "PawnLOD",
+  "offset": "0x6284",
+  "size": "0x4"
+ },
+ {
+  "property": "DisabledFullBodySprintTimeRemaining",
+  "offset": "0x6288",
+  "size": "0x4"
+ },
+ {
+  "property": "bIsFullBodySprintTransitionDisabled",
+  "offset": "0x6292",
+  "size": "0x1"
+ },
+ {
+  "property": "MaxParaGlideDeployCurveValue",
+  "offset": "0x6296",
+  "size": "0x4"
+ },
+ {
+  "property": "bPreviousIsParachuteOpened",
+  "offset": "0x6300",
+  "size": "0x1"
+ },
+ {
+  "property": "bParaGlide_OpenGlider",
+  "offset": "0x6301",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsTacticalSprint",
+  "offset": "0x6301",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsTacticalJump",
+  "offset": "0x6301",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsTacticalInAir",
+  "offset": "0x6301",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsDoorBashExit",
+  "offset": "0x6301",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsInWater",
+  "offset": "0x6301",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsHurdleFall",
+  "offset": "0x6301",
+  "size": "0x1"
+ },
+ {
+  "property": "bWantsGliderAnimAssetUpdate",
+  "offset": "0x6301",
+  "size": "0x1"
+ },
+ {
+  "property": "bTransition_FullBody_Sprinting",
+  "offset": "0x6302",
+  "size": "0x1"
+ },
+ {
+  "property": "bTransition_FullBody_TacticalSprint",
+  "offset": "0x6302",
+  "size": "0x1"
+ },
+ {
+  "property": "bTransition_FullBody_TacticalSprint_Inertialized",
+  "offset": "0x6302",
+  "size": "0x1"
+ },
+ {
+  "property": "bTransition_NewFallAditive_NewFallLandAdditive",
+  "offset": "0x6302",
+  "size": "0x1"
+ },
+ {
+  "property": "bTransition_FullBody_Stunned",
+  "offset": "0x6302",
+  "size": "0x1"
+ },
+ {
+  "property": "bTransition_LowerBody_Movement",
+  "offset": "0x6302",
+  "size": "0x1"
+ },
+ {
+  "property": "bTransitionMotionMatchingIdle",
+  "offset": "0x6302",
+  "size": "0x1"
+ },
+ {
+  "property": "bTransition_LocomotionAdditive_CrouchTurning",
+  "offset": "0x6302",
+  "size": "0x1"
+ },
+ {
+  "property": "bLocomotion_Idles_to_Turns",
+  "offset": "0x6303",
+  "size": "0x1"
+ },
+ {
+  "property": "bTransition_SwimJumpSurfaceLoop_to_SwimJumpSurfaceEnd",
+  "offset": "0x6303",
+  "size": "0x1"
+ },
+ {
+  "property": "bTransition_SwimJumpSurfaceLoop_to_IdleAdditive",
+  "offset": "0x6303",
+  "size": "0x1"
+ },
+ {
+  "property": "bTransition_NewJumpLoopAdditive_to_NewFallAdditive",
+  "offset": "0x6303",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsUmbrellaFailing",
+  "offset": "0x6303",
+  "size": "0x1"
+ },
+ {
+  "property": "bBothHandsOnWeapon",
+  "offset": "0x6303",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableEmptyHands",
+  "offset": "0x6303",
+  "size": "0x1"
+ },
+ {
+  "property": "bHideWeaponForEmptyHands",
+  "offset": "0x6303",
+  "size": "0x1"
+ },
+ {
+  "property": "bHideWeapon",
+  "offset": "0x6304",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseFullBodyJumpAdditivesLinkedGraph",
+  "offset": "0x6304",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseFullBodyStateLinkedGraph",
+  "offset": "0x6304",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsWalking",
+  "offset": "0x6304",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsRiding",
+  "offset": "0x6304",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsReloading",
+  "offset": "0x6304",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsInFirstPerson",
+  "offset": "0x6304",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableCameraBoneSpace1stPersonAnims",
+  "offset": "0x6304",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableRigidBodyPBA",
+  "offset": "0x6305",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseFacialCurves",
+  "offset": "0x6305",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseOldJump",
+  "offset": "0x6305",
+  "size": "0x1"
+ },
+ {
+  "property": "bLinkedDebugGraphActive",
+  "offset": "0x6305",
+  "size": "0x1"
+ },
+ {
+  "property": "ItemProxyTable",
+  "offset": "0x6312",
+  "size": "0x8"
+ },
+ {
+  "property": "bCurrentItemSupportsProceduralLayering",
+  "offset": "0x6320",
+  "size": "0x1"
+ },
+ {
+  "property": "SourcePoseAnimSequence",
+  "offset": "0x6328",
+  "size": "0x8"
+ },
+ {
+  "property": "ADSLeanBlendSpace",
+  "offset": "0x6336",
+  "size": "0x8"
+ },
+ {
+  "property": "SourcePoseProxyAsset",
+  "offset": "0x6344",
+  "size": "0x8"
+ },
+ {
+  "property": "ADSLeanBlendSpaceProxyAsset",
+  "offset": "0x6352",
+  "size": "0x8"
+ },
+ {
+  "property": "CrouchShuffleAnimSequence",
+  "offset": "0x6360",
+  "size": "0x8"
+ },
+ {
+  "property": "bUseProceduralLayering",
+  "offset": "0x6368",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableProceduralLayeringStep2",
+  "offset": "0x6368",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableMotionMatchedTacticalSprint",
+  "offset": "0x6368",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableProceduralLayeredTacticalSprint",
+  "offset": "0x6368",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseMotionMatchingWithoutProceduralLayering",
+  "offset": "0x6368",
+  "size": "0x1"
+ },
+ {
+  "property": "ADSLeanWeight",
+  "offset": "0x6372",
+  "size": "0x4"
+ },
+ {
+  "property": "LowerBodyBlendMaskPresets",
+  "offset": "0x6376",
+  "size": "0x80"
+ },
+ {
+  "property": "DefaultLowerBodyBlendMask",
+  "offset": "0x6456",
+  "size": "0x8"
+ },
+ {
+  "property": "PreviousLowerBodyBlendMask",
+  "offset": "0x6464",
+  "size": "0x8"
+ },
+ {
+  "property": "PreviousLowerBodyMaskMeshSpace",
+  "offset": "0x6472",
+  "size": "0x1"
+ },
+ {
+  "property": "LowerBodyBlendMask",
+  "offset": "0x6480",
+  "size": "0x8"
+ },
+ {
+  "property": "bUseMeshSpaceForLowerBodyBlendMask",
+  "offset": "0x6488",
+  "size": "0x1"
+ },
+ {
+  "property": "LowerBodyBlendMaskBlendInTime",
+  "offset": "0x6492",
+  "size": "0x4"
+ },
+ {
+  "property": "bUseNoFeatheringLowerBodyBlendMask",
+  "offset": "0x6496",
+  "size": "0x1"
+ },
+ {
+  "property": "CurrentLowerBodyBlendMaskBlendOutTime",
+  "offset": "0x6500",
+  "size": "0x4"
+ },
+ {
+  "property": "IdleToMovementLowerBodyBlendTime",
+  "offset": "0x6504",
+  "size": "0x4"
+ },
+ {
+  "property": "bWasPlayingRootMotion",
+  "offset": "0x6508",
+  "size": "0x1"
+ },
+ {
+  "property": "bPoseDebugEnabled",
+  "offset": "0x6509",
+  "size": "0x1"
+ },
+ {
+  "property": "DebugPoseIndex",
+  "offset": "0x6512",
+  "size": "0x4"
+ },
+ {
+  "property": "bDebugDisableUpperBody",
+  "offset": "0x6516",
+  "size": "0x1"
+ },
+ {
+  "property": "bDebugLocomotionAdditives",
+  "offset": "0x6517",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseNoWeaponPoseDebug",
+  "offset": "0x6518",
+  "size": "0x1"
+ },
+ {
+  "property": "bAimYawSmoothingActive",
+  "offset": "0x6519",
+  "size": "0x1"
+ },
+ {
+  "property": "PreUpdateProperties",
+  "offset": "0x6520",
+  "size": "0x56"
+ },
+ {
+  "property": "FortAnimInstanceProxyForCopy",
+  "offset": "0x6576",
+  "size": "0x8"
+ },
+ {
+  "property": "ActiveLinkedAnimLayerClasses",
+  "offset": "0x6600",
+  "size": "0x16"
+ },
+ {
+  "property": "LocalAccelDeltaYawAngle",
+  "offset": "0x6632",
+  "size": "0x4"
+ },
+ {
+  "property": "bPreviousWeaponHolstered",
+  "offset": "0x6636",
+  "size": "0x1"
+ },
+ {
+  "property": "bPreviousIsInFirstPerson",
+  "offset": "0x6636",
+  "size": "0x1"
+ },
+ {
+  "property": "bWasWeaponLoweredNearWall",
+  "offset": "0x6637",
+  "size": "0x1"
+ },
+ {
+  "property": "bWasFallingLastTick",
+  "offset": "0x6638",
+  "size": "0x1"
+ },
+ {
+  "property": "bWasTargeting",
+  "offset": "0x6639",
+  "size": "0x1"
+ },
+ {
+  "property": "bVehicleForcesCrouch",
+  "offset": "0x6640",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsMovementExtensionFalling",
+  "offset": "0x6641",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsLandingInMovementExtension",
+  "offset": "0x6642",
+  "size": "0x1"
+ },
+ {
+  "property": "ItemCustomAnimationDataProxyAsset",
+  "offset": "0x6656",
+  "size": "0x8"
+ },
+ {
+  "property": "ItemCustomAnimData",
+  "offset": "0x6664",
+  "size": "0x8"
+ },
+ {
+  "property": "bAllowAimPitchAndYawOverride",
+  "offset": "0x6673",
+  "size": "0x1"
+ },
+ {
+  "property": "DebugAlphaValue",
+  "offset": "0x6676",
+  "size": "0x4"
+ }
+]

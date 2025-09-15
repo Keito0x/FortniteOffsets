@@ -1,0 +1,12 @@
+[
+ {
+  "property": "GenerationRange",
+  "offset": "0x680",
+  "size": "0x4"
+ },
+ {
+  "property": "InvokerComp",
+  "offset": "0x688",
+  "size": "0x8"
+ }
+]

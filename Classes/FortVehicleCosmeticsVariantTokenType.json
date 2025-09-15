@@ -1,0 +1,67 @@
+[
+ {
+  "property": "ProfileType",
+  "offset": "0x304",
+  "size": "0x1"
+ },
+ {
+  "property": "bAutoEquipVariant",
+  "offset": "0x305",
+  "size": "0x1"
+ },
+ {
+  "property": "VariantEquipRules",
+  "offset": "0x306",
+  "size": "0x1"
+ },
+ {
+  "property": "bMarkItemUnseen",
+  "offset": "0x307",
+  "size": "0x1"
+ },
+ {
+  "property": "bCreateGiftbox",
+  "offset": "0x308",
+  "size": "0x1"
+ },
+ {
+  "property": "bGrantBaseItem",
+  "offset": "0x309",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseDisplayNameInGiftbox",
+  "offset": "0x310",
+  "size": "0x1"
+ },
+ {
+  "property": "bPersistAfterApplication",
+  "offset": "0x311",
+  "size": "0x1"
+ },
+ {
+  "property": "cosmetic_item",
+  "offset": "0x312",
+  "size": "0x8"
+ },
+ {
+  "property": "VariantChannelTag",
+  "offset": "0x320",
+  "size": "0x4"
+ },
+ {
+  "property": "VariantNameTag",
+  "offset": "0x324",
+  "size": "0x4"
+ },
+ {
+  "property": "AdditionalVariantsToGrant",
+  "offset": "0x328",
+  "size": "0x16"
+ },
+ {
+  "property": "VariantPreviewOverrides",
+  "offset": "0x344",
+  "size": "0x16"
+ }
+]

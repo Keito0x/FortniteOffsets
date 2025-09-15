@@ -1,0 +1,37 @@
+[
+ {
+  "property": "WheelGroup",
+  "offset": "0x536",
+  "size": "0x8"
+ },
+ {
+  "property": "AdditionalWheelGroups",
+  "offset": "0x544",
+  "size": "0x16"
+ },
+ {
+  "property": "PaintedDataTableParameterName",
+  "offset": "0x560",
+  "size": "0x4"
+ },
+ {
+  "property": "WheelTirePoppedInfo",
+  "offset": "0x568",
+  "size": "0x16"
+ },
+ {
+  "property": "AdditionalVariantInfos",
+  "offset": "0x584",
+  "size": "0x80"
+ },
+ {
+  "property": "AnimInfos",
+  "offset": "0x664",
+  "size": "0x16"
+ },
+ {
+  "property": "WheelSetupInfos",
+  "offset": "0x680",
+  "size": "0x16"
+ }
+]

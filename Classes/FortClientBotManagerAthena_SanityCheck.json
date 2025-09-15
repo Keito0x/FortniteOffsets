@@ -1,0 +1,227 @@
+[
+ {
+  "property": "MissionEndTimerHandle",
+  "offset": "0x104",
+  "size": "0x8"
+ },
+ {
+  "property": "bHasAttemptedAbandon",
+  "offset": "0x140",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsMatchmaking",
+  "offset": "0x141",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldPickRandomMap",
+  "offset": "0x142",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldRecordFPSCharts",
+  "offset": "0x143",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldRecordMemoryReports",
+  "offset": "0x144",
+  "size": "0x1"
+ },
+ {
+  "property": "bFPSRecordingStarted",
+  "offset": "0x146",
+  "size": "0x1"
+ },
+ {
+  "property": "bWatchingForCallStack",
+  "offset": "0x147",
+  "size": "0x1"
+ },
+ {
+  "property": "iSelectedTheater",
+  "offset": "0x148",
+  "size": "0x4"
+ },
+ {
+  "property": "iSelectedTile",
+  "offset": "0x152",
+  "size": "0x4"
+ },
+ {
+  "property": "SelectedTileList",
+  "offset": "0x160",
+  "size": "0x16"
+ },
+ {
+  "property": "RandomZoneDifficultyMinimum",
+  "offset": "0x176",
+  "size": "0x4"
+ },
+ {
+  "property": "RandomZoneDifficultyMaximum",
+  "offset": "0x180",
+  "size": "0x4"
+ },
+ {
+  "property": "NumSkillPurchasesAttempted",
+  "offset": "0x184",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxSkillPurchaseAttempts",
+  "offset": "0x188",
+  "size": "0x4"
+ },
+ {
+  "property": "NumWorkerSlotsAttempted",
+  "offset": "0x192",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxWorkerSlotAttempts",
+  "offset": "0x196",
+  "size": "0x4"
+ },
+ {
+  "property": "LobbyActionTimer",
+  "offset": "0x200",
+  "size": "0x4"
+ },
+ {
+  "property": "TimeBetweenLobbyActions",
+  "offset": "0x204",
+  "size": "0x4"
+ },
+ {
+  "property": "bWaitingForSkillTreePurchase",
+  "offset": "0x208",
+  "size": "0x1"
+ },
+ {
+  "property": "bWaitingForWorkerSlot",
+  "offset": "0x209",
+  "size": "0x1"
+ },
+ {
+  "property": "LoopsSpentWaitingForFrontend",
+  "offset": "0x212",
+  "size": "0x4"
+ },
+ {
+  "property": "TimeBetweenStartButtonClicks",
+  "offset": "0x216",
+  "size": "0x4"
+ },
+ {
+  "property": "TimeSinceFriendInvitesSent",
+  "offset": "0x224",
+  "size": "0x4"
+ },
+ {
+  "property": "LastMatchmakeTime",
+  "offset": "0x228",
+  "size": "0x4"
+ },
+ {
+  "property": "LastLoginCycleTime",
+  "offset": "0x232",
+  "size": "0x4"
+ },
+ {
+  "property": "MatchmakingStartTime",
+  "offset": "0x236",
+  "size": "0x4"
+ },
+ {
+  "property": "LastChangedStateTime",
+  "offset": "0x240",
+  "size": "0x4"
+ },
+ {
+  "property": "LastRandomTurnTime",
+  "offset": "0x244",
+  "size": "0x4"
+ },
+ {
+  "property": "LastPickLootTime",
+  "offset": "0x248",
+  "size": "0x4"
+ },
+ {
+  "property": "LastPickEnemyTime",
+  "offset": "0x252",
+  "size": "0x4"
+ },
+ {
+  "property": "LastEnemyKilledTime",
+  "offset": "0x256",
+  "size": "0x4"
+ },
+ {
+  "property": "LastBuildingKilledTime",
+  "offset": "0x260",
+  "size": "0x4"
+ },
+ {
+  "property": "LastGoodInteraction",
+  "offset": "0x264",
+  "size": "0x4"
+ },
+ {
+  "property": "LastCheckGoodTarget",
+  "offset": "0x268",
+  "size": "0x4"
+ },
+ {
+  "property": "WeakEnemyTarget",
+  "offset": "0x344",
+  "size": "0x8"
+ },
+ {
+  "property": "PickupTarget",
+  "offset": "0x352",
+  "size": "0x8"
+ },
+ {
+  "property": "BuildingTarget",
+  "offset": "0x360",
+  "size": "0x8"
+ },
+ {
+  "property": "MissionTarget",
+  "offset": "0x368",
+  "size": "0x8"
+ },
+ {
+  "property": "PrimaryMissionTarget",
+  "offset": "0x376",
+  "size": "0x8"
+ },
+ {
+  "property": "AllMissionTargets",
+  "offset": "0x384",
+  "size": "0x16"
+ },
+ {
+  "property": "ActiveMissionTargets",
+  "offset": "0x400",
+  "size": "0x16"
+ },
+ {
+  "property": "ViewLocation",
+  "offset": "0x576",
+  "size": "0x24"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x600",
+  "size": "0x8"
+ },
+ {
+  "property": "ItemsToCheckForMaxStackSize",
+  "offset": "0x608",
+  "size": "0x16"
+ }
+]

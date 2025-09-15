@@ -1,0 +1,12 @@
+[
+ {
+  "property": "CollisionWhenEnabled",
+  "offset": "0x1344",
+  "size": "0x1"
+ },
+ {
+  "property": "CollisionWhenDisabled",
+  "offset": "0x1345",
+  "size": "0x1"
+ }
+]

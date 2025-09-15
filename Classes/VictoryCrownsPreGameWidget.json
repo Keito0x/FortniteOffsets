@@ -1,0 +1,17 @@
+[
+ {
+  "property": "EntryBox_BearerList",
+  "offset": "0x1120",
+  "size": "0x8"
+ },
+ {
+  "property": "TipActionWidget",
+  "offset": "0x1128",
+  "size": "0x8"
+ },
+ {
+  "property": "CloseObjectInputAction",
+  "offset": "0x1136",
+  "size": "0x16"
+ }
+]

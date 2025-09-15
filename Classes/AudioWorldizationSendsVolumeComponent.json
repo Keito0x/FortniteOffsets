@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Identifier",
+  "offset": "0x208",
+  "size": "0x4"
+ },
+ {
+  "property": "Sends",
+  "offset": "0x216",
+  "size": "0x16"
+ }
+]

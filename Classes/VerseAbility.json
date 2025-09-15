@@ -1,0 +1,12 @@
+[
+ {
+  "property": "GameplayAbilityClass",
+  "offset": "0x40",
+  "size": "0x8"
+ },
+ {
+  "property": "PropertyLinks",
+  "offset": "0x48",
+  "size": "0x16"
+ }
+]

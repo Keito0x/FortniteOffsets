@@ -1,0 +1,12 @@
+[
+ {
+  "property": "UseMemoryMode",
+  "offset": "0x48",
+  "size": "0x40"
+ },
+ {
+  "property": "CheckMinigameSettingsIntervalSeconds",
+  "offset": "0x88",
+  "size": "0x4"
+ }
+]

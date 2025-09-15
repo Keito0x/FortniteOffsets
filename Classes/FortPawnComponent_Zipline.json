@@ -1,0 +1,37 @@
+[
+ {
+  "property": "ZiplineExtLogicClass",
+  "offset": "0x208",
+  "size": "0x8"
+ },
+ {
+  "property": "ZiplineSplineExtLogicClass",
+  "offset": "0x216",
+  "size": "0x8"
+ },
+ {
+  "property": "OwnerPawn",
+  "offset": "0x224",
+  "size": "0x8"
+ },
+ {
+  "property": "OwnerMovementComponent",
+  "offset": "0x232",
+  "size": "0x8"
+ },
+ {
+  "property": "ZiplineSocketZOffset",
+  "offset": "0x240",
+  "size": "0x4"
+ },
+ {
+  "property": "UseLegacyCode",
+  "offset": "0x256",
+  "size": "0x40"
+ },
+ {
+  "property": "UseLegacyGameplayAbilities",
+  "offset": "0x296",
+  "size": "0x40"
+ }
+]

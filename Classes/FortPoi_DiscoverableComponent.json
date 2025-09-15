@@ -1,0 +1,62 @@
+[
+ {
+  "property": "MapLocationTextLocationOffset",
+  "offset": "0x192",
+  "size": "0x24"
+ },
+ {
+  "property": "PlayerFacingName",
+  "offset": "0x216",
+  "size": "0x16"
+ },
+ {
+  "property": "BackgroundImage",
+  "offset": "0x240",
+  "size": "0x176"
+ },
+ {
+  "property": "bShouldBackgroundFadeInProximity",
+  "offset": "0x416",
+  "size": "0x1"
+ },
+ {
+  "property": "DistanceToStartBackgroundFade",
+  "offset": "0x420",
+  "size": "0x4"
+ },
+ {
+  "property": "DistanceToCompleteBackgroundFade",
+  "offset": "0x424",
+  "size": "0x4"
+ },
+ {
+  "property": "DiscoveredSoundCue",
+  "offset": "0x432",
+  "size": "0x32"
+ },
+ {
+  "property": "bDisableMapLocationText",
+  "offset": "0x464",
+  "size": "0x1"
+ },
+ {
+  "property": "QuestPartOf",
+  "offset": "0x472",
+  "size": "0x32"
+ },
+ {
+  "property": "QuestObjectiveBackendName",
+  "offset": "0x504",
+  "size": "0x4"
+ },
+ {
+  "property": "DiscoverMinimapBitId",
+  "offset": "0x508",
+  "size": "0x4"
+ },
+ {
+  "property": "EventDrivenBitIds",
+  "offset": "0x512",
+  "size": "0x16"
+ }
+]

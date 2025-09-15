@@ -1,0 +1,22 @@
+[
+ {
+  "property": "M_Ascending",
+  "offset": "0x192",
+  "size": "0x8"
+ },
+ {
+  "property": "M_Descending",
+  "offset": "0x200",
+  "size": "0x8"
+ },
+ {
+  "property": "F_Ascending",
+  "offset": "0x208",
+  "size": "0x8"
+ },
+ {
+  "property": "F_Descending",
+  "offset": "0x216",
+  "size": "0x8"
+ }
+]

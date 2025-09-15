@@ -1,0 +1,17 @@
+[
+ {
+  "property": "Button_Mute",
+  "offset": "0x1600",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_ViewProfile",
+  "offset": "0x1608",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_BattlePassTier",
+  "offset": "0x1616",
+  "size": "0x8"
+ }
+]

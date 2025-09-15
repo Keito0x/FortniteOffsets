@@ -1,0 +1,62 @@
+[
+ {
+  "property": "AdditionalSourceTextures",
+  "offset": "0x56",
+  "size": "0x16"
+ },
+ {
+  "property": "BakedSourceUV",
+  "offset": "0x72",
+  "size": "0x16"
+ },
+ {
+  "property": "BakedSourceDimension",
+  "offset": "0x88",
+  "size": "0x16"
+ },
+ {
+  "property": "BakedSourceTexture",
+  "offset": "0x104",
+  "size": "0x8"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x112",
+  "size": "0x8"
+ },
+ {
+  "property": "AlternateMaterial",
+  "offset": "0x120",
+  "size": "0x8"
+ },
+ {
+  "property": "Sockets",
+  "offset": "0x128",
+  "size": "0x16"
+ },
+ {
+  "property": "SpriteCollisionDomain",
+  "offset": "0x144",
+  "size": "0x1"
+ },
+ {
+  "property": "PixelsPerUnrealUnit",
+  "offset": "0x148",
+  "size": "0x4"
+ },
+ {
+  "property": "BodySetup",
+  "offset": "0x152",
+  "size": "0x8"
+ },
+ {
+  "property": "AlternateMaterialSplitIndex",
+  "offset": "0x160",
+  "size": "0x4"
+ },
+ {
+  "property": "BakedRenderData",
+  "offset": "0x168",
+  "size": "0x16"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "property": "ItemVM",
+  "offset": "0x104",
+  "size": "0x8"
+ },
+ {
+  "property": "bIsGreyedOut",
+  "offset": "0x112",
+  "size": "0x1"
+ }
+]

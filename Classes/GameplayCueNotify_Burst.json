@@ -1,0 +1,17 @@
+[
+ {
+  "property": "DefaultSpawnCondition",
+  "offset": "0x56",
+  "size": "0x56"
+ },
+ {
+  "property": "DefaultPlacementInfo",
+  "offset": "0x112",
+  "size": "0x64"
+ },
+ {
+  "property": "BurstEffects",
+  "offset": "0x176",
+  "size": "0x664"
+ }
+]

@@ -1,0 +1,72 @@
+[
+ {
+  "property": "bDownloadEventsAfterHotfixCheck",
+  "offset": "0x2216",
+  "size": "0x1"
+ },
+ {
+  "property": "ReconnectToMMSDelay",
+  "offset": "0x2220",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxReconnectToMMSDelay",
+  "offset": "0x2224",
+  "size": "0x4"
+ },
+ {
+  "property": "QueryUserMode",
+  "offset": "0x2240",
+  "size": "0x4"
+ },
+ {
+  "property": "bEnableMMSBackfill",
+  "offset": "0x2252",
+  "size": "0x1"
+ },
+ {
+  "property": "bDisableBackfillDuringGracefulShutdown",
+  "offset": "0x2253",
+  "size": "0x1"
+ },
+ {
+  "property": "DisabledPlaylistsDuringGracefulShutdown",
+  "offset": "0x2256",
+  "size": "0x16"
+ },
+ {
+  "property": "PostBackfillAssignmentUpdateDelay",
+  "offset": "0x2276",
+  "size": "0x4"
+ },
+ {
+  "property": "bEnableReleaseAndWaitForInventories",
+  "offset": "0x2688",
+  "size": "0x1"
+ },
+ {
+  "property": "FullMeshRetryDelay",
+  "offset": "0x2692",
+  "size": "0x4"
+ },
+ {
+  "property": "MeshNetworkGCTimerRate",
+  "offset": "0x2696",
+  "size": "0x4"
+ },
+ {
+  "property": "MeshNetworkServerPerfTimerRate",
+  "offset": "0x2700",
+  "size": "0x4"
+ },
+ {
+  "property": "PlaylistToMatchmakingServices",
+  "offset": "0x2880",
+  "size": "0x80"
+ },
+ {
+  "property": "PlaylistToFleetMode",
+  "offset": "0x2960",
+  "size": "0x80"
+ }
+]

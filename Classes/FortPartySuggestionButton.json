@@ -1,0 +1,17 @@
+[
+ {
+  "property": "Text_SocialName",
+  "offset": "0x5640",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_Description",
+  "offset": "0x5648",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_ActionText",
+  "offset": "0x5656",
+  "size": "0x8"
+ }
+]

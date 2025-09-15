@@ -1,0 +1,22 @@
+[
+ {
+  "property": "CommonData",
+  "offset": "0x320",
+  "size": "0x32"
+ },
+ {
+  "property": "PassData",
+  "offset": "0x352",
+  "size": "0x32"
+ },
+ {
+  "property": "LevelData",
+  "offset": "0x384",
+  "size": "0x32"
+ },
+ {
+  "property": "Categories",
+  "offset": "0x416",
+  "size": "0x16"
+ }
+]

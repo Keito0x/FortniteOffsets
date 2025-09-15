@@ -1,0 +1,52 @@
+[
+ {
+  "property": "AudioMotorSimComponents",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "SoundComponents",
+  "offset": "0x64",
+  "size": "0x16"
+ },
+ {
+  "property": "bUseAudioComponentGroup",
+  "offset": "0x80",
+  "size": "0x1"
+ },
+ {
+  "property": "bIgnoreModelData",
+  "offset": "0x81",
+  "size": "0x1"
+ },
+ {
+  "property": "MaxBrakeThreshold",
+  "offset": "0x84",
+  "size": "0x4"
+ },
+ {
+  "property": "ThrottleMultiplier",
+  "offset": "0x88",
+  "size": "0x4"
+ },
+ {
+  "property": "SurfaceFrictionModifier",
+  "offset": "0x92",
+  "size": "0x4"
+ },
+ {
+  "property": "MotorFrictionModifier",
+  "offset": "0x96",
+  "size": "0x4"
+ },
+ {
+  "property": "FrictionJitter",
+  "offset": "0x104",
+  "size": "0x16"
+ },
+ {
+  "property": "bCanShiftOverride",
+  "offset": "0x120",
+  "size": "0x1"
+ }
+]

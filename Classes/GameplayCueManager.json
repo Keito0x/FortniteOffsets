@@ -1,0 +1,37 @@
+[
+ {
+  "property": "RuntimeGameplayCueObjectLibrary",
+  "offset": "0x72",
+  "size": "0x80"
+ },
+ {
+  "property": "EditorGameplayCueObjectLibrary",
+  "offset": "0x152",
+  "size": "0x80"
+ },
+ {
+  "property": "LoadedGameplayCueNotifyClasses",
+  "offset": "0x608",
+  "size": "0x16"
+ },
+ {
+  "property": "GameplayCueClassesForPreallocation",
+  "offset": "0x624",
+  "size": "0x16"
+ },
+ {
+  "property": "PendingExecuteCues",
+  "offset": "0x640",
+  "size": "0x16"
+ },
+ {
+  "property": "GameplayCueSendContextCount",
+  "offset": "0x656",
+  "size": "0x4"
+ },
+ {
+  "property": "PreallocationInfoList_Internal",
+  "offset": "0x664",
+  "size": "0x16"
+ }
+]

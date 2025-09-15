@@ -1,0 +1,27 @@
+[
+ {
+  "property": "ViewportConsole",
+  "offset": "0x64",
+  "size": "0x8"
+ },
+ {
+  "property": "DebugProperties",
+  "offset": "0x72",
+  "size": "0x16"
+ },
+ {
+  "property": "MaxSplitscreenPlayers",
+  "offset": "0x104",
+  "size": "0x4"
+ },
+ {
+  "property": "World",
+  "offset": "0x120",
+  "size": "0x8"
+ },
+ {
+  "property": "GameInstance",
+  "offset": "0x128",
+  "size": "0x8"
+ }
+]

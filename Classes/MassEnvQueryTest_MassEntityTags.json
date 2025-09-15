@@ -1,0 +1,12 @@
+[
+ {
+  "property": "TagTestMode",
+  "offset": "0x544",
+  "size": "0x1"
+ },
+ {
+  "property": "Tags",
+  "offset": "0x552",
+  "size": "0x16"
+ }
+]

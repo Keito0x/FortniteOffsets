@@ -1,0 +1,32 @@
+[
+ {
+  "property": "MediaOpenedMono",
+  "offset": "0x1712",
+  "size": "0x16"
+ },
+ {
+  "property": "MediaSourceMono",
+  "offset": "0x1816",
+  "size": "0x8"
+ },
+ {
+  "property": "StreamedMediaPlayer",
+  "offset": "0x1824",
+  "size": "0x8"
+ },
+ {
+  "property": "PressToSkipAction",
+  "offset": "0x1912",
+  "size": "0x16"
+ },
+ {
+  "property": "HoldToSkipAction",
+  "offset": "0x1928",
+  "size": "0x16"
+ },
+ {
+  "property": "Image_White",
+  "offset": "0x1944",
+  "size": "0x8"
+ }
+]

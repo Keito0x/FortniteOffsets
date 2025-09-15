@@ -1,0 +1,7 @@
+[
+ {
+  "property": "MatchmakingUIOverride",
+  "offset": "0x200",
+  "size": "0x64"
+ }
+]

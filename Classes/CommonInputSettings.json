@@ -1,0 +1,77 @@
+[
+ {
+  "property": "InputData",
+  "offset": "0x48",
+  "size": "0x32"
+ },
+ {
+  "property": "PlatformInput",
+  "offset": "0x80",
+  "size": "0x16"
+ },
+ {
+  "property": "CommonInputPlatformData",
+  "offset": "0x96",
+  "size": "0x80"
+ },
+ {
+  "property": "bEnableInputMethodThrashingProtection",
+  "offset": "0x176",
+  "size": "0x1"
+ },
+ {
+  "property": "InputMethodThrashingLimit",
+  "offset": "0x180",
+  "size": "0x4"
+ },
+ {
+  "property": "InputMethodThrashingWindowInSeconds",
+  "offset": "0x184",
+  "size": "0x8"
+ },
+ {
+  "property": "InputMethodThrashingCooldownInSeconds",
+  "offset": "0x192",
+  "size": "0x8"
+ },
+ {
+  "property": "bAllowOutOfFocusDeviceInput",
+  "offset": "0x200",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableDefaultInputConfig",
+  "offset": "0x201",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableEnhancedInputSupport",
+  "offset": "0x202",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableAutomaticGamepadTypeDetection",
+  "offset": "0x203",
+  "size": "0x1"
+ },
+ {
+  "property": "ActionDomainTable",
+  "offset": "0x208",
+  "size": "0x32"
+ },
+ {
+  "property": "PlatformNameUpgrades",
+  "offset": "0x240",
+  "size": "0x80"
+ },
+ {
+  "property": "InputDataClass",
+  "offset": "0x328",
+  "size": "0x8"
+ },
+ {
+  "property": "ActionDomainTablePtr",
+  "offset": "0x336",
+  "size": "0x8"
+ }
+]

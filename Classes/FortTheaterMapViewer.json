@@ -1,0 +1,72 @@
+[
+ {
+  "property": "MissionAvailabilityList",
+  "offset": "0x688",
+  "size": "0x16"
+ },
+ {
+  "property": "MissionAlertAvailabilityList",
+  "offset": "0x704",
+  "size": "0x16"
+ },
+ {
+  "property": "HexMapSize",
+  "offset": "0x720",
+  "size": "0x56"
+ },
+ {
+  "property": "HexTileWidth",
+  "offset": "0x776",
+  "size": "0x4"
+ },
+ {
+  "property": "HexTileHeight",
+  "offset": "0x780",
+  "size": "0x4"
+ },
+ {
+  "property": "HexMap",
+  "offset": "0x784",
+  "size": "0x16"
+ },
+ {
+  "property": "CurrentTheaterId",
+  "offset": "0x800",
+  "size": "0x16"
+ },
+ {
+  "property": "LeaderTileAccessStates",
+  "offset": "0x816",
+  "size": "0x16"
+ },
+ {
+  "property": "CurrentSelectedTile",
+  "offset": "0x832",
+  "size": "0x8"
+ },
+ {
+  "property": "CurrentFocusedTile",
+  "offset": "0x840",
+  "size": "0x8"
+ },
+ {
+  "property": "TheaterList",
+  "offset": "0x848",
+  "size": "0x16"
+ },
+ {
+  "property": "NumValidHexMapTiles",
+  "offset": "0x864",
+  "size": "0x4"
+ },
+ {
+  "property": "CurrentTileIndex",
+  "offset": "0x872",
+  "size": "0x4"
+ },
+ {
+  "property": "bDisplayTheaterComplete",
+  "offset": "0x876",
+  "size": "0x1"
+ }
+]

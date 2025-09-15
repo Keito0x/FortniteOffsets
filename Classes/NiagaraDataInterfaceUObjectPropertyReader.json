@@ -1,0 +1,27 @@
+[
+ {
+  "property": "SourceMode",
+  "offset": "0x56",
+  "size": "0x1"
+ },
+ {
+  "property": "UObjectParameterBinding",
+  "offset": "0x64",
+  "size": "0x24"
+ },
+ {
+  "property": "PropertyRemap",
+  "offset": "0x88",
+  "size": "0x16"
+ },
+ {
+  "property": "SourceActor",
+  "offset": "0x104",
+  "size": "0x32"
+ },
+ {
+  "property": "SourceActorComponentClass",
+  "offset": "0x136",
+  "size": "0x8"
+ }
+]

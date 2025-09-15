@@ -1,0 +1,72 @@
+[
+ {
+  "property": "UserOptionsToSave",
+  "offset": "0x200",
+  "size": "0x16"
+ },
+ {
+  "property": "MaxSaveSlots",
+  "offset": "0x216",
+  "size": "0x4"
+ },
+ {
+  "property": "SaveIndexParam",
+  "offset": "0x224",
+  "size": "0x16"
+ },
+ {
+  "property": "PresetAssets",
+  "offset": "0x240",
+  "size": "0x16"
+ },
+ {
+  "property": "PresetIndexParam",
+  "offset": "0x256",
+  "size": "0x16"
+ },
+ {
+  "property": "ApplyIndexImmediatelyToggleParam",
+  "offset": "0x272",
+  "size": "0x16"
+ },
+ {
+  "property": "OnActiveOverridesChanged",
+  "offset": "0x288",
+  "size": "0x16"
+ },
+ {
+  "property": "Owner",
+  "offset": "0x304",
+  "size": "0x8"
+ },
+ {
+  "property": "UserOptionSaveModulatable",
+  "offset": "0x312",
+  "size": "0x8"
+ },
+ {
+  "property": "Presets",
+  "offset": "0x328",
+  "size": "0x16"
+ },
+ {
+  "property": "Saves",
+  "offset": "0x344",
+  "size": "0x16"
+ },
+ {
+  "property": "FloatUserOptions",
+  "offset": "0x360",
+  "size": "0x80"
+ },
+ {
+  "property": "ActiveSaveIndex",
+  "offset": "0x440",
+  "size": "0x4"
+ },
+ {
+  "property": "ActivePresetIndex",
+  "offset": "0x444",
+  "size": "0x4"
+ }
+]

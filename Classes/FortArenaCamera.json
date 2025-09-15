@@ -1,0 +1,17 @@
+[
+ {
+  "property": "bEnabled",
+  "offset": "0x2728",
+  "size": "0x1"
+ },
+ {
+  "property": "CameraZone",
+  "offset": "0x2732",
+  "size": "0x4"
+ },
+ {
+  "property": "CameraComponentType",
+  "offset": "0x2736",
+  "size": "0x8"
+ }
+]

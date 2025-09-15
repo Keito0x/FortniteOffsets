@@ -1,0 +1,27 @@
+[
+ {
+  "property": "bIdleBreak",
+  "offset": "0x1000",
+  "size": "0x1"
+ },
+ {
+  "property": "pitch",
+  "offset": "0x1004",
+  "size": "0x4"
+ },
+ {
+  "property": "Yaw",
+  "offset": "0x1008",
+  "size": "0x4"
+ },
+ {
+  "property": "bTransitionIdleBreakToIdle",
+  "offset": "0x1012",
+  "size": "0x1"
+ },
+ {
+  "property": "IdleBreakRelevancyData",
+  "offset": "0x1016",
+  "size": "0x1030489949"
+ }
+]

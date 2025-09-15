@@ -1,0 +1,67 @@
+[
+ {
+  "property": "ApplicationWillDeactivateDelegate",
+  "offset": "0x448",
+  "size": "0x16"
+ },
+ {
+  "property": "ApplicationHasReactivatedDelegate",
+  "offset": "0x464",
+  "size": "0x16"
+ },
+ {
+  "property": "ApplicationWillEnterBackgroundDelegate",
+  "offset": "0x480",
+  "size": "0x16"
+ },
+ {
+  "property": "ApplicationHasEnteredForegroundDelegate",
+  "offset": "0x496",
+  "size": "0x16"
+ },
+ {
+  "property": "ApplicationWillTerminateDelegate",
+  "offset": "0x512",
+  "size": "0x16"
+ },
+ {
+  "property": "ApplicationShouldUnloadResourcesDelegate",
+  "offset": "0x528",
+  "size": "0x16"
+ },
+ {
+  "property": "ApplicationReceivedStartupArgumentsDelegate",
+  "offset": "0x544",
+  "size": "0x16"
+ },
+ {
+  "property": "ApplicationRegisteredForRemoteNotificationsDelegate",
+  "offset": "0x560",
+  "size": "0x16"
+ },
+ {
+  "property": "ApplicationRegisteredForUserNotificationsDelegate",
+  "offset": "0x576",
+  "size": "0x16"
+ },
+ {
+  "property": "ApplicationFailedToRegisterForRemoteNotificationsDelegate",
+  "offset": "0x592",
+  "size": "0x16"
+ },
+ {
+  "property": "ApplicationReceivedRemoteNotificationDelegate",
+  "offset": "0x608",
+  "size": "0x16"
+ },
+ {
+  "property": "ApplicationReceivedLocalNotificationDelegate",
+  "offset": "0x624",
+  "size": "0x16"
+ },
+ {
+  "property": "ApplicationReceivedScreenOrientationChangedNotificationDelegate",
+  "offset": "0x640",
+  "size": "0x16"
+ }
+]

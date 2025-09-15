@@ -1,0 +1,62 @@
+[
+ {
+  "property": "ChargeBlendSpaceCrouchSpeed",
+  "offset": "0x1496",
+  "size": "0x4"
+ },
+ {
+  "property": "ChargePlayRate",
+  "offset": "0x1500",
+  "size": "0x4"
+ },
+ {
+  "property": "OutOfAmmoAlpha",
+  "offset": "0x1504",
+  "size": "0x4"
+ },
+ {
+  "property": "BowAimYaw",
+  "offset": "0x1508",
+  "size": "0x4"
+ },
+ {
+  "property": "BowAimPitch",
+  "offset": "0x1512",
+  "size": "0x4"
+ },
+ {
+  "property": "OwnerGender",
+  "offset": "0x1516",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsBowCharging",
+  "offset": "0x1517",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnterChargingNormalTransition",
+  "offset": "0x1517",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnterChargingFastTransition",
+  "offset": "0x1517",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldPlayDefaultPose",
+  "offset": "0x1517",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsBowAtMaxCharge",
+  "offset": "0x1517",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsCrouchMoving",
+  "offset": "0x1517",
+  "size": "0x1"
+ }
+]

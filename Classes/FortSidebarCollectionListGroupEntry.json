@@ -1,0 +1,12 @@
+[
+ {
+  "property": "MaxNumberOfElements",
+  "offset": "0x952",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxNumberOfElements_Mobile",
+  "offset": "0x956",
+  "size": "0x4"
+ }
+]

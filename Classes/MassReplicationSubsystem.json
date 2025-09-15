@@ -1,0 +1,17 @@
+[
+ {
+  "property": "BubbleInfoArray",
+  "offset": "0x104",
+  "size": "0x16"
+ },
+ {
+  "property": "World",
+  "offset": "0x168",
+  "size": "0x8"
+ },
+ {
+  "property": "MassLODSubsystem",
+  "offset": "0x176",
+  "size": "0x8"
+ }
+]

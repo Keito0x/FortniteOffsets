@@ -1,0 +1,22 @@
+[
+ {
+  "property": "InputComponent",
+  "offset": "0x192",
+  "size": "0x8"
+ },
+ {
+  "property": "ActiveList",
+  "offset": "0x304",
+  "size": "0x16"
+ },
+ {
+  "property": "KnownList",
+  "offset": "0x320",
+  "size": "0x16"
+ },
+ {
+  "property": "EnhancedInputActionToAliasMapping",
+  "offset": "0x336",
+  "size": "0x80"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "property": "bSkipScaleFromAnimation",
+  "offset": "0x792",
+  "size": "0x1"
+ },
+ {
+  "property": "PhysicalAnimationData",
+  "offset": "0x800",
+  "size": "0x16"
+ }
+]

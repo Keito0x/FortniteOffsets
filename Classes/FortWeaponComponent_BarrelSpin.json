@@ -1,0 +1,47 @@
+[
+ {
+  "property": "RPMGainPerSecond",
+  "offset": "0x192",
+  "size": "0x40"
+ },
+ {
+  "property": "RPMLossPerSecond",
+  "offset": "0x232",
+  "size": "0x40"
+ },
+ {
+  "property": "MaxRPM",
+  "offset": "0x272",
+  "size": "0x40"
+ },
+ {
+  "property": "bStopOnUnEquip",
+  "offset": "0x312",
+  "size": "0x1"
+ },
+ {
+  "property": "OnSpoolingStarted",
+  "offset": "0x320",
+  "size": "0x16"
+ },
+ {
+  "property": "OnBrakingStarted",
+  "offset": "0x336",
+  "size": "0x16"
+ },
+ {
+  "property": "OnRPMChanged",
+  "offset": "0x352",
+  "size": "0x16"
+ },
+ {
+  "property": "CurrentRPM",
+  "offset": "0x380",
+  "size": "0x4"
+ },
+ {
+  "property": "bIsSpooling",
+  "offset": "0x384",
+  "size": "0x1"
+ }
+]

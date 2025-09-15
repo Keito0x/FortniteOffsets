@@ -1,0 +1,22 @@
+[
+ {
+  "property": "PlaybackSettings",
+  "offset": "0x688",
+  "size": "0x40"
+ },
+ {
+  "property": "SequencePlayer",
+  "offset": "0x728",
+  "size": "0x8"
+ },
+ {
+  "property": "TemplateSequence",
+  "offset": "0x736",
+  "size": "0x24"
+ },
+ {
+  "property": "BindingOverride",
+  "offset": "0x760",
+  "size": "0x12"
+ }
+]

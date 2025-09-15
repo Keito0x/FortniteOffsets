@@ -1,0 +1,12 @@
+[
+ {
+  "property": "MotoSynthPreset",
+  "offset": "0x2208",
+  "size": "0x8"
+ },
+ {
+  "property": "RPM",
+  "offset": "0x2216",
+  "size": "0x4"
+ }
+]

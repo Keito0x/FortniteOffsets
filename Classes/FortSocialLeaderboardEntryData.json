@@ -1,0 +1,32 @@
+[
+ {
+  "property": "Rank",
+  "offset": "0x448",
+  "size": "0x4"
+ },
+ {
+  "property": "ProgressToNextRank",
+  "offset": "0x452",
+  "size": "0x4"
+ },
+ {
+  "property": "GameMode",
+  "offset": "0x456",
+  "size": "0x4"
+ },
+ {
+  "property": "SeasonId",
+  "offset": "0x464",
+  "size": "0x16"
+ },
+ {
+  "property": "IsFriend",
+  "offset": "0x480",
+  "size": "0x1"
+ },
+ {
+  "property": "bShowFlareEffect",
+  "offset": "0x481",
+  "size": "0x1"
+ }
+]

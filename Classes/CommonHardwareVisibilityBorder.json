@@ -1,0 +1,17 @@
+[
+ {
+  "property": "VisibilityQuery",
+  "offset": "0x768",
+  "size": "0x72"
+ },
+ {
+  "property": "VisibleType",
+  "offset": "0x840",
+  "size": "0x1"
+ },
+ {
+  "property": "HiddenType",
+  "offset": "0x841",
+  "size": "0x1"
+ }
+]

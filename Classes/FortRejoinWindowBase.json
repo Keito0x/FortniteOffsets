@@ -1,0 +1,27 @@
+[
+ {
+  "property": "Text_RejoinTime",
+  "offset": "0x1432",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_Description",
+  "offset": "0x1440",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_Rejoin",
+  "offset": "0x1448",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_Retry",
+  "offset": "0x1456",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_Abandon",
+  "offset": "0x1464",
+  "size": "0x8"
+ }
+]

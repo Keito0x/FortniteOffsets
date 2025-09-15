@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Size",
+  "offset": "0x56",
+  "size": "0x8"
+ },
+ {
+  "property": "RenderTargetUserParameter",
+  "offset": "0x64",
+  "size": "0x24"
+ }
+]

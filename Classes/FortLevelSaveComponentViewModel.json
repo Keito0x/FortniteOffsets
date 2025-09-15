@@ -1,0 +1,17 @@
+[
+ {
+  "property": "CachedBackupSaveState",
+  "offset": "0x104",
+  "size": "0x1"
+ },
+ {
+  "property": "CachedBackupRestoreState",
+  "offset": "0x105",
+  "size": "0x1"
+ },
+ {
+  "property": "bCachedIsOnPublishedIsland",
+  "offset": "0x106",
+  "size": "0x1"
+ }
+]

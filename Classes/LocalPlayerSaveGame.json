@@ -1,0 +1,37 @@
+[
+ {
+  "property": "Unknown_ffield",
+  "offset": "0x40",
+  "size": "0x8"
+ },
+ {
+  "property": "SaveSlotName",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "SavedDataVersion",
+  "offset": "0x64",
+  "size": "0x4"
+ },
+ {
+  "property": "LoadedDataVersion",
+  "offset": "0x68",
+  "size": "0x4"
+ },
+ {
+  "property": "CurrentSaveRequest",
+  "offset": "0x72",
+  "size": "0x4"
+ },
+ {
+  "property": "LastSuccessfulSaveRequest",
+  "offset": "0x76",
+  "size": "0x4"
+ },
+ {
+  "property": "LastErrorSaveRequest",
+  "offset": "0x80",
+  "size": "0x4"
+ }
+]

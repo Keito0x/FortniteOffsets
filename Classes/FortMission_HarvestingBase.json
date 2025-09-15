@@ -1,0 +1,47 @@
+[
+ {
+  "property": "BuildingActorClassesValidForHarvestDrop",
+  "offset": "0x1808",
+  "size": "0x16"
+ },
+ {
+  "property": "DecoActorClassesValidForHarvestDrop",
+  "offset": "0x1824",
+  "size": "0x16"
+ },
+ {
+  "property": "ItemDropChancePercent",
+  "offset": "0x1840",
+  "size": "0x4"
+ },
+ {
+  "property": "ItemMinDropQuantity",
+  "offset": "0x1844",
+  "size": "0x4"
+ },
+ {
+  "property": "ItemMaxDropQuantity",
+  "offset": "0x1848",
+  "size": "0x4"
+ },
+ {
+  "property": "MinDurationBetweenDrops",
+  "offset": "0x1852",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxFailedDropsInARow",
+  "offset": "0x1856",
+  "size": "0x4"
+ },
+ {
+  "property": "bEnableConversations",
+  "offset": "0x1860",
+  "size": "0x1"
+ },
+ {
+  "property": "Conversations",
+  "offset": "0x1864",
+  "size": "0x16"
+ }
+]

@@ -1,0 +1,37 @@
+[
+ {
+  "property": "TrackedEffectTags",
+  "offset": "0x880",
+  "size": "0x32"
+ },
+ {
+  "property": "TrackingType",
+  "offset": "0x912",
+  "size": "0x1"
+ },
+ {
+  "property": "EffectDuration",
+  "offset": "0x916",
+  "size": "0x4"
+ },
+ {
+  "property": "EffectStartTime",
+  "offset": "0x920",
+  "size": "0x4"
+ },
+ {
+  "property": "RadialBarBehavior",
+  "offset": "0x924",
+  "size": "0x1"
+ },
+ {
+  "property": "TrackedPawn",
+  "offset": "0x960",
+  "size": "0x8"
+ },
+ {
+  "property": "WidgetBehavior",
+  "offset": "0x976",
+  "size": "0x8"
+ }
+]

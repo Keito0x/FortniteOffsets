@@ -1,0 +1,12 @@
+[
+ {
+  "property": "ShotDisplayName",
+  "offset": "0x2032",
+  "size": "0x16"
+ },
+ {
+  "property": "DisplayName",
+  "offset": "0x2048",
+  "size": "0x16"
+ }
+]

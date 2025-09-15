@@ -1,0 +1,152 @@
+[
+ {
+  "property": "bIsWidgetShowing",
+  "offset": "0x1276",
+  "size": "0x1"
+ },
+ {
+  "property": "bDisplayedIsDisabled",
+  "offset": "0x1277",
+  "size": "0x1"
+ },
+ {
+  "property": "CurrentVehicleActor",
+  "offset": "0x1280",
+  "size": "0x8"
+ },
+ {
+  "property": "CurrentSpeed",
+  "offset": "0x1288",
+  "size": "0x4"
+ },
+ {
+  "property": "TargetFuelPercent",
+  "offset": "0x1292",
+  "size": "0x4"
+ },
+ {
+  "property": "DisplayedFuelPercent",
+  "offset": "0x1296",
+  "size": "0x4"
+ },
+ {
+  "property": "FillBlendSpeed",
+  "offset": "0x1300",
+  "size": "0x4"
+ },
+ {
+  "property": "Widget_FuelGauge",
+  "offset": "0x1304",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_Speedometer",
+  "offset": "0x1312",
+  "size": "0x8"
+ },
+ {
+  "property": "SpeedometerMaterialSpeedParamName",
+  "offset": "0x1320",
+  "size": "0x4"
+ },
+ {
+  "property": "SpeedometerMaterialRpmParamName",
+  "offset": "0x1324",
+  "size": "0x4"
+ },
+ {
+  "property": "Image_BoostGlow",
+  "offset": "0x1328",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_BoostMeter",
+  "offset": "0x1336",
+  "size": "0x8"
+ },
+ {
+  "property": "BoostFillMaterialParamName",
+  "offset": "0x1344",
+  "size": "0x4"
+ },
+ {
+  "property": "Overlay_BoostSparks",
+  "offset": "0x1352",
+  "size": "0x8"
+ },
+ {
+  "property": "MeterIndicatorMinAngle",
+  "offset": "0x1360",
+  "size": "0x4"
+ },
+ {
+  "property": "MeterIndicatorMaxAngle",
+  "offset": "0x1364",
+  "size": "0x4"
+ },
+ {
+  "property": "SpeedTextMaxInterpolationRate",
+  "offset": "0x1368",
+  "size": "0x4"
+ },
+ {
+  "property": "WidgetTagsToHideWhenVisible",
+  "offset": "0x1376",
+  "size": "0x32"
+ },
+ {
+  "property": "HUDTopSpeed",
+  "offset": "0x1412",
+  "size": "0x4"
+ },
+ {
+  "property": "bAllowMobileAdjustments",
+  "offset": "0x1416",
+  "size": "0x1"
+ },
+ {
+  "property": "MobileFuelGaugeHorizontalAlignment",
+  "offset": "0x1417",
+  "size": "0x1"
+ },
+ {
+  "property": "MobileFuelGaugeVerticalAlignment",
+  "offset": "0x1418",
+  "size": "0x1"
+ },
+ {
+  "property": "MobileFuelGaugePadding",
+  "offset": "0x1420",
+  "size": "0x16"
+ },
+ {
+  "property": "NumericText_Speed",
+  "offset": "0x1440",
+  "size": "0x8"
+ },
+ {
+  "property": "Overlay_Gauge",
+  "offset": "0x1448",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_ItemName",
+  "offset": "0x1456",
+  "size": "0x8"
+ },
+ {
+  "property": "SpeedometerMaterialInstance",
+  "offset": "0x1472",
+  "size": "0x8"
+ },
+ {
+  "property": "BoostGlowMaterialInstance",
+  "offset": "0x1480",
+  "size": "0x8"
+ },
+ {
+  "property": "BoostMeterMaterialInstance",
+  "offset": "0x1488",
+  "size": "0x8"
+ }
+]

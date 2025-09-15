@@ -1,0 +1,27 @@
+[
+ {
+  "property": "OnStateTreeRunStatusChanged",
+  "offset": "0x296",
+  "size": "0x16"
+ },
+ {
+  "property": "StateTreeRef",
+  "offset": "0x312",
+  "size": "0x40"
+ },
+ {
+  "property": "LinkedStateTreeOverrides",
+  "offset": "0x352",
+  "size": "0x16"
+ },
+ {
+  "property": "InstanceData",
+  "offset": "0x368",
+  "size": "0x16"
+ },
+ {
+  "property": "bStartLogicAutomatically",
+  "offset": "0x384",
+  "size": "0x1"
+ }
+]

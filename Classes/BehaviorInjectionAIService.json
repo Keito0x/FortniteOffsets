@@ -1,0 +1,37 @@
+[
+ {
+  "property": "ItemBehaviorsRegistry",
+  "offset": "0x120",
+  "size": "0x8"
+ },
+ {
+  "property": "VehicleBehaviorsRegistry",
+  "offset": "0x128",
+  "size": "0x8"
+ },
+ {
+  "property": "PawnTagsBehaviorsRegistry",
+  "offset": "0x136",
+  "size": "0x8"
+ },
+ {
+  "property": "InjectionSupportingBehaviors",
+  "offset": "0x144",
+  "size": "0x16"
+ },
+ {
+  "property": "RuntimeInjectionSupportingBehaviors",
+  "offset": "0x160",
+  "size": "0x16"
+ },
+ {
+  "property": "InjectionBlackboard",
+  "offset": "0x176",
+  "size": "0x8"
+ },
+ {
+  "property": "BehaviorToRuntimeBehavior",
+  "offset": "0x184",
+  "size": "0x80"
+ }
+]

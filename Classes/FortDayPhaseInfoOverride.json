@@ -1,0 +1,29 @@
+[
+ {
+  "property": "DayPhaseInfo",
+  "offset": "0x40",
+  "size": "0x528"
+ },
+ {
+  "property": "bUseAltitudeAdjustmentsOverride",
+  "offset": "0x568",
+  "size": "0x1"
+ },
+ {
+  "property": ")&hv|@"éŠ­jª‰‰‰‰|åýA¿‰­j«›™‰‰‰‰|#­Mä­ô¯Mq­M£›‘­	aµg­õ­Oƒ‰­ì­*ì­Ôvvvvvvv­á­Õvvvvvvv6­¨i­M«›­Ké³^­L¯›ýàE	‰­M«›™­L«›™­	«›‘­	«›+û­L«›‘¯	ù³µ(ÌÍ-vë/ú3ý¯Lª-å¯L³›‘,Oš­Mäý6`‹‰¯L·›™-v¯¶/	z­L‚­Mb­f¯	r­`­Mu-Måý¢`‹‰­LŽ­M–¯Mt¯M¶­L«›­Mª­KmËùövvý’E	‰}âövvïïïïïïïïïïï)")¢)#)£¢"# ­Iÿ½	‰‰º«­è@éíËK‰‰‰­M}­M£›™/Mùýøc‹‰Õ‚‰‰‰-H÷‚3¡¯L¯›‘­L¯›•¯m­M¿›¡­M¯›¹-Õòvvvvvv6-Ôðvvvvvv)T‰‰‰}wvvÕ‰‰‰­M«›•U‰‰‰ýED	‰­Mk+û­L¯›™ýID	‰¯Mù|YÈ¾övv}Qövvýò*‰éò}¢wvv­L¯›±­yý±l	‰v}7wvvï-O­	}vvvïïïïïïïïïïïïï)")¢)#)£¢"# ­Hÿ•­Mâ¯L=™­L=-³…­L)…­L¡­¡…­M#õ¯L=™­L=-ËU‰‰‰d¯Mý­¥­¥­Hé…­ý3~"éŠ­jª‰‰‰‰­KdËÍ‰‰‰ÍÂ‰‰‰­MeýéÄ	‰­Mj­	h­MŠ­Mª­M¦­Mt-L/-L#-Mî-â/Kò¶’/L7‰­Lª-Mé-å/ê6»¯	u­a¯u³­Me¯Mô/Mñý9ã‹‰­L–¯	p­M¦-Hk…-3Þ­Mñ­Hë•$'&¦)§)')¦",
+  "offset": "0x576",
+  "size": "0x16"
+ },
+ {
+  "property": "bUseAltitudeAdjustmentsForSecondFogOverride",
+  "offset": "0x592",
+  "size": "0x1"
+ },
+ {
+  "property": "ecSµM S²Qec»÷wS³UegS²UegS÷UeoS÷UecÕïS²UeoQ÷MKÖ2qä3sÓˆÑëÍQ²TsÓãQ²MeoÒ±qQekd9÷wS³•Q÷Sëð68wwwS²]egSëð>—Sëð¾sð5µwwwS³ƒS³]egÑ³uw+|wwwÓ¶	|Í_Q²QeoS²QekQó“S³Ae_S³QeGÓ+ˆˆˆˆˆˆÈÓ*ˆˆˆˆˆˆè×ªûwwwƒè‰ˆˆ+üwwwS³Uek«üwww»º÷wS³•ÕïS²Qeg·º÷wQ³‚§ð6@ˆˆƒ¯ˆˆðòÔõwïïƒ\‰ˆˆS²QeOSï‡O’÷wïˆƒÉ‰ˆˆðòÓ±S÷ƒûˆˆˆ×Ü×\×Ý×]\ÜÝÞS¶kS³Q²ÃgS²ÃcÓëM{S²×{S²_Sâ_{S³ÝQ²ÃgS²ÃcÓëð5«wwwïšQ³Sö[sSâ[S¶{SëÍ€ðÜðÿtS”TwwwwSµšð53wwwð3<wwwS³›:÷wS³”S÷–S³tS³TsS³XS³ŠÓ²ÑsÓ²ÝÓ³ÓãÑµHlÑ²ÉwS²TÓ³ÓãÑëÈEQ÷‹SãŸQë‹MÿS³›Q³
+Ñ³ÇuwS²hQ÷ŽS³XsÓ¶•{ÓëÍ S³S¶kÚÙØX×Y×Ù×X×Ø–ïˆ‚¾ðÜðÿtS”Twwww‚¿AõwS”Uegwwww‚ÝS³Sã
+Q³S³]eoS÷ŸK™SãS±}wSëSðÔS*ˆˆˆˆˆˆˆèSëS+ˆˆˆˆˆˆˆÈSðV—S³U",
+  "offset": "0x600",
+  "size": "0x16"
+ }
+]

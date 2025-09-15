@@ -1,0 +1,12 @@
+[
+ {
+  "property": "ColorData",
+  "offset": "0x48",
+  "size": "0x8"
+ },
+ {
+  "property": "DeviceOverrideData",
+  "offset": "0x56",
+  "size": "0x80"
+ }
+]

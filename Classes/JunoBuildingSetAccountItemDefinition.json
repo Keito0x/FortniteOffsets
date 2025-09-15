@@ -1,0 +1,12 @@
+[
+ {
+  "property": "FoundationPiecesHeightToShow",
+  "offset": "0x1144",
+  "size": "0x4"
+ },
+ {
+  "property": "BuildingActorClassToPreview",
+  "offset": "0x1152",
+  "size": "0x32"
+ }
+]

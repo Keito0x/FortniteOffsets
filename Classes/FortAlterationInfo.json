@@ -1,0 +1,47 @@
+[
+ {
+  "property": "CorrespondingItem",
+  "offset": "0x40",
+  "size": "0x8"
+ },
+ {
+  "property": "SlotIndex",
+  "offset": "0x48",
+  "size": "0x4"
+ },
+ {
+  "property": "AlterationDef",
+  "offset": "0x56",
+  "size": "0x8"
+ },
+ {
+  "property": "RequiredMinLevel",
+  "offset": "0x64",
+  "size": "0x4"
+ },
+ {
+  "property": "bIsUpgrade",
+  "offset": "0x68",
+  "size": "0x1"
+ },
+ {
+  "property": "CurrentItemLevel",
+  "offset": "0x72",
+  "size": "0x4"
+ },
+ {
+  "property": "bFreeAlterationSlot",
+  "offset": "0x76",
+  "size": "0x1"
+ },
+ {
+  "property": "bUnlockedByEvolution",
+  "offset": "0x77",
+  "size": "0x1"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x80",
+  "size": "0x4"
+ }
+]

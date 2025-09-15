@@ -1,0 +1,72 @@
+[
+ {
+  "property": "Material",
+  "offset": "0x168",
+  "size": "0x8"
+ },
+ {
+  "property": "MaterialParameterBinding",
+  "offset": "0x176",
+  "size": "0x8"
+ },
+ {
+  "property": "SourceMode",
+  "offset": "0x184",
+  "size": "0x1"
+ },
+ {
+  "property": "RendererVisibility",
+  "offset": "0x188",
+  "size": "0x4"
+ },
+ {
+  "property": "DecalScreenSizeFade",
+  "offset": "0x192",
+  "size": "0x4"
+ },
+ {
+  "property": "PositionBinding",
+  "offset": "0x200",
+  "size": "0x40"
+ },
+ {
+  "property": "DecalOrientationBinding",
+  "offset": "0x240",
+  "size": "0x40"
+ },
+ {
+  "property": "DecalSizeBinding",
+  "offset": "0x280",
+  "size": "0x40"
+ },
+ {
+  "property": "DecalFadeBinding",
+  "offset": "0x320",
+  "size": "0x40"
+ },
+ {
+  "property": "DecalSortOrderBinding",
+  "offset": "0x360",
+  "size": "0x40"
+ },
+ {
+  "property": "DecalColorBinding",
+  "offset": "0x400",
+  "size": "0x40"
+ },
+ {
+  "property": "DecalVisibleBinding",
+  "offset": "0x440",
+  "size": "0x40"
+ },
+ {
+  "property": "RendererVisibilityTagBinding",
+  "offset": "0x480",
+  "size": "0x40"
+ },
+ {
+  "property": "MaterialParameters",
+  "offset": "0x520",
+  "size": "0x80"
+ }
+]

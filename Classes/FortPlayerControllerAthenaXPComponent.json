@@ -1,0 +1,92 @@
+[
+ {
+  "property": "PlayerAccolades",
+  "offset": "0x200",
+  "size": "0x16"
+ },
+ {
+  "property": "LocalPunchCardMedals",
+  "offset": "0x216",
+  "size": "0x16"
+ },
+ {
+  "property": "EventArray",
+  "offset": "0x232",
+  "size": "0x288"
+ },
+ {
+  "property": "WaitingQuestXp",
+  "offset": "0x520",
+  "size": "0x16"
+ },
+ {
+  "property": "RestXP",
+  "offset": "0x536",
+  "size": "0x4"
+ },
+ {
+  "property": "CachedLevelInfo",
+  "offset": "0x688",
+  "size": "0x36"
+ },
+ {
+  "property": "CachedSeasonDef",
+  "offset": "0x728",
+  "size": "0x8"
+ },
+ {
+  "property": "CurrentVerbLevel",
+  "offset": "0x740",
+  "size": "0x4"
+ },
+ {
+  "property": "CurrentUILevel",
+  "offset": "0x744",
+  "size": "0x4"
+ },
+ {
+  "property": "PlayerXp",
+  "offset": "0x748",
+  "size": "0x4"
+ },
+ {
+  "property": "TotalXpEarned",
+  "offset": "0x752",
+  "size": "0x4"
+ },
+ {
+  "property": "MedalBonusXp",
+  "offset": "0x756",
+  "size": "0x4"
+ },
+ {
+  "property": "SurvivalXp",
+  "offset": "0x760",
+  "size": "0x4"
+ },
+ {
+  "property": "CombatXp",
+  "offset": "0x764",
+  "size": "0x4"
+ },
+ {
+  "property": "MatchXp",
+  "offset": "0x768",
+  "size": "0x4"
+ },
+ {
+  "property": "ChallengeXp",
+  "offset": "0x772",
+  "size": "0x4"
+ },
+ {
+  "property": "HasBRMatchReportCompletedProfileVer",
+  "offset": "0x776",
+  "size": "0x8"
+ },
+ {
+  "property": "MedalsEarned",
+  "offset": "0x784",
+  "size": "0x16"
+ }
+]

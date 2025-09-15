@@ -1,0 +1,17 @@
+[
+ {
+  "property": "Panel_TimeReportSettings",
+  "offset": "0x1448",
+  "size": "0x8"
+ },
+ {
+  "property": "Details_Settings",
+  "offset": "0x1456",
+  "size": "0x8"
+ },
+ {
+  "property": "PlaytimeReportSettingRegistry",
+  "offset": "0x1464",
+  "size": "0x8"
+ }
+]

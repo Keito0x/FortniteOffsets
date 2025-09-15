@@ -1,0 +1,17 @@
+[
+ {
+  "property": "EmotesAssetDataArray",
+  "offset": "0x1464",
+  "size": "0x16"
+ },
+ {
+  "property": "FilteredEmoteItemAssetDataArray",
+  "offset": "0x1480",
+  "size": "0x16"
+ },
+ {
+  "property": "Rotator_NameplatesEnabled",
+  "offset": "0x1496",
+  "size": "0x8"
+ }
+]

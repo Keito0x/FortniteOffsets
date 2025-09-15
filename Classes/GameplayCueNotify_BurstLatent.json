@@ -1,0 +1,22 @@
+[
+ {
+  "property": "DefaultSpawnCondition",
+  "offset": "0x784",
+  "size": "0x56"
+ },
+ {
+  "property": "DefaultPlacementInfo",
+  "offset": "0x840",
+  "size": "0x64"
+ },
+ {
+  "property": "BurstEffects",
+  "offset": "0x904",
+  "size": "0x664"
+ },
+ {
+  "property": "BurstSpawnResults",
+  "offset": "0x1568",
+  "size": "0x88"
+ }
+]

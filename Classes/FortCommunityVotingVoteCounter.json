@@ -1,0 +1,17 @@
+[
+ {
+  "property": "HasOneOrMoreVote",
+  "offset": "0x816",
+  "size": "0x1"
+ },
+ {
+  "property": "TextBlock_CurrentVoteNumber",
+  "offset": "0x824",
+  "size": "0x8"
+ },
+ {
+  "property": "TextBlock_NextVoteNumber",
+  "offset": "0x832",
+  "size": "0x8"
+ }
+]

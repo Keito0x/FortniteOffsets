@@ -1,0 +1,32 @@
+[
+ {
+  "property": "DBNOCarriedInput",
+  "offset": "0x1256",
+  "size": "0x248"
+ },
+ {
+  "property": "RightHandIKAlpha",
+  "offset": "0x1504",
+  "size": "0x4"
+ },
+ {
+  "property": "bIsBeingInterrogated",
+  "offset": "0x1508",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsFemale",
+  "offset": "0x1508",
+  "size": "0x1"
+ },
+ {
+  "property": "MotionMatchingAdditivePoseAlpha",
+  "offset": "0x1512",
+  "size": "0x4"
+ },
+ {
+  "property": "bUseProceduralLayering",
+  "offset": "0x1516",
+  "size": "0x1"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "property": "LifeTimeStats",
+  "offset": "0x512",
+  "size": "0x8"
+ },
+ {
+  "property": "LifeTimeAndSeasonStatsList",
+  "offset": "0x568",
+  "size": "0x16"
+ }
+]

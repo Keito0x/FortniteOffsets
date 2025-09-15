@@ -1,0 +1,87 @@
+[
+ {
+  "property": "AsyncLoadingThreadEnabled",
+  "offset": "0x48",
+  "size": "0x1"
+ },
+ {
+  "property": "WarnIfTimeLimitExceeded",
+  "offset": "0x48",
+  "size": "0x1"
+ },
+ {
+  "property": "TimeLimitExceededMultiplier",
+  "offset": "0x52",
+  "size": "0x4"
+ },
+ {
+  "property": "TimeLimitExceededMinTime",
+  "offset": "0x56",
+  "size": "0x4"
+ },
+ {
+  "property": "MinBulkDataSizeForAsyncLoading",
+  "offset": "0x60",
+  "size": "0x4"
+ },
+ {
+  "property": "UseBackgroundLevelStreaming",
+  "offset": "0x64",
+  "size": "0x1"
+ },
+ {
+  "property": "AsyncLoadingUseFullTimeLimit",
+  "offset": "0x64",
+  "size": "0x1"
+ },
+ {
+  "property": "AsyncLoadingTimeLimit",
+  "offset": "0x68",
+  "size": "0x4"
+ },
+ {
+  "property": "PriorityAsyncLoadingExtraTime",
+  "offset": "0x72",
+  "size": "0x4"
+ },
+ {
+  "property": "LevelStreamingActorsUpdateTimeLimit",
+  "offset": "0x76",
+  "size": "0x4"
+ },
+ {
+  "property": "PriorityLevelStreamingActorsUpdateExtraTime",
+  "offset": "0x80",
+  "size": "0x4"
+ },
+ {
+  "property": "LevelStreamingComponentsRegistrationGranularity",
+  "offset": "0x84",
+  "size": "0x4"
+ },
+ {
+  "property": "LevelStreamingAddPrimitiveGranularity",
+  "offset": "0x88",
+  "size": "0x4"
+ },
+ {
+  "property": "LevelStreamingUnregisterComponentsTimeLimit",
+  "offset": "0x92",
+  "size": "0x4"
+ },
+ {
+  "property": "LevelStreamingComponentsUnregistrationGranularity",
+  "offset": "0x96",
+  "size": "0x4"
+ },
+ {
+  "property": "FlushStreamingOnExit",
+  "offset": "0x100",
+  "size": "0x1"
+ },
+ {
+  "property": "EventDrivenLoaderEnabled",
+  "offset": "0x100",
+  "size": "0x1"
+ }
+]

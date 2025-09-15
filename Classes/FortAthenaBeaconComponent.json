@@ -1,0 +1,27 @@
+[
+ {
+  "property": "MaxAttractedBots",
+  "offset": "0x192",
+  "size": "0x4"
+ },
+ {
+  "property": "AttractionRadius",
+  "offset": "0x196",
+  "size": "0x4"
+ },
+ {
+  "property": "RegisteredActors",
+  "offset": "0x200",
+  "size": "0x16"
+ },
+ {
+  "property": "OnConsumeEvent",
+  "offset": "0x216",
+  "size": "0x16"
+ },
+ {
+  "property": "bIsConsumed",
+  "offset": "0x232",
+  "size": "0x1"
+ }
+]

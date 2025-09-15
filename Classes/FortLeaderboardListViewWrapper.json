@@ -1,0 +1,12 @@
+[
+ {
+  "property": "ListView_LeaderboardEntries",
+  "offset": "0x1128",
+  "size": "0x8"
+ },
+ {
+  "property": "Content_LoadingEntries",
+  "offset": "0x1136",
+  "size": "0x8"
+ }
+]

@@ -1,0 +1,17 @@
+[
+ {
+  "property": "Enabled",
+  "offset": "0x40",
+  "size": "0x40"
+ },
+ {
+  "property": "SmartObjectActivityCondition",
+  "offset": "0x80",
+  "size": "0x72"
+ },
+ {
+  "property": "SmartObjectActivityConfig",
+  "offset": "0x152",
+  "size": "0x352"
+ }
+]

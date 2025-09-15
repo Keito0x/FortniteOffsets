@@ -1,0 +1,12 @@
+[
+ {
+  "property": "ParentTables",
+  "offset": "0x176",
+  "size": "0x16"
+ },
+ {
+  "property": "OldParentTables",
+  "offset": "0x192",
+  "size": "0x16"
+ }
+]

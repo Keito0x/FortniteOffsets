@@ -1,0 +1,17 @@
+[
+ {
+  "property": "DefaultInstance",
+  "offset": "0x40",
+  "size": "0x632"
+ },
+ {
+  "property": "ProfileHandles",
+  "offset": "0x672",
+  "size": "0x16"
+ },
+ {
+  "property": "DefaultProfile",
+  "offset": "0x688",
+  "size": "0x352"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "property": "MinInitialVehicleFuelPercent",
+  "offset": "0x864",
+  "size": "0x40"
+ },
+ {
+  "property": "MaxInitialVehicleFuelPercent",
+  "offset": "0x904",
+  "size": "0x40"
+ }
+]

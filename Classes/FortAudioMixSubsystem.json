@@ -1,0 +1,22 @@
+[
+ {
+  "property": "UserMixCurrentValues",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "RegisteredMixStages",
+  "offset": "0x64",
+  "size": "0x80"
+ },
+ {
+  "property": "ActiveMixes",
+  "offset": "0x144",
+  "size": "0x80"
+ },
+ {
+  "property": "MasterMix",
+  "offset": "0x224",
+  "size": "0x8"
+ }
+]

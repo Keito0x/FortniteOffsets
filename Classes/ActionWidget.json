@@ -1,0 +1,47 @@
+[
+ {
+  "property": "OnInputMethodChanged",
+  "offset": "0x360",
+  "size": "0x16"
+ },
+ {
+  "property": "OnInputIconUpdated",
+  "offset": "0x376",
+  "size": "0x16"
+ },
+ {
+  "property": "ProgressMaterialBrush",
+  "offset": "0x400",
+  "size": "0x176"
+ },
+ {
+  "property": "ProgressMaterialParam",
+  "offset": "0x576",
+  "size": "0x4"
+ },
+ {
+  "property": "IconRimBrush",
+  "offset": "0x592",
+  "size": "0x176"
+ },
+ {
+  "property": "InputActions",
+  "offset": "0x768",
+  "size": "0x16"
+ },
+ {
+  "property": "EnhancedInputAction",
+  "offset": "0x784",
+  "size": "0x8"
+ },
+ {
+  "property": "ProgressDynamicMaterial",
+  "offset": "0x800",
+  "size": "0x8"
+ },
+ {
+  "property": "Icon",
+  "offset": "0x880",
+  "size": "0x176"
+ }
+]

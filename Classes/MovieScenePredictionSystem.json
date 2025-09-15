@@ -1,0 +1,12 @@
+[
+ {
+  "property": "PendingPredictions",
+  "offset": "0x208",
+  "size": "0x16"
+ },
+ {
+  "property": "ProcessingPredictions",
+  "offset": "0x224",
+  "size": "0x16"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "property": "GameSessionOwner",
+  "offset": "0x152",
+  "size": "0x48"
+ },
+ {
+  "property": "ReservationData",
+  "offset": "0x200",
+  "size": "0x96"
+ }
+]

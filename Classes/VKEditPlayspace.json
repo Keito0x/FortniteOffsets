@@ -1,0 +1,17 @@
+[
+ {
+  "property": "EditorOnlyMinigameSettingsMachineClassToSpawn",
+  "offset": "0x1840",
+  "size": "0x32"
+ },
+ {
+  "property": "EditorOnlyWorldManagerClassToSpawn",
+  "offset": "0x1872",
+  "size": "0x32"
+ },
+ {
+  "property": "",
+  "offset": "0x98741524",
+  "size": "0x0"
+ }
+]

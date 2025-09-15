@@ -1,0 +1,7 @@
+[
+ {
+  "property": "CameraTags",
+  "offset": "0x680",
+  "size": "0x32"
+ }
+]

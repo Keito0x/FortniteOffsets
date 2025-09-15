@@ -1,0 +1,17 @@
+[
+ {
+  "property": "OwningHoagieVehicle",
+  "offset": "0x1504",
+  "size": "0x8"
+ },
+ {
+  "property": "AltitudeMeterMID",
+  "offset": "0x1512",
+  "size": "0x8"
+ },
+ {
+  "property": "MaxAltitudeWithoutFallDamage",
+  "offset": "0x1520",
+  "size": "0x4"
+ }
+]

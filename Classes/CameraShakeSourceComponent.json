@@ -1,0 +1,27 @@
+[
+ {
+  "property": "Attenuation",
+  "offset": "0x576",
+  "size": "0x1"
+ },
+ {
+  "property": "InnerAttenuationRadius",
+  "offset": "0x580",
+  "size": "0x4"
+ },
+ {
+  "property": "OuterAttenuationRadius",
+  "offset": "0x584",
+  "size": "0x4"
+ },
+ {
+  "property": "CameraShake",
+  "offset": "0x592",
+  "size": "0x8"
+ },
+ {
+  "property": "bAutoStart",
+  "offset": "0x600",
+  "size": "0x1"
+ }
+]

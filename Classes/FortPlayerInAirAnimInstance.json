@@ -1,0 +1,117 @@
+[
+ {
+  "property": "FallLevel2ProceduralLayeringBlendInTime",
+  "offset": "0x4888",
+  "size": "0x4"
+ },
+ {
+  "property": "FallLevel3ProceduralLayeringBlendOutTime",
+  "offset": "0x4892",
+  "size": "0x4"
+ },
+ {
+  "property": "FallLevel2ActionTimer",
+  "offset": "0x4896",
+  "size": "0x4"
+ },
+ {
+  "property": "bTransitionToFallLevel2",
+  "offset": "0x4900",
+  "size": "0x1"
+ },
+ {
+  "property": "bTransitionToFallLevel2NoBlend",
+  "offset": "0x4901",
+  "size": "0x1"
+ },
+ {
+  "property": "IsNewInAirAnimBP",
+  "offset": "0x4902",
+  "size": "0x1"
+ },
+ {
+  "property": "FallLevel2ActionTimestamp",
+  "offset": "0x4904",
+  "size": "0x4"
+ },
+ {
+  "property": "JumpApex",
+  "offset": "0x4908",
+  "size": "0x4"
+ },
+ {
+  "property": "MovementDirectionAzimuthSmoothed",
+  "offset": "0x4912",
+  "size": "0x4"
+ },
+ {
+  "property": "bWasRelevantLastFrame",
+  "offset": "0x4916",
+  "size": "0x1"
+ },
+ {
+  "property": "bTransitionJumpToFallLevel2",
+  "offset": "0x4916",
+  "size": "0x1"
+ },
+ {
+  "property": "LandAnticipationStartPosition",
+  "offset": "0x4920",
+  "size": "0x4"
+ },
+ {
+  "property": "bIsInFallLevel3",
+  "offset": "0x4924",
+  "size": "0x1"
+ },
+ {
+  "property": "bDisableInAirAnimations",
+  "offset": "0x4924",
+  "size": "0x1"
+ },
+ {
+  "property": "bTransitionFallToJump",
+  "offset": "0x4924",
+  "size": "0x1"
+ },
+ {
+  "property": "bJumpReentryFlip",
+  "offset": "0x4924",
+  "size": "0x1"
+ },
+ {
+  "property": "bJumpStateWasOnGround",
+  "offset": "0x4924",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsConsumableSmall",
+  "offset": "0x4924",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsConsumableLarge",
+  "offset": "0x4924",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsDualWield",
+  "offset": "0x4924",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsMelee",
+  "offset": "0x4925",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsMeleeDualWield",
+  "offset": "0x4925",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsShoulderLauncher",
+  "offset": "0x4925",
+  "size": "0x1"
+ }
+]

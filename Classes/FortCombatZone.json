@@ -1,0 +1,52 @@
+[
+ {
+  "property": "CombatZoneTags",
+  "offset": "0x776",
+  "size": "0x32"
+ },
+ {
+  "property": "MaxOccupantsCount",
+  "offset": "0x808",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxSquadsCount",
+  "offset": "0x812",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxKillCount",
+  "offset": "0x816",
+  "size": "0x4"
+ },
+ {
+  "property": "KillCountResetTimer",
+  "offset": "0x820",
+  "size": "0x4"
+ },
+ {
+  "property": "CurrentOccupantsCount",
+  "offset": "0x824",
+  "size": "0x4"
+ },
+ {
+  "property": "CurrentSquadsCount",
+  "offset": "0x828",
+  "size": "0x4"
+ },
+ {
+  "property": "CurrentKillCount",
+  "offset": "0x832",
+  "size": "0x4"
+ },
+ {
+  "property": "LastDeathTimestamp",
+  "offset": "0x836",
+  "size": "0x4"
+ },
+ {
+  "property": "OnKillCountExpiredHandle",
+  "offset": "0x840",
+  "size": "0x8"
+ }
+]

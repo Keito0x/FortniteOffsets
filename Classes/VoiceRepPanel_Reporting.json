@@ -1,0 +1,12 @@
+[
+ {
+  "property": "EntryBox_ChannelPortraits",
+  "offset": "0x1120",
+  "size": "0x8"
+ },
+ {
+  "property": "AthenaScrollBox_Content",
+  "offset": "0x1128",
+  "size": "0x8"
+ }
+]

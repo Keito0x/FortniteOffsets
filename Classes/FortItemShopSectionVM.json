@@ -1,0 +1,52 @@
+[
+ {
+  "property": "SectionId",
+  "offset": "0x104",
+  "size": "0x16"
+ },
+ {
+  "property": "DisplayName",
+  "offset": "0x120",
+  "size": "0x16"
+ },
+ {
+  "property": "Category",
+  "offset": "0x136",
+  "size": "0x16"
+ },
+ {
+  "property": "OwningSectionId",
+  "offset": "0x152",
+  "size": "0x16"
+ },
+ {
+  "property": "Subsections",
+  "offset": "0x168",
+  "size": "0x16"
+ },
+ {
+  "property": "OfferGroups",
+  "offset": "0x184",
+  "size": "0x16"
+ },
+ {
+  "property": "Background",
+  "offset": "0x200",
+  "size": "0x40"
+ },
+ {
+  "property": "CurrentStackRank",
+  "offset": "0x240",
+  "size": "0x4"
+ },
+ {
+  "property": "SeenLevel",
+  "offset": "0x244",
+  "size": "0x1"
+ },
+ {
+  "property": "AllOfferGroupsWithOffers",
+  "offset": "0x248",
+  "size": "0x16"
+ }
+]

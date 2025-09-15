@@ -1,0 +1,17 @@
+[
+ {
+  "property": "BROnlyAttributeSetDefaultsToExclude",
+  "offset": "0x640",
+  "size": "0x16"
+ },
+ {
+  "property": "OldInputNamesToEnhancedInputActions",
+  "offset": "0x656",
+  "size": "0x80"
+ },
+ {
+  "property": "CreativeInputNamesToEnhancedInputActions",
+  "offset": "0x736",
+  "size": "0x80"
+ }
+]

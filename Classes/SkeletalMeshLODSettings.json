@@ -1,0 +1,42 @@
+[
+ {
+  "property": "MinQualityLevelLOD",
+  "offset": "0x48",
+  "size": "0x104"
+ },
+ {
+  "property": "MinLOD",
+  "offset": "0x152",
+  "size": "0x4"
+ },
+ {
+  "property": "DisableBelowMinLodStripping",
+  "offset": "0x156",
+  "size": "0x1"
+ },
+ {
+  "property": "bOverrideLODStreamingSettings",
+  "offset": "0x157",
+  "size": "0x1"
+ },
+ {
+  "property": "bSupportLODStreaming",
+  "offset": "0x158",
+  "size": "0x1"
+ },
+ {
+  "property": "MaxNumStreamedLODs",
+  "offset": "0x160",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxNumOptionalLODs",
+  "offset": "0x164",
+  "size": "0x4"
+ },
+ {
+  "property": "LODGroups",
+  "offset": "0x168",
+  "size": "0x16"
+ }
+]

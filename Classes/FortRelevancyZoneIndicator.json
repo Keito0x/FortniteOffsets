@@ -1,0 +1,47 @@
+[
+ {
+  "property": "RelevancyZoneMesh",
+  "offset": "0x680",
+  "size": "0x8"
+ },
+ {
+  "property": "CustomDepthMesh",
+  "offset": "0x688",
+  "size": "0x8"
+ },
+ {
+  "property": "RelevancyZoneToWorldScale",
+  "offset": "0x696",
+  "size": "0x4"
+ },
+ {
+  "property": "MiniMapNetRelevancyOverlayMaterial",
+  "offset": "0x704",
+  "size": "0x8"
+ },
+ {
+  "property": "MiniMapNetRelevancyCircleMaterial",
+  "offset": "0x712",
+  "size": "0x8"
+ },
+ {
+  "property": "MinimapNetRelevancyOverlayMID",
+  "offset": "0x720",
+  "size": "0x8"
+ },
+ {
+  "property": "MinimapNetRelevancyOverlayBrush",
+  "offset": "0x736",
+  "size": "0x176"
+ },
+ {
+  "property": "MinimapNetRelevancyCircleMID",
+  "offset": "0x912",
+  "size": "0x8"
+ },
+ {
+  "property": "MinimapNetRelevancyCircleBrush",
+  "offset": "0x928",
+  "size": "0x176"
+ }
+]

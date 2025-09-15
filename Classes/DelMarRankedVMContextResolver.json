@@ -1,0 +1,12 @@
+[
+ {
+  "property": "RankedDisplayData",
+  "offset": "0x40",
+  "size": "0x8"
+ },
+ {
+  "property": "DevelopmentRankedKey",
+  "offset": "0x48",
+  "size": "0x16"
+ }
+]

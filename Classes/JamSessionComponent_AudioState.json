@@ -1,0 +1,17 @@
+[
+ {
+  "property": "CurrentKey",
+  "offset": "0x192",
+  "size": "0x1"
+ },
+ {
+  "property": "CurrentMode",
+  "offset": "0x193",
+  "size": "0x1"
+ },
+ {
+  "property": "CurrentTempo",
+  "offset": "0x196",
+  "size": "0x4"
+ }
+]

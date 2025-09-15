@@ -1,0 +1,12 @@
+[
+ {
+  "property": "CachedBodySetup",
+  "offset": "0x1304",
+  "size": "0x8"
+ },
+ {
+  "property": "BoxExtent",
+  "offset": "0x1312",
+  "size": "0x24"
+ }
+]

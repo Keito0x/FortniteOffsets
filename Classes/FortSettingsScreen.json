@@ -1,0 +1,62 @@
+[
+ {
+  "property": "IconOnlyTabIconSize",
+  "offset": "0x1608",
+  "size": "0x16"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x1624",
+  "size": "0x8"
+ },
+ {
+  "property": "TabSchemaCollection",
+  "offset": "0x1632",
+  "size": "0x8"
+ },
+ {
+  "property": "NamedSettingActionCollection",
+  "offset": "0x1640",
+  "size": "0x8"
+ },
+ {
+  "property": "ApplySettingsActionRowHandle",
+  "offset": "0x1648",
+  "size": "0x16"
+ },
+ {
+  "property": "ResetSettingsToDefaultActionRowHandle",
+  "offset": "0x1672",
+  "size": "0x16"
+ },
+ {
+  "property": "BackActionRowHandle",
+  "offset": "0x1688",
+  "size": "0x16"
+ },
+ {
+  "property": "SaveProgressModalClass",
+  "offset": "0x1704",
+  "size": "0x8"
+ },
+ {
+  "property": "SaveProgressModalInstance",
+  "offset": "0x1712",
+  "size": "0x8"
+ },
+ {
+  "property": "TestSettingsActionRowHandle",
+  "offset": "0x1720",
+  "size": "0x16"
+ },
+ {
+  "property": "ApplyAndTestSettingsActionRowHandle",
+  "offset": "0x1736",
+  "size": "0x16"
+ },
+ {
+  "property": "SaveProgressLayer",
+  "offset": "0x1944",
+  "size": "0x8"
+ }
+]

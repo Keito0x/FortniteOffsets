@@ -1,0 +1,12 @@
+[
+ {
+  "property": "DataTables",
+  "offset": "0x440",
+  "size": "0x80"
+ },
+ {
+  "property": "TaskManager",
+  "offset": "0x520",
+  "size": "0x8"
+ }
+]

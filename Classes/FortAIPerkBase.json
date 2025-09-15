@@ -1,0 +1,42 @@
+[
+ {
+  "property": "CooldownDuration",
+  "offset": "0x40",
+  "size": "0x40"
+ },
+ {
+  "property": "CooldownDurationRandomDeviation",
+  "offset": "0x80",
+  "size": "0x40"
+ },
+ {
+  "property": "ActivationCountBeforeCooldown",
+  "offset": "0x120",
+  "size": "0x40"
+ },
+ {
+  "property": "ActivationDuration",
+  "offset": "0x160",
+  "size": "0x40"
+ },
+ {
+  "property": "ActivationDurationRandomDeviation",
+  "offset": "0x200",
+  "size": "0x40"
+ },
+ {
+  "property": "OddsToActivate",
+  "offset": "0x240",
+  "size": "0x40"
+ },
+ {
+  "property": "FailedActivationCooldownDuration",
+  "offset": "0x280",
+  "size": "0x40"
+ },
+ {
+  "property": "FailedActivationCooldownDurationRandomDeviation",
+  "offset": "0x320",
+  "size": "0x40"
+ }
+]

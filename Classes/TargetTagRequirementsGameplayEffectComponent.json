@@ -1,0 +1,17 @@
+[
+ {
+  "property": "ApplicationTagRequirements",
+  "offset": "0x40",
+  "size": "0x136"
+ },
+ {
+  "property": "OngoingTagRequirements",
+  "offset": "0x176",
+  "size": "0x136"
+ },
+ {
+  "property": "RemovalTagRequirements",
+  "offset": "0x312",
+  "size": "0x136"
+ }
+]

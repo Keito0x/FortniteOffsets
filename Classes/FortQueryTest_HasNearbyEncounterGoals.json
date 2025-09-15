@@ -1,0 +1,12 @@
+[
+ {
+  "property": "bOnlyActiveEncounters",
+  "offset": "0x504",
+  "size": "0x1"
+ },
+ {
+  "property": "TestDistance",
+  "offset": "0x512",
+  "size": "0x56"
+ }
+]

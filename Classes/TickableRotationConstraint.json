@@ -1,0 +1,12 @@
+[
+ {
+  "property": "OffsetRotation",
+  "offset": "0x192",
+  "size": "0x32"
+ },
+ {
+  "property": "AxisFilter",
+  "offset": "0x224",
+  "size": "0x3"
+ }
+]

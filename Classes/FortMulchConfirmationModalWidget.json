@@ -1,0 +1,27 @@
+[
+ {
+  "property": "HostItemManagementMulchPanel",
+  "offset": "0x1488",
+  "size": "0x16"
+ },
+ {
+  "property": "RecycleItemTileView",
+  "offset": "0x1504",
+  "size": "0x8"
+ },
+ {
+  "property": "CommonLoadGuard_LatentSpinner",
+  "offset": "0x1512",
+  "size": "0x8"
+ },
+ {
+  "property": "HorizontalBox_Buttons",
+  "offset": "0x1520",
+  "size": "0x8"
+ },
+ {
+  "property": "InventoryContext",
+  "offset": "0x1544",
+  "size": "0x8"
+ }
+]

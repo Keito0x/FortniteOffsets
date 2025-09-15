@@ -1,0 +1,12 @@
+[
+ {
+  "property": "BoxComponent",
+  "offset": "0x680",
+  "size": "0x8"
+ },
+ {
+  "property": "bAutoUpdateBounds",
+  "offset": "0x688",
+  "size": "0x1"
+ }
+]

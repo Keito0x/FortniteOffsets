@@ -1,0 +1,17 @@
+[
+ {
+  "property": "Unknown_ffield",
+  "offset": "0x2496",
+  "size": "0x4"
+ },
+ {
+  "property": "Unknown_ffield",
+  "offset": "0x2500",
+  "size": "0x4"
+ },
+ {
+  "property": "Unknown_ffield",
+  "offset": "0x2504",
+  "size": "0x24"
+ }
+]

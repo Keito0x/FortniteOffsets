@@ -1,0 +1,22 @@
+[
+ {
+  "property": "TileView_Categories",
+  "offset": "0x816",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_Title",
+  "offset": "0x824",
+  "size": "0x8"
+ },
+ {
+  "property": "TileViewQueryThreshold",
+  "offset": "0x832",
+  "size": "0x4"
+ },
+ {
+  "property": "CachedActivityProvider",
+  "offset": "0x840",
+  "size": "0x8"
+ }
+]

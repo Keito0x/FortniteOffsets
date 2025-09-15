@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Brightness",
+  "offset": "0x352",
+  "size": "0x4"
+ },
+ {
+  "property": "TextureMultiplier",
+  "offset": "0x356",
+  "size": "0x4"
+ }
+]

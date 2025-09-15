@@ -1,0 +1,77 @@
+[
+ {
+  "property": "LayerName",
+  "offset": "0x40",
+  "size": "0x16"
+ },
+ {
+  "property": "LayerWidth",
+  "offset": "0x56",
+  "size": "0x4"
+ },
+ {
+  "property": "LayerHeight",
+  "offset": "0x60",
+  "size": "0x4"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x64",
+  "size": "0x1"
+ },
+ {
+  "property": "bLayerCollides",
+  "offset": "0x64",
+  "size": "0x1"
+ },
+ {
+  "property": "bOverrideCollisionThickness",
+  "offset": "0x64",
+  "size": "0x1"
+ },
+ {
+  "property": "bOverrideCollisionOffset",
+  "offset": "0x64",
+  "size": "0x1"
+ },
+ {
+  "property": "CollisionThicknessOverride",
+  "offset": "0x68",
+  "size": "0x4"
+ },
+ {
+  "property": "CollisionOffsetOverride",
+  "offset": "0x72",
+  "size": "0x4"
+ },
+ {
+  "property": "LayerColor",
+  "offset": "0x76",
+  "size": "0x16"
+ },
+ {
+  "property": "AllocatedWidth",
+  "offset": "0x92",
+  "size": "0x4"
+ },
+ {
+  "property": "AllocatedHeight",
+  "offset": "0x96",
+  "size": "0x4"
+ },
+ {
+  "property": "AllocatedCells",
+  "offset": "0x104",
+  "size": "0x16"
+ },
+ {
+  "property": "TileSet",
+  "offset": "0x120",
+  "size": "0x8"
+ },
+ {
+  "property": "AllocatedGrid",
+  "offset": "0x128",
+  "size": "0x16"
+ }
+]

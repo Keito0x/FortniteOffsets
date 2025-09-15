@@ -1,0 +1,17 @@
+[
+ {
+  "property": "ControlPoints",
+  "offset": "0x1304",
+  "size": "0x16"
+ },
+ {
+  "property": "Segments",
+  "offset": "0x1320",
+  "size": "0x16"
+ },
+ {
+  "property": "CookedForeignMeshComponents",
+  "offset": "0x1336",
+  "size": "0x16"
+ }
+]

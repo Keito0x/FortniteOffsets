@@ -1,0 +1,17 @@
+[
+ {
+  "property": "WorldViewMap",
+  "offset": "0x40",
+  "size": "0x80"
+ },
+ {
+  "property": "GetAllAccessibleWorldsCacheTime",
+  "offset": "0x200",
+  "size": "0x4"
+ },
+ {
+  "property": "GetAllAccessibleWorldsErrorCacheTime",
+  "offset": "0x204",
+  "size": "0x4"
+ }
+]

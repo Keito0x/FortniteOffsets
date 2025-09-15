@@ -1,0 +1,17 @@
+[
+ {
+  "property": "Padding",
+  "offset": "0x64",
+  "size": "0x16"
+ },
+ {
+  "property": "HorizontalAlignment",
+  "offset": "0x80",
+  "size": "0x1"
+ },
+ {
+  "property": "VerticalAlignment",
+  "offset": "0x81",
+  "size": "0x1"
+ }
+]

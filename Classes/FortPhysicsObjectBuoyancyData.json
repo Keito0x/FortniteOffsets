@@ -1,0 +1,22 @@
+[
+ {
+  "property": "DefaultPontoonRadius",
+  "offset": "0x48",
+  "size": "0x4"
+ },
+ {
+  "property": "bSleepInsteadOfSink",
+  "offset": "0x52",
+  "size": "0x1"
+ },
+ {
+  "property": "MinTimeInWaterToSink",
+  "offset": "0x56",
+  "size": "0x4"
+ },
+ {
+  "property": "BuoyancyData",
+  "offset": "0x64",
+  "size": "0x144"
+ }
+]

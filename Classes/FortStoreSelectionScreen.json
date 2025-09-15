@@ -1,0 +1,67 @@
+[
+ {
+  "property": "EntryBoxButtonGroup",
+  "offset": "0x1440",
+  "size": "0x8"
+ },
+ {
+  "property": "StoreOffer",
+  "offset": "0x1448",
+  "size": "0x8"
+ },
+ {
+  "property": "StoreOfferLoadGuard",
+  "offset": "0x1456",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_Header",
+  "offset": "0x1464",
+  "size": "0x8"
+ },
+ {
+  "property": "DynamicEntryBox_Options",
+  "offset": "0x1472",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_Continue",
+  "offset": "0x1480",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_Cancel",
+  "offset": "0x1488",
+  "size": "0x8"
+ },
+ {
+  "property": "RichText_InitiallySelectedHint",
+  "offset": "0x1496",
+  "size": "0x8"
+ },
+ {
+  "property": "PurchaseChoiceOwner",
+  "offset": "0x1504",
+  "size": "0x16"
+ },
+ {
+  "property": "StoreOptions",
+  "offset": "0x1520",
+  "size": "0x16"
+ },
+ {
+  "property": "SoftDisplayAsset",
+  "offset": "0x1536",
+  "size": "0x32"
+ },
+ {
+  "property": "ItemData",
+  "offset": "0x1568",
+  "size": "0x728"
+ },
+ {
+  "property": "OptionalLabels",
+  "offset": "0x2296",
+  "size": "0x32"
+ }
+]

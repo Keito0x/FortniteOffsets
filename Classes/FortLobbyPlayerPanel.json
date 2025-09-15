@@ -1,0 +1,47 @@
+[
+ {
+  "property": "ManageModalClass",
+  "offset": "0x1488",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_AddFriend",
+  "offset": "0x1512",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_InviteParty",
+  "offset": "0x1520",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_Manage",
+  "offset": "0x1528",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_Close",
+  "offset": "0x1536",
+  "size": "0x8"
+ },
+ {
+  "property": "Banner_Player",
+  "offset": "0x1544",
+  "size": "0x8"
+ },
+ {
+  "property": "RichText_PlayerName",
+  "offset": "0x1552",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_InviteSent",
+  "offset": "0x1560",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_PlatformIcon",
+  "offset": "0x1568",
+  "size": "0x8"
+ }
+]

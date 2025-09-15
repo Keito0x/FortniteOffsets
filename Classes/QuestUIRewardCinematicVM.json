@@ -1,0 +1,12 @@
+[
+ {
+  "property": "VUID",
+  "offset": "0x360",
+  "size": "0x16"
+ },
+ {
+  "property": "bIsWatched",
+  "offset": "0x376",
+  "size": "0x1"
+ }
+]

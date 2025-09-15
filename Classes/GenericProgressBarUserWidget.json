@@ -1,0 +1,42 @@
+[
+ {
+  "property": "ProgressBarsOverlay",
+  "offset": "0x776",
+  "size": "0x8"
+ },
+ {
+  "property": "PrimaryProgressBar",
+  "offset": "0x784",
+  "size": "0x8"
+ },
+ {
+  "property": "DeltaProgressBar",
+  "offset": "0x792",
+  "size": "0x8"
+ },
+ {
+  "property": "FadeAnim",
+  "offset": "0x800",
+  "size": "0x8"
+ },
+ {
+  "property": "PulsingAnim",
+  "offset": "0x808",
+  "size": "0x8"
+ },
+ {
+  "property": "PrimaryProgressBarMaterialInstance",
+  "offset": "0x816",
+  "size": "0x8"
+ },
+ {
+  "property": "DeltaProgressBarMaterialInstance",
+  "offset": "0x824",
+  "size": "0x8"
+ },
+ {
+  "property": "FadeSettings",
+  "offset": "0x832",
+  "size": "0x28"
+ }
+]

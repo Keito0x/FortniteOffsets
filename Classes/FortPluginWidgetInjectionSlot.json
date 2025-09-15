@@ -1,0 +1,22 @@
+[
+ {
+  "property": "PluginId",
+  "offset": "0x776",
+  "size": "0x16"
+ },
+ {
+  "property": "PluginWidgetId",
+  "offset": "0x792",
+  "size": "0x16"
+ },
+ {
+  "property": "bAutoInjectWidget",
+  "offset": "0x808",
+  "size": "0x1"
+ },
+ {
+  "property": "InjectionSlot",
+  "offset": "0x816",
+  "size": "0x8"
+ }
+]

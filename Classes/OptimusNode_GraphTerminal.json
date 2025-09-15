@@ -1,0 +1,12 @@
+[
+ {
+  "property": "TerminalType",
+  "offset": "0x296",
+  "size": "0x4"
+ },
+ {
+  "property": "DefaultComponentPin",
+  "offset": "0x300",
+  "size": "0x8"
+ }
+]

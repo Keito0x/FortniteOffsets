@@ -1,0 +1,22 @@
+[
+ {
+  "property": "OldGroupNames",
+  "offset": "0x40",
+  "size": "0x16"
+ },
+ {
+  "property": "NewGroupNames",
+  "offset": "0x56",
+  "size": "0x16"
+ },
+ {
+  "property": "OldToNewGroupIndexMapping",
+  "offset": "0x72",
+  "size": "0x16"
+ },
+ {
+  "property": "NewToOldGroupIndexMapping",
+  "offset": "0x88",
+  "size": "0x16"
+ }
+]

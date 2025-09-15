@@ -1,0 +1,17 @@
+[
+ {
+  "property": "PreviewVehicle",
+  "offset": "0x56",
+  "size": "0x8"
+ },
+ {
+  "property": "LobbyVehicleActorData",
+  "offset": "0x64",
+  "size": "0x112"
+ },
+ {
+  "property": "LobbyVehicleDefaultBody",
+  "offset": "0x176",
+  "size": "0x40"
+ }
+]

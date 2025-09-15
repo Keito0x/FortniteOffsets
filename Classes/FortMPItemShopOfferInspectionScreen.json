@@ -1,0 +1,57 @@
+[
+ {
+  "property": "OnEndPurchase",
+  "offset": "0x1120",
+  "size": "0x16"
+ },
+ {
+  "property": "OnLoadError",
+  "offset": "0x1136",
+  "size": "0x16"
+ },
+ {
+  "property": "PendingPreviewDelay",
+  "offset": "0x1152",
+  "size": "0x4"
+ },
+ {
+  "property": "bAllowUpdateWhileDeactivated",
+  "offset": "0x1156",
+  "size": "0x1"
+ },
+ {
+  "property": "bClearVariantsOnActivate",
+  "offset": "0x1157",
+  "size": "0x1"
+ },
+ {
+  "property": "RestrictionMode",
+  "offset": "0x1164",
+  "size": "0x1"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x1168",
+  "size": "0x16"
+ },
+ {
+  "property": "PreviewedItem",
+  "offset": "0x1184",
+  "size": "0x8"
+ },
+ {
+  "property": "ItemEquipConfirmationModal",
+  "offset": "0x1208",
+  "size": "0x32"
+ },
+ {
+  "property": "InstrumentsTags",
+  "offset": "0x1240",
+  "size": "0x32"
+ },
+ {
+  "property": "FortItemPreviewWidget",
+  "offset": "0x1272",
+  "size": "0x8"
+ }
+]

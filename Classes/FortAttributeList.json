@@ -1,0 +1,17 @@
+[
+ {
+  "property": "AttributeItemClass",
+  "offset": "0x792",
+  "size": "0x8"
+ },
+ {
+  "property": "bHoverEnabledOnElements",
+  "offset": "0x800",
+  "size": "0x1"
+ },
+ {
+  "property": "AttributeContainer",
+  "offset": "0x808",
+  "size": "0x8"
+ }
+]

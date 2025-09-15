@@ -1,0 +1,42 @@
+[
+ {
+  "property": "bInThrowMontage",
+  "offset": "0x4888",
+  "size": "0x1"
+ },
+ {
+  "property": "bPlayingEquip",
+  "offset": "0x4889",
+  "size": "0x1"
+ },
+ {
+  "property": "bEquipTransition",
+  "offset": "0x4890",
+  "size": "0x1"
+ },
+ {
+  "property": "bExitEquipTransition",
+  "offset": "0x4891",
+  "size": "0x1"
+ },
+ {
+  "property": "BlendWeights",
+  "offset": "0x4892",
+  "size": "0x4"
+ },
+ {
+  "property": "SpriteEquipMontage",
+  "offset": "0x4896",
+  "size": "0x8"
+ },
+ {
+  "property": "RaiseSpriteTagName",
+  "offset": "0x4904",
+  "size": "0x4"
+ },
+ {
+  "property": "IsTargetingTagName",
+  "offset": "0x4908",
+  "size": "0x4"
+ }
+]

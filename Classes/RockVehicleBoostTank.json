@@ -1,0 +1,37 @@
+[
+ {
+  "property": "OnSecondsChanged",
+  "offset": "0x192",
+  "size": "0x16"
+ },
+ {
+  "property": "StartSeconds",
+  "offset": "0x208",
+  "size": "0x48"
+ },
+ {
+  "property": "MaxSeconds",
+  "offset": "0x256",
+  "size": "0x48"
+ },
+ {
+  "property": "BoostLogic",
+  "offset": "0x304",
+  "size": "0x1"
+ },
+ {
+  "property": "BoostRechargeRate",
+  "offset": "0x308",
+  "size": "0x4"
+ },
+ {
+  "property": "BoostRechargeDelay",
+  "offset": "0x312",
+  "size": "0x4"
+ },
+ {
+  "property": "SecondsRemaining",
+  "offset": "0x316",
+  "size": "0x4"
+ }
+]

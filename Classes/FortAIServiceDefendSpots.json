@@ -1,0 +1,12 @@
+[
+ {
+  "property": "OctreeOrigin",
+  "offset": "0x120",
+  "size": "0x24"
+ },
+ {
+  "property": "OctreeRadius",
+  "offset": "0x144",
+  "size": "0x40"
+ }
+]

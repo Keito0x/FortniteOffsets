@@ -1,0 +1,227 @@
+[
+ {
+  "property": "OnAscenderSetupComplete",
+  "offset": "0x3288",
+  "size": "0x16"
+ },
+ {
+  "property": "SplineTopAttachPointName",
+  "offset": "0x3304",
+  "size": "0x4"
+ },
+ {
+  "property": "bAutoFindSplineEndLocation",
+  "offset": "0x3308",
+  "size": "0x1"
+ },
+ {
+  "property": "SplineOffsetFromGround",
+  "offset": "0x3312",
+  "size": "0x4"
+ },
+ {
+  "property": "CableOffsetFromSplineEnd",
+  "offset": "0x3316",
+  "size": "0x4"
+ },
+ {
+  "property": "SplineLength",
+  "offset": "0x3320",
+  "size": "0x4"
+ },
+ {
+  "property": "SplineStaticMesh",
+  "offset": "0x3328",
+  "size": "0x8"
+ },
+ {
+  "property": "MeshForwardAxis",
+  "offset": "0x3336",
+  "size": "0x1"
+ },
+ {
+  "property": "bHandleReturning",
+  "offset": "0x3337",
+  "size": "0x1"
+ },
+ {
+  "property": "HandleReturnSpeed",
+  "offset": "0x3340",
+  "size": "0x4"
+ },
+ {
+  "property": "bCableDropping",
+  "offset": "0x3344",
+  "size": "0x1"
+ },
+ {
+  "property": "CableDropSpeed",
+  "offset": "0x3348",
+  "size": "0x4"
+ },
+ {
+  "property": "YawRotationOffsetWhileUsingHandle",
+  "offset": "0x3352",
+  "size": "0x4"
+ },
+ {
+  "property": "YawRotationOffsetWhileSlidingDown",
+  "offset": "0x3356",
+  "size": "0x4"
+ },
+ {
+  "property": "bUseComplexSplineCollision",
+  "offset": "0x3360",
+  "size": "0x1"
+ },
+ {
+  "property": "SimpleSplineCollisionRadius",
+  "offset": "0x3364",
+  "size": "0x4"
+ },
+ {
+  "property": "SimpleSplineCollisionHeightExtension",
+  "offset": "0x3368",
+  "size": "0x4"
+ },
+ {
+  "property": "DescendMinDistanceFromBottom",
+  "offset": "0x3376",
+  "size": "0x40"
+ },
+ {
+  "property": "AscendReachedEndHorizontalLaunchSpeed",
+  "offset": "0x3416",
+  "size": "0x40"
+ },
+ {
+  "property": "AscendReachedEndVerticalLaunchSpeed",
+  "offset": "0x3456",
+  "size": "0x40"
+ },
+ {
+  "property": "AscendMMEReachedEndHorizontalLaunchSpeed",
+  "offset": "0x3496",
+  "size": "0x40"
+ },
+ {
+  "property": "AscendMMEReachedEndVerticalLaunchSpeed",
+  "offset": "0x3536",
+  "size": "0x40"
+ },
+ {
+  "property": "AscendJumpedOffHorizontalLaunchSpeed",
+  "offset": "0x3576",
+  "size": "0x40"
+ },
+ {
+  "property": "AscendJumpedOffVerticalLaunchSpeed",
+  "offset": "0x3616",
+  "size": "0x40"
+ },
+ {
+  "property": "DescendReachedEndHorizontalLaunchSpeed",
+  "offset": "0x3656",
+  "size": "0x40"
+ },
+ {
+  "property": "DescendReachedEndVerticalLaunchSpeed",
+  "offset": "0x3696",
+  "size": "0x40"
+ },
+ {
+  "property": "DescendJumpedOffHorizontalLaunchSpeed",
+  "offset": "0x3736",
+  "size": "0x40"
+ },
+ {
+  "property": "DescendJumpedOffVerticalLaunchSpeed",
+  "offset": "0x3776",
+  "size": "0x40"
+ },
+ {
+  "property": "HandleActorHitPlayerHorizontalLaunchSpeed",
+  "offset": "0x3816",
+  "size": "0x40"
+ },
+ {
+  "property": "HandleActorHitPlayerVerticalLaunchSpeed",
+  "offset": "0x3856",
+  "size": "0x40"
+ },
+ {
+  "property": "HandleDestroyBuildingsOverlapExtents",
+  "offset": "0x3896",
+  "size": "0x24"
+ },
+ {
+  "property": "PlayerDestroyBuildingsOverlapExtents",
+  "offset": "0x3920",
+  "size": "0x24"
+ },
+ {
+  "property": "InitialSplineEndLocation",
+  "offset": "0x3944",
+  "size": "0x24"
+ },
+ {
+  "property": "CurrentSplineEndLocation",
+  "offset": "0x3968",
+  "size": "0x24"
+ },
+ {
+  "property": "TargetSplineEndLocation",
+  "offset": "0x3992",
+  "size": "0x24"
+ },
+ {
+  "property": "CurrentHandleLocation",
+  "offset": "0x4016",
+  "size": "0x24"
+ },
+ {
+  "property": "CurrentInteractComponent",
+  "offset": "0x4040",
+  "size": "0x8"
+ },
+ {
+  "property": "PawnUsingHandle",
+  "offset": "0x4048",
+  "size": "0x8"
+ },
+ {
+  "property": "PreviousPawnUsingHandle",
+  "offset": "0x4056",
+  "size": "0x8"
+ },
+ {
+  "property": "SplineMesh",
+  "offset": "0x4064",
+  "size": "0x8"
+ },
+ {
+  "property": "SimpleSplineMeshCollision",
+  "offset": "0x4072",
+  "size": "0x8"
+ },
+ {
+  "property": "FloorActor",
+  "offset": "0x4080",
+  "size": "0x8"
+ },
+ {
+  "property": "RotationLockedPawns",
+  "offset": "0x4088",
+  "size": "0x16"
+ },
+ {
+  "property": "LinkToActorComponent",
+  "offset": "0x4216",
+  "size": "0x8"
+ },
+ {
+  "property": "ZiplineLinkComponent",
+  "offset": "0x4224",
+  "size": "0x8"
+ }
+]

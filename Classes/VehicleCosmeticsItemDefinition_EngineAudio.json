@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Data",
+  "offset": "0x528",
+  "size": "0x32"
+ },
+ {
+  "property": "DataChooserTable",
+  "offset": "0x560",
+  "size": "0x32"
+ }
+]

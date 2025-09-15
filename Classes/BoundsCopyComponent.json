@@ -1,0 +1,42 @@
+[
+ {
+  "property": "BoundsSourceActor",
+  "offset": "0x192",
+  "size": "0x32"
+ },
+ {
+  "property": "bUseCollidingComponentsForSourceBounds",
+  "offset": "0x224",
+  "size": "0x1"
+ },
+ {
+  "property": "bKeepOwnBoundsScale",
+  "offset": "0x225",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseCollidingComponentsForOwnBounds",
+  "offset": "0x226",
+  "size": "0x1"
+ },
+ {
+  "property": "PostTransform",
+  "offset": "0x240",
+  "size": "0x96"
+ },
+ {
+  "property": "bCopyXBounds",
+  "offset": "0x336",
+  "size": "0x1"
+ },
+ {
+  "property": "bCopyYBounds",
+  "offset": "0x337",
+  "size": "0x1"
+ },
+ {
+  "property": "bCopyZBounds",
+  "offset": "0x338",
+  "size": "0x1"
+ }
+]

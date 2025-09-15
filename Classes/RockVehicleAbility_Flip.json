@@ -1,0 +1,27 @@
+[
+ {
+  "property": "Impulse",
+  "offset": "0x320",
+  "size": "0x48"
+ },
+ {
+  "property": "Torque",
+  "offset": "0x368",
+  "size": "0x48"
+ },
+ {
+  "property": "duration",
+  "offset": "0x416",
+  "size": "0x48"
+ },
+ {
+  "property": "ContactNormalThresholdDegrees",
+  "offset": "0x464",
+  "size": "0x48"
+ },
+ {
+  "property": "bWheelsOnGround",
+  "offset": "0x512",
+  "size": "0x1"
+ }
+]

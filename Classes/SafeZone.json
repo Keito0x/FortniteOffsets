@@ -1,0 +1,22 @@
+[
+ {
+  "property": "PadLeft",
+  "offset": "0x384",
+  "size": "0x1"
+ },
+ {
+  "property": "PadRight",
+  "offset": "0x385",
+  "size": "0x1"
+ },
+ {
+  "property": "PadTop",
+  "offset": "0x386",
+  "size": "0x1"
+ },
+ {
+  "property": "PadBottom",
+  "offset": "0x387",
+  "size": "0x1"
+ }
+]

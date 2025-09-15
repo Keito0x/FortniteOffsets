@@ -1,0 +1,32 @@
+[
+ {
+  "property": "AnimInputEventList",
+  "offset": "0x1008",
+  "size": "0x16"
+ },
+ {
+  "property": "BoneSets",
+  "offset": "0x1024",
+  "size": "0x80"
+ },
+ {
+  "property": "AnimPropertyGameplayTagBindings",
+  "offset": "0x1104",
+  "size": "0x16"
+ },
+ {
+  "property": "OnGameplayTagNotifyBegin",
+  "offset": "0x1120",
+  "size": "0x16"
+ },
+ {
+  "property": "OnGameplayTagNotifyEnd",
+  "offset": "0x1136",
+  "size": "0x16"
+ },
+ {
+  "property": "LastUpdateTimestamp",
+  "offset": "0x1232",
+  "size": "0x4"
+ }
+]

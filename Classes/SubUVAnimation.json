@@ -1,0 +1,32 @@
+[
+ {
+  "property": "SubUVTexture",
+  "offset": "0x40",
+  "size": "0x8"
+ },
+ {
+  "property": "SubImages_Horizontal",
+  "offset": "0x48",
+  "size": "0x4"
+ },
+ {
+  "property": "SubImages_Vertical",
+  "offset": "0x52",
+  "size": "0x4"
+ },
+ {
+  "property": "BoundingMode",
+  "offset": "0x56",
+  "size": "0x1"
+ },
+ {
+  "property": "OpacitySourceMode",
+  "offset": "0x57",
+  "size": "0x1"
+ },
+ {
+  "property": "AlphaThreshold",
+  "offset": "0x60",
+  "size": "0x4"
+ }
+]

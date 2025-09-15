@@ -1,0 +1,22 @@
+[
+ {
+  "property": "bVehicleLeftAnalogStrafing",
+  "offset": "0x9024",
+  "size": "0x1"
+ },
+ {
+  "property": "VehicleLeftAnalogStrafingMultiplier",
+  "offset": "0x9028",
+  "size": "0x4"
+ },
+ {
+  "property": "MinSpeedToWallRun",
+  "offset": "0x9032",
+  "size": "0x4"
+ },
+ {
+  "property": "AggroRangeOverride",
+  "offset": "0x9036",
+  "size": "0x4"
+ }
+]

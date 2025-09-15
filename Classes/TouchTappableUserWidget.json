@@ -1,0 +1,12 @@
+[
+ {
+  "property": "TouchEnhancedInputInjector",
+  "offset": "0x784",
+  "size": "0x128"
+ },
+ {
+  "property": "OptionalTouchInputConverter",
+  "offset": "0x912",
+  "size": "0x8"
+ }
+]

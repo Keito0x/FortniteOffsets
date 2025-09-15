@@ -1,0 +1,82 @@
+[
+ {
+  "property": "ApplicationBurst",
+  "offset": "0x976",
+  "size": "0x328"
+ },
+ {
+  "property": "ApplicationResult",
+  "offset": "0x1304",
+  "size": "0x72"
+ },
+ {
+  "property": "DefaultLoopingAttachment",
+  "offset": "0x1376",
+  "size": "0x88"
+ },
+ {
+  "property": "LoopingParticles",
+  "offset": "0x1464",
+  "size": "0x16"
+ },
+ {
+  "property": "LoopingSounds",
+  "offset": "0x1480",
+  "size": "0x16"
+ },
+ {
+  "property": "LoopingForceFeedbackEffect",
+  "offset": "0x1496",
+  "size": "0x40"
+ },
+ {
+  "property": "LoopingCameraLensEffect",
+  "offset": "0x1536",
+  "size": "0x24"
+ },
+ {
+  "property": "LoopingCameraShake",
+  "offset": "0x1560",
+  "size": "0x56"
+ },
+ {
+  "property": "LoopingResult",
+  "offset": "0x1616",
+  "size": "0x72"
+ },
+ {
+  "property": "RecurringBurst",
+  "offset": "0x1688",
+  "size": "0x328"
+ },
+ {
+  "property": "RecurringResult",
+  "offset": "0x2016",
+  "size": "0x72"
+ },
+ {
+  "property": "RemovalBurst",
+  "offset": "0x2088",
+  "size": "0x328"
+ },
+ {
+  "property": "RemovalResult",
+  "offset": "0x2416",
+  "size": "0x72"
+ },
+ {
+  "property": "bTickEnabled",
+  "offset": "0x2488",
+  "size": "0x1"
+ },
+ {
+  "property": "TickInterval",
+  "offset": "0x2492",
+  "size": "0x4"
+ },
+ {
+  "property": "TickGroup",
+  "offset": "0x2496",
+  "size": "0x1"
+ }
+]

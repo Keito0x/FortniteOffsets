@@ -1,0 +1,237 @@
+[
+ {
+  "property": "OfferId",
+  "offset": "0x104",
+  "size": "0x16"
+ },
+ {
+  "property": "ShortName",
+  "offset": "0x120",
+  "size": "0x16"
+ },
+ {
+  "property": "ShortDescription",
+  "offset": "0x136",
+  "size": "0x16"
+ },
+ {
+  "property": "RatingBoardWarning",
+  "offset": "0x152",
+  "size": "0x16"
+ },
+ {
+  "property": "Price",
+  "offset": "0x168",
+  "size": "0x4"
+ },
+ {
+  "property": "RegularPrice",
+  "offset": "0x172",
+  "size": "0x4"
+ },
+ {
+  "property": "CurrencyType",
+  "offset": "0x176",
+  "size": "0x1"
+ },
+ {
+  "property": "CurrencySubType",
+  "offset": "0x184",
+  "size": "0x16"
+ },
+ {
+  "property": "TileSize",
+  "offset": "0x200",
+  "size": "0x1"
+ },
+ {
+  "property": "HighlightIntensity",
+  "offset": "0x201",
+  "size": "0x1"
+ },
+ {
+  "property": "HighlightText",
+  "offset": "0x208",
+  "size": "0x16"
+ },
+ {
+  "property": "LegalText",
+  "offset": "0x224",
+  "size": "0x16"
+ },
+ {
+  "property": "DisplayAssetPath",
+  "offset": "0x240",
+  "size": "0x16"
+ },
+ {
+  "property": "bUsingFullTileOverridePresentations",
+  "offset": "0x256",
+  "size": "0x1"
+ },
+ {
+  "property": "GrantedItems",
+  "offset": "0x264",
+  "size": "0x16"
+ },
+ {
+  "property": "PreviewItems",
+  "offset": "0x280",
+  "size": "0x16"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x296",
+  "size": "0x16"
+ },
+ {
+  "property": "DisplayedPrimaryGrantedItems",
+  "offset": "0x312",
+  "size": "0x16"
+ },
+ {
+  "property": "DisplayedSecondaryGrantedItems",
+  "offset": "0x328",
+  "size": "0x16"
+ },
+ {
+  "property": "OverridePreviews",
+  "offset": "0x344",
+  "size": "0x16"
+ },
+ {
+  "property": "MtxQuantity",
+  "offset": "0x360",
+  "size": "0x4"
+ },
+ {
+  "property": "MetaDisplayData",
+  "offset": "0x368",
+  "size": "0x80"
+ },
+ {
+  "property": "TagTexts",
+  "offset": "0x448",
+  "size": "0x16"
+ },
+ {
+  "property": "CompatibleModes",
+  "offset": "0x480",
+  "size": "0x80"
+ },
+ {
+  "property": "CustomInspectionBanner",
+  "offset": "0x560",
+  "size": "0x32"
+ },
+ {
+  "property": "bOwned",
+  "offset": "0x592",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsRefundable",
+  "offset": "0x593",
+  "size": "0x1"
+ },
+ {
+  "property": "bCanUndoPurchase",
+  "offset": "0x594",
+  "size": "0x1"
+ },
+ {
+  "property": "bSuppressRegularPrice",
+  "offset": "0x595",
+  "size": "0x1"
+ },
+ {
+  "property": "OverrideParentOfferTrackingId",
+  "offset": "0x600",
+  "size": "0x16"
+ },
+ {
+  "property": "Categories",
+  "offset": "0x616",
+  "size": "0x16"
+ },
+ {
+  "property": "QuantityRemaining",
+  "offset": "0x632",
+  "size": "0x4"
+ },
+ {
+  "property": "SortPriority",
+  "offset": "0x636",
+  "size": "0x4"
+ },
+ {
+  "property": "LayoutId",
+  "offset": "0x640",
+  "size": "0x16"
+ },
+ {
+  "property": "MetaInfoOfferTag",
+  "offset": "0x656",
+  "size": "0x16"
+ },
+ {
+  "property": "CurrentProgress",
+  "offset": "0x672",
+  "size": "0x4"
+ },
+ {
+  "property": "TotalProgress",
+  "offset": "0x676",
+  "size": "0x4"
+ },
+ {
+  "property": "NumPreloadedGrantedItemPreviews",
+  "offset": "0x696",
+  "size": "0x4"
+ },
+ {
+  "property": "NumGrantedItemPreviewsToPreload",
+  "offset": "0x700",
+  "size": "0x4"
+ },
+ {
+  "property": "OfferInfo",
+  "offset": "0x704",
+  "size": "0x8"
+ },
+ {
+  "property": "InDate",
+  "offset": "0x712",
+  "size": "0x8"
+ },
+ {
+  "property": "OutDate",
+  "offset": "0x720",
+  "size": "0x8"
+ },
+ {
+  "property": "OfferType",
+  "offset": "0x728",
+  "size": "0x1"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x736",
+  "size": "0x16"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x752",
+  "size": "0x8"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x760",
+  "size": "0x8"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x768",
+  "size": "0x8"
+ }
+]

@@ -1,0 +1,37 @@
+[
+ {
+  "property": "GhostPlaybackSessionComponentClass",
+  "offset": "0x192",
+  "size": "0x8"
+ },
+ {
+  "property": "GhostRecordingSessionComponentClass",
+  "offset": "0x200",
+  "size": "0x8"
+ },
+ {
+  "property": "BestRunTime",
+  "offset": "0x208",
+  "size": "0x8"
+ },
+ {
+  "property": "CachedPlaybackSession",
+  "offset": "0x216",
+  "size": "0x8"
+ },
+ {
+  "property": "CachedRecordingSession",
+  "offset": "0x224",
+  "size": "0x8"
+ },
+ {
+  "property": "CachedRaceManager",
+  "offset": "0x232",
+  "size": "0x8"
+ },
+ {
+  "property": "CachedLocalPlayerState",
+  "offset": "0x240",
+  "size": "0x8"
+ }
+]

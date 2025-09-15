@@ -1,0 +1,12 @@
+[
+ {
+  "property": "RichText_SquadName",
+  "offset": "0x896",
+  "size": "0x8"
+ },
+ {
+  "property": "RichText_LockReason",
+  "offset": "0x904",
+  "size": "0x8"
+ }
+]

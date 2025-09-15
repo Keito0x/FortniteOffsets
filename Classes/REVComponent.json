@@ -1,0 +1,17 @@
+[
+ {
+  "property": "Model",
+  "offset": "0x2216",
+  "size": "0x8"
+ },
+ {
+  "property": "SimSettings",
+  "offset": "0x2224",
+  "size": "0x8"
+ },
+ {
+  "property": "PitchMultiplier",
+  "offset": "0x2232",
+  "size": "0x4"
+ }
+]

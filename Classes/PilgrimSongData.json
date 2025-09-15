@@ -1,0 +1,12 @@
+[
+ {
+  "property": "TracksPerDifficulty",
+  "offset": "0x288",
+  "size": "0x80"
+ },
+ {
+  "property": "BeatMarkers",
+  "offset": "0x368",
+  "size": "0x16"
+ }
+]

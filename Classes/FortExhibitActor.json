@@ -1,0 +1,12 @@
+[
+ {
+  "property": "CameraOffset",
+  "offset": "0x688",
+  "size": "0x96"
+ },
+ {
+  "property": "CameraFOV",
+  "offset": "0x784",
+  "size": "0x4"
+ }
+]

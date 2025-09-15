@@ -1,0 +1,12 @@
+[
+ {
+  "property": "SortType",
+  "offset": "0x240",
+  "size": "0x1"
+ },
+ {
+  "property": "CollectionGroupConfig",
+  "offset": "0x248",
+  "size": "0x8"
+ }
+]

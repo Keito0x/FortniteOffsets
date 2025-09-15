@@ -1,0 +1,22 @@
+[
+ {
+  "property": "InventoryItemMaxThreshold",
+  "offset": "0x64",
+  "size": "0x4"
+ },
+ {
+  "property": "SizeThreshold",
+  "offset": "0x68",
+  "size": "0x4"
+ },
+ {
+  "property": "InventoryItemBeginSizeAuditThreshold",
+  "offset": "0x72",
+  "size": "0x4"
+ },
+ {
+  "property": "InventoryItemSizeAuditInterval",
+  "offset": "0x76",
+  "size": "0x4"
+ }
+]

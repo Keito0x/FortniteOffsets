@@ -1,0 +1,7 @@
+[
+ {
+  "property": "WaterZoneOverride",
+  "offset": "0x192",
+  "size": "0x32"
+ }
+]

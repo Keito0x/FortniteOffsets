@@ -1,0 +1,22 @@
+[
+ {
+  "property": "TestDuration",
+  "offset": "0x40",
+  "size": "0x4"
+ },
+ {
+  "property": "EffectType",
+  "offset": "0x48",
+  "size": "0x8"
+ },
+ {
+  "property": "Owner",
+  "offset": "0x56",
+  "size": "0x8"
+ },
+ {
+  "property": "System",
+  "offset": "0x64",
+  "size": "0x32"
+ }
+]

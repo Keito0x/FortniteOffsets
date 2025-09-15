@@ -1,0 +1,77 @@
+[
+ {
+  "property": "Spawnables",
+  "offset": "0x112",
+  "size": "0x16"
+ },
+ {
+  "property": "Possessables",
+  "offset": "0x128",
+  "size": "0x16"
+ },
+ {
+  "property": "ObjectBindings",
+  "offset": "0x144",
+  "size": "0x16"
+ },
+ {
+  "property": "BindingGroups",
+  "offset": "0x160",
+  "size": "0x80"
+ },
+ {
+  "property": "Tracks",
+  "offset": "0x240",
+  "size": "0x16"
+ },
+ {
+  "property": "CameraCutTrack",
+  "offset": "0x256",
+  "size": "0x8"
+ },
+ {
+  "property": "CustomClock",
+  "offset": "0x264",
+  "size": "0x8"
+ },
+ {
+  "property": "SelectionRange",
+  "offset": "0x272",
+  "size": "0x16"
+ },
+ {
+  "property": "PlaybackRange",
+  "offset": "0x288",
+  "size": "0x16"
+ },
+ {
+  "property": "TickResolution",
+  "offset": "0x304",
+  "size": "0x8"
+ },
+ {
+  "property": "DisplayRate",
+  "offset": "0x312",
+  "size": "0x8"
+ },
+ {
+  "property": "EvaluationType",
+  "offset": "0x320",
+  "size": "0x1"
+ },
+ {
+  "property": "ClockSource",
+  "offset": "0x321",
+  "size": "0x1"
+ },
+ {
+  "property": "MarkedFrames",
+  "offset": "0x328",
+  "size": "0x16"
+ },
+ {
+  "property": "GeneratedConditions",
+  "offset": "0x344",
+  "size": "0x16"
+ }
+]

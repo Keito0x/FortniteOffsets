@@ -1,0 +1,12 @@
+[
+ {
+  "property": "NumInstances",
+  "offset": "0x96",
+  "size": "0x4"
+ },
+ {
+  "property": "SpawnedComponents",
+  "offset": "0x104",
+  "size": "0x16"
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "property": "StartingValue",
+  "offset": "0x304",
+  "size": "0x4"
+ },
+ {
+  "property": "MaximumValue",
+  "offset": "0x308",
+  "size": "0x4"
+ },
+ {
+  "property": "UnitsPerMinuteRechargeRate",
+  "offset": "0x312",
+  "size": "0x4"
+ },
+ {
+  "property": "RechargeDelayMinutes",
+  "offset": "0x316",
+  "size": "0x4"
+ }
+]

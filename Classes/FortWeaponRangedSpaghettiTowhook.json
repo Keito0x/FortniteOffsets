@@ -1,0 +1,27 @@
+[
+ {
+  "property": "CachedWeaponMeshCompOnVehicle",
+  "offset": "0x10632",
+  "size": "0x8"
+ },
+ {
+  "property": "WeaponLoc",
+  "offset": "0x10640",
+  "size": "0x24"
+ },
+ {
+  "property": "WeaponRot",
+  "offset": "0x10664",
+  "size": "0x24"
+ },
+ {
+  "property": "MountedWeaponInfo",
+  "offset": "0x10688",
+  "size": "0x192"
+ },
+ {
+  "property": "MountedWeaponInfoRepped",
+  "offset": "0x10880",
+  "size": "0x72"
+ }
+]

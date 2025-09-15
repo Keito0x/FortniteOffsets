@@ -1,0 +1,47 @@
+[
+ {
+  "property": "Region",
+  "offset": "0x48",
+  "size": "0x8"
+ },
+ {
+  "property": "OriginState",
+  "offset": "0x56",
+  "size": "0x8"
+ },
+ {
+  "property": "EndState",
+  "offset": "0x64",
+  "size": "0x8"
+ },
+ {
+  "property": "TransitionTargetState",
+  "offset": "0x72",
+  "size": "0x8"
+ },
+ {
+  "property": "KnownStatesToActivate",
+  "offset": "0x88",
+  "size": "0x16"
+ },
+ {
+  "property": "StatesToDeactivate",
+  "offset": "0x104",
+  "size": "0x16"
+ },
+ {
+  "property": "Group",
+  "offset": "0x120",
+  "size": "0x8"
+ },
+ {
+  "property": "StateRelay",
+  "offset": "0x128",
+  "size": "0x40"
+ },
+ {
+  "property": "BacktrackReturnState",
+  "offset": "0x176",
+  "size": "0x8"
+ }
+]

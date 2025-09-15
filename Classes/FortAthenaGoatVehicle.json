@@ -1,0 +1,192 @@
+[
+ {
+  "property": "LeanPositionFR",
+  "offset": "0x8776",
+  "size": "0x24"
+ },
+ {
+  "property": "LeanPositionTargetFR",
+  "offset": "0x8800",
+  "size": "0x24"
+ },
+ {
+  "property": "LeanImpulseScaleFR",
+  "offset": "0x8848",
+  "size": "0x4"
+ },
+ {
+  "property": "LeanPositionBR",
+  "offset": "0x8856",
+  "size": "0x24"
+ },
+ {
+  "property": "LeanPositionTargetBR",
+  "offset": "0x8880",
+  "size": "0x24"
+ },
+ {
+  "property": "LeanImpulseScaleBR",
+  "offset": "0x8928",
+  "size": "0x4"
+ },
+ {
+  "property": "LeanPositionBL",
+  "offset": "0x8936",
+  "size": "0x24"
+ },
+ {
+  "property": "LeanPositionTargetBL",
+  "offset": "0x8960",
+  "size": "0x24"
+ },
+ {
+  "property": "LeanImpulseScaleBL",
+  "offset": "0x9008",
+  "size": "0x4"
+ },
+ {
+  "property": "BounceOffsetFR",
+  "offset": "0x9016",
+  "size": "0x24"
+ },
+ {
+  "property": "BounceOffsetBR",
+  "offset": "0x9040",
+  "size": "0x24"
+ },
+ {
+  "property": "BounceOffsetBL",
+  "offset": "0x9064",
+  "size": "0x24"
+ },
+ {
+  "property": "BounceCurve",
+  "offset": "0x9088",
+  "size": "0x8"
+ },
+ {
+  "property": "BoostSlideColors",
+  "offset": "0x9096",
+  "size": "0x16"
+ },
+ {
+  "property": "HandBrakeSkidParam",
+  "offset": "0x9112",
+  "size": "0x4"
+ },
+ {
+  "property": "BoostParam",
+  "offset": "0x9116",
+  "size": "0x4"
+ },
+ {
+  "property": "MovementParam",
+  "offset": "0x9120",
+  "size": "0x4"
+ },
+ {
+  "property": "BatteryParam",
+  "offset": "0x9124",
+  "size": "0x4"
+ },
+ {
+  "property": "RumbleIntensity",
+  "offset": "0x9128",
+  "size": "0x4"
+ },
+ {
+  "property": "bBoostCameraActive",
+  "offset": "0x9132",
+  "size": "0x1"
+ },
+ {
+  "property": "bLocalPlayerADS",
+  "offset": "0x9133",
+  "size": "0x1"
+ },
+ {
+  "property": "DriverCameraShake",
+  "offset": "0x9136",
+  "size": "0x8"
+ },
+ {
+  "property": "PassengerCameraShake",
+  "offset": "0x9144",
+  "size": "0x8"
+ },
+ {
+  "property": "LocalPlayerPawn",
+  "offset": "0x9152",
+  "size": "0x8"
+ },
+ {
+  "property": "AccumulatedPowerSlideBoostDiscrete",
+  "offset": "0x9160",
+  "size": "0x4"
+ },
+ {
+  "property": "LeanSocketPositionFR",
+  "offset": "0x9184",
+  "size": "0x24"
+ },
+ {
+  "property": "LeanSocketPositionBR",
+  "offset": "0x9208",
+  "size": "0x24"
+ },
+ {
+  "property": "LeanSocketPositionBL",
+  "offset": "0x9232",
+  "size": "0x24"
+ },
+ {
+  "property": "PowerSlideState",
+  "offset": "0x9256",
+  "size": "0x1"
+ },
+ {
+  "property": "BounceForceFR",
+  "offset": "0x9296",
+  "size": "0x4"
+ },
+ {
+  "property": "BounceForceBR",
+  "offset": "0x9300",
+  "size": "0x4"
+ },
+ {
+  "property": "BounceForceBL",
+  "offset": "0x9304",
+  "size": "0x4"
+ },
+ {
+  "property": "AngularSpeedEnterPowerSlide",
+  "offset": "0x9312",
+  "size": "0x4"
+ },
+ {
+  "property": "PSC_WheelDust",
+  "offset": "0x9328",
+  "size": "0x8"
+ },
+ {
+  "property": "PSC_WheelSlide",
+  "offset": "0x9336",
+  "size": "0x8"
+ },
+ {
+  "property": "PSC_TrailLeft",
+  "offset": "0x9344",
+  "size": "0x8"
+ },
+ {
+  "property": "PSC_TrailRight",
+  "offset": "0x9352",
+  "size": "0x8"
+ },
+ {
+  "property": "FortGoatVehicleConfigs",
+  "offset": "0x9360",
+  "size": "0x8"
+ }
+]

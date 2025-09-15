@@ -1,0 +1,82 @@
+[
+ {
+  "property": "ActionNames",
+  "offset": "0x232",
+  "size": "0x16"
+ },
+ {
+  "property": "DefaultTexture",
+  "offset": "0x248",
+  "size": "0x32"
+ },
+ {
+  "property": "Sprite",
+  "offset": "0x280",
+  "size": "0x8"
+ },
+ {
+  "property": "DeferredSprite",
+  "offset": "0x288",
+  "size": "0x8"
+ },
+ {
+  "property": "HUDLayoutToolSaveTag_Legacy",
+  "offset": "0x296",
+  "size": "0x4"
+ },
+ {
+  "property": "ButtonBehaviorComponents",
+  "offset": "0x320",
+  "size": "0x16"
+ },
+ {
+  "property": "ButtonBehaviorComponentOverrides",
+  "offset": "0x336",
+  "size": "0x16"
+ },
+ {
+  "property": "ForcedZOrder",
+  "offset": "0x352",
+  "size": "0x4"
+ },
+ {
+  "property": "bIsToggleButtonDefaultValue",
+  "offset": "0x368",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsClickthroughMandatory",
+  "offset": "0x369",
+  "size": "0x1"
+ },
+ {
+  "property": "CachedAllButtonComponents",
+  "offset": "0x472",
+  "size": "0x16"
+ },
+ {
+  "property": "CachedTickableComponents",
+  "offset": "0x496",
+  "size": "0x16"
+ },
+ {
+  "property": "CachedVisibilityProxy",
+  "offset": "0x520",
+  "size": "0x8"
+ },
+ {
+  "property": "CachedSpriteProxy",
+  "offset": "0x536",
+  "size": "0x8"
+ },
+ {
+  "property": "BangVisibilityRequesters",
+  "offset": "0x576",
+  "size": "0x80"
+ },
+ {
+  "property": "GlowVisibilityRequesters",
+  "offset": "0x656",
+  "size": "0x80"
+ }
+]

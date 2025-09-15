@@ -1,0 +1,17 @@
+[
+ {
+  "property": "TalkingRampUpSeconds",
+  "offset": "0x664",
+  "size": "0x4"
+ },
+ {
+  "property": "TalkingRampDownSeconds",
+  "offset": "0x668",
+  "size": "0x4"
+ },
+ {
+  "property": "TalkingUpdatesPerSecond",
+  "offset": "0x672",
+  "size": "0x4"
+ }
+]

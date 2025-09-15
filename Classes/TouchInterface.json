@@ -1,0 +1,42 @@
+[
+ {
+  "property": "Controls",
+  "offset": "0x40",
+  "size": "0x16"
+ },
+ {
+  "property": "ActiveOpacity",
+  "offset": "0x56",
+  "size": "0x4"
+ },
+ {
+  "property": "InactiveOpacity",
+  "offset": "0x60",
+  "size": "0x4"
+ },
+ {
+  "property": "TimeUntilDeactive",
+  "offset": "0x64",
+  "size": "0x4"
+ },
+ {
+  "property": "TimeUntilReset",
+  "offset": "0x68",
+  "size": "0x4"
+ },
+ {
+  "property": "ActivationDelay",
+  "offset": "0x72",
+  "size": "0x4"
+ },
+ {
+  "property": "bPreventRecenter",
+  "offset": "0x76",
+  "size": "0x1"
+ },
+ {
+  "property": "StartupDelay",
+  "offset": "0x80",
+  "size": "0x4"
+ }
+]

@@ -1,0 +1,47 @@
+[
+ {
+  "property": "Parameters",
+  "offset": "0x272",
+  "size": "0x48"
+ },
+ {
+  "property": "StartOffset",
+  "offset": "0x320",
+  "size": "0x4"
+ },
+ {
+  "property": "timescale",
+  "offset": "0x324",
+  "size": "0x4"
+ },
+ {
+  "property": "PrerollTime",
+  "offset": "0x328",
+  "size": "0x4"
+ },
+ {
+  "property": "NetworkMask",
+  "offset": "0x332",
+  "size": "0x1"
+ },
+ {
+  "property": "OriginOverrideMask",
+  "offset": "0x336",
+  "size": "0x4"
+ },
+ {
+  "property": "Translation",
+  "offset": "0x344",
+  "size": "0x840"
+ },
+ {
+  "property": "Rotation",
+  "offset": "0x1184",
+  "size": "0x840"
+ },
+ {
+  "property": "SubSequence",
+  "offset": "0x2024",
+  "size": "0x8"
+ }
+]

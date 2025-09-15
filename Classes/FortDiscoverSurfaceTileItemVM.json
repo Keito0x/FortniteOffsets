@@ -1,0 +1,12 @@
+[
+ {
+  "property": "bIsPendingFavorite",
+  "offset": "0x568",
+  "size": "0x1"
+ },
+ {
+  "property": "BannerImageSize",
+  "offset": "0x696",
+  "size": "0x1"
+ }
+]

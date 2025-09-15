@@ -1,0 +1,117 @@
+[
+ {
+  "property": "CurrentFilterName",
+  "offset": "0x896",
+  "size": "0x4"
+ },
+ {
+  "property": "CurrentSortType",
+  "offset": "0x900",
+  "size": "0x1"
+ },
+ {
+  "property": "FilterTabButtonType",
+  "offset": "0x904",
+  "size": "0x8"
+ },
+ {
+  "property": "FilterTabButtonStyle",
+  "offset": "0x912",
+  "size": "0x8"
+ },
+ {
+  "property": "FilterTabLabelInfoArray",
+  "offset": "0x920",
+  "size": "0x16"
+ },
+ {
+  "property": "FilterTabList",
+  "offset": "0x936",
+  "size": "0x8"
+ },
+ {
+  "property": "TileViewLoadGuard",
+  "offset": "0x944",
+  "size": "0x8"
+ },
+ {
+  "property": "TileView",
+  "offset": "0x952",
+  "size": "0x8"
+ },
+ {
+  "property": "CraftingPanel",
+  "offset": "0x960",
+  "size": "0x8"
+ },
+ {
+  "property": "CraftingTileViewLoadGuard",
+  "offset": "0x968",
+  "size": "0x8"
+ },
+ {
+  "property": "CraftingTileView",
+  "offset": "0x976",
+  "size": "0x8"
+ },
+ {
+  "property": "StoragePanel",
+  "offset": "0x984",
+  "size": "0x8"
+ },
+ {
+  "property": "StorageTileViewLoadGuard",
+  "offset": "0x992",
+  "size": "0x8"
+ },
+ {
+  "property": "StorageTileView",
+  "offset": "0x1000",
+  "size": "0x8"
+ },
+ {
+  "property": "MulchRestrictionReasonText",
+  "offset": "0x1008",
+  "size": "0x8"
+ },
+ {
+  "property": "SmallTileSize",
+  "offset": "0x1016",
+  "size": "0x1"
+ },
+ {
+  "property": "LargeTileSize",
+  "offset": "0x1017",
+  "size": "0x1"
+ },
+ {
+  "property": "HostItemManagementScreen",
+  "offset": "0x1020",
+  "size": "0x8"
+ },
+ {
+  "property": "bCanDragItems",
+  "offset": "0x1028",
+  "size": "0x1"
+ },
+ {
+  "property": "DefaultQuickbarEquipSlotIndicesConfigs",
+  "offset": "0x1032",
+  "size": "0x16"
+ },
+ {
+  "property": "QuickbarEquipSlotIndices",
+  "offset": "0x1048",
+  "size": "0x80"
+ },
+ {
+  "property": "InventoryContext",
+  "offset": "0x1272",
+  "size": "0x8"
+ },
+ {
+  "property": "WidgetToCenter",
+  "offset": "0x1280",
+  "size": "0x8"
+ }
+]

@@ -1,0 +1,17 @@
+[
+ {
+  "property": "HUDPresetExtensionContainerTag",
+  "offset": "0x48",
+  "size": "0x4"
+ },
+ {
+  "property": "HUDPresetContainerToExtendTag",
+  "offset": "0x52",
+  "size": "0x4"
+ },
+ {
+  "property": "HUDPresetExtensions",
+  "offset": "0x56",
+  "size": "0x16"
+ }
+]

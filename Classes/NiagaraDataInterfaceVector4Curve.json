@@ -1,0 +1,22 @@
+[
+ {
+  "property": "XCurve",
+  "offset": "0x112",
+  "size": "0x128"
+ },
+ {
+  "property": "YCurve",
+  "offset": "0x240",
+  "size": "0x128"
+ },
+ {
+  "property": "ZCurve",
+  "offset": "0x368",
+  "size": "0x128"
+ },
+ {
+  "property": "WCurve",
+  "offset": "0x496",
+  "size": "0x128"
+ }
+]

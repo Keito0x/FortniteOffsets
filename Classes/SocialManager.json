@@ -1,0 +1,12 @@
+[
+ {
+  "property": "SocialToolkits",
+  "offset": "0x152",
+  "size": "0x16"
+ },
+ {
+  "property": "SocialDebugTools",
+  "offset": "0x168",
+  "size": "0x8"
+ }
+]

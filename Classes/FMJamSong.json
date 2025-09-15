@@ -1,0 +1,27 @@
+[
+ {
+  "property": "Tempo",
+  "offset": "0x192",
+  "size": "0x4"
+ },
+ {
+  "property": "Lead",
+  "offset": "0x200",
+  "size": "0x8"
+ },
+ {
+  "property": "Misc",
+  "offset": "0x208",
+  "size": "0x8"
+ },
+ {
+  "property": "Bass",
+  "offset": "0x216",
+  "size": "0x8"
+ },
+ {
+  "property": "Beat",
+  "offset": "0x224",
+  "size": "0x8"
+ }
+]

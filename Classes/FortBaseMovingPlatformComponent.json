@@ -1,0 +1,27 @@
+[
+ {
+  "property": "OnPawnBasedOnMovingPlatform",
+  "offset": "0x192",
+  "size": "0x16"
+ },
+ {
+  "property": "OnPawnDebasedMovingPlatform",
+  "offset": "0x208",
+  "size": "0x16"
+ },
+ {
+  "property": "AttachActorIgnoreBaseRotation",
+  "offset": "0x224",
+  "size": "0x40"
+ },
+ {
+  "property": "StandingOnTag",
+  "offset": "0x264",
+  "size": "0x4"
+ },
+ {
+  "property": "bContinueFollowingMovementDuringJump",
+  "offset": "0x268",
+  "size": "0x1"
+ }
+]

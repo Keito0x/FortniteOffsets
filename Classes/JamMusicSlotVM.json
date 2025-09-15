@@ -1,0 +1,47 @@
+[
+ {
+  "property": "OwningPlayerID",
+  "offset": "0x104",
+  "size": "0x48"
+ },
+ {
+  "property": "Title",
+  "offset": "0x152",
+  "size": "0x16"
+ },
+ {
+  "property": "SongShortName",
+  "offset": "0x168",
+  "size": "0x4"
+ },
+ {
+  "property": "Artist",
+  "offset": "0x176",
+  "size": "0x16"
+ },
+ {
+  "property": "UserMode",
+  "offset": "0x192",
+  "size": "0x1"
+ },
+ {
+  "property": "PlayState",
+  "offset": "0x193",
+  "size": "0x1"
+ },
+ {
+  "property": "ResolveState",
+  "offset": "0x194",
+  "size": "0x1"
+ },
+ {
+  "property": "LoopType",
+  "offset": "0x195",
+  "size": "0x1"
+ },
+ {
+  "property": "FocusState",
+  "offset": "0x196",
+  "size": "0x1"
+ }
+]

@@ -1,0 +1,27 @@
+[
+ {
+  "property": "bDeimos",
+  "offset": "0x22816",
+  "size": "0x1"
+ },
+ {
+  "property": "bConsiderPawnAsWalkable",
+  "offset": "0x22816",
+  "size": "0x1"
+ },
+ {
+  "property": "CustomRVOAvoidanceOriginOffset",
+  "offset": "0x22824",
+  "size": "0x24"
+ },
+ {
+  "property": "CustomRVOAvoidanceRadius",
+  "offset": "0x22848",
+  "size": "0x4"
+ },
+ {
+  "property": "bForceUseOfOwnerRenderingTime",
+  "offset": "0x22852",
+  "size": "0x1"
+ }
+]

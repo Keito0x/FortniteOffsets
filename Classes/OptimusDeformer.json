@@ -1,0 +1,52 @@
+[
+ {
+  "property": "Mesh",
+  "offset": "0x80",
+  "size": "0x8"
+ },
+ {
+  "property": "ComputeGraphs",
+  "offset": "0x88",
+  "size": "0x16"
+ },
+ {
+  "property": "DataInterfacePropertyOverrideMap",
+  "offset": "0x104",
+  "size": "0x80"
+ },
+ {
+  "property": "ValueMap",
+  "offset": "0x184",
+  "size": "0x80"
+ },
+ {
+  "property": "ActionStack",
+  "offset": "0x264",
+  "size": "0x8"
+ },
+ {
+  "property": "Status",
+  "offset": "0x272",
+  "size": "0x4"
+ },
+ {
+  "property": "Graphs",
+  "offset": "0x280",
+  "size": "0x16"
+ },
+ {
+  "property": "Bindings",
+  "offset": "0x296",
+  "size": "0x8"
+ },
+ {
+  "property": "Variables",
+  "offset": "0x304",
+  "size": "0x8"
+ },
+ {
+  "property": "Resources",
+  "offset": "0x312",
+  "size": "0x8"
+ }
+]

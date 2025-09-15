@@ -1,0 +1,22 @@
+[
+ {
+  "property": "BaseLifetime",
+  "offset": "0x680",
+  "size": "0x4"
+ },
+ {
+  "property": "RemainingLifeTime",
+  "offset": "0x684",
+  "size": "0x4"
+ },
+ {
+  "property": "bApplyCosmeticVariants",
+  "offset": "0x688",
+  "size": "0x1"
+ },
+ {
+  "property": "VariantItemDefinition",
+  "offset": "0x696",
+  "size": "0x32"
+ }
+]

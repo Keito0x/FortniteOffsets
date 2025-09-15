@@ -1,0 +1,17 @@
+[
+ {
+  "property": "CurrentMIDs",
+  "offset": "0x680",
+  "size": "0x16"
+ },
+ {
+  "property": "IdleAnimation",
+  "offset": "0x696",
+  "size": "0x8"
+ },
+ {
+  "property": "SkelMeshComponent",
+  "offset": "0x704",
+  "size": "0x8"
+ }
+]

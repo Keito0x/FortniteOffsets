@@ -1,0 +1,47 @@
+[
+ {
+  "property": "bIsModelInitialized",
+  "offset": "0x112",
+  "size": "0x1"
+ },
+ {
+  "property": "CurrentGameMode",
+  "offset": "0x116",
+  "size": "0x4"
+ },
+ {
+  "property": "CurrentSeason",
+  "offset": "0x120",
+  "size": "0x4"
+ },
+ {
+  "property": "LobbyGameMode",
+  "offset": "0x124",
+  "size": "0x4"
+ },
+ {
+  "property": "GameModeNames",
+  "offset": "0x128",
+  "size": "0x16"
+ },
+ {
+  "property": "CurrentGameModeRankedAsset",
+  "offset": "0x144",
+  "size": "0x8"
+ },
+ {
+  "property": "CareerV3UIManager",
+  "offset": "0x168",
+  "size": "0x8"
+ },
+ {
+  "property": "CompeteUIManager",
+  "offset": "0x176",
+  "size": "0x8"
+ },
+ {
+  "property": "ViewStates",
+  "offset": "0x184",
+  "size": "0x80"
+ }
+]

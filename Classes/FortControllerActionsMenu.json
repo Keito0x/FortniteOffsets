@@ -1,0 +1,12 @@
+[
+ {
+  "property": "MenuEntryClass",
+  "offset": "0x1456",
+  "size": "0x8"
+ },
+ {
+  "property": "EntryBox_BindableActions",
+  "offset": "0x1464",
+  "size": "0x8"
+ }
+]

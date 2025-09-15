@@ -1,0 +1,107 @@
+[
+ {
+  "property": "bIsMoving",
+  "offset": "0x1560",
+  "size": "0x1"
+ },
+ {
+  "property": "WalkPlayrate",
+  "offset": "0x1564",
+  "size": "0x4"
+ },
+ {
+  "property": "AimOffsetCurve",
+  "offset": "0x1568",
+  "size": "0x4"
+ },
+ {
+  "property": "bFootPhase_StopLeftPlant",
+  "offset": "0x1572",
+  "size": "0x1"
+ },
+ {
+  "property": "bFootPhase_StopLeftPass",
+  "offset": "0x1573",
+  "size": "0x1"
+ },
+ {
+  "property": "bFootPhase_StopRightPlant",
+  "offset": "0x1574",
+  "size": "0x1"
+ },
+ {
+  "property": "bFootPhase_StopRightPass",
+  "offset": "0x1575",
+  "size": "0x1"
+ },
+ {
+  "property": "BreathingCurve",
+  "offset": "0x1576",
+  "size": "0x4"
+ },
+ {
+  "property": "MovingTreshold",
+  "offset": "0x1580",
+  "size": "0x4"
+ },
+ {
+  "property": "CurveName_AimOffsetCurve",
+  "offset": "0x1584",
+  "size": "0x4"
+ },
+ {
+  "property": "CurveName_FootPhase",
+  "offset": "0x1588",
+  "size": "0x4"
+ },
+ {
+  "property": "CurveName_BreathingCurve",
+  "offset": "0x1592",
+  "size": "0x4"
+ },
+ {
+  "property": "SocketName_FX_Chest",
+  "offset": "0x1596",
+  "size": "0x4"
+ },
+ {
+  "property": "ParamName_ChestSocketLocation",
+  "offset": "0x1600",
+  "size": "0x4"
+ },
+ {
+  "property": "ParamName_ChestSocketVector",
+  "offset": "0x1604",
+  "size": "0x4"
+ },
+ {
+  "property": "FirstFootPhaseMin",
+  "offset": "0x1608",
+  "size": "0x4"
+ },
+ {
+  "property": "SecondFootPhaseMin",
+  "offset": "0x1612",
+  "size": "0x4"
+ },
+ {
+  "property": "ThirdFootPhaseMin",
+  "offset": "0x1616",
+  "size": "0x4"
+ },
+ {
+  "property": "FourthFootPhaseMin",
+  "offset": "0x1620",
+  "size": "0x4"
+ },
+ {
+  "property": "FootPhaseMax",
+  "offset": "0x1624",
+  "size": "0x4"
+ },
+ {
+  "property": "WorldStriderComponent",
+  "offset": "0x1632",
+  "size": "0x8"
+ }
+]

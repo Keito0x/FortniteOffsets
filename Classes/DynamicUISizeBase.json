@@ -1,0 +1,17 @@
+[
+ {
+  "property": "SizeOverride",
+  "offset": "0x80",
+  "size": "0x8"
+ },
+ {
+  "property": "bUseOverride",
+  "offset": "0x88",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseRenderTransform",
+  "offset": "0x88",
+  "size": "0x1"
+ }
+]

@@ -1,0 +1,62 @@
+[
+ {
+  "property": "Sections",
+  "offset": "0x144",
+  "size": "0x16"
+ },
+ {
+  "property": "SectionsWithOffers",
+  "offset": "0x160",
+  "size": "0x16"
+ },
+ {
+  "property": "AllOfferGroupsWithOffersFromCatalog",
+  "offset": "0x176",
+  "size": "0x16"
+ },
+ {
+  "property": "AllOfferGroupsWithOffers",
+  "offset": "0x192",
+  "size": "0x16"
+ },
+ {
+  "property": "FeaturedOfferId",
+  "offset": "0x208",
+  "size": "0x16"
+ },
+ {
+  "property": "FeaturedLayout",
+  "offset": "0x224",
+  "size": "0x32"
+ },
+ {
+  "property": "PreviewedItem",
+  "offset": "0x256",
+  "size": "0x8"
+ },
+ {
+  "property": "AffiliateName",
+  "offset": "0x264",
+  "size": "0x16"
+ },
+ {
+  "property": "ExpectedShopRefreshTimeText",
+  "offset": "0x280",
+  "size": "0x16"
+ },
+ {
+  "property": "LoadingState",
+  "offset": "0x296",
+  "size": "0x1"
+ },
+ {
+  "property": "EmptyShopDevReason",
+  "offset": "0x304",
+  "size": "0x16"
+ },
+ {
+  "property": "FilterVM",
+  "offset": "0x320",
+  "size": "0x8"
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "property": "bFadeWhenOwnerDestroyed",
+  "offset": "0x3112",
+  "size": "0x1"
+ },
+ {
+  "property": "FadeTimeWhenOwnerDestroyed",
+  "offset": "0x3116",
+  "size": "0x4"
+ },
+ {
+  "property": "FloatParameters",
+  "offset": "0x3120",
+  "size": "0x16"
+ },
+ {
+  "property": "OnOneshotEvent",
+  "offset": "0x3136",
+  "size": "0x16"
+ }
+]

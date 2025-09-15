@@ -1,0 +1,7 @@
+[
+ {
+  "property": "FilterId",
+  "offset": "0x280",
+  "size": "0x4"
+ }
+]

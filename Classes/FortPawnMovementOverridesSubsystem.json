@@ -1,0 +1,27 @@
+[
+ {
+  "property": "MovementOverrideDataSet",
+  "offset": "0x144",
+  "size": "0x32"
+ },
+ {
+  "property": "DefaultMovementSetTag",
+  "offset": "0x176",
+  "size": "0x4"
+ },
+ {
+  "property": "CachedMovementOverrideDataSet",
+  "offset": "0x184",
+  "size": "0x8"
+ },
+ {
+  "property": "MovementOverrideRuntimePresets",
+  "offset": "0x192",
+  "size": "0x80"
+ },
+ {
+  "property": "PawnStatsOverridesTable",
+  "offset": "0x272",
+  "size": "0x8"
+ }
+]

@@ -1,0 +1,47 @@
+[
+ {
+  "property": "DialogTitle",
+  "offset": "0x120",
+  "size": "0x16"
+ },
+ {
+  "property": "DialogTitleImage",
+  "offset": "0x136",
+  "size": "0x8"
+ },
+ {
+  "property": "DialogInfoText",
+  "offset": "0x144",
+  "size": "0x16"
+ },
+ {
+  "property": "DialogFooterText",
+  "offset": "0x160",
+  "size": "0x16"
+ },
+ {
+  "property": "DialogImage",
+  "offset": "0x176",
+  "size": "0x8"
+ },
+ {
+  "property": "Buttons",
+  "offset": "0x184",
+  "size": "0x16"
+ },
+ {
+  "property": "DisplayTime",
+  "offset": "0x200",
+  "size": "0x4"
+ },
+ {
+  "property": "ShowSound",
+  "offset": "0x208",
+  "size": "0x8"
+ },
+ {
+  "property": "bDeactivationRequested",
+  "offset": "0x216",
+  "size": "0x1"
+ }
+]

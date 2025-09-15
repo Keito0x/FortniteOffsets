@@ -1,0 +1,42 @@
+[
+ {
+  "property": "PreviousButtonSound",
+  "offset": "0x776",
+  "size": "0x24"
+ },
+ {
+  "property": "NextButtonSound",
+  "offset": "0x800",
+  "size": "0x24"
+ },
+ {
+  "property": "Carousel",
+  "offset": "0x824",
+  "size": "0x8"
+ },
+ {
+  "property": "NextPageButton",
+  "offset": "0x832",
+  "size": "0x8"
+ },
+ {
+  "property": "PreviousPageButton",
+  "offset": "0x840",
+  "size": "0x8"
+ },
+ {
+  "property": "bShouldShowNavigationOnlyOnHover",
+  "offset": "0x848",
+  "size": "0x1"
+ },
+ {
+  "property": "bInputActionsForPaging",
+  "offset": "0x849",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsShowingNavigation",
+  "offset": "0x850",
+  "size": "0x1"
+ }
+]

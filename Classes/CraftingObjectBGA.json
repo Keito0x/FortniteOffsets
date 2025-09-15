@@ -1,0 +1,42 @@
+[
+ {
+  "property": "Inventory",
+  "offset": "0x2504",
+  "size": "0x8"
+ },
+ {
+  "property": "SphereComponent_InteractionRange",
+  "offset": "0x2536",
+  "size": "0x8"
+ },
+ {
+  "property": "MenuWidget",
+  "offset": "0x2544",
+  "size": "0x32"
+ },
+ {
+  "property": "WidgetComponent_PotContents",
+  "offset": "0x2576",
+  "size": "0x8"
+ },
+ {
+  "property": "bShowCraftingUI",
+  "offset": "0x2584",
+  "size": "0x1"
+ },
+ {
+  "property": "bSendEventMessageOnLocalInteract",
+  "offset": "0x2585",
+  "size": "0x1"
+ },
+ {
+  "property": "bRunServerInteractionWhenSendingEventMessage",
+  "offset": "0x2586",
+  "size": "0x1"
+ },
+ {
+  "property": "CraftingObjectMesh",
+  "offset": "0x2592",
+  "size": "0x8"
+ }
+]

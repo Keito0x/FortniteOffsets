@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Sound",
+  "offset": "0x40",
+  "size": "0x8"
+ },
+ {
+  "property": "DurationInSeconds",
+  "offset": "0x48",
+  "size": "0x4"
+ }
+]

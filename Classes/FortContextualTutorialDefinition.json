@@ -1,0 +1,167 @@
+[
+ {
+  "property": "ContextualTutorialClass",
+  "offset": "0x48",
+  "size": "0x8"
+ },
+ {
+  "property": "TutorialType",
+  "offset": "0x56",
+  "size": "0x4"
+ },
+ {
+  "property": "MainMediaSource",
+  "offset": "0x64",
+  "size": "0x8"
+ },
+ {
+  "property": "SuccessMediaSource",
+  "offset": "0x72",
+  "size": "0x8"
+ },
+ {
+  "property": "Priority",
+  "offset": "0x80",
+  "size": "0x4"
+ },
+ {
+  "property": "AmountOfRecallMatches",
+  "offset": "0x84",
+  "size": "0x4"
+ },
+ {
+  "property": "DirectiveMessages",
+  "offset": "0x88",
+  "size": "0x16"
+ },
+ {
+  "property": "InformativeMessage",
+  "offset": "0x104",
+  "size": "0x16"
+ },
+ {
+  "property": "TriggerActivationDelay",
+  "offset": "0x120",
+  "size": "0x4"
+ },
+ {
+  "property": "MessageDisplayTime",
+  "offset": "0x124",
+  "size": "0x4"
+ },
+ {
+  "property": "SuccesMessageDisplayTime",
+  "offset": "0x128",
+  "size": "0x4"
+ },
+ {
+  "property": "ReminderDelay",
+  "offset": "0x132",
+  "size": "0x4"
+ },
+ {
+  "property": "ReminderAmount",
+  "offset": "0x136",
+  "size": "0x4"
+ },
+ {
+  "property": "InformativeMessageDelay",
+  "offset": "0x140",
+  "size": "0x4"
+ },
+ {
+  "property": "LockedDelay",
+  "offset": "0x144",
+  "size": "0x4"
+ },
+ {
+  "property": "QueuedActivateDelay",
+  "offset": "0x148",
+  "size": "0x4"
+ },
+ {
+  "property": "bQueueActivation",
+  "offset": "0x152",
+  "size": "0x1"
+ },
+ {
+  "property": "AccountLevelLimit",
+  "offset": "0x156",
+  "size": "0x4"
+ },
+ {
+  "property": "bCanBeShownInCombat",
+  "offset": "0x160",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsCompletionSilent",
+  "offset": "0x161",
+  "size": "0x1"
+ },
+ {
+  "property": "bAlwaysSendSuccess",
+  "offset": "0x162",
+  "size": "0x1"
+ },
+ {
+  "property": "bCanSetMessagingSystemOnCooldown",
+  "offset": "0x163",
+  "size": "0x1"
+ },
+ {
+  "property": "bCanBeShownWhileDBNO",
+  "offset": "0x164",
+  "size": "0x1"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x165",
+  "size": "0x1"
+ },
+ {
+  "property": "ContextualTutorialDependency",
+  "offset": "0x168",
+  "size": "0x4"
+ },
+ {
+  "property": "AdditionalTutorialsToComplete",
+  "offset": "0x176",
+  "size": "0x32"
+ },
+ {
+  "property": "HudElementsToHighlight",
+  "offset": "0x208",
+  "size": "0x16"
+ },
+ {
+  "property": "bRequireSquad",
+  "offset": "0x224",
+  "size": "0x1"
+ },
+ {
+  "property": "bRequireSolo",
+  "offset": "0x225",
+  "size": "0x1"
+ },
+ {
+  "property": "bActivateInBR",
+  "offset": "0x226",
+  "size": "0x1"
+ },
+ {
+  "property": "bActivateInCreative",
+  "offset": "0x227",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsEnabled",
+  "offset": "0x228",
+  "size": "0x1"
+ },
+ {
+  "property": "ExcludedGamePhases",
+  "offset": "0x232",
+  "size": "0x16"
+ }
+]

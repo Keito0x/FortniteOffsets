@@ -1,0 +1,52 @@
+[
+ {
+  "property": "WidgetStyle",
+  "offset": "0x368",
+  "size": "0x912"
+ },
+ {
+  "property": "TextStyle",
+  "offset": "0x1280",
+  "size": "0x736"
+ },
+ {
+  "property": "SelectedKey",
+  "offset": "0x2016",
+  "size": "0x32"
+ },
+ {
+  "property": "Margin",
+  "offset": "0x2048",
+  "size": "0x16"
+ },
+ {
+  "property": "KeySelectionText",
+  "offset": "0x2064",
+  "size": "0x16"
+ },
+ {
+  "property": "NoKeySpecifiedText",
+  "offset": "0x2080",
+  "size": "0x16"
+ },
+ {
+  "property": "bAllowModifierKeys",
+  "offset": "0x2096",
+  "size": "0x1"
+ },
+ {
+  "property": "bAllowGamepadKeys",
+  "offset": "0x2097",
+  "size": "0x1"
+ },
+ {
+  "property": "EscapeKeys",
+  "offset": "0x2104",
+  "size": "0x16"
+ },
+ {
+  "property": "",
+  "offset": "0x98741524",
+  "size": "0x0"
+ }
+]

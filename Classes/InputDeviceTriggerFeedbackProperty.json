@@ -1,0 +1,12 @@
+[
+ {
+  "property": "TriggerData",
+  "offset": "0x64",
+  "size": "0x16"
+ },
+ {
+  "property": "DeviceOverrideData",
+  "offset": "0x80",
+  "size": "0x80"
+ }
+]

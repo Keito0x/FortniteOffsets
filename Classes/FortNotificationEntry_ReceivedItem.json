@@ -1,0 +1,27 @@
+[
+ {
+  "property": "Text_RewardType",
+  "offset": "0x888",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_Header",
+  "offset": "0x896",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_Description",
+  "offset": "0x904",
+  "size": "0x8"
+ },
+ {
+  "property": "Reward_Preview",
+  "offset": "0x912",
+  "size": "0x8"
+ },
+ {
+  "property": "Reward_Preview_Shadow",
+  "offset": "0x920",
+  "size": "0x8"
+ }
+]

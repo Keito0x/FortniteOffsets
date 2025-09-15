@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Brush",
+  "offset": "0x1304",
+  "size": "0x8"
+ },
+ {
+  "property": "BrushBodySetup",
+  "offset": "0x1312",
+  "size": "0x8"
+ }
+]

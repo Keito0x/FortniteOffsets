@@ -1,0 +1,22 @@
+[
+ {
+  "property": "Children",
+  "offset": "0x40",
+  "size": "0x16"
+ },
+ {
+  "property": "StyleSelectorItem",
+  "offset": "0x56",
+  "size": "0x16"
+ },
+ {
+  "property": "Parent",
+  "offset": "0x72",
+  "size": "0x8"
+ },
+ {
+  "property": "Style",
+  "offset": "0x80",
+  "size": "0x264"
+ }
+]

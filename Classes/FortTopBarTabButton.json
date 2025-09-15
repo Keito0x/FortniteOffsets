@@ -1,0 +1,12 @@
+[
+ {
+  "property": "bUseAlternateLabelStyle",
+  "offset": "0x5625",
+  "size": "0x1"
+ },
+ {
+  "property": "bAlwaysShowTextLabel",
+  "offset": "0x5626",
+  "size": "0x1"
+ }
+]

@@ -1,0 +1,17 @@
+[
+ {
+  "property": "ActionDisplays",
+  "offset": "0x2920",
+  "size": "0x16"
+ },
+ {
+  "property": "KeybindInputComponent",
+  "offset": "0x2936",
+  "size": "0x8"
+ },
+ {
+  "property": "bIsDisplayActive",
+  "offset": "0x2944",
+  "size": "0x1"
+ }
+]

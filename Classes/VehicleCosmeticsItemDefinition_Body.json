@@ -1,0 +1,122 @@
+[
+ {
+  "property": "BodyGroup",
+  "offset": "0x536",
+  "size": "0x8"
+ },
+ {
+  "property": "SkinDataTableParameterName",
+  "offset": "0x544",
+  "size": "0x4"
+ },
+ {
+  "property": "BodyColorParameterName",
+  "offset": "0x548",
+  "size": "0x4"
+ },
+ {
+  "property": "SkinColorParameterName",
+  "offset": "0x552",
+  "size": "0x4"
+ },
+ {
+  "property": "GlowColorParameterName",
+  "offset": "0x556",
+  "size": "0x4"
+ },
+ {
+  "property": "PaintedDataTableParameterName",
+  "offset": "0x560",
+  "size": "0x4"
+ },
+ {
+  "property": "AdditionalVariantInfos",
+  "offset": "0x568",
+  "size": "0x80"
+ },
+ {
+  "property": "PhysicsQueryInfos",
+  "offset": "0x648",
+  "size": "0x16"
+ },
+ {
+  "property": "AnimInfos",
+  "offset": "0x664",
+  "size": "0x16"
+ },
+ {
+  "property": "WheelAttachSkeletonReference",
+  "offset": "0x680",
+  "size": "0x32"
+ },
+ {
+  "property": "WheelAttachInfos",
+  "offset": "0x712",
+  "size": "0x16"
+ },
+ {
+  "property": "BoosterAttachSkeletonReference",
+  "offset": "0x728",
+  "size": "0x32"
+ },
+ {
+  "property": "BoosterAttachInfos",
+  "offset": "0x760",
+  "size": "0x16"
+ },
+ {
+  "property": "ThrusterAttachInfo",
+  "offset": "0x784",
+  "size": "0x192"
+ },
+ {
+  "property": "HeadlightEffectInfo",
+  "offset": "0x976",
+  "size": "0x24"
+ },
+ {
+  "property": "DefaultWheelItemDef",
+  "offset": "0x1000",
+  "size": "0x32"
+ },
+ {
+  "property": "DefaultSkinRowName",
+  "offset": "0x1032",
+  "size": "0x4"
+ },
+ {
+  "property": "AudioData",
+  "offset": "0x1040",
+  "size": "0x32"
+ },
+ {
+  "property": "BodyTypeTagQuery",
+  "offset": "0x1072",
+  "size": "0x72"
+ },
+ {
+  "property": "TagsToAdd",
+  "offset": "0x1144",
+  "size": "0x32"
+ },
+ {
+  "property": "TagsToRemove",
+  "offset": "0x1176",
+  "size": "0x32"
+ },
+ {
+  "property": "WindowQueryInfos",
+  "offset": "0x1208",
+  "size": "0x16"
+ },
+ {
+  "property": "BodyAttachmentQueryInfos",
+  "offset": "0x1224",
+  "size": "0x16"
+ },
+ {
+  "property": "ReactiveQueryInfos",
+  "offset": "0x1240",
+  "size": "0x16"
+ }
+]

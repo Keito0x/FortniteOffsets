@@ -1,0 +1,37 @@
+[
+ {
+  "property": "VehicleCosmeticsItemDef",
+  "offset": "0x1120",
+  "size": "0x32"
+ },
+ {
+  "property": "VehicleCosmeticsItemDefForTiers",
+  "offset": "0x1152",
+  "size": "0x16"
+ },
+ {
+  "property": "ItemTypeTag",
+  "offset": "0x1168",
+  "size": "0x4"
+ },
+ {
+  "property": "PreviewConfig",
+  "offset": "0x1176",
+  "size": "0x32"
+ },
+ {
+  "property": "RestrictionDefinitions",
+  "offset": "0x1208",
+  "size": "0x16"
+ },
+ {
+  "property": "ItemPreviewVehicleBody",
+  "offset": "0x1224",
+  "size": "0x32"
+ },
+ {
+  "property": "ItemPreviewBodyVariantOverrides",
+  "offset": "0x1256",
+  "size": "0x16"
+ }
+]

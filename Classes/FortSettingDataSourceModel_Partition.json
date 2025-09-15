@@ -1,0 +1,12 @@
+[
+ {
+  "property": "SettingRecordPartitionClass",
+  "offset": "0x48",
+  "size": "0x8"
+ },
+ {
+  "property": "PartitionSettingFunction",
+  "offset": "0x56",
+  "size": "0x16"
+ }
+]

@@ -1,0 +1,532 @@
+[
+ {
+  "property": "OnCursorModeChanging",
+  "offset": "0x56",
+  "size": "0x16"
+ },
+ {
+  "property": "OnCursorModeChanged",
+  "offset": "0x72",
+  "size": "0x16"
+ },
+ {
+  "property": "OnRequestPromptDisplay",
+  "offset": "0x88",
+  "size": "0x16"
+ },
+ {
+  "property": "OnGameViewportActivationChanged",
+  "offset": "0x104",
+  "size": "0x16"
+ },
+ {
+  "property": "OnMgmtMenuTabChangeRequested",
+  "offset": "0x120",
+  "size": "0x16"
+ },
+ {
+  "property": "OnGetHUDElementWidgetsForTags",
+  "offset": "0x136",
+  "size": "0x16"
+ },
+ {
+  "property": "OnIndicatorModeChanged",
+  "offset": "0x152",
+  "size": "0x16"
+ },
+ {
+  "property": "OnContextualReticleChanged",
+  "offset": "0x168",
+  "size": "0x16"
+ },
+ {
+  "property": "OnVehicleFocused",
+  "offset": "0x184",
+  "size": "0x16"
+ },
+ {
+  "property": "OnPawnFocused",
+  "offset": "0x200",
+  "size": "0x16"
+ },
+ {
+  "property": "OnBuildingFocused",
+  "offset": "0x216",
+  "size": "0x16"
+ },
+ {
+  "property": "OnActorFocusedForCreative",
+  "offset": "0x232",
+  "size": "0x16"
+ },
+ {
+  "property": "OnFocusedBuildingStateChanged",
+  "offset": "0x248",
+  "size": "0x16"
+ },
+ {
+  "property": "OnOpenInspect",
+  "offset": "0x264",
+  "size": "0x16"
+ },
+ {
+  "property": "OnFocusedBuildingHealthChanged",
+  "offset": "0x280",
+  "size": "0x16"
+ },
+ {
+  "property": "OnFocusedBuildingBigHealthChanged",
+  "offset": "0x296",
+  "size": "0x16"
+ },
+ {
+  "property": "OnFocusedBuildingRepairCostChanged",
+  "offset": "0x312",
+  "size": "0x16"
+ },
+ {
+  "property": "OnFocusedBuildingAttachedTrapDurabilityChanged",
+  "offset": "0x328",
+  "size": "0x16"
+ },
+ {
+  "property": "OnFocusedBuildingAttachedTrapChanged",
+  "offset": "0x344",
+  "size": "0x16"
+ },
+ {
+  "property": "OnFocusedBuildingDynamicDataReceived",
+  "offset": "0x360",
+  "size": "0x16"
+ },
+ {
+  "property": "OnDamagedResourceBuilding",
+  "offset": "0x376",
+  "size": "0x16"
+ },
+ {
+  "property": "OnDamagedResourceVehicle",
+  "offset": "0x392",
+  "size": "0x16"
+ },
+ {
+  "property": "OnDamagedResourceActor",
+  "offset": "0x408",
+  "size": "0x16"
+ },
+ {
+  "property": "OnPlayerCanInteract",
+  "offset": "0x424",
+  "size": "0x16"
+ },
+ {
+  "property": "OnInteractUpdated",
+  "offset": "0x440",
+  "size": "0x16"
+ },
+ {
+  "property": "OnPlayerTargetingChanged",
+  "offset": "0x456",
+  "size": "0x16"
+ },
+ {
+  "property": "OnScoreChanged",
+  "offset": "0x472",
+  "size": "0x16"
+ },
+ {
+  "property": "OnScoreStatChanged",
+  "offset": "0x488",
+  "size": "0x16"
+ },
+ {
+  "property": "OnZoneCompleted",
+  "offset": "0x504",
+  "size": "0x16"
+ },
+ {
+  "property": "OnPawnSet",
+  "offset": "0x520",
+  "size": "0x16"
+ },
+ {
+  "property": "OnDamageReceived",
+  "offset": "0x536",
+  "size": "0x16"
+ },
+ {
+  "property": "OnUnableToPerformAction",
+  "offset": "0x552",
+  "size": "0x16"
+ },
+ {
+  "property": "OnLocalPlayerMaxHealthChanged",
+  "offset": "0x568",
+  "size": "0x16"
+ },
+ {
+  "property": "OnLocalPlayerHealthChanged",
+  "offset": "0x584",
+  "size": "0x16"
+ },
+ {
+  "property": "OnLocalPlayerDied",
+  "offset": "0x600",
+  "size": "0x16"
+ },
+ {
+  "property": "OnLocalPlayerSpawned",
+  "offset": "0x616",
+  "size": "0x16"
+ },
+ {
+  "property": "OnLocalPlayerRevived",
+  "offset": "0x632",
+  "size": "0x16"
+ },
+ {
+  "property": "OnHUDScaleChanged",
+  "offset": "0x648",
+  "size": "0x16"
+ },
+ {
+  "property": "OnReticleSettingsChanged",
+  "offset": "0x664",
+  "size": "0x16"
+ },
+ {
+  "property": "OnMinimapShapeChanged",
+  "offset": "0x680",
+  "size": "0x16"
+ },
+ {
+  "property": "OnMinimapRotationModeChanged",
+  "offset": "0x696",
+  "size": "0x16"
+ },
+ {
+  "property": "OnShowQuickbarKeybindsChanged",
+  "offset": "0x712",
+  "size": "0x16"
+ },
+ {
+  "property": "OnLocalPlayerKillsChanged",
+  "offset": "0x728",
+  "size": "0x16"
+ },
+ {
+  "property": "OnLocalPlayerPlaceChanged",
+  "offset": "0x744",
+  "size": "0x16"
+ },
+ {
+  "property": "OnLocalPlayerViewTargetChanged",
+  "offset": "0x760",
+  "size": "0x16"
+ },
+ {
+  "property": "OnToggledBattleMapLive",
+  "offset": "0x776",
+  "size": "0x16"
+ },
+ {
+  "property": "OnLocalPlayerMaxShieldChanged",
+  "offset": "0x792",
+  "size": "0x16"
+ },
+ {
+  "property": "OnLocalPlayerShieldChanged",
+  "offset": "0x808",
+  "size": "0x16"
+ },
+ {
+  "property": "OnLocalPlayerMaxStaminaChanged",
+  "offset": "0x824",
+  "size": "0x16"
+ },
+ {
+  "property": "OnLocalPlayerStaminaChanged",
+  "offset": "0x840",
+  "size": "0x16"
+ },
+ {
+  "property": "OnToggleScoreboard",
+  "offset": "0x856",
+  "size": "0x16"
+ },
+ {
+  "property": "OnEndOfDayRecap",
+  "offset": "0x872",
+  "size": "0x16"
+ },
+ {
+  "property": "OnWaveCombatStart",
+  "offset": "0x888",
+  "size": "0x16"
+ },
+ {
+  "property": "OnWaveBasedModifiersApplied",
+  "offset": "0x904",
+  "size": "0x16"
+ },
+ {
+  "property": "OnActiveGameplayModifiersChanged",
+  "offset": "0x920",
+  "size": "0x16"
+ },
+ {
+  "property": "OnHordeTierInitialized",
+  "offset": "0x936",
+  "size": "0x16"
+ },
+ {
+  "property": "OnHordeTierComplete",
+  "offset": "0x952",
+  "size": "0x16"
+ },
+ {
+  "property": "OnHordeWaveComplete",
+  "offset": "0x968",
+  "size": "0x16"
+ },
+ {
+  "property": "OnBuildingMaterialCycled",
+  "offset": "0x984",
+  "size": "0x16"
+ },
+ {
+  "property": "OnHighlightsCountChanged",
+  "offset": "0x1000",
+  "size": "0x16"
+ },
+ {
+  "property": "OnHUDStateRefreshed",
+  "offset": "0x1016",
+  "size": "0x16"
+ },
+ {
+  "property": "OnShouldTriggerCooldownUpdate",
+  "offset": "0x1032",
+  "size": "0x16"
+ },
+ {
+  "property": "OnRequestSetInZoneTitleBarVisibility",
+  "offset": "0x1048",
+  "size": "0x16"
+ },
+ {
+  "property": "OnRequestHidePickaxeSlotKeybinds",
+  "offset": "0x1064",
+  "size": "0x16"
+ },
+ {
+  "property": "OnSquadHudLevelIndicatorVisibilityChanged",
+  "offset": "0x1120",
+  "size": "0x16"
+ },
+ {
+  "property": "OnUIGameplayCue",
+  "offset": "0x1136",
+  "size": "0x16"
+ },
+ {
+  "property": "OnWeaponEquippedDelegate",
+  "offset": "0x1152",
+  "size": "0x16"
+ },
+ {
+  "property": "OnWeaponUnEquippedDelegate",
+  "offset": "0x1168",
+  "size": "0x16"
+ },
+ {
+  "property": "OnWeaponModSlotsEquippedDelegate",
+  "offset": "0x1184",
+  "size": "0x16"
+ },
+ {
+  "property": "OnWeaponModSlotsUnequippedDelegate",
+  "offset": "0x1200",
+  "size": "0x16"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x1216",
+  "size": "0x16"
+ },
+ {
+  "property": "OnAbilityDecisionWindowStackUpdated",
+  "offset": "0x1232",
+  "size": "0x16"
+ },
+ {
+  "property": "OnWorldDaysElapsedChanged",
+  "offset": "0x1248",
+  "size": "0x16"
+ },
+ {
+  "property": "OnNumSurvivorsRescuedChanged",
+  "offset": "0x1264",
+  "size": "0x16"
+ },
+ {
+  "property": "OnEarnedBadgesChanged",
+  "offset": "0x1280",
+  "size": "0x16"
+ },
+ {
+  "property": "OnPotentialBadgesChanged",
+  "offset": "0x1296",
+  "size": "0x16"
+ },
+ {
+  "property": "OnMissionManagerCreated",
+  "offset": "0x1312",
+  "size": "0x16"
+ },
+ {
+  "property": "OnMissionsUpdated",
+  "offset": "0x1328",
+  "size": "0x16"
+ },
+ {
+  "property": "OnFocusedMissionChanged",
+  "offset": "0x1344",
+  "size": "0x16"
+ },
+ {
+  "property": "OnTheaterUniqueIDChanged",
+  "offset": "0x1360",
+  "size": "0x16"
+ },
+ {
+  "property": "OnZoneDifficultyInfoRowChanged",
+  "offset": "0x1376",
+  "size": "0x16"
+ },
+ {
+  "property": "OnDifficultyIncreaseRewardTierChanged",
+  "offset": "0x1392",
+  "size": "0x16"
+ },
+ {
+  "property": "OnDifficultyIncreaseRewardsChanged",
+  "offset": "0x1408",
+  "size": "0x16"
+ },
+ {
+  "property": "OnMissionGeneratorChanged",
+  "offset": "0x1424",
+  "size": "0x16"
+ },
+ {
+  "property": "OnMissionRewardsChanged",
+  "offset": "0x1440",
+  "size": "0x16"
+ },
+ {
+  "property": "OnPointOfInterestAdded",
+  "offset": "0x1456",
+  "size": "0x16"
+ },
+ {
+  "property": "OnPointOfInterestRemoved",
+  "offset": "0x1472",
+  "size": "0x16"
+ },
+ {
+  "property": "OnHUDElementVisibilityChanged",
+  "offset": "0x1512",
+  "size": "0x16"
+ },
+ {
+  "property": "OnLocalChallengesVisibilityChanged",
+  "offset": "0x1528",
+  "size": "0x16"
+ },
+ {
+  "property": "OnDebugHUDObjectiveHeightChangedDelegate",
+  "offset": "0x1560",
+  "size": "0x16"
+ },
+ {
+  "property": "OnBuildModeChanged",
+  "offset": "0x1576",
+  "size": "0x16"
+ },
+ {
+  "property": "OnPersonalVehicleModeChanged",
+  "offset": "0x1592",
+  "size": "0x16"
+ },
+ {
+  "property": "OnPlayerVehicleStateChanged",
+  "offset": "0x1608",
+  "size": "0x16"
+ },
+ {
+  "property": "OnSpreadRadiusChanged",
+  "offset": "0x1672",
+  "size": "0x16"
+ },
+ {
+  "property": "HotfixElementsToHide",
+  "offset": "0x1688",
+  "size": "0x16"
+ },
+ {
+  "property": "bDebugHudObjectiveHeight",
+  "offset": "0x1704",
+  "size": "0x1"
+ },
+ {
+  "property": "bPendingAttachToHUD",
+  "offset": "0x1705",
+  "size": "0x1"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x1708",
+  "size": "0x8"
+ },
+ {
+  "property": "CurFocusedBuilding",
+  "offset": "0x1716",
+  "size": "0x8"
+ },
+ {
+  "property": "CurFocusedTrap",
+  "offset": "0x1724",
+  "size": "0x8"
+ },
+ {
+  "property": "BuildingFocusCandidates",
+  "offset": "0x1744",
+  "size": "0x24"
+ },
+ {
+  "property": "BoundPlayerPawn",
+  "offset": "0x1768",
+  "size": "0x8"
+ },
+ {
+  "property": "CachedCurrentWeapon",
+  "offset": "0x1956",
+  "size": "0x8"
+ },
+ {
+  "property": "CachedPreviousWeapon",
+  "offset": "0x1964",
+  "size": "0x8"
+ },
+ {
+  "property": "TouchControlRegion",
+  "offset": "0x1972",
+  "size": "0x8"
+ },
+ {
+  "property": "TouchInteractionLayer",
+  "offset": "0x1980",
+  "size": "0x8"
+ }
+]

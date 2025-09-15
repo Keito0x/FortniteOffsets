@@ -1,0 +1,32 @@
+[
+ {
+  "property": "TimingCurve",
+  "offset": "0x304",
+  "size": "0x272"
+ },
+ {
+  "property": "FrontAxisEnum",
+  "offset": "0x576",
+  "size": "0x1"
+ },
+ {
+  "property": "UpAxisEnum",
+  "offset": "0x577",
+  "size": "0x1"
+ },
+ {
+  "property": "bFollow",
+  "offset": "0x580",
+  "size": "0x1"
+ },
+ {
+  "property": "bReverse",
+  "offset": "0x580",
+  "size": "0x1"
+ },
+ {
+  "property": "bForceUpright",
+  "offset": "0x580",
+  "size": "0x1"
+ }
+]

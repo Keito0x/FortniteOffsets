@@ -1,0 +1,12 @@
+[
+ {
+  "property": "PitchModulationParams",
+  "offset": "0x72",
+  "size": "0x28"
+ },
+ {
+  "property": "VolumeModulationParams",
+  "offset": "0x100",
+  "size": "0x28"
+ }
+]

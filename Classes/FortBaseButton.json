@@ -1,0 +1,92 @@
+[
+ {
+  "property": "EnabledChanged",
+  "offset": "0x800",
+  "size": "0x16"
+ },
+ {
+  "property": "SelectedChanged",
+  "offset": "0x816",
+  "size": "0x16"
+ },
+ {
+  "property": "ButtonClicked",
+  "offset": "0x832",
+  "size": "0x16"
+ },
+ {
+  "property": "BangSize",
+  "offset": "0x848",
+  "size": "0x1"
+ },
+ {
+  "property": "BangOffset",
+  "offset": "0x856",
+  "size": "0x16"
+ },
+ {
+  "property": "BangType",
+  "offset": "0x872",
+  "size": "0x1"
+ },
+ {
+  "property": "TutorialNameID",
+  "offset": "0x876",
+  "size": "0x4"
+ },
+ {
+  "property": "TutorialGlowType",
+  "offset": "0x880",
+  "size": "0x1"
+ },
+ {
+  "property": "Style",
+  "offset": "0x888",
+  "size": "0x8"
+ },
+ {
+  "property": "YYYYYYYY[YYYYYYYYYYYYYYYYYYYYYYZYYYYY9ÕIà]å¶¶9ÕIà]å¶¶YYYYYYYYYYYYYYYY)ÕIà]å¶¶)ÕIà]å¶¶YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYŸYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYœ’XzÌoÎcÎkDŒŒnÎÃIà]å¶¶ÍÎŒIËm`ÓY[YYŸYYYYYYDŒŒnYYYYYYYY‡ÓjcœÈ„cAfÜ]å¶¶ŸYYY`ËIËuÊYYYYYYŸYYYYYYYYYYYYYYY—YymÎÔÎyG¯ó]å¶¶YYYYYYYY€Y5YYYYYI/)ï]å¶¶)®ï]å¶¶YÍN§Yõ¶¶yÚK—Ÿõ¶¶=Ö]å¶¶U]å¶¶YYYYYYYYYYYYYYYYŸYŸŸYŸŸYxY_YYYYYnYeYYYYY1e®Yõ¶¶Y9ÅXYYYYYYYYYYYY=hÔå]å¶¶ŸYZYYYYYEÃIà]å¶¶EÃIà]å¶¶YYZYŸYYYqÃIà]å¶¶qÃIà]å¶¶YYYYYYYYYYYYYYYYaÃIà]å¶¶aÃIà]å¶¶1Ûàñ]å¶¶YYYYYYYYYYYYYYYYYYYYYYYYŸYYYYYYYYYYYYYYYYYYYYYYYËm`ÓÔÎDŒY`’XzÌoÎÎ‡IËm`ÓÔUœIà]å¶¶Y",
+  "offset": "0x896",
+  "size": "0x1"
+ },
+ {
+  "property": "PressedSlateSoundOverride",
+  "offset": "0x904",
+  "size": "0x24"
+ },
+ {
+  "property": "ClickedSlateSoundOverride",
+  "offset": "0x928",
+  "size": "0x24"
+ },
+ {
+  "property": "HoveredSlateSoundOverride",
+  "offset": "0x952",
+  "size": "0x24"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x976",
+  "size": "0x1"
+ },
+ {
+  "property": "SelectionGroup",
+  "offset": "0x980",
+  "size": "0x4"
+ },
+ {
+  "property": "bToggleable",
+  "offset": "0x984",
+  "size": "0x1"
+ },
+ {
+  "property": "bClickable",
+  "offset": "0x985",
+  "size": "0x1"
+ },
+ {
+  "property": "ClickMethod",
+  "offset": "0x986",
+  "size": "0x1"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "property": "RootArea",
+  "offset": "0x88",
+  "size": "0x8"
+ },
+ {
+  "property": "bLoggedOut",
+  "offset": "0x96",
+  "size": "0x1"
+ }
+]

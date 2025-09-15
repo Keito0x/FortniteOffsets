@@ -1,0 +1,12 @@
+[
+ {
+  "property": "BallToSpawn",
+  "offset": "0x688",
+  "size": "0x8"
+ },
+ {
+  "property": "SphereComp",
+  "offset": "0x696",
+  "size": "0x8"
+ }
+]

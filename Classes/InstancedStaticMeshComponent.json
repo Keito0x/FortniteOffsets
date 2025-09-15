@@ -1,0 +1,92 @@
+[
+ {
+  "property": "PerInstanceSMData",
+  "offset": "0x1552",
+  "size": "0x16"
+ },
+ {
+  "property": "PerInstancePrevTransform",
+  "offset": "0x1568",
+  "size": "0x16"
+ },
+ {
+  "property": "PreviousComponentTransform",
+  "offset": "0x1584",
+  "size": "0x96"
+ },
+ {
+  "property": "NumCustomDataFloats",
+  "offset": "0x1680",
+  "size": "0x4"
+ },
+ {
+  "property": "InstancingRandomSeed",
+  "offset": "0x1684",
+  "size": "0x4"
+ },
+ {
+  "property": "PerInstanceSMCustomData",
+  "offset": "0x1688",
+  "size": "0x16"
+ },
+ {
+  "property": "AdditionalRandomSeeds",
+  "offset": "0x1704",
+  "size": "0x16"
+ },
+ {
+  "property": "InstanceLODDistanceScale",
+  "offset": "0x1720",
+  "size": "0x4"
+ },
+ {
+  "property": "InstanceMinDrawDistance",
+  "offset": "0x1724",
+  "size": "0x4"
+ },
+ {
+  "property": "InstanceStartCullDistance",
+  "offset": "0x1728",
+  "size": "0x4"
+ },
+ {
+  "property": "InstanceEndCullDistance",
+  "offset": "0x1732",
+  "size": "0x4"
+ },
+ {
+  "property": "bUseGpuLodSelection",
+  "offset": "0x1736",
+  "size": "0x1"
+ },
+ {
+  "property": "bInheritPerInstanceData",
+  "offset": "0x1736",
+  "size": "0x1"
+ },
+ {
+  "property": "bDisableCollision",
+  "offset": "0x1736",
+  "size": "0x1"
+ },
+ {
+  "property": "InstanceReorderTable",
+  "offset": "0x1744",
+  "size": "0x16"
+ },
+ {
+  "property": "NumPendingLightmaps",
+  "offset": "0x1856",
+  "size": "0x4"
+ },
+ {
+  "property": "CachedMappings",
+  "offset": "0x2256",
+  "size": "0x16"
+ },
+ {
+  "property": "CachedBounds",
+  "offset": "0x2272",
+  "size": "0x192"
+ }
+]

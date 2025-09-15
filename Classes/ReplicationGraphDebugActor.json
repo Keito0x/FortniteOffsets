@@ -1,0 +1,12 @@
+[
+ {
+  "property": "ReplicationGraph",
+  "offset": "0x680",
+  "size": "0x8"
+ },
+ {
+  "property": "ConnectionManager",
+  "offset": "0x688",
+  "size": "0x8"
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "property": "GridSize",
+  "offset": "0x152",
+  "size": "0x56"
+ },
+ {
+  "property": "SpaceBetween",
+  "offset": "0x208",
+  "size": "0x56"
+ },
+ {
+  "property": "RandomDisplacementRatio",
+  "offset": "0x264",
+  "size": "0x56"
+ },
+ {
+  "property": "GenerateAround",
+  "offset": "0x320",
+  "size": "0x8"
+ }
+]

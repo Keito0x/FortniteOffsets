@@ -1,0 +1,32 @@
+[
+ {
+  "property": "LoadingState",
+  "offset": "0x108",
+  "size": "0x1"
+ },
+ {
+  "property": "Providers",
+  "offset": "0x112",
+  "size": "0x16"
+ },
+ {
+  "property": "HiddenProvidersMap",
+  "offset": "0x128",
+  "size": "0x80"
+ },
+ {
+  "property": "InitialLibrarySubview",
+  "offset": "0x208",
+  "size": "0x1"
+ },
+ {
+  "property": "SurfaceName",
+  "offset": "0x212",
+  "size": "0x4"
+ },
+ {
+  "property": "ParentItem",
+  "offset": "0x216",
+  "size": "0x8"
+ }
+]

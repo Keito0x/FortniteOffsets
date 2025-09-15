@@ -1,0 +1,32 @@
+[
+ {
+  "property": "SortItems",
+  "offset": "0x104",
+  "size": "0x16"
+ },
+ {
+  "property": "FilterItems",
+  "offset": "0x120",
+  "size": "0x16"
+ },
+ {
+  "property": "OptionItems",
+  "offset": "0x136",
+  "size": "0x16"
+ },
+ {
+  "property": "SearchText",
+  "offset": "0x152",
+  "size": "0x8"
+ },
+ {
+  "property": "ActiveSortItem",
+  "offset": "0x160",
+  "size": "0x8"
+ },
+ {
+  "property": "ActiveFilterItem",
+  "offset": "0x168",
+  "size": "0x8"
+ }
+]

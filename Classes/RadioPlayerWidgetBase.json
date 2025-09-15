@@ -1,0 +1,42 @@
+[
+ {
+  "property": "PriorityData",
+  "offset": "0x1184",
+  "size": "0x2"
+ },
+ {
+  "property": "PressedObjectInputAction",
+  "offset": "0x1192",
+  "size": "0x16"
+ },
+ {
+  "property": "RadioMenuPickerClass",
+  "offset": "0x1216",
+  "size": "0x8"
+ },
+ {
+  "property": "RadioMenuPickerWidget",
+  "offset": "0x1224",
+  "size": "0x8"
+ },
+ {
+  "property": "Overlay_Keybind",
+  "offset": "0x1232",
+  "size": "0x8"
+ },
+ {
+  "property": "ToggleActionWidget",
+  "offset": "0x1240",
+  "size": "0x8"
+ },
+ {
+  "property": "LastValidComp",
+  "offset": "0x1248",
+  "size": "0x8"
+ },
+ {
+  "property": "bPickerOpen",
+  "offset": "0x1256",
+  "size": "0x1"
+ }
+]

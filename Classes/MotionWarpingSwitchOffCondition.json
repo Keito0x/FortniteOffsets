@@ -1,0 +1,22 @@
+[
+ {
+  "property": "bUseWarpTargetAsTargetLocation",
+  "offset": "0x40",
+  "size": "0x1"
+ },
+ {
+  "property": "Effect",
+  "offset": "0x41",
+  "size": "0x1"
+ },
+ {
+  "property": "OwnerActor",
+  "offset": "0x48",
+  "size": "0x8"
+ },
+ {
+  "property": "TargetActor",
+  "offset": "0x56",
+  "size": "0x8"
+ }
+]

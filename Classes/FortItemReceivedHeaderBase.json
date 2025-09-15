@@ -1,0 +1,32 @@
+[
+ {
+  "property": "Image_Icon",
+  "offset": "0x816",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_Header",
+  "offset": "0x824",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_Violator",
+  "offset": "0x832",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_Title",
+  "offset": "0x840",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_Subtitle",
+  "offset": "0x848",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_Body",
+  "offset": "0x856",
+  "size": "0x8"
+ }
+]

@@ -1,0 +1,157 @@
+[
+ {
+  "property": "bUseVSync",
+  "offset": "0x40",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseDynamicResolution",
+  "offset": "0x41",
+  "size": "0x1"
+ },
+ {
+  "property": "ResolutionSizeX",
+  "offset": "0x136",
+  "size": "0x4"
+ },
+ {
+  "property": "ResolutionSizeY",
+  "offset": "0x140",
+  "size": "0x4"
+ },
+ {
+  "property": "LastUserConfirmedResolutionSizeX",
+  "offset": "0x144",
+  "size": "0x4"
+ },
+ {
+  "property": "LastUserConfirmedResolutionSizeY",
+  "offset": "0x148",
+  "size": "0x4"
+ },
+ {
+  "property": "WindowPosX",
+  "offset": "0x152",
+  "size": "0x4"
+ },
+ {
+  "property": "WindowPosY",
+  "offset": "0x156",
+  "size": "0x4"
+ },
+ {
+  "property": "WindowPositions",
+  "offset": "0x160",
+  "size": "0x16"
+ },
+ {
+  "property": "FullscreenMode",
+  "offset": "0x176",
+  "size": "0x4"
+ },
+ {
+  "property": "LastConfirmedFullscreenMode",
+  "offset": "0x180",
+  "size": "0x4"
+ },
+ {
+  "property": "PreferredFullscreenMode",
+  "offset": "0x184",
+  "size": "0x4"
+ },
+ {
+  "property": "Version",
+  "offset": "0x188",
+  "size": "0x4"
+ },
+ {
+  "property": "AudioQualityLevel",
+  "offset": "0x192",
+  "size": "0x4"
+ },
+ {
+  "property": "LastConfirmedAudioQualityLevel",
+  "offset": "0x196",
+  "size": "0x4"
+ },
+ {
+  "property": "FrameRateLimit",
+  "offset": "0x200",
+  "size": "0x4"
+ },
+ {
+  "property": "DesiredScreenWidth",
+  "offset": "0x208",
+  "size": "0x4"
+ },
+ {
+  "property": "bUseDesiredScreenHeight",
+  "offset": "0x212",
+  "size": "0x1"
+ },
+ {
+  "property": "DesiredScreenHeight",
+  "offset": "0x216",
+  "size": "0x4"
+ },
+ {
+  "property": "LastUserConfirmedDesiredScreenWidth",
+  "offset": "0x220",
+  "size": "0x4"
+ },
+ {
+  "property": "LastUserConfirmedDesiredScreenHeight",
+  "offset": "0x224",
+  "size": "0x4"
+ },
+ {
+  "property": "LastRecommendedScreenWidth",
+  "offset": "0x228",
+  "size": "0x4"
+ },
+ {
+  "property": "LastRecommendedScreenHeight",
+  "offset": "0x232",
+  "size": "0x4"
+ },
+ {
+  "property": "LastCPUBenchmarkResult",
+  "offset": "0x236",
+  "size": "0x4"
+ },
+ {
+  "property": "LastGPUBenchmarkResult",
+  "offset": "0x240",
+  "size": "0x4"
+ },
+ {
+  "property": "LastCPUBenchmarkSteps",
+  "offset": "0x248",
+  "size": "0x16"
+ },
+ {
+  "property": "LastGPUBenchmarkSteps",
+  "offset": "0x264",
+  "size": "0x16"
+ },
+ {
+  "property": "LastGPUBenchmarkMultiplier",
+  "offset": "0x280",
+  "size": "0x4"
+ },
+ {
+  "property": "bUseHDRDisplayOutput",
+  "offset": "0x284",
+  "size": "0x1"
+ },
+ {
+  "property": "HDRDisplayOutputNits",
+  "offset": "0x288",
+  "size": "0x4"
+ },
+ {
+  "property": "OnGameUserSettingsUINeedsUpdate",
+  "offset": "0x328",
+  "size": "0x16"
+ }
+]

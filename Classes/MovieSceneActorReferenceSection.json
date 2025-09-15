@@ -1,0 +1,17 @@
+[
+ {
+  "property": "ActorReferenceData",
+  "offset": "0x264",
+  "size": "0x280"
+ },
+ {
+  "property": "ActorGuidIndexCurve",
+  "offset": "0x544",
+  "size": "0x128"
+ },
+ {
+  "property": "ActorGuidStrings",
+  "offset": "0x672",
+  "size": "0x16"
+ }
+]

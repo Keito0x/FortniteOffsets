@@ -1,0 +1,52 @@
+[
+ {
+  "property": "bPlayDetailsAnimationOnScreenOpen",
+  "offset": "0x1840",
+  "size": "0x1"
+ },
+ {
+  "property": "DetailsDisplayUpdateDelay",
+  "offset": "0x1844",
+  "size": "0x4"
+ },
+ {
+  "property": "MovieWidgetClass",
+  "offset": "0x1848",
+  "size": "0x8"
+ },
+ {
+  "property": "DetailsDisplay_SelectedActivity",
+  "offset": "0x1856",
+  "size": "0x8"
+ },
+ {
+  "property": "DetailsDisplay_PromotedActivity",
+  "offset": "0x1864",
+  "size": "0x8"
+ },
+ {
+  "property": "Panel_VideoSlot",
+  "offset": "0x1872",
+  "size": "0x8"
+ },
+ {
+  "property": "Panel_PromotedVideoSlot",
+  "offset": "0x1880",
+  "size": "0x8"
+ },
+ {
+  "property": "ActivityMovieWidget",
+  "offset": "0x1888",
+  "size": "0x8"
+ },
+ {
+  "property": "PromotedActivityMovieWidget",
+  "offset": "0x1896",
+  "size": "0x8"
+ },
+ {
+  "property": "BoundKeyArtOutroAnimation",
+  "offset": "0x1976",
+  "size": "0x8"
+ }
+]

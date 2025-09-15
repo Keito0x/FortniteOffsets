@@ -1,0 +1,7 @@
+[
+ {
+  "property": "SubmixSendSettings",
+  "offset": "0x208",
+  "size": "0x16"
+ }
+]

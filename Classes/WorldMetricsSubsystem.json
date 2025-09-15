@@ -1,0 +1,17 @@
+[
+ {
+  "property": "Metrics",
+  "offset": "0x64",
+  "size": "0x16"
+ },
+ {
+  "property": "UpdateRateInSeconds",
+  "offset": "0x10800",
+  "size": "0x4"
+ },
+ {
+  "property": "WarmUpFrames",
+  "offset": "0x10804",
+  "size": "0x4"
+ }
+]

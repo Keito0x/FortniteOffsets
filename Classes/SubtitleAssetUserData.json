@@ -1,0 +1,32 @@
+[
+ {
+  "property": "Text",
+  "offset": "0x40",
+  "size": "0x16"
+ },
+ {
+  "property": "duration",
+  "offset": "0x56",
+  "size": "0x4"
+ },
+ {
+  "property": "StartOffset",
+  "offset": "0x60",
+  "size": "0x4"
+ },
+ {
+  "property": "Priority",
+  "offset": "0x64",
+  "size": "0x4"
+ },
+ {
+  "property": "¦ûÁ½¦Ó«åSY›YÁ¦­©%¦¦}œKUÙYY}Á©-t3ÙYÞÜ-¸qÛY?ÞÜ?ÞÜ¦Ó–dSY}œKÙYYÙ¬^}œKÙYYºYxÛYY}œK)YYYÁ0¦ÓófSY„ÓYYY­”$¦¦Á0-gF,¦­Õ¢¦¦¦ÓõdSY}œKÙYYÙ„PYYY­$¦¦}œK)YYYÁ0¦ÓÓfSY„ùYYY­ô$¦¦¦ÓËdSYZ„zYYY­ï$¦¦¦ÓÐdSY}œKÙYYÙ}œK)YYYÁ0¦ÓµçSY„ÒYYY­Ö$¦¦¦Ó­åSY}œKÙYYÙ}œK)YYYÁ0¦ÓŽçSY„ÌYYY­£¥¦¦}"¦¦¦¦¦¦æ}ŸeÙ­&¦¦??????????ùrròóð}™/	YYY}>}œÛ­ÇÓY}Á)}KYYYÞMÛ¢rPYÞÑÙºùQ}œDœ`]Þò9ÞÑKYYYÞÑ{KcÞÑ{KkÞÑ{KsÞÑ{K{ÞMÛ!jÐYÞÑ{KAº{Ky!©0¸ÿ›"cÃxŸ[£YYYY¡}¹­×K}{K{ý˜&yÞ˜ÇÙYYÿ!}ŸK{áy}$-7[Y}ŸgKœúy}Ÿ}Ù:{[}˜%EÞ˜ŸÙYY}˜¥EcÐùEYYYýÍ=}Ù¥Á0-£([Yœ{K{œK}Þ½KYYYÞ=KYYY}ŸÛÆ¡¦Ÿ{KMýY}ŸßóÏÒY}ŸÓ†¬",
+  "offset": "0x68",
+  "size": "0x1"
+ },
+ {
+  "property": "SubtitleType",
+  "offset": "0x69",
+  "size": "0x1"
+ }
+]

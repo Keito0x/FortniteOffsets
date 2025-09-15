@@ -1,0 +1,22 @@
+[
+ {
+  "property": "Sections",
+  "offset": "0x48",
+  "size": "0x72"
+ },
+ {
+  "property": "Priority",
+  "offset": "0x120",
+  "size": "0x4"
+ },
+ {
+  "property": "StopBehavior",
+  "offset": "0x124",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsStinger",
+  "offset": "0x125",
+  "size": "0x1"
+ }
+]

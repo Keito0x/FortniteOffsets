@@ -1,0 +1,12 @@
+[
+ {
+  "property": "FloatCurve",
+  "offset": "0x48",
+  "size": "0x128"
+ },
+ {
+  "property": "bIsEventCurve",
+  "offset": "0x176",
+  "size": "0x1"
+ }
+]

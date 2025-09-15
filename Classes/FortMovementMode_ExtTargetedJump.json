@@ -1,0 +1,132 @@
+[
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYÙYZYYYYY=OIˆ]Œ¦¦=OIˆ]Œ¦¦YYZYÙYYY)OIˆ]Œ¦¦)OIˆ]Œ¦¦YYYYYYYYYYYYYYYYYÏIˆ]Œ¦¦YÏIˆ]Œ¦¦YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYÙYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYÕXzíoëYYYYYYYYNIˆ]Œ¦¦Qg6•]Œ¦¦Y[YYÙYYYYYY]Œ¦¦YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY@Y¹YYYYYYYYYYYYYYYYYYYYÛY5YYYYYI/)•]Œ¦¦)¨•]Œ¦¦YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYyy[YYYYYY%YYYYYaM9)Y›¦¦YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYZYYYYYaNIˆ]Œ¦¦aNIˆ]Œ¦¦YYYYYYYYYYYYYYYYNIˆ]Œ¦¦NIˆ]Œ¦¦YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYÙYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYQYY",
+  "offset": "0x68",
+  "size": "0x8"
+ },
+ {
+  "property": "OwnerMovementComponent",
+  "offset": "0x76",
+  "size": "0x8"
+ },
+ {
+  "property": "OwnerAbilitySystemComponent",
+  "offset": "0x84",
+  "size": "0x8"
+ },
+ {
+  "property": "bUseFullSimulation",
+  "offset": "0x92",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseDilatedDeltaTime",
+  "offset": "0x93",
+  "size": "0x1"
+ },
+ {
+  "property": "MovementModeExtensionIDTag",
+  "offset": "0x120",
+  "size": "0x32"
+ },
+ {
+  "property": "QuestMovementMode",
+  "offset": "0x152",
+  "size": "0x1"
+ },
+ {
+  "property": "StartMMECue",
+  "offset": "0x156",
+  "size": "0x4"
+ },
+ {
+  "property": "EndMMECue",
+  "offset": "0x160",
+  "size": "0x4"
+ },
+ {
+  "property": "MMEContinuousCue",
+  "offset": "0x164",
+  "size": "0x4"
+ },
+ {
+  "property": "AbilityIDTag",
+  "offset": "0x168",
+  "size": "0x32"
+ },
+ {
+  "property": "StartEventTag",
+  "offset": "0x200",
+  "size": "0x4"
+ },
+ {
+  "property": "StopEventTag",
+  "offset": "0x204",
+  "size": "0x4"
+ },
+ {
+  "property": "NativeActionTag",
+  "offset": "0x208",
+  "size": "0x4"
+ },
+ {
+  "property": "BlockingMMETags",
+  "offset": "0x216",
+  "size": "0x32"
+ },
+ {
+  "property": "TagsToPush",
+  "offset": "0x248",
+  "size": "0x32"
+ },
+ {
+  "property": "CancelAbilityTags",
+  "offset": "0x280",
+  "size": "0x32"
+ },
+ {
+  "property": "BlockAbilityTags",
+  "offset": "0x312",
+  "size": "0x32"
+ },
+ {
+  "property": "RequiredMMETags",
+  "offset": "0x344",
+  "size": "0x32"
+ },
+ {
+  "property": "bShouldSkipRootMotionResimulation",
+  "offset": "0x376",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsSimulatedProxy",
+  "offset": "0x377",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsLocalPlayer",
+  "offset": "0x378",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsServer",
+  "offset": "0x379",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsServerBotControlled",
+  "offset": "0x380",
+  "size": "0x1"
+ },
+ {
+  "property": "CameraMode",
+  "offset": "0x392",
+  "size": "0x8"
+ },
+ {
+  "property": "CameraModeTag",
+  "offset": "0x400",
+  "size": "0x4"
+ }
+]

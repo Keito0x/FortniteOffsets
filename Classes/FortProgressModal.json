@@ -1,0 +1,42 @@
+[
+ {
+  "property": "Title",
+  "offset": "0x1488",
+  "size": "0x16"
+ },
+ {
+  "property": "Description",
+  "offset": "0x1504",
+  "size": "0x16"
+ },
+ {
+  "property": "Icon",
+  "offset": "0x1520",
+  "size": "0x176"
+ },
+ {
+  "property": "bIntroOutroEnabled",
+  "offset": "0x1696",
+  "size": "0x1"
+ },
+ {
+  "property": "bAutoInitialize",
+  "offset": "0x1697",
+  "size": "0x1"
+ },
+ {
+  "property": "bFocusSelf",
+  "offset": "0x1698",
+  "size": "0x1"
+ },
+ {
+  "property": "bConsumeAnalogInput",
+  "offset": "0x1699",
+  "size": "0x1"
+ },
+ {
+  "property": "ProgressWidget_Main",
+  "offset": "0x1704",
+  "size": "0x8"
+ }
+]

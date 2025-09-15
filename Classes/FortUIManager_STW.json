@@ -1,0 +1,27 @@
+[
+ {
+  "property": "LayoutClass",
+  "offset": "0x48",
+  "size": "0x32"
+ },
+ {
+  "property": "LayoutScene",
+  "offset": "0x80",
+  "size": "0x8"
+ },
+ {
+  "property": "bUseLegacyInputSystem",
+  "offset": "0x88",
+  "size": "0x1"
+ },
+ {
+  "property": "RootViewportLayouts",
+  "offset": "0x96",
+  "size": "0x16"
+ },
+ {
+  "property": "UIManagerClass",
+  "offset": "0x120",
+  "size": "0x32"
+ }
+]

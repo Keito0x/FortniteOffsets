@@ -1,0 +1,282 @@
+[
+ {
+  "property": "VerticleFireOffset",
+  "offset": "0x1832",
+  "size": "0x16"
+ },
+ {
+  "property": "InitialSpeed",
+  "offset": "0x1848",
+  "size": "0x16"
+ },
+ {
+  "property": "ChargeUpInitialSpeed",
+  "offset": "0x1864",
+  "size": "0x16"
+ },
+ {
+  "property": "MaxSpeed",
+  "offset": "0x1880",
+  "size": "0x16"
+ },
+ {
+  "property": "InitialGravityScaleOverride",
+  "offset": "0x1896",
+  "size": "0x16"
+ },
+ {
+  "property": "ReplicatedMaxSpeed",
+  "offset": "0x1912",
+  "size": "0x4"
+ },
+ {
+  "property": "GravityScale",
+  "offset": "0x1916",
+  "size": "0x4"
+ },
+ {
+  "property": "OriginalTarget",
+  "offset": "0x1920",
+  "size": "0x8"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x1928",
+  "size": "0x4"
+ },
+ {
+  "property": "MomentumTransfer",
+  "offset": "0x1932",
+  "size": "0x4"
+ },
+ {
+  "property": "å¶¶ŸYYYYYYYYYYYYYYYSXˇÔ¯ÈYYYYYYYY1+Yõ¶¶5ìt]å¶¶5±9]å¶¶YYYYYYYY]YYYYYYYYYYYYYYYYYYYYYYYY]YYYYÜ‰e]å¶¶YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYŸYYYYYYYYYYYYYYY1HÜ]å¶¶1ÿ™*Yõ¶¶IÂÄ]å¶¶YYYYYYYYﬂY]YYYYY]YYY]YYYYYYYYYYYYYYYYYYYuÂÄ]å¶¶ŸYYYYYYY	t]å¶¶)rt]å¶¶YYYYYYYY]YYYYYYYYYYYYYYYYYYYYYYYY«˘ã]å¶¶]YYYYYYY»Ü]å¶¶XYYYYYYYq»Ü]å¶¶YYYYYYYYYYSXˇÔ¯ÈYYYYYYYYQrH´Yõ¶¶)!Ü]å¶¶)!Ü]å¶¶YYYYYYYYŸYYYYYYYŸYYYYYYYŸYYYYYYYYYYYYYYﬁù]å¶¶YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYŸYYYYYYYYYYYYYYYQKÜ]å¶¶1õæ5Yõ¶¶YYYYYYYYYYYYYYYYﬂY»YYYYÿYYY[YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY)KÜ]å¶¶)KÜ]",
+  "offset": "0x1936",
+  "size": "0x1"
+ },
+ {
+  "property": "MaxInitialSpeedForOwnerVelocity",
+  "offset": "0x1944",
+  "size": "0x40"
+ },
+ {
+  "property": "MaxDeltaVelocityAngleToOwnerVelocity",
+  "offset": "0x1984",
+  "size": "0x40"
+ },
+ {
+  "property": "bSpawnPointCanBeUsedByOtherPlayers",
+  "offset": "0x2024",
+  "size": "0x1"
+ },
+ {
+  "property": "PlayerSpawnOffset",
+  "offset": "0x2028",
+  "size": "0x4"
+ },
+ {
+  "property": "bRegisterInPerceptionSystem",
+  "offset": "0x2032",
+  "size": "0x1"
+ },
+ {
+  "property": "StaticMeshPropToRemoveOnPawn",
+  "offset": "0x2040",
+  "size": "0x8"
+ },
+ {
+  "property": "bCanBePickedUpWhenStopped",
+  "offset": "0x2048",
+  "size": "0x1"
+ },
+ {
+  "property": "CapsuleComponent",
+  "offset": "0x2056",
+  "size": "0x8"
+ },
+ {
+  "property": "ProjectileMovementComponent",
+  "offset": "0x2064",
+  "size": "0x8"
+ },
+ {
+  "property": "WaterInteractionComponent",
+  "offset": "0x2072",
+  "size": "0x8"
+ },
+ {
+  "property": "BulletWhipTrackerComponent",
+  "offset": "0x2080",
+  "size": "0x8"
+ },
+ {
+  "property": "bDummyProjectile",
+  "offset": "0x2088",
+  "size": "0x1"
+ },
+ {
+  "property": "bStopSimulatingOnHit",
+  "offset": "0x2089",
+  "size": "0x1"
+ },
+ {
+  "property": "TouchWaterBehavior",
+  "offset": "0x2090",
+  "size": "0x1"
+ },
+ {
+  "property": "bPassThroughFriendlyPawns",
+  "offset": "0x2091",
+  "size": "0x1"
+ },
+ {
+  "property": "bDisableCollisionOnStop",
+  "offset": "0x2092",
+  "size": "0x1"
+ },
+ {
+  "property": "bStoppedSimulatingDueToHit",
+  "offset": "0x2093",
+  "size": "0x1"
+ },
+ {
+  "property": "bReplicateStopSimulationLocation",
+  "offset": "0x2094",
+  "size": "0x1"
+ },
+ {
+  "property": "bReplicateStopSimulationLocationOptimized",
+  "offset": "0x2095",
+  "size": "0x1"
+ },
+ {
+  "property": "bClientInterpMovement",
+  "offset": "0x2096",
+  "size": "0x1"
+ },
+ {
+  "property": "bClientInterpRotation",
+  "offset": "0x2097",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseClientsidePrediction",
+  "offset": "0x2098",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsPredictedProjectile",
+  "offset": "0x2099",
+  "size": "0x1"
+ },
+ {
+  "property": "bHasLocalPredictedCounterpart",
+  "offset": "0x2100",
+  "size": "0x1"
+ },
+ {
+  "property": "PredictionKey",
+  "offset": "0x2104",
+  "size": "0x8"
+ },
+ {
+  "property": "bAutoSelectAttachedForInterp",
+  "offset": "0x2112",
+  "size": "0x1"
+ },
+ {
+  "property": "bFiredWhileTargeting",
+  "offset": "0x2120",
+  "size": "0x1"
+ },
+ {
+  "property": "ResumeSimulationCount",
+  "offset": "0x2124",
+  "size": "0x4"
+ },
+ {
+  "property": "SyncId",
+  "offset": "0x2132",
+  "size": "0x2"
+ },
+ {
+  "property": "SimulationStoppingHit",
+  "offset": "0x2136",
+  "size": "0x248"
+ },
+ {
+  "property": "WeaponResponseType",
+  "offset": "0x2400",
+  "size": "0x1"
+ },
+ {
+  "property": "DefaultTags",
+  "offset": "0x2456",
+  "size": "0x32"
+ },
+ {
+  "property": "ProjectileGameplayCues",
+  "offset": "0x2488",
+  "size": "0x40"
+ },
+ {
+  "property": "CachedPassByPawn",
+  "offset": "0x2544",
+  "size": "0x8"
+ },
+ {
+  "property": "SkyTubeForceMultiplier",
+  "offset": "0x2576",
+  "size": "0x4"
+ },
+ {
+  "property": "CurrentSkyTube",
+  "offset": "0x2584",
+  "size": "0x8"
+ },
+ {
+  "property": "CachedImpactResult",
+  "offset": "0x2592",
+  "size": "0x248"
+ },
+ {
+  "property": "BulletWhipTrackerComponentClass",
+  "offset": "0x2840",
+  "size": "0x8"
+ },
+ {
+  "property": "bResetOverlapRestrictionsOnBounce",
+  "offset": "0x2849",
+  "size": "0x1"
+ },
+ {
+  "property": "MaxLifespanOnStop",
+  "offset": "0x2852",
+  "size": "0x4"
+ },
+ {
+  "property": "LifespanOnHitDoNotExplode",
+  "offset": "0x2856",
+  "size": "0x4"
+ },
+ {
+  "property": "bAutoKillAtDistanceFromInitialLocation",
+  "offset": "0x2860",
+  "size": "0x1"
+ },
+ {
+  "property": "bClampAtAutoKillDistanceFromInitialLocation",
+  "offset": "0x2860",
+  "size": "0x1"
+ },
+ {
+  "property": "AutoKillDistanceSquaredOverride",
+  "offset": "0x2864",
+  "size": "0x4"
+ },
+ {
+  "property": "ProjectileThrownStatCategoryNames",
+  "offset": "0x2896",
+  "size": "0x16"
+ }
+]

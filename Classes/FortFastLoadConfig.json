@@ -1,0 +1,57 @@
+[
+ {
+  "property": "bDisableStreamInBuildings",
+  "offset": "0x40",
+  "size": "0x1"
+ },
+ {
+  "property": "bDisableStartupAIDirector",
+  "offset": "0x40",
+  "size": "0x1"
+ },
+ {
+  "property": "bDisableUpgradePlayerBuildingClasses",
+  "offset": "0x40",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseMinimalPlayerBuildingClasses",
+  "offset": "0x40",
+  "size": "0x1"
+ },
+ {
+  "property": "bDisableStartingMissions",
+  "offset": "0x40",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseFastLoadDefaultInventory",
+  "offset": "0x40",
+  "size": "0x1"
+ },
+ {
+  "property": "bDisableThreatVisualsManager",
+  "offset": "0x40",
+  "size": "0x1"
+ },
+ {
+  "property": "bDisablePreLoadAssets",
+  "offset": "0x40",
+  "size": "0x1"
+ },
+ {
+  "property": "bDisablePreLoadLootAssets",
+  "offset": "0x41",
+  "size": "0x1"
+ },
+ {
+  "property": "bDisableLoadStateClientAthena",
+  "offset": "0x41",
+  "size": "0x1"
+ },
+ {
+  "property": "bDisableGameFeaturePlugins",
+  "offset": "0x41",
+  "size": "0x1"
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "property": "FeaturedCategories",
+  "offset": "0x312",
+  "size": "0x16"
+ },
+ {
+  "property": "AllCategories",
+  "offset": "0x328",
+  "size": "0x16"
+ },
+ {
+  "property": "FeaturedCategoriesPanelDisplayName",
+  "offset": "0x344",
+  "size": "0x16"
+ },
+ {
+  "property": "AllCategoriesPanelDisplayName",
+  "offset": "0x360",
+  "size": "0x16"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "property": "NumLocationsFormat",
+  "offset": "0x1008",
+  "size": "0x16"
+ },
+ {
+  "property": "RichText_NumLocations",
+  "offset": "0x1024",
+  "size": "0x8"
+ }
+]

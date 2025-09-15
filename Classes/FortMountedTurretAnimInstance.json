@@ -1,0 +1,32 @@
+[
+ {
+  "property": "MountedTurret",
+  "offset": "0x1704",
+  "size": "0x8"
+ },
+ {
+  "property": "bIsUsingMountedTurret",
+  "offset": "0x1712",
+  "size": "0x1"
+ },
+ {
+  "property": "AimingYaw",
+  "offset": "0x1716",
+  "size": "0x4"
+ },
+ {
+  "property": "AimingPitch",
+  "offset": "0x1720",
+  "size": "0x4"
+ },
+ {
+  "property": "PedalScaler",
+  "offset": "0x1724",
+  "size": "0x4"
+ },
+ {
+  "property": "TurnRate",
+  "offset": "0x1728",
+  "size": "0x4"
+ }
+]

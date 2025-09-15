@@ -1,0 +1,37 @@
+[
+ {
+  "property": "OnWeakPointStateChangedDelegate",
+  "offset": "0x2496",
+  "size": "0x16"
+ },
+ {
+  "property": "CachedWeakPointCoordinator",
+  "offset": "0x2512",
+  "size": "0x8"
+ },
+ {
+  "property": "WeakPointState",
+  "offset": "0x2520",
+  "size": "0x1"
+ },
+ {
+  "property": "WeakPointAttachmentSocketName",
+  "offset": "0x2524",
+  "size": "0x4"
+ },
+ {
+  "property": "bShouldDisplayHealthBarWhenActive",
+  "offset": "0x2528",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldRegisterForAimAssist",
+  "offset": "0x2529",
+  "size": "0x1"
+ },
+ {
+  "property": "WeakPointOwner",
+  "offset": "0x2544",
+  "size": "0x8"
+ }
+]

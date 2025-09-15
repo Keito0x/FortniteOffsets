@@ -1,0 +1,47 @@
+[
+ {
+  "property": "SoonDisplayMinuteThreshold",
+  "offset": "0x48",
+  "size": "0x4"
+ },
+ {
+  "property": "PartyAssistFontColor",
+  "offset": "0x52",
+  "size": "0x16"
+ },
+ {
+  "property": "DifficultChallengeFontColor",
+  "offset": "0x68",
+  "size": "0x16"
+ },
+ {
+  "property": "PartyAssistIcon",
+  "offset": "0x88",
+  "size": "0x8"
+ },
+ {
+  "property": "ExternalPartyAssistIcon",
+  "offset": "0x96",
+  "size": "0x8"
+ },
+ {
+  "property": "DefaultChallengeStyle",
+  "offset": "0x104",
+  "size": "0x144"
+ },
+ {
+  "property": "DailyChallengeStyle",
+  "offset": "0x248",
+  "size": "0x144"
+ },
+ {
+  "property": "PunchCardSortOrder",
+  "offset": "0x392",
+  "size": "0x16"
+ },
+ {
+  "property": "ChallengePunchCardStyles",
+  "offset": "0x408",
+  "size": "0x16"
+ }
+]

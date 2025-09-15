@@ -1,0 +1,12 @@
+[
+ {
+  "property": "OffsetScale",
+  "offset": "0x184",
+  "size": "0x24"
+ },
+ {
+  "property": "AxisFilter",
+  "offset": "0x208",
+  "size": "0x3"
+ }
+]

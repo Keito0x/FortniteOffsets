@@ -1,0 +1,12 @@
+[
+ {
+  "property": "InitActor",
+  "offset": "0x40",
+  "size": "0x8"
+ },
+ {
+  "property": "InstigatorPlayer",
+  "offset": "0x48",
+  "size": "0x8"
+ }
+]

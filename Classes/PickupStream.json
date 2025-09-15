@@ -1,0 +1,27 @@
+[
+ {
+  "property": "PickupDisplayEntries",
+  "offset": "0x880",
+  "size": "0x16"
+ },
+ {
+  "property": "MaxDisplayedItems",
+  "offset": "0x912",
+  "size": "0x4"
+ },
+ {
+  "property": "PickupEntryWidgetClass",
+  "offset": "0x920",
+  "size": "0x8"
+ },
+ {
+  "property": "ExpirationTime",
+  "offset": "0x928",
+  "size": "0x4"
+ },
+ {
+  "property": "VerticalBox_PickupMessages",
+  "offset": "0x936",
+  "size": "0x8"
+ }
+]

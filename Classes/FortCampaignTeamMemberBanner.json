@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Banner_MemberBanner",
+  "offset": "0x5664",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_LeaderIcon",
+  "offset": "0x5672",
+  "size": "0x8"
+ }
+]

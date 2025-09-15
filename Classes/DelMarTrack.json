@@ -1,0 +1,12 @@
+[
+ {
+  "property": "TrackType",
+  "offset": "0x3216",
+  "size": "0x1"
+ },
+ {
+  "property": "",
+  "offset": "0x98741524",
+  "size": "0x0"
+ }
+]

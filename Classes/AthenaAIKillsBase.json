@@ -1,0 +1,17 @@
+[
+ {
+  "property": "KillsText",
+  "offset": "0x880",
+  "size": "0x8"
+ },
+ {
+  "property": "KillsSource",
+  "offset": "0x888",
+  "size": "0x8"
+ },
+ {
+  "property": "bCustomKillSource",
+  "offset": "0x896",
+  "size": "0x1"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "property": "VictoryCrownsIndicatorClass",
+  "offset": "0x200",
+  "size": "0x8"
+ },
+ {
+  "property": "IndicatorPool",
+  "offset": "0x208",
+  "size": "0x136"
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "property": "SlotMetadata",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "MasterVehicleMaterial",
+  "offset": "0x64",
+  "size": "0x32"
+ },
+ {
+  "property": "MasterWeaponMaterial",
+  "offset": "0x96",
+  "size": "0x32"
+ },
+ {
+  "property": "MasterCharacterMaterial",
+  "offset": "0x128",
+  "size": "0x32"
+ }
+]

@@ -1,0 +1,102 @@
+[
+ {
+  "property": "ActivationKey",
+  "offset": "0x40",
+  "size": "0x24"
+ },
+ {
+  "property": "CategoryRowNextKey",
+  "offset": "0x64",
+  "size": "0x24"
+ },
+ {
+  "property": "CategoryRowPrevKey",
+  "offset": "0x88",
+  "size": "0x24"
+ },
+ {
+  "property": "CategorySlot0",
+  "offset": "0x112",
+  "size": "0x24"
+ },
+ {
+  "property": "CategorySlot1",
+  "offset": "0x136",
+  "size": "0x24"
+ },
+ {
+  "property": "CategorySlot2",
+  "offset": "0x160",
+  "size": "0x24"
+ },
+ {
+  "property": "CategorySlot3",
+  "offset": "0x184",
+  "size": "0x24"
+ },
+ {
+  "property": "CategorySlot4",
+  "offset": "0x208",
+  "size": "0x24"
+ },
+ {
+  "property": "CategorySlot5",
+  "offset": "0x232",
+  "size": "0x24"
+ },
+ {
+  "property": "CategorySlot6",
+  "offset": "0x256",
+  "size": "0x24"
+ },
+ {
+  "property": "CategorySlot7",
+  "offset": "0x280",
+  "size": "0x24"
+ },
+ {
+  "property": "CategorySlot8",
+  "offset": "0x304",
+  "size": "0x24"
+ },
+ {
+  "property": "CategorySlot9",
+  "offset": "0x328",
+  "size": "0x24"
+ },
+ {
+  "property": "DebugCanvasPaddingLeft",
+  "offset": "0x352",
+  "size": "0x4"
+ },
+ {
+  "property": "DebugCanvasPaddingRight",
+  "offset": "0x356",
+  "size": "0x4"
+ },
+ {
+  "property": "DebugCanvasPaddingTop",
+  "offset": "0x360",
+  "size": "0x4"
+ },
+ {
+  "property": "DebugCanvasPaddingBottom",
+  "offset": "0x364",
+  "size": "0x4"
+ },
+ {
+  "property": "bDebugCanvasEnableTextShadow",
+  "offset": "0x368",
+  "size": "0x1"
+ },
+ {
+  "property": "Categories",
+  "offset": "0x376",
+  "size": "0x16"
+ },
+ {
+  "property": "Extensions",
+  "offset": "0x392",
+  "size": "0x16"
+ }
+]

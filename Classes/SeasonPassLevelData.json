@@ -1,0 +1,22 @@
+[
+ {
+  "property": "CurrencyPerLevel",
+  "offset": "0x48",
+  "size": "0x4"
+ },
+ {
+  "property": "SeasonLevelPurchaseLimit",
+  "offset": "0x52",
+  "size": "0x4"
+ },
+ {
+  "property": "SeasonLevelPurchaseBundleLimit",
+  "offset": "0x56",
+  "size": "0x4"
+ },
+ {
+  "property": "SeasonLevelOffer_MaxLevel",
+  "offset": "0x60",
+  "size": "0x4"
+ }
+]

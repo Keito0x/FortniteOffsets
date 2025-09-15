@@ -1,0 +1,12 @@
+[
+ {
+  "property": "bConnectionActive",
+  "offset": "0x128",
+  "size": "0x1"
+ },
+ {
+  "property": "BuildingCompositeArtifactFromPorts",
+  "offset": "0x136",
+  "size": "0x16"
+ }
+]

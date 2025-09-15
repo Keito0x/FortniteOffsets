@@ -1,0 +1,22 @@
+[
+ {
+  "property": "ActionMenuClass",
+  "offset": "0x5624",
+  "size": "0x8"
+ },
+ {
+  "property": "SocialGroup",
+  "offset": "0x5632",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_GroupName",
+  "offset": "0x5640",
+  "size": "0x8"
+ },
+ {
+  "property": "MenuAnchor_Actions",
+  "offset": "0x5648",
+  "size": "0x8"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "property": "AvatarIcon_MemberAvatar",
+  "offset": "0x5704",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_ParticipationStatus",
+  "offset": "0x5712",
+  "size": "0x8"
+ }
+]

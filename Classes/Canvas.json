@@ -1,0 +1,72 @@
+[
+ {
+  "property": "OrgX",
+  "offset": "0x40",
+  "size": "0x4"
+ },
+ {
+  "property": "OrgY",
+  "offset": "0x44",
+  "size": "0x4"
+ },
+ {
+  "property": "ClipX",
+  "offset": "0x48",
+  "size": "0x4"
+ },
+ {
+  "property": "ClipY",
+  "offset": "0x52",
+  "size": "0x4"
+ },
+ {
+  "property": "DrawColor",
+  "offset": "0x56",
+  "size": "0x4"
+ },
+ {
+  "property": "bCenterX",
+  "offset": "0x60",
+  "size": "0x1"
+ },
+ {
+  "property": "bCenterY",
+  "offset": "0x60",
+  "size": "0x1"
+ },
+ {
+  "property": "bNoSmooth",
+  "offset": "0x60",
+  "size": "0x1"
+ },
+ {
+  "property": "Unknown_ffield",
+  "offset": "0x64",
+  "size": "0x4"
+ },
+ {
+  "property": "(YYYYYYYÿY9×™†]Œ¦¦YYYYYYYYØt0‰]Œ¦¦]YYYYYYY}Ê†]Œ¦¦XYYYYYYYQÊ†]Œ¦¦YYYYYYYYYYSXÿïøéYYYYYYYYh+Y›¦¦sƒ]Œ¦¦Usƒ]Œ¦¦YYYYYYYY]YYYYYYYYYYYYYYYYYYYYYYYY]YYYYöõe]Œ¦¦YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYÙYYYYYYYYYYYYYYY1Ê†]Œ¦¦aÝª*Y›¦¦9vå€]Œ¦¦YYYYYYYYßY]YYYYY]YYY]YYYYYYYYYYYYYYYYYYY%vå€]Œ¦¦ÙYYYYYYYišsƒ]Œ¦¦)sƒ]Œ¦¦YYYYYYYY]YYYYYYY909]Œ¦¦yá†]Œ¦¦Yc;ˆ]Œ¦¦]YYYYYYYM†]Œ¦¦XYYYYYYYqM†]Œ¦¦YYYYYYYYYYSXÿïøéYYYYYYYYQ÷+Y›¦¦EäÝ	]Œ¦¦M<0]Œ¦¦YYYYYYYY]YYYYYYYYYYYYYYYYYYYYYYYXY]YYYY&me]Œ¦¦YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYÙYYYYYYYYYYYYYYYQÍ†]Œ¦¦ÿ)Y›¦¦YYYYYYYYYYYYYYYYßY]",
+  "offset": "0x68",
+  "size": "0x4"
+ },
+ {
+  "property": "ColorModulate",
+  "offset": "0x80",
+  "size": "0x32"
+ },
+ {
+  "property": "DefaultTexture",
+  "offset": "0x112",
+  "size": "0x8"
+ },
+ {
+  "property": "GradientTexture0",
+  "offset": "0x120",
+  "size": "0x8"
+ },
+ {
+  "property": "ReporterGraph",
+  "offset": "0x128",
+  "size": "0x8"
+ }
+]

@@ -1,0 +1,122 @@
+[
+ {
+  "property": "WorldAsset",
+  "offset": "0x40",
+  "size": "0x32"
+ },
+ {
+  "property": "StreamingPriority",
+  "offset": "0x72",
+  "size": "0x4"
+ },
+ {
+  "property": "PackageNameToLoad",
+  "offset": "0x84",
+  "size": "0x4"
+ },
+ {
+  "property": "LODPackageNames",
+  "offset": "0x88",
+  "size": "0x16"
+ },
+ {
+  "property": "LevelTransform",
+  "offset": "0x128",
+  "size": "0x96"
+ },
+ {
+  "property": "bClientOnlyVisible",
+  "offset": "0x224",
+  "size": "0x1"
+ },
+ {
+  "property": "LevelLODIndex",
+  "offset": "0x228",
+  "size": "0x4"
+ },
+ {
+  "property": "bShouldBeVisible",
+  "offset": "0x232",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldBeLoaded",
+  "offset": "0x232",
+  "size": "0x1"
+ },
+ {
+  "property": "bLocked",
+  "offset": "0x274",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsStatic",
+  "offset": "0x274",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldBlockOnLoad",
+  "offset": "0x274",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldBlockOnUnload",
+  "offset": "0x274",
+  "size": "0x1"
+ },
+ {
+  "property": "bDisableDistanceStreaming",
+  "offset": "0x274",
+  "size": "0x1"
+ },
+ {
+  "property": "bDrawOnLevelStatusMap",
+  "offset": "0x274",
+  "size": "0x1"
+ },
+ {
+  "property": "LevelColor",
+  "offset": "0x276",
+  "size": "0x16"
+ },
+ {
+  "property": "EditorStreamingVolumes",
+  "offset": "0x296",
+  "size": "0x16"
+ },
+ {
+  "property": "MinTimeBetweenVolumeUnloadRequests",
+  "offset": "0x312",
+  "size": "0x4"
+ },
+ {
+  "property": "OnLevelLoaded",
+  "offset": "0x320",
+  "size": "0x16"
+ },
+ {
+  "property": "OnLevelUnloaded",
+  "offset": "0x336",
+  "size": "0x16"
+ },
+ {
+  "property": "OnLevelShown",
+  "offset": "0x352",
+  "size": "0x16"
+ },
+ {
+  "property": "OnLevelHidden",
+  "offset": "0x368",
+  "size": "0x16"
+ },
+ {
+  "property": "LoadedLevel",
+  "offset": "0x384",
+  "size": "0x8"
+ },
+ {
+  "property": "PendingUnloadLevel",
+  "offset": "0x392",
+  "size": "0x8"
+ }
+]

@@ -1,0 +1,17 @@
+[
+ {
+  "property": "bEnableSpriteAtlasGroups",
+  "offset": "0x40",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableTerrainSplineEditing",
+  "offset": "0x41",
+  "size": "0x1"
+ },
+ {
+  "property": "bResizeSpriteDataToMatchTextures",
+  "offset": "0x42",
+  "size": "0x1"
+ }
+]

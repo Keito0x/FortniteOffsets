@@ -1,0 +1,32 @@
+[
+ {
+  "property": "PackMatchSkel",
+  "offset": "0x2232",
+  "size": "0x32"
+ },
+ {
+  "property": "bPackMatch",
+  "offset": "0x2264",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsCosmeticPreview",
+  "offset": "0x2265",
+  "size": "0x1"
+ },
+ {
+  "property": "bCanTransitionClosedToOpenInto",
+  "offset": "0x2266",
+  "size": "0x1"
+ },
+ {
+  "property": "bCanTransitionIdleOpenToClosed",
+  "offset": "0x2267",
+  "size": "0x1"
+ },
+ {
+  "property": "bCanTransitionOpenIntoToClosed",
+  "offset": "0x2268",
+  "size": "0x1"
+ }
+]

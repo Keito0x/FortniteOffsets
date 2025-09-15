@@ -1,0 +1,42 @@
+[
+ {
+  "property": "ShallowWaterNiagaraSimulation",
+  "offset": "0x64",
+  "size": "0x8"
+ },
+ {
+  "property": "WaterInfoTexture",
+  "offset": "0x72",
+  "size": "0x8"
+ },
+ {
+  "property": "NormalRT",
+  "offset": "0x80",
+  "size": "0x8"
+ },
+ {
+  "property": "Settings",
+  "offset": "0x88",
+  "size": "0x8"
+ },
+ {
+  "property": "MPC",
+  "offset": "0x96",
+  "size": "0x8"
+ },
+ {
+  "property": "PreviousContexts",
+  "offset": "0x416",
+  "size": "0x16"
+ },
+ {
+  "property": "PendingContexts",
+  "offset": "0x432",
+  "size": "0x16"
+ },
+ {
+  "property": "VehicleCollisionProxies",
+  "offset": "0x448",
+  "size": "0x80"
+ }
+]

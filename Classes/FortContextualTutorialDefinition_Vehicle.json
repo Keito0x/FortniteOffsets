@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Unknown_ffield",
+  "offset": "0x248",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleActionTag",
+  "offset": "0x252",
+  "size": "0x4"
+ }
+]

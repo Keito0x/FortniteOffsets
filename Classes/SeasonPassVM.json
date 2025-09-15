@@ -1,0 +1,122 @@
+[
+ {
+  "property": "SeasonPass",
+  "offset": "0x104",
+  "size": "0x8"
+ },
+ {
+  "property": "SeasonPassDefinition",
+  "offset": "0x112",
+  "size": "0x8"
+ },
+ {
+  "property": "SeasonPassData",
+  "offset": "0x120",
+  "size": "0x8"
+ },
+ {
+  "property": "SeasonPassCommonData",
+  "offset": "0x128",
+  "size": "0x8"
+ },
+ {
+  "property": "SeasonPassLevelData",
+  "offset": "0x136",
+  "size": "0x8"
+ },
+ {
+  "property": "PlayerController",
+  "offset": "0x144",
+  "size": "0x8"
+ },
+ {
+  "property": "SeasonPassCMSData",
+  "offset": "0x152",
+  "size": "0x168"
+ },
+ {
+  "property": "Categories",
+  "offset": "0x320",
+  "size": "0x16"
+ },
+ {
+  "property": "BuyLevelsCategory",
+  "offset": "0x336",
+  "size": "0x8"
+ },
+ {
+  "property": "PurchaseContext",
+  "offset": "0x344",
+  "size": "0x1"
+ },
+ {
+  "property": "bCanBuyPass",
+  "offset": "0x345",
+  "size": "0x1"
+ },
+ {
+  "property": "bDoesOwnsPass",
+  "offset": "0x346",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsPassCompleted",
+  "offset": "0x347",
+  "size": "0x1"
+ },
+ {
+  "property": "bCanGiftPass",
+  "offset": "0x348",
+  "size": "0x1"
+ },
+ {
+  "property": "bCanBuyLevels",
+  "offset": "0x349",
+  "size": "0x1"
+ },
+ {
+  "property": "bAutoClaimAvailable",
+  "offset": "0x350",
+  "size": "0x1"
+ },
+ {
+  "property": "bAutoClaimEnabled",
+  "offset": "0x351",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsCmsDataAvailable",
+  "offset": "0x352",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsDevPass",
+  "offset": "0x353",
+  "size": "0x1"
+ },
+ {
+  "property": "PassOffer",
+  "offset": "0x360",
+  "size": "0x8"
+ },
+ {
+  "property": "PassBundleOffer",
+  "offset": "0x368",
+  "size": "0x8"
+ },
+ {
+  "property": "LevelOffer",
+  "offset": "0x376",
+  "size": "0x8"
+ },
+ {
+  "property": "LevelBundleOffer",
+  "offset": "0x384",
+  "size": "0x8"
+ },
+ {
+  "property": "AutoclaimableRewards",
+  "offset": "0x392",
+  "size": "0x16"
+ }
+]

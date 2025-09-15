@@ -1,0 +1,22 @@
+[
+ {
+  "property": "OwnedSongs",
+  "offset": "0x216",
+  "size": "0x16"
+ },
+ {
+  "property": "OwnedSongsTemp",
+  "offset": "0x232",
+  "size": "0x16"
+ },
+ {
+  "property": "bHasUpdatedOwnedSongs",
+  "offset": "0x248",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsUpdatingOwnedSongs",
+  "offset": "0x249",
+  "size": "0x1"
+ }
+]

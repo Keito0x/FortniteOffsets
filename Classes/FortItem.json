@@ -1,0 +1,12 @@
+[
+ {
+  "property": "OnItemChanged",
+  "offset": "0x64",
+  "size": "0x16"
+ },
+ {
+  "property": "OnItemDestroyed",
+  "offset": "0x104",
+  "size": "0x16"
+ }
+]

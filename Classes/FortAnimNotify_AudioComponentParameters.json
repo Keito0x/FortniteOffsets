@@ -1,0 +1,22 @@
+[
+ {
+  "property": "Source",
+  "offset": "0x56",
+  "size": "0x1"
+ },
+ {
+  "property": "DataStoreName",
+  "offset": "0x60",
+  "size": "0x4"
+ },
+ {
+  "property": "ParameterGroupName",
+  "offset": "0x64",
+  "size": "0x4"
+ },
+ {
+  "property": "AudioParams",
+  "offset": "0x72",
+  "size": "0x16"
+ }
+]

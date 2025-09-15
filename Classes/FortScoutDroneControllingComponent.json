@@ -1,0 +1,97 @@
+[
+ {
+  "property": "DroneInputComponent",
+  "offset": "0x248",
+  "size": "0x8"
+ },
+ {
+  "property": "ControlledDrone",
+  "offset": "0x256",
+  "size": "0x8"
+ },
+ {
+  "property": "OriginalDroneOwner",
+  "offset": "0x264",
+  "size": "0x8"
+ },
+ {
+  "property": "DroneInputContext",
+  "offset": "0x272",
+  "size": "0x8"
+ },
+ {
+  "property": "InputTriggerableEvents",
+  "offset": "0x280",
+  "size": "0x16"
+ },
+ {
+  "property": "MoveUpAction",
+  "offset": "0x296",
+  "size": "0x8"
+ },
+ {
+  "property": "MoveAction",
+  "offset": "0x304",
+  "size": "0x8"
+ },
+ {
+  "property": "DismissAction",
+  "offset": "0x312",
+  "size": "0x8"
+ },
+ {
+  "property": "DroneCooldownEffectClass",
+  "offset": "0x320",
+  "size": "0x8"
+ },
+ {
+  "property": "OwningActorStencilData",
+  "offset": "0x352",
+  "size": "0x128"
+ },
+ {
+  "property": "CurrentDestructionData",
+  "offset": "0x480",
+  "size": "0x16"
+ },
+ {
+  "property": "FirstPersonCameraModeOverride",
+  "offset": "0x496",
+  "size": "0x8"
+ },
+ {
+  "property": "ThirdPersonCameraModeOverride",
+  "offset": "0x504",
+  "size": "0x8"
+ },
+ {
+  "property": "FakeCameraAbilitySpec",
+  "offset": "0x512",
+  "size": "0x240"
+ },
+ {
+  "property": "LegacyInputActionsToBlock",
+  "offset": "0x752",
+  "size": "0x16"
+ },
+ {
+  "property": "DismissPayloadCache",
+  "offset": "0x768",
+  "size": "0x8"
+ },
+ {
+  "property": "DismissButtonPressCooldown",
+  "offset": "0x776",
+  "size": "0x40"
+ },
+ {
+  "property": "PlayerToDroneTransitionParams",
+  "offset": "0x824",
+  "size": "0x16"
+ },
+ {
+  "property": "InterruptingPlayerTags",
+  "offset": "0x848",
+  "size": "0x32"
+ }
+]

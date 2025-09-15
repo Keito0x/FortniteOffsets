@@ -1,0 +1,27 @@
+[
+ {
+  "property": "Actor",
+  "offset": "0x40",
+  "size": "0x8"
+ },
+ {
+  "property": "Tag",
+  "offset": "0x48",
+  "size": "0x4"
+ },
+ {
+  "property": "EffectChain",
+  "offset": "0x56",
+  "size": "0x16"
+ },
+ {
+  "property": "Unknown_ffield",
+  "offset": "0x72",
+  "size": "0x4"
+ },
+ {
+  "property": "Unknown_ffield",
+  "offset": "0x76",
+  "size": "0x4"
+ }
+]

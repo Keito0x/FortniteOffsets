@@ -1,0 +1,12 @@
+[
+ {
+  "property": "ChildPipeline",
+  "offset": "0x192",
+  "size": "0x24"
+ },
+ {
+  "property": "GroupName",
+  "offset": "0x216",
+  "size": "0x4"
+ }
+]

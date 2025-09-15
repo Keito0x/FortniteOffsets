@@ -1,0 +1,47 @@
+[
+ {
+  "property": "SourceMode",
+  "offset": "0x56",
+  "size": "0x1"
+ },
+ {
+  "property": "FilteredSockets",
+  "offset": "0x64",
+  "size": "0x16"
+ },
+ {
+  "property": "SourceActor",
+  "offset": "0x80",
+  "size": "0x24"
+ },
+ {
+  "property": "SourceAsset",
+  "offset": "0x104",
+  "size": "0x8"
+ },
+ {
+  "property": "AttachComponentClass",
+  "offset": "0x112",
+  "size": "0x8"
+ },
+ {
+  "property": "AttachComponentTag",
+  "offset": "0x120",
+  "size": "0x4"
+ },
+ {
+  "property": "ObjectParameterBinding",
+  "offset": "0x128",
+  "size": "0x24"
+ },
+ {
+  "property": "bUpdateSocketsPerFrame",
+  "offset": "0x152",
+  "size": "0x1"
+ },
+ {
+  "property": "bRequireCurrentFrameData",
+  "offset": "0x153",
+  "size": "0x1"
+ }
+]

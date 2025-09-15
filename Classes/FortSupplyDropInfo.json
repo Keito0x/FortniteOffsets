@@ -1,0 +1,132 @@
+[
+ {
+  "property": "SupplyDropID",
+  "offset": "0x48",
+  "size": "0x4"
+ },
+ {
+  "property": "SupplyDropClass",
+  "offset": "0x56",
+  "size": "0x8"
+ },
+ {
+  "property": "SpawnType",
+  "offset": "0x64",
+  "size": "0x1"
+ },
+ {
+  "property": "bIgnoreBlueprintOverrides",
+  "offset": "0x65",
+  "size": "0x1"
+ },
+ {
+  "property": "SpecialActorTag",
+  "offset": "0x68",
+  "size": "0x4"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x72",
+  "size": "0x4"
+ },
+ {
+  "property": "SpecialActorMinimapIconBrush",
+  "offset": "0x80",
+  "size": "0x176"
+ },
+ {
+  "property": "SpecialActorMinimapIconScale",
+  "offset": "0x256",
+  "size": "0x16"
+ },
+ {
+  "property": "SpecialActorCompassIconBrush",
+  "offset": "0x272",
+  "size": "0x176"
+ },
+ {
+  "property": "SpecialActorCompassIconScale",
+  "offset": "0x448",
+  "size": "0x16"
+ },
+ {
+  "property": "bShouldDrawCompassIcon",
+  "offset": "0x464",
+  "size": "0x1"
+ },
+ {
+  "property": "GamePhaseData",
+  "offset": "0x472",
+  "size": "0x16"
+ },
+ {
+  "property": "ItemTrackType",
+  "offset": "0x488",
+  "size": "0x1"
+ },
+ {
+  "property": "GamePhaseToSpawn",
+  "offset": "0x489",
+  "size": "0x1"
+ },
+ {
+  "property": "SafeZoneIndexToSpawn",
+  "offset": "0x496",
+  "size": "0x40"
+ },
+ {
+  "property": "SupplyDropTrackingTags",
+  "offset": "0x536",
+  "size": "0x32"
+ },
+ {
+  "property": "bShouldMaintainItemCount",
+  "offset": "0x568",
+  "size": "0x1"
+ },
+ {
+  "property": "NumDeliveryItemsToSpawn",
+  "offset": "0x576",
+  "size": "0x40"
+ },
+ {
+  "property": "MinInitialDeliveryDelayTime",
+  "offset": "0x616",
+  "size": "0x40"
+ },
+ {
+  "property": "MaxInitialDeliveryDelayTime",
+  "offset": "0x656",
+  "size": "0x40"
+ },
+ {
+  "property": "MinTimeBetweenDrops",
+  "offset": "0x696",
+  "size": "0x40"
+ },
+ {
+  "property": "MaxTimeBetweenDrops",
+  "offset": "0x736",
+  "size": "0x40"
+ },
+ {
+  "property": "MinRespawnTime",
+  "offset": "0x776",
+  "size": "0x40"
+ },
+ {
+  "property": "MaxRespawnTime",
+  "offset": "0x816",
+  "size": "0x40"
+ },
+ {
+  "property": "MinTraceHeight",
+  "offset": "0x856",
+  "size": "0x40"
+ },
+ {
+  "property": "MaxTraceHeight",
+  "offset": "0x896",
+  "size": "0x40"
+ }
+]

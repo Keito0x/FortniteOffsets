@@ -1,0 +1,17 @@
+[
+ {
+  "property": "BackgroundColorParamName",
+  "offset": "0x40",
+  "size": "0x4"
+ },
+ {
+  "property": "BackgroundColor",
+  "offset": "0x44",
+  "size": "0x16"
+ },
+ {
+  "property": "BarSectionStyles",
+  "offset": "0x60",
+  "size": "0x192"
+ }
+]

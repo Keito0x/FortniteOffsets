@@ -1,0 +1,27 @@
+[
+ {
+  "property": "SimulationEntity",
+  "offset": "0x680",
+  "size": "0x8"
+ },
+ {
+  "property": "SavedEntityClass",
+  "offset": "0x688",
+  "size": "0x8"
+ },
+ {
+  "property": "SavedEntityComponentClass",
+  "offset": "0x696",
+  "size": "0x8"
+ },
+ {
+  "property": "DefaultComponentClassNames",
+  "offset": "0x704",
+  "size": "0x16"
+ },
+ {
+  "property": "DefaultComponentClasses",
+  "offset": "0x720",
+  "size": "0x16"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "property": "bAutoRegisterWithObserverRegistry",
+  "offset": "0x192",
+  "size": "0x1"
+ },
+ {
+  "property": "ObservedType",
+  "offset": "0x200",
+  "size": "0x8"
+ }
+]

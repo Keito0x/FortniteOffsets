@@ -1,0 +1,42 @@
+[
+ {
+  "property": "DigestCode",
+  "offset": "0x40",
+  "size": "0x16"
+ },
+ {
+  "property": "ManifestCode",
+  "offset": "0x56",
+  "size": "0x16"
+ },
+ {
+  "property": "DependencyPackages",
+  "offset": "0x72",
+  "size": "0x16"
+ },
+ {
+  "property": "ClassImports",
+  "offset": "0x88",
+  "size": "0x80"
+ },
+ {
+  "property": "ProjectName",
+  "offset": "0x168",
+  "size": "0x16"
+ },
+ {
+  "property": "Variant",
+  "offset": "0x184",
+  "size": "0x1"
+ },
+ {
+  "property": "VerseVersion",
+  "offset": "0x188",
+  "size": "0x4"
+ },
+ {
+  "property": "DigestDependencyPackageNames",
+  "offset": "0x192",
+  "size": "0x16"
+ }
+]

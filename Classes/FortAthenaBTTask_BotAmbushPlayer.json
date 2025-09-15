@@ -1,0 +1,32 @@
+[
+ {
+  "property": "FacingPrecision",
+  "offset": "0x136",
+  "size": "0x4"
+ },
+ {
+  "property": "WeaponCooldown",
+  "offset": "0x140",
+  "size": "0x4"
+ },
+ {
+  "property": "bClearBlackboardOnFinished",
+  "offset": "0x144",
+  "size": "0x1"
+ },
+ {
+  "property": "TargetedPlayerKeySelector",
+  "offset": "0x152",
+  "size": "0x40"
+ },
+ {
+  "property": "MaxLocationErrorKeySelector",
+  "offset": "0x192",
+  "size": "0x40"
+ },
+ {
+  "property": "MinLocationErrorKeySelector",
+  "offset": "0x232",
+  "size": "0x40"
+ }
+]

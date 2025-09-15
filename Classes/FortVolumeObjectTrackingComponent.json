@@ -1,0 +1,87 @@
+[
+ {
+  "property": "OwningSpatialGameplayInterface",
+  "offset": "0x240",
+  "size": "0x16"
+ },
+ {
+  "property": "VolumePerformanceMetrics",
+  "offset": "0x256",
+  "size": "0x56"
+ },
+ {
+  "property": "OnVolumePerformanceMetricsUpdatedEvent",
+  "offset": "0x312",
+  "size": "0x16"
+ },
+ {
+  "property": "TransientTracker",
+  "offset": "0x328",
+  "size": "0x272"
+ },
+ {
+  "property": "BudgetTracker",
+  "offset": "0x600",
+  "size": "0x712"
+ },
+ {
+  "property": "ClassTracker",
+  "offset": "0x1312",
+  "size": "0x272"
+ },
+ {
+  "property": "bHeatmapEnabled",
+  "offset": "0x1584",
+  "size": "0x1"
+ },
+ {
+  "property": "bHeatmapIsDirty",
+  "offset": "0x1585",
+  "size": "0x1"
+ },
+ {
+  "property": "ObjectTrackingHeatmapSize",
+  "offset": "0x1588",
+  "size": "0x4"
+ },
+ {
+  "property": "ObjectTrackingHeatmapHighPrecision",
+  "offset": "0x1592",
+  "size": "0x16"
+ },
+ {
+  "property": "ObjectTrackingOverBudgetHeatmap",
+  "offset": "0x1608",
+  "size": "0x16"
+ },
+ {
+  "property": "TargetUpdateTime",
+  "offset": "0x1628",
+  "size": "0x4"
+ },
+ {
+  "property": "CreativeHeatmapThermometerInfluenceDistanceMultiplier",
+  "offset": "0x1632",
+  "size": "0x4"
+ },
+ {
+  "property": "CreativeHeatmapThermometerBudget",
+  "offset": "0x1636",
+  "size": "0x12"
+ },
+ {
+  "property": "CreativeHeatmapThermometerCellSize",
+  "offset": "0x1648",
+  "size": "0x4"
+ },
+ {
+  "property": "MultiSelectedActors",
+  "offset": "0x2040",
+  "size": "0x16"
+ },
+ {
+  "property": "GlobalMemoryTrackerPtr",
+  "offset": "0x2056",
+  "size": "0x8"
+ }
+]

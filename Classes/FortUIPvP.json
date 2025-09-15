@@ -1,0 +1,62 @@
+[
+ {
+  "property": "TextRenderInfo",
+  "offset": "0x1056",
+  "size": "0x64"
+ },
+ {
+  "property": "IntensityGraph",
+  "offset": "0x1120",
+  "size": "0x8"
+ },
+ {
+  "property": "PIDValuesGraph",
+  "offset": "0x1128",
+  "size": "0x8"
+ },
+ {
+  "property": "PIDContributionsGraph",
+  "offset": "0x1136",
+  "size": "0x8"
+ },
+ {
+  "property": "UtilitiesGraph",
+  "offset": "0x1144",
+  "size": "0x8"
+ },
+ {
+  "property": "CurrentContextualReticleIconType",
+  "offset": "0x1232",
+  "size": "0x1"
+ },
+ {
+  "property": "CurrentFailureState",
+  "offset": "0x1233",
+  "size": "0x1"
+ },
+ {
+  "property": "CurrentContextualReticleColor",
+  "offset": "0x1236",
+  "size": "0x4"
+ },
+ {
+  "property": "ContextualReticleIcons",
+  "offset": "0x1240",
+  "size": "0x256"
+ },
+ {
+  "property": "ActorCanvasArrowBrush",
+  "offset": "0x1496",
+  "size": "0x32"
+ },
+ {
+  "property": "ActorCanvasElevationBrush",
+  "offset": "0x1528",
+  "size": "0x32"
+ },
+ {
+  "property": "SpottedActorIndicators",
+  "offset": "0x1928",
+  "size": "0x16"
+ }
+]

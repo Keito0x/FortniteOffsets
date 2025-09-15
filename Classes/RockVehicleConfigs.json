@@ -1,0 +1,42 @@
+[
+ {
+  "property": "FrontAxle",
+  "offset": "0x2576",
+  "size": "0x52"
+ },
+ {
+  "property": "BackAxle",
+  "offset": "0x2628",
+  "size": "0x52"
+ },
+ {
+  "property": "Drive",
+  "offset": "0x2680",
+  "size": "0x1296"
+ },
+ {
+  "property": "DemolitionConfiguration",
+  "offset": "0x3976",
+  "size": "0x40"
+ },
+ {
+  "property": "MaxLinearSpeed",
+  "offset": "0x4016",
+  "size": "0x48"
+ },
+ {
+  "property": "SupersonicSpeed",
+  "offset": "0x4064",
+  "size": "0x48"
+ },
+ {
+  "property": "MaxAngularSpeed",
+  "offset": "0x4112",
+  "size": "0x4"
+ },
+ {
+  "property": "SafeBuildingLandingDegrees",
+  "offset": "0x4116",
+  "size": "0x4"
+ }
+]

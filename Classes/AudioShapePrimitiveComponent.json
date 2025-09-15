@@ -1,0 +1,32 @@
+[
+ {
+  "property": "SoundOnEdge",
+  "offset": "0x352",
+  "size": "0x8"
+ },
+ {
+  "property": "SoundOnInside",
+  "offset": "0x360",
+  "size": "0x8"
+ },
+ {
+  "property": "OnInsideStateChanged",
+  "offset": "0x368",
+  "size": "0x16"
+ },
+ {
+  "property": "bUseOwningActorTransform",
+  "offset": "0x384",
+  "size": "0x1"
+ },
+ {
+  "property": "bAutoRefreshShape",
+  "offset": "0x385",
+  "size": "0x1"
+ },
+ {
+  "property": "ActorTransformScale",
+  "offset": "0x392",
+  "size": "0x24"
+ }
+]

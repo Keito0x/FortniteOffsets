@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Name",
+  "offset": "0x40",
+  "size": "0x16"
+ },
+ {
+  "property": "Icon",
+  "offset": "0x64",
+  "size": "0x176"
+ }
+]

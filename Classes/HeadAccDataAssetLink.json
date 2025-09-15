@@ -1,0 +1,12 @@
+[
+ {
+  "property": "DataAsset",
+  "offset": "0x256",
+  "size": "0x32"
+ },
+ {
+  "property": "DataAssetCached",
+  "offset": "0x288",
+  "size": "0x8"
+ }
+]

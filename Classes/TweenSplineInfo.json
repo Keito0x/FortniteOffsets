@@ -1,0 +1,27 @@
+[
+ {
+  "property": "Spline",
+  "offset": "0x40",
+  "size": "0x8"
+ },
+ {
+  "property": "Alignment",
+  "offset": "0x48",
+  "size": "0x1"
+ },
+ {
+  "property": "bIgnorePitch",
+  "offset": "0x49",
+  "size": "0x1"
+ },
+ {
+  "property": "bIgnoreYaw",
+  "offset": "0x50",
+  "size": "0x1"
+ },
+ {
+  "property": "bIgnoreRoll",
+  "offset": "0x51",
+  "size": "0x1"
+ }
+]

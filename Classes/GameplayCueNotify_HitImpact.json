@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Sound",
+  "offset": "0x56",
+  "size": "0x8"
+ },
+ {
+  "property": "ParticleSystem",
+  "offset": "0x64",
+  "size": "0x8"
+ }
+]

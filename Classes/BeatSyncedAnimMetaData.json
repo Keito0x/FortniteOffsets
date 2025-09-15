@@ -1,0 +1,32 @@
+[
+ {
+  "property": "BeatB",
+  "offset": "0x40",
+  "size": "0x4"
+ },
+ {
+  "property": "™ÙYY}ŸKAùœKÙYYÙ¬^}œKÙYYºYxÛYY}œK)YYYÁ0¦ÓófSY„ÓYYY­”$¦¦Á0-gF,¦­Õ¢¦¦¦ÓõdSY}œKÙYYÙ„PYYY­$¦¦}œK)YYYÁ0¦ÓÓfSY„ùYYY­ô$¦¦¦ÓËdSYZ„zYYY­ï$¦¦¦ÓĞdSY}œKÙYYÙ}œK)YYYÁ0¦ÓµçSY„ÒYYY­Ö$¦¦¦Ó­åSY}œKÙYYÙ}œK)YYYÁ0¦ÓçSY„ÌYYY­£¥¦¦}"¦¦¦¦¦¦æ}ŸeÙ­&¦¦??????????ùrròóğ}™/	YYY}>}œÛ­ÇÓY}Á)}KYYYŞMÛ¢rPYŞÑÙºùQ}œDœ`]Şò9ŞÑKYYYŞÑ{KcŞÑ{KkŞÑ{KsŞÑ{K{ŞMÛ!jĞYŞÑ{KAº{Ky!©0¸ÿ›"cÃxŸ[£YYYY¡}¹­×K}{K{ı˜&yŞ˜ÇÙYYÿ!}ŸK{áy}$-7[Y}ŸgKœúy}Ÿ}Ù:{[}˜%EŞ˜ŸÙYY}˜¥EcĞùEYYYıÍ=}Ù¥Á0-£([Yœ{K{œK}Ş½KYYYŞ=KYYY}ŸÛÆ¡¦Ÿ{KMıY}ŸßóÏÒY}ŸÓ†¬¦ûÁ½¦Ó«åSY›9ŞnÙYYœ×ÎÏÒYŞ¨×ŞèÙYY¢°¢¸MÙYYŞ›",
+  "offset": "0x44",
+  "size": "0x4"
+ },
+ {
+  "property": "FirstBeatAtFrame",
+  "offset": "0x48",
+  "size": "0x4"
+ },
+ {
+  "property": "FirstBeatSyncingSection",
+  "offset": "0x52",
+  "size": "0x1037652845"
+ },
+ {
+  "property": "",
+  "offset": "0x1354233921",
+  "size": "0x-2014518104"
+ },
+ {
+  "property": "",
+  "offset": "0x98741524",
+  "size": "0x0"
+ }
+]

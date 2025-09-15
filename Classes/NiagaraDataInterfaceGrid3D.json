@@ -1,0 +1,32 @@
+[
+ {
+  "property": "ClearBeforeNonIterationStage",
+  "offset": "0x56",
+  "size": "0x1"
+ },
+ {
+  "property": "NumCells",
+  "offset": "0x60",
+  "size": "0x12"
+ },
+ {
+  "property": "CellSize",
+  "offset": "0x72",
+  "size": "0x4"
+ },
+ {
+  "property": "NumCellsMaxAxis",
+  "offset": "0x76",
+  "size": "0x4"
+ },
+ {
+  "property": "SetResolutionMethod",
+  "offset": "0x80",
+  "size": "0x4"
+ },
+ {
+  "property": "WorldBBoxSize",
+  "offset": "0x88",
+  "size": "0x24"
+ }
+]

@@ -1,0 +1,657 @@
+[
+ {
+  "property": "VehiclePowerSlideFrontMultiplier",
+  "offset": "0x2576",
+  "size": "0x4"
+ },
+ {
+  "property": "VehiclePowerSlideRearMultiplier",
+  "offset": "0x2580",
+  "size": "0x4"
+ },
+ {
+  "property": "IceVehiclePowerSlideFrontMultiplier",
+  "offset": "0x2584",
+  "size": "0x4"
+ },
+ {
+  "property": "IceVehiclePowerSlideRearMultiplier",
+  "offset": "0x2588",
+  "size": "0x4"
+ },
+ {
+  "property": "MudVehiclePowerSlideFrontMultiplier",
+  "offset": "0x2592",
+  "size": "0x4"
+ },
+ {
+  "property": "MudVehiclePowerSlideRearMultiplier",
+  "offset": "0x2596",
+  "size": "0x4"
+ },
+ {
+  "property": "bUseAccelerationLean",
+  "offset": "0x2600",
+  "size": "0x1"
+ },
+ {
+  "property": "HandbrakeGripAngle",
+  "offset": "0x2604",
+  "size": "0x4"
+ },
+ {
+  "property": "HandbrakeGripAngleRecovery",
+  "offset": "0x2608",
+  "size": "0x4"
+ },
+ {
+  "property": "HandbrakeSpeedForGripLoss",
+  "offset": "0x2612",
+  "size": "0x4"
+ },
+ {
+  "property": "MinSlipDuration",
+  "offset": "0x2616",
+  "size": "0x4"
+ },
+ {
+  "property": "HandbrakeLateralFriction",
+  "offset": "0x2620",
+  "size": "0x4"
+ },
+ {
+  "property": "HandbrakeSteeringMultiplier",
+  "offset": "0x2624",
+  "size": "0x4"
+ },
+ {
+  "property": "HandbrakeFrictionDampFactor",
+  "offset": "0x2628",
+  "size": "0x4"
+ },
+ {
+  "property": "RestoreTractionDampFactor",
+  "offset": "0x2632",
+  "size": "0x4"
+ },
+ {
+  "property": "HandBrakeForce",
+  "offset": "0x2636",
+  "size": "0x4"
+ },
+ {
+  "property": "HandbrakeForceNoAccel",
+  "offset": "0x2640",
+  "size": "0x4"
+ },
+ {
+  "property": "bUseHandbrakeToDrift",
+  "offset": "0x2644",
+  "size": "0x1"
+ },
+ {
+  "property": "DriftMinSpeedSteeringAngle",
+  "offset": "0x2648",
+  "size": "0x4"
+ },
+ {
+  "property": "DriftMaxSpeedSteeringAngle",
+  "offset": "0x2652",
+  "size": "0x4"
+ },
+ {
+  "property": "DriftFrontLateralFrictionMultiplier",
+  "offset": "0x2656",
+  "size": "0x4"
+ },
+ {
+  "property": "DriftRearLateralFrictionMultiplier",
+  "offset": "0x2660",
+  "size": "0x4"
+ },
+ {
+  "property": "DirtRoadTopSpeedMultiplier",
+  "offset": "0x2664",
+  "size": "0x4"
+ },
+ {
+  "property": "DirtRoadFrontLateralFriction",
+  "offset": "0x2668",
+  "size": "0x4"
+ },
+ {
+  "property": "DirtRoadRearLateralFriction",
+  "offset": "0x2672",
+  "size": "0x4"
+ },
+ {
+  "property": "DirtRoadAccelForceMultiplier",
+  "offset": "0x2676",
+  "size": "0x4"
+ },
+ {
+  "property": "OffRoadTopSpeedMultiplier",
+  "offset": "0x2680",
+  "size": "0x4"
+ },
+ {
+  "property": "OffRoadFrontLateralFriction",
+  "offset": "0x2684",
+  "size": "0x4"
+ },
+ {
+  "property": "OffRoadRearLateralFriction",
+  "offset": "0x2688",
+  "size": "0x4"
+ },
+ {
+  "property": "OffRoadPushForceMultiplier",
+  "offset": "0x2692",
+  "size": "0x4"
+ },
+ {
+  "property": "OffroadDamageImpactForceMin",
+  "offset": "0x2696",
+  "size": "0x4"
+ },
+ {
+  "property": "OffroadDamageImpactForceMax",
+  "offset": "0x2700",
+  "size": "0x4"
+ },
+ {
+  "property": "OffroadImpactDamageMin",
+  "offset": "0x2704",
+  "size": "0x4"
+ },
+ {
+  "property": "OffroadImpactDamageMax",
+  "offset": "0x2708",
+  "size": "0x4"
+ },
+ {
+  "property": "MinSpeedForOffroadHandling",
+  "offset": "0x2712",
+  "size": "0x4"
+ },
+ {
+  "property": "SnowFrontLateralFriction",
+  "offset": "0x2716",
+  "size": "0x4"
+ },
+ {
+  "property": "SnowRearLateralFriction",
+  "offset": "0x2720",
+  "size": "0x4"
+ },
+ {
+  "property": "IceFrontLateralFriction",
+  "offset": "0x2724",
+  "size": "0x4"
+ },
+ {
+  "property": "IceRearLateralFriction",
+  "offset": "0x2728",
+  "size": "0x4"
+ },
+ {
+  "property": "MudFrontLateralFriction",
+  "offset": "0x2732",
+  "size": "0x4"
+ },
+ {
+  "property": "MudRearLateralFriction",
+  "offset": "0x2736",
+  "size": "0x4"
+ },
+ {
+  "property": "IcePushForceMultiplier",
+  "offset": "0x2740",
+  "size": "0x4"
+ },
+ {
+  "property": "IceBrakeForceMultiplier",
+  "offset": "0x2744",
+  "size": "0x4"
+ },
+ {
+  "property": "FireHealthPercentThreshold",
+  "offset": "0x2748",
+  "size": "0x4"
+ },
+ {
+  "property": "OffroadRumbleIntensity",
+  "offset": "0x2752",
+  "size": "0x4"
+ },
+ {
+  "property": "DirtRoadRumbleIntensity",
+  "offset": "0x2756",
+  "size": "0x4"
+ },
+ {
+  "property": "OffroadDamageScaleExponent",
+  "offset": "0x2760",
+  "size": "0x4"
+ },
+ {
+  "property": "HardLandingThresholdMin",
+  "offset": "0x2764",
+  "size": "0x4"
+ },
+ {
+  "property": "HardLandingThresholdMax",
+  "offset": "0x2768",
+  "size": "0x4"
+ },
+ {
+  "property": "HardLandingShakeZAmplitudeMin",
+  "offset": "0x2772",
+  "size": "0x4"
+ },
+ {
+  "property": "HardLandingShakeZAmplitudeMax",
+  "offset": "0x2776",
+  "size": "0x4"
+ },
+ {
+  "property": "SpeedLinesThreshold",
+  "offset": "0x2780",
+  "size": "0x4"
+ },
+ {
+  "property": "PropDestructionImpulse",
+  "offset": "0x2784",
+  "size": "0x4"
+ },
+ {
+  "property": "DestructionAngle",
+  "offset": "0x2788",
+  "size": "0x4"
+ },
+ {
+  "property": "UpNormalMinProtected",
+  "offset": "0x2792",
+  "size": "0x4"
+ },
+ {
+  "property": "UpForwardMinProtected",
+  "offset": "0x2796",
+  "size": "0x4"
+ },
+ {
+  "property": "NonCameraSteeringAngleMultiplier",
+  "offset": "0x2800",
+  "size": "0x4"
+ },
+ {
+  "property": "CameraAssistStrengthMax",
+  "offset": "0x2804",
+  "size": "0x4"
+ },
+ {
+  "property": "CameraAssistStrengthMin",
+  "offset": "0x2808",
+  "size": "0x4"
+ },
+ {
+  "property": "CameraAssistStrengthRecovery",
+  "offset": "0x2812",
+  "size": "0x4"
+ },
+ {
+  "property": "CameraAssistInterpSpeed",
+  "offset": "0x2816",
+  "size": "0x4"
+ },
+ {
+  "property": "DriftExitPushForce",
+  "offset": "0x2820",
+  "size": "0x4"
+ },
+ {
+  "property": "DriftExitCatchupSpeed",
+  "offset": "0x2824",
+  "size": "0x4"
+ },
+ {
+  "property": "HandbrakeDurationRequiredForCatchup",
+  "offset": "0x2828",
+  "size": "0x4"
+ },
+ {
+  "property": "ImpactMagnitudeToEndCatchup",
+  "offset": "0x2832",
+  "size": "0x4"
+ },
+ {
+  "property": "PoppedTireSpringLength",
+  "offset": "0x2836",
+  "size": "0x4"
+ },
+ {
+  "property": "PoppedTireSpringStiff",
+  "offset": "0x2840",
+  "size": "0x4"
+ },
+ {
+  "property": "PoppedTireSpringDamp",
+  "offset": "0x2844",
+  "size": "0x4"
+ },
+ {
+  "property": "PoppedTireScrapeFrictionMultiplier",
+  "offset": "0x2848",
+  "size": "0x4"
+ },
+ {
+  "property": "RimScrapeFlipRollMagnitude",
+  "offset": "0x2852",
+  "size": "0x4"
+ },
+ {
+  "property": "RimScrapeFlipPitchMagnitude",
+  "offset": "0x2856",
+  "size": "0x4"
+ },
+ {
+  "property": "SpeedForRimFlip",
+  "offset": "0x2860",
+  "size": "0x4"
+ },
+ {
+  "property": "HealthPercentForFlip",
+  "offset": "0x2864",
+  "size": "0x4"
+ },
+ {
+  "property": "FlipYawDuration",
+  "offset": "0x2868",
+  "size": "0x4"
+ },
+ {
+  "property": "FlipRollDuration",
+  "offset": "0x2872",
+  "size": "0x4"
+ },
+ {
+  "property": "FlipPitchDuration",
+  "offset": "0x2876",
+  "size": "0x4"
+ },
+ {
+  "property": "FlipExplodeDuration_Yaw",
+  "offset": "0x2880",
+  "size": "0x4"
+ },
+ {
+  "property": "FlipExplodeDuration_Pitch",
+  "offset": "0x2884",
+  "size": "0x4"
+ },
+ {
+  "property": "FlipPushForceDuration_Yaw",
+  "offset": "0x2888",
+  "size": "0x4"
+ },
+ {
+  "property": "FlipPushForceDuration_Pitch",
+  "offset": "0x2892",
+  "size": "0x4"
+ },
+ {
+  "property": "FlipPushForcMultiplier",
+  "offset": "0x2896",
+  "size": "0x4"
+ },
+ {
+  "property": "FlipPushForce_UpComponentPitch",
+  "offset": "0x2900",
+  "size": "0x4"
+ },
+ {
+  "property": "FlipPushForce_UpComponentRoll",
+  "offset": "0x2904",
+  "size": "0x4"
+ },
+ {
+  "property": "MinTimeInAirRequiredForExplodeLanding",
+  "offset": "0x2908",
+  "size": "0x4"
+ },
+ {
+  "property": "FlipYawSpringStiff",
+  "offset": "0x2912",
+  "size": "0x4"
+ },
+ {
+  "property": "FlipYawSpringDamp",
+  "offset": "0x2916",
+  "size": "0x4"
+ },
+ {
+  "property": "FlipYawSpringMaxAccel",
+  "offset": "0x2920",
+  "size": "0x4"
+ },
+ {
+  "property": "HealthPercentForExplode",
+  "offset": "0x2924",
+  "size": "0x4"
+ },
+ {
+  "property": "FlipRecoveryTime",
+  "offset": "0x2928",
+  "size": "0x4"
+ },
+ {
+  "property": "FlipMaxDuration",
+  "offset": "0x2932",
+  "size": "0x4"
+ },
+ {
+  "property": "FlipWiggleDuration",
+  "offset": "0x2936",
+  "size": "0x4"
+ },
+ {
+  "property": "PoppedTireVeerDuration",
+  "offset": "0x2940",
+  "size": "0x4"
+ },
+ {
+  "property": "PoppedTireVeerSteeringAngle",
+  "offset": "0x2944",
+  "size": "0x4"
+ },
+ {
+  "property": "FlipWiggleFrequency",
+  "offset": "0x2948",
+  "size": "0x4"
+ },
+ {
+  "property": "FlipWiggleSteeringAngle",
+  "offset": "0x2952",
+  "size": "0x4"
+ },
+ {
+  "property": "FlipYawAngleThreshold",
+  "offset": "0x2956",
+  "size": "0x4"
+ },
+ {
+  "property": "AnalogDriftStickThreshold",
+  "offset": "0x2960",
+  "size": "0x4"
+ },
+ {
+  "property": "TireBootRightSocketName",
+  "offset": "0x2964",
+  "size": "0x4"
+ },
+ {
+  "property": "TireBootLeftSocketName",
+  "offset": "0x2968",
+  "size": "0x4"
+ },
+ {
+  "property": "TireBootRelativeDistance",
+  "offset": "0x2972",
+  "size": "0x4"
+ },
+ {
+  "property": "TireSocketNames",
+  "offset": "0x2976",
+  "size": "0x16"
+ },
+ {
+  "property": "TireBoneNames",
+  "offset": "0x2992",
+  "size": "0x16"
+ },
+ {
+  "property": "RearTireIndices",
+  "offset": "0x3008",
+  "size": "0x16"
+ },
+ {
+  "property": "RightSideTires",
+  "offset": "0x3024",
+  "size": "0x16"
+ },
+ {
+  "property": "FakeTireIndices",
+  "offset": "0x3040",
+  "size": "0x16"
+ },
+ {
+  "property": "bNoWheels",
+  "offset": "0x3056",
+  "size": "0x1"
+ },
+ {
+  "property": "NoWheelsSpringLenMult",
+  "offset": "0x3060",
+  "size": "0x4"
+ },
+ {
+  "property": "NoWheelsBonesToHide",
+  "offset": "0x3064",
+  "size": "0x16"
+ },
+ {
+  "property": "ForwardChangeDirectionBrakeForceMultiplier",
+  "offset": "0x3080",
+  "size": "0x40"
+ },
+ {
+  "property": "ForwardChangeDirectionSpeedThreshold",
+  "offset": "0x3120",
+  "size": "0x40"
+ },
+ {
+  "property": "ReverseChangeDirectionBrakeForceMultiplier",
+  "offset": "0x3160",
+  "size": "0x40"
+ },
+ {
+  "property": "ReverseChangeDirectionSpeedThreshold",
+  "offset": "0x3200",
+  "size": "0x40"
+ },
+ {
+  "property": "UsesBoost",
+  "offset": "0x3240",
+  "size": "0x40"
+ },
+ {
+  "property": "Boost_MinPushForce",
+  "offset": "0x3280",
+  "size": "0x40"
+ },
+ {
+  "property": "Boost_TopSpeedForceMultiplier",
+  "offset": "0x3320",
+  "size": "0x40"
+ },
+ {
+  "property": "Boost_TopSpeedMultiplier",
+  "offset": "0x3360",
+  "size": "0x40"
+ },
+ {
+  "property": "Boost_SteeringMultiplier",
+  "offset": "0x3400",
+  "size": "0x40"
+ },
+ {
+  "property": "Boost_WaterMultiplier",
+  "offset": "0x3440",
+  "size": "0x40"
+ },
+ {
+  "property": "Boost_ForceInAir",
+  "offset": "0x3480",
+  "size": "0x40"
+ },
+ {
+  "property": "Boost_AirMaxSpeed",
+  "offset": "0x3520",
+  "size": "0x40"
+ },
+ {
+  "property": "UsesRechargeableBoost",
+  "offset": "0x3560",
+  "size": "0x40"
+ },
+ {
+  "property": "RechargeableBoost_RateOfUse",
+  "offset": "0x3600",
+  "size": "0x40"
+ },
+ {
+  "property": "RechargeableBoost_RateOfRegen",
+  "offset": "0x3640",
+  "size": "0x40"
+ },
+ {
+  "property": "RechargeableBoost_RateOfRegenMultMin",
+  "offset": "0x3680",
+  "size": "0x40"
+ },
+ {
+  "property": "RechargeableBoost_RateOfRegenMultMax",
+  "offset": "0x3720",
+  "size": "0x40"
+ },
+ {
+  "property": "RechargeableBoost_RegenMaxMultTime",
+  "offset": "0x3760",
+  "size": "0x40"
+ },
+ {
+  "property": "RechargeableBoost_RequiredPercentToActivate",
+  "offset": "0x3800",
+  "size": "0x40"
+ },
+ {
+  "property": "RechargeableBoost_MinPercent",
+  "offset": "0x3840",
+  "size": "0x40"
+ },
+ {
+  "property": "RechargeableBoost_MaxPercent",
+  "offset": "0x3880",
+  "size": "0x40"
+ },
+ {
+  "property": "TireModIdleUpdateSpeedThresholdKmH",
+  "offset": "0x3920",
+  "size": "0x40"
+ },
+ {
+  "property": "bCachedUsesBoost",
+  "offset": "0x3976",
+  "size": "0x1"
+ }
+]

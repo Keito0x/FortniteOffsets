@@ -1,0 +1,12 @@
+[
+ {
+  "property": "RuntimeData",
+  "offset": "0x200",
+  "size": "0x16"
+ },
+ {
+  "property": "PerPlayerConfigurations",
+  "offset": "0x216",
+  "size": "0x16"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "property": "EVENTS",
+  "offset": "0x264",
+  "size": "0x120"
+ },
+ {
+  "property": "EventData",
+  "offset": "0x384",
+  "size": "0x248"
+ }
+]

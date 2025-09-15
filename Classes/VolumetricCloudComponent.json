@@ -1,0 +1,147 @@
+[
+ {
+  "property": "LayerBottomAltitude",
+  "offset": "0x576",
+  "size": "0x4"
+ },
+ {
+  "property": "LayerHeight",
+  "offset": "0x580",
+  "size": "0x4"
+ },
+ {
+  "property": "TracingStartMaxDistance",
+  "offset": "0x584",
+  "size": "0x4"
+ },
+ {
+  "property": "TracingStartDistanceFromCamera",
+  "offset": "0x588",
+  "size": "0x4"
+ },
+ {
+  "property": "TracingMaxDistanceMode",
+  "offset": "0x592",
+  "size": "0x1"
+ },
+ {
+  "property": "TracingMaxDistance",
+  "offset": "0x596",
+  "size": "0x4"
+ },
+ {
+  "property": "PlanetRadius",
+  "offset": "0x600",
+  "size": "0x4"
+ },
+ {
+  "property": "GroundAlbedo",
+  "offset": "0x604",
+  "size": "0x4"
+ },
+ {
+  "property": "Material",
+  "offset": "0x608",
+  "size": "0x32"
+ },
+ {
+  "property": "bUsePerSampleAtmosphericLightTransmittance",
+  "offset": "0x640",
+  "size": "0x1"
+ },
+ {
+  "property": "SkyLightCloudBottomOcclusion",
+  "offset": "0x644",
+  "size": "0x4"
+ },
+ {
+  "property": "ViewSampleCountScale",
+  "offset": "0x648",
+  "size": "0x4"
+ },
+ {
+  "property": "ReflectionViewSampleCountScaleValue",
+  "offset": "0x652",
+  "size": "0x4"
+ },
+ {
+  "property": "ReflectionViewSampleCountScale",
+  "offset": "0x656",
+  "size": "0x4"
+ },
+ {
+  "property": "ReflectionSampleCountScale",
+  "offset": "0x660",
+  "size": "0x4"
+ },
+ {
+  "property": "ShadowViewSampleCountScale",
+  "offset": "0x664",
+  "size": "0x4"
+ },
+ {
+  "property": "ShadowReflectionViewSampleCountScaleValue",
+  "offset": "0x668",
+  "size": "0x4"
+ },
+ {
+  "property": "ShadowReflectionViewSampleCountScale",
+  "offset": "0x672",
+  "size": "0x4"
+ },
+ {
+  "property": "ShadowReflectionSampleCountScale",
+  "offset": "0x676",
+  "size": "0x4"
+ },
+ {
+  "property": "ShadowTracingDistance",
+  "offset": "0x680",
+  "size": "0x4"
+ },
+ {
+  "property": "StopTracingTransmittanceThreshold",
+  "offset": "0x684",
+  "size": "0x4"
+ },
+ {
+  "property": "AerialPespectiveRayleighScatteringStartDistance",
+  "offset": "0x688",
+  "size": "0x4"
+ },
+ {
+  "property": "AerialPespectiveRayleighScatteringFadeDistance",
+  "offset": "0x692",
+  "size": "0x4"
+ },
+ {
+  "property": "AerialPespectiveMieScatteringStartDistance",
+  "offset": "0x696",
+  "size": "0x4"
+ },
+ {
+  "property": "AerialPespectiveMieScatteringFadeDistance",
+  "offset": "0x700",
+  "size": "0x4"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x704",
+  "size": "0x1"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x704",
+  "size": "0x1"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x704",
+  "size": "0x1"
+ },
+ {
+  "property": "MaterialLifetimePtr",
+  "offset": "0x720",
+  "size": "0x8"
+ }
+]

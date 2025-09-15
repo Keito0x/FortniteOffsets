@@ -1,0 +1,17 @@
+[
+ {
+  "property": "SubmixSends",
+  "offset": "0x688",
+  "size": "0x8"
+ },
+ {
+  "property": "SubmixEffects",
+  "offset": "0x696",
+  "size": "0x8"
+ },
+ {
+  "property": "AGVComponent",
+  "offset": "0x704",
+  "size": "0x8"
+ }
+]

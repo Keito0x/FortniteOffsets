@@ -1,0 +1,17 @@
+[
+ {
+  "property": "ComponentMap",
+  "offset": "0x64",
+  "size": "0x80"
+ },
+ {
+  "property": "ComponentArray",
+  "offset": "0x232",
+  "size": "0x16"
+ },
+ {
+  "property": "Entities",
+  "offset": "0x248",
+  "size": "0x80"
+ }
+]

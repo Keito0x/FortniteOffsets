@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Stat",
+  "offset": "0x304",
+  "size": "0x1"
+ },
+ {
+  "property": "StatAttribute",
+  "offset": "0x312",
+  "size": "0x56"
+ }
+]

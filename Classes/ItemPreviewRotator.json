@@ -1,0 +1,7 @@
+[
+ {
+  "property": "CameraTransitionLerpDuration",
+  "offset": "0x1104",
+  "size": "0x4"
+ }
+]

@@ -1,0 +1,107 @@
+[
+ {
+  "property": "StartSeconds",
+  "offset": "0x40",
+  "size": "0x4"
+ },
+ {
+  "property": "DurationSeconds",
+  "offset": "0x44",
+  "size": "0x4"
+ },
+ {
+  "property": "FramesPerSecond",
+  "offset": "0x48",
+  "size": "0x4"
+ },
+ {
+  "property": "bLockToSimulationFrameRate",
+  "offset": "0x52",
+  "size": "0x1"
+ },
+ {
+  "property": "bPreviewLooping",
+  "offset": "0x52",
+  "size": "0x1"
+ },
+ {
+  "property": "FramesPerDimension",
+  "offset": "0x56",
+  "size": "0x8"
+ },
+ {
+  "property": "Outputs",
+  "offset": "0x64",
+  "size": "0x16"
+ },
+ {
+  "property": "CameraSettings",
+  "offset": "0x80",
+  "size": "0x16"
+ },
+ {
+  "property": "CurrentCameraIndex",
+  "offset": "0x96",
+  "size": "0x4"
+ },
+ {
+  "property": "BakeQualityLevel",
+  "offset": "0x100",
+  "size": "0x4"
+ },
+ {
+  "property": "bRenderComponentOnly",
+  "offset": "0x104",
+  "size": "0x1"
+ },
+ {
+  "property": "bPreviewLoopedOutput",
+  "offset": "0x104",
+  "size": "0x1"
+ },
+ {
+  "property": "OutputTextures",
+  "offset": "0x112",
+  "size": "0x16"
+ },
+ {
+  "property": "CameraViewportMode",
+  "offset": "0x128",
+  "size": "0x4"
+ },
+ {
+  "property": "CameraViewportLocation",
+  "offset": "0x136",
+  "size": "0x168"
+ },
+ {
+  "property": "CameraViewportRotation",
+  "offset": "0x304",
+  "size": "0x168"
+ },
+ {
+  "property": "CameraOrbitDistance",
+  "offset": "0x472",
+  "size": "0x4"
+ },
+ {
+  "property": "CameraFOV",
+  "offset": "0x476",
+  "size": "0x4"
+ },
+ {
+  "property": "CameraOrthoWidth",
+  "offset": "0x480",
+  "size": "0x4"
+ },
+ {
+  "property": "bUseCameraAspectRatio",
+  "offset": "0x484",
+  "size": "0x1"
+ },
+ {
+  "property": "CameraAspectRatio",
+  "offset": "0x488",
+  "size": "0x4"
+ }
+]

@@ -1,0 +1,202 @@
+[
+ {
+  "property": "Mesh",
+  "offset": "0x808",
+  "size": "0x8"
+ },
+ {
+  "property": "CharacterMovement",
+  "offset": "0x816",
+  "size": "0x8"
+ },
+ {
+  "property": "CapsuleComponent",
+  "offset": "0x824",
+  "size": "0x8"
+ },
+ {
+  "property": "BasedMovement",
+  "offset": "0x832",
+  "size": "0x64"
+ },
+ {
+  "property": "ReplicatedBasedMovement",
+  "offset": "0x896",
+  "size": "0x64"
+ },
+ {
+  "property": "ReplicatedServerLastTransformUpdateTimeStamp",
+  "offset": "0x960",
+  "size": "0x4"
+ },
+ {
+  "property": "ReplayLastTransformUpdateTimeStamp",
+  "offset": "0x964",
+  "size": "0x4"
+ },
+ {
+  "property": "BaseRotationOffset",
+  "offset": "0x976",
+  "size": "0x32"
+ },
+ {
+  "property": "BaseTranslationOffset",
+  "offset": "0x1008",
+  "size": "0x24"
+ },
+ {
+  "property": "ReplicatedGravityDirection",
+  "offset": "0x1032",
+  "size": "0x24"
+ },
+ {
+  "property": "Unknown_ffield",
+  "offset": "0x1080",
+  "size": "0x4"
+ },
+ {
+  "property": "CrouchedEyeHeight",
+  "offset": "0x1084",
+  "size": "0x4"
+ },
+ {
+  "property": "bInBaseReplication",
+  "offset": "0x1088",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsCrouched",
+  "offset": "0x1088",
+  "size": "0x1"
+ },
+ {
+  "property": "bProxyIsJumpForceApplied",
+  "offset": "0x1088",
+  "size": "0x1"
+ },
+ {
+  "property": "bPressedJump",
+  "offset": "0x1088",
+  "size": "0x1"
+ },
+ {
+  "property": "bClientUpdating",
+  "offset": "0x1088",
+  "size": "0x1"
+ },
+ {
+  "property": "bClientWasFalling",
+  "offset": "0x1088",
+  "size": "0x1"
+ },
+ {
+  "property": "bClientResimulateRootMotion",
+  "offset": "0x1088",
+  "size": "0x1"
+ },
+ {
+  "property": "bClientResimulateRootMotionSources",
+  "offset": "0x1088",
+  "size": "0x1"
+ },
+ {
+  "property": "bSimGravityDisabled",
+  "offset": "0x1089",
+  "size": "0x1"
+ },
+ {
+  "property": "bClientCheckEncroachmentOnNetUpdate",
+  "offset": "0x1089",
+  "size": "0x1"
+ },
+ {
+  "property": "bServerMoveIgnoreRootMotion",
+  "offset": "0x1089",
+  "size": "0x1"
+ },
+ {
+  "property": "bWasJumping",
+  "offset": "0x1089",
+  "size": "0x1"
+ },
+ {
+  "property": "ReplicatedMovementMode",
+  "offset": "0x1090",
+  "size": "0x1"
+ },
+ {
+  "property": "JumpKeyHoldTime",
+  "offset": "0x1092",
+  "size": "0x4"
+ },
+ {
+  "property": "JumpForceTimeRemaining",
+  "offset": "0x1096",
+  "size": "0x4"
+ },
+ {
+  "property": "ProxyJumpForceStartedTime",
+  "offset": "0x1100",
+  "size": "0x4"
+ },
+ {
+  "property": "JumpMaxHoldTime",
+  "offset": "0x1104",
+  "size": "0x4"
+ },
+ {
+  "property": "JumpMaxCount",
+  "offset": "0x1108",
+  "size": "0x4"
+ },
+ {
+  "property": "JumpCurrentCount",
+  "offset": "0x1112",
+  "size": "0x4"
+ },
+ {
+  "property": "JumpCurrentCountPreJump",
+  "offset": "0x1116",
+  "size": "0x4"
+ },
+ {
+  "property": "OnReachedJumpApex",
+  "offset": "0x1128",
+  "size": "0x16"
+ },
+ {
+  "property": "LandedDelegate",
+  "offset": "0x1144",
+  "size": "0x16"
+ },
+ {
+  "property": "MovementModeChangedDelegate",
+  "offset": "0x1160",
+  "size": "0x16"
+ },
+ {
+  "property": "OnCharacterMovementUpdated",
+  "offset": "0x1176",
+  "size": "0x16"
+ },
+ {
+  "property": "SavedRootMotion",
+  "offset": "0x1192",
+  "size": "0x72"
+ },
+ {
+  "property": "ClientRootMotionParams",
+  "offset": "0x1264",
+  "size": "0x112"
+ },
+ {
+  "property": "RootMotionRepMoves",
+  "offset": "0x1376",
+  "size": "0x16"
+ },
+ {
+  "property": "RepRootMotion",
+  "offset": "0x1392",
+  "size": "0x200"
+ }
+]

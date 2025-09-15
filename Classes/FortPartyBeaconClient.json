@@ -1,0 +1,22 @@
+[
+ {
+  "property": "PendingEmptyReservation",
+  "offset": "0x1024",
+  "size": "0x96"
+ },
+ {
+  "property": "ReconnectionInitialTimeout",
+  "offset": "0x1168",
+  "size": "0x4"
+ },
+ {
+  "property": "ReconnectionTimeout",
+  "offset": "0x1172",
+  "size": "0x4"
+ },
+ {
+  "property": "bHasReconnected",
+  "offset": "0x1176",
+  "size": "0x1"
+ }
+]

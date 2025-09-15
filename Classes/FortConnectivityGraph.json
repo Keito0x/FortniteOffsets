@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Vertices",
+  "offset": "0x136",
+  "size": "0x80"
+ },
+ {
+  "property": "Islands",
+  "offset": "0x216",
+  "size": "0x80"
+ }
+]

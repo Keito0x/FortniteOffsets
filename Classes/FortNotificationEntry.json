@@ -1,0 +1,32 @@
+[
+ {
+  "property": "FinishedDisplayingNotification",
+  "offset": "0x824",
+  "size": "0x16"
+ },
+ {
+  "property": "DisplayTime",
+  "offset": "0x840",
+  "size": "0x4"
+ },
+ {
+  "property": "MinDisplayTime",
+  "offset": "0x844",
+  "size": "0x4"
+ },
+ {
+  "property": "bRushDisplay",
+  "offset": "0x848",
+  "size": "0x1"
+ },
+ {
+  "property": "RushWidgetThreshold",
+  "offset": "0x852",
+  "size": "0x4"
+ },
+ {
+  "property": "LinkedNotifications",
+  "offset": "0x856",
+  "size": "0x16"
+ }
+]

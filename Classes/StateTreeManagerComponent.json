@@ -1,0 +1,17 @@
+[
+ {
+  "property": "StateTreeRuntimeDataList",
+  "offset": "0x192",
+  "size": "0x16"
+ },
+ {
+  "property": "SimulatedDataList",
+  "offset": "0x208",
+  "size": "0x16"
+ },
+ {
+  "property": "ReplicatedStateChanges",
+  "offset": "0x224",
+  "size": "0x288"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "property": "EditorThreadingOptions",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "GameThreadingOptions",
+  "offset": "0x64",
+  "size": "0x16"
+ }
+]

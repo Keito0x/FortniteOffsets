@@ -1,0 +1,22 @@
+[
+ {
+  "property": "TargetActor",
+  "offset": "0x72",
+  "size": "0x8"
+ },
+ {
+  "property": "bKeepZeroDensityPoints",
+  "offset": "0x80",
+  "size": "0x1"
+ },
+ {
+  "property": "bHasCachedLastSelector",
+  "offset": "0x81",
+  "size": "0x1"
+ },
+ {
+  "property": "CachedLastSelector",
+  "offset": "0x88",
+  "size": "0x48"
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "property": "MediaPreEndEvent",
+  "offset": "0x1288",
+  "size": "0x16"
+ },
+ {
+  "property": "SubtitlePlayer",
+  "offset": "0x1304",
+  "size": "0x8"
+ },
+ {
+  "property": "SubtitleOverlays",
+  "offset": "0x1312",
+  "size": "0x8"
+ },
+ {
+  "property": "Subtitles",
+  "offset": "0x1320",
+  "size": "0x8"
+ }
+]

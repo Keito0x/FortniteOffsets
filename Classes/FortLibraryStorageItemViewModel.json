@@ -1,0 +1,77 @@
+[
+ {
+  "property": "StorageItemId",
+  "offset": "0x104",
+  "size": "0x16"
+ },
+ {
+  "property": "LinkCode",
+  "offset": "0x120",
+  "size": "0x16"
+ },
+ {
+  "property": "Title",
+  "offset": "0x136",
+  "size": "0x16"
+ },
+ {
+  "property": "Description",
+  "offset": "0x152",
+  "size": "0x16"
+ },
+ {
+  "property": "RequiredText",
+  "offset": "0x168",
+  "size": "0x16"
+ },
+ {
+  "property": "IconType",
+  "offset": "0x184",
+  "size": "0x1"
+ },
+ {
+  "property": "IconTexture",
+  "offset": "0x192",
+  "size": "0x8"
+ },
+ {
+  "property": "StorageItemSize",
+  "offset": "0x200",
+  "size": "0x8"
+ },
+ {
+  "property": "FreeSpaceSize",
+  "offset": "0x208",
+  "size": "0x8"
+ },
+ {
+  "property": "DownloadSpaceSize",
+  "offset": "0x216",
+  "size": "0x8"
+ },
+ {
+  "property": "bIsDownloadable",
+  "offset": "0x224",
+  "size": "0x1"
+ },
+ {
+  "property": "DownloadStatus",
+  "offset": "0x225",
+  "size": "0x1"
+ },
+ {
+  "property": "DownloadProgress",
+  "offset": "0x228",
+  "size": "0x4"
+ },
+ {
+  "property": "QueuePosition",
+  "offset": "0x232",
+  "size": "0x4"
+ },
+ {
+  "property": "bIsCoreContent",
+  "offset": "0x236",
+  "size": "0x1"
+ }
+]

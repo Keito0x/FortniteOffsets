@@ -1,0 +1,17 @@
+[
+ {
+  "property": "FeedbackEvents",
+  "offset": "0x48",
+  "size": "0x80"
+ },
+ {
+  "property": "bIsAthenaData",
+  "offset": "0x128",
+  "size": "0x1"
+ },
+ {
+  "property": "BankDefinedFeedbackEvents",
+  "offset": "0x136",
+  "size": "0x80"
+ }
+]

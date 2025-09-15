@@ -1,0 +1,17 @@
+[
+ {
+  "property": "Item",
+  "offset": "0x104",
+  "size": "0x8"
+ },
+ {
+  "property": "ItemsInOtherCategories",
+  "offset": "0x112",
+  "size": "0x16"
+ },
+ {
+  "property": "bIsEquippedInOtherCategory",
+  "offset": "0x144",
+  "size": "0x1"
+ }
+]

@@ -1,0 +1,67 @@
+[
+ {
+  "property": "Spline",
+  "offset": "0x1304",
+  "size": "0x40"
+ },
+ {
+  "property": "SplineCurves",
+  "offset": "0x1344",
+  "size": "0x104"
+ },
+ {
+  "property": "ReparamStepsPerSegment",
+  "offset": "0x1448",
+  "size": "0x4"
+ },
+ {
+  "property": "duration",
+  "offset": "0x1452",
+  "size": "0x4"
+ },
+ {
+  "property": "bStationaryEndpoints",
+  "offset": "0x1456",
+  "size": "0x1"
+ },
+ {
+  "property": "bSplineHasBeenEdited",
+  "offset": "0x1457",
+  "size": "0x1"
+ },
+ {
+  "property": "bModifiedByConstructionScript",
+  "offset": "0x1458",
+  "size": "0x1"
+ },
+ {
+  "property": "bInputSplinePointsToConstructionScript",
+  "offset": "0x1459",
+  "size": "0x1"
+ },
+ {
+  "property": "bDrawDebug",
+  "offset": "0x1460",
+  "size": "0x1"
+ },
+ {
+  "property": "bClosedLoop",
+  "offset": "0x1461",
+  "size": "0x1"
+ },
+ {
+  "property": "bLoopPositionOverride",
+  "offset": "0x1462",
+  "size": "0x1"
+ },
+ {
+  "property": "LoopPosition",
+  "offset": "0x1464",
+  "size": "0x4"
+ },
+ {
+  "property": "DefaultUpVector",
+  "offset": "0x1472",
+  "size": "0x24"
+ }
+]

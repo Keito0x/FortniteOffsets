@@ -1,0 +1,12 @@
+[
+ {
+  "property": "ScalarParameterInfosAndCurves",
+  "offset": "0x272",
+  "size": "0x16"
+ },
+ {
+  "property": "ColorParameterInfosAndCurves",
+  "offset": "0x288",
+  "size": "0x16"
+ }
+]

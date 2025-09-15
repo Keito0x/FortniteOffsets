@@ -1,0 +1,22 @@
+[
+ {
+  "property": "OnProcGenReady",
+  "offset": "0x152",
+  "size": "0x16"
+ },
+ {
+  "property": "OnProcGenStarted",
+  "offset": "0x168",
+  "size": "0x16"
+ },
+ {
+  "property": "OnProcGenFinished",
+  "offset": "0x184",
+  "size": "0x16"
+ },
+ {
+  "property": "ActiveGeneratingActors",
+  "offset": "0x216",
+  "size": "0x80"
+ }
+]

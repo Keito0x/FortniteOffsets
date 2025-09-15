@@ -1,0 +1,42 @@
+[
+ {
+  "property": "GameplayAbilityTagContainer",
+  "offset": "0x104",
+  "size": "0x40"
+ },
+ {
+  "property": "TargetValue",
+  "offset": "0x144",
+  "size": "0x24"
+ },
+ {
+  "property": "ActiveAbilityTagsToSkipTestingValue",
+  "offset": "0x168",
+  "size": "0x40"
+ },
+ {
+  "property": "bUseTarget",
+  "offset": "0x208",
+  "size": "0x1"
+ },
+ {
+  "property": "GameplayAbilityTag",
+  "offset": "0x216",
+  "size": "0x32"
+ },
+ {
+  "property": "GameplayAbilityTagBlackboardKey",
+  "offset": "0x248",
+  "size": "0x40"
+ },
+ {
+  "property": "Target",
+  "offset": "0x288",
+  "size": "0x40"
+ },
+ {
+  "property": "ActiveAbilityTagsToSkipTesting",
+  "offset": "0x328",
+  "size": "0x32"
+ }
+]

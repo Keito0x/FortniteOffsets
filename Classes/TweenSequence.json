@@ -1,0 +1,17 @@
+[
+ {
+  "property": "SequenceEntries",
+  "offset": "0x40",
+  "size": "0x16"
+ },
+ {
+  "property": "TweenManager",
+  "offset": "0x56",
+  "size": "0x8"
+ },
+ {
+  "property": "TimerHandles",
+  "offset": "0x64",
+  "size": "0x16"
+ }
+]

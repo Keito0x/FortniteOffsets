@@ -1,0 +1,12 @@
+[
+ {
+  "property": "InputValue",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "RowValues",
+  "offset": "0x64",
+  "size": "0x16"
+ }
+]

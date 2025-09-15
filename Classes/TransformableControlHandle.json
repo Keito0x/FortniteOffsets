@@ -1,0 +1,12 @@
+[
+ {
+  "property": "ControlRig",
+  "offset": "0x96",
+  "size": "0x32"
+ },
+ {
+  "property": "ControlName",
+  "offset": "0x128",
+  "size": "0x4"
+ }
+]

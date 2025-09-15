@@ -1,0 +1,32 @@
+[
+ {
+  "property": "ErrorMessage",
+  "offset": "0x40",
+  "size": "0x24"
+ },
+ {
+  "property": "Icon",
+  "offset": "0x64",
+  "size": "0x8"
+ },
+ {
+  "property": "PlayButtonTextOverride",
+  "offset": "0x72",
+  "size": "0x16"
+ },
+ {
+  "property": "PlayButtonSubtitle",
+  "offset": "0x88",
+  "size": "0x16"
+ },
+ {
+  "property": "SecondaryButtonTextOverride",
+  "offset": "0x104",
+  "size": "0x16"
+ },
+ {
+  "property": "bImpliesReadyUp",
+  "offset": "0x120",
+  "size": "0x1"
+ }
+]

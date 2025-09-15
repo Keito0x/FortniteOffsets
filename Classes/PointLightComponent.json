@@ -1,0 +1,27 @@
+[
+ {
+  "property": "bUseInverseSquaredFalloff",
+  "offset": "0x952",
+  "size": "0x1"
+ },
+ {
+  "property": "LightFalloffExponent",
+  "offset": "0x956",
+  "size": "0x4"
+ },
+ {
+  "property": "SourceRadius",
+  "offset": "0x960",
+  "size": "0x4"
+ },
+ {
+  "property": "SoftSourceRadius",
+  "offset": "0x964",
+  "size": "0x4"
+ },
+ {
+  "property": "SourceLength",
+  "offset": "0x968",
+  "size": "0x4"
+ }
+]

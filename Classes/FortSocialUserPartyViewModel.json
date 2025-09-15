@@ -1,0 +1,22 @@
+[
+ {
+  "property": "bIsPartyLeader",
+  "offset": "0x120",
+  "size": "0x1"
+ },
+ {
+  "property": "bCanJoinParty",
+  "offset": "0x121",
+  "size": "0x1"
+ },
+ {
+  "property": "PartyReadiness",
+  "offset": "0x128",
+  "size": "0x16"
+ },
+ {
+  "property": "NumPlayersInParty",
+  "offset": "0x144",
+  "size": "0x4"
+ }
+]

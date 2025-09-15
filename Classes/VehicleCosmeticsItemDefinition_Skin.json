@@ -1,0 +1,42 @@
+[
+ {
+  "property": "bLockBodyColor",
+  "offset": "0x528",
+  "size": "0x1"
+ },
+ {
+  "property": "bLockGlowColor",
+  "offset": "0x529",
+  "size": "0x1"
+ },
+ {
+  "property": "LockedBodyColor",
+  "offset": "0x532",
+  "size": "0x16"
+ },
+ {
+  "property": "LockedSkinColor",
+  "offset": "0x548",
+  "size": "0x16"
+ },
+ {
+  "property": "LockedGlowColor",
+  "offset": "0x564",
+  "size": "0x16"
+ },
+ {
+  "property": "PaintedDataTableParameterName",
+  "offset": "0x580",
+  "size": "0x4"
+ },
+ {
+  "property": "PaintedEnumParameterName",
+  "offset": "0x584",
+  "size": "0x4"
+ },
+ {
+  "property": "AdditionalSkinInfos",
+  "offset": "0x592",
+  "size": "0x16"
+ }
+]

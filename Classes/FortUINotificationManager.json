@@ -1,0 +1,17 @@
+[
+ {
+  "property": "UINotificationQueues",
+  "offset": "0x40",
+  "size": "0x16"
+ },
+ {
+  "property": "LocalPlayer",
+  "offset": "0x56",
+  "size": "0x8"
+ },
+ {
+  "property": "DelayedFriendNotification",
+  "offset": "0x152",
+  "size": "0x8"
+ }
+]

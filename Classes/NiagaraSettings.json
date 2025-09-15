@@ -1,0 +1,157 @@
+[
+ {
+  "property": "bSystemsSupportLargeWorldCoordinates",
+  "offset": "0x48",
+  "size": "0x1"
+ },
+ {
+  "property": "LargeWorldCoordinateTileUpdateMode",
+  "offset": "0x49",
+  "size": "0x1"
+ },
+ {
+  "property": "LargeWorldCoordinateMaxTilesBeforeReset",
+  "offset": "0x52",
+  "size": "0x4"
+ },
+ {
+  "property": "bEnforceStrictStackTypes",
+  "offset": "0x56",
+  "size": "0x1"
+ },
+ {
+  "property": "bAccurateQuatInterpolation",
+  "offset": "0x57",
+  "size": "0x1"
+ },
+ {
+  "property": "InvalidNamespaceWriteSeverity",
+  "offset": "0x58",
+  "size": "0x1"
+ },
+ {
+  "property": "bLimitDeltaTime",
+  "offset": "0x59",
+  "size": "0x1"
+ },
+ {
+  "property": "MaxDeltaTimePerTick",
+  "offset": "0x60",
+  "size": "0x4"
+ },
+ {
+  "property": "DefaultEffectType",
+  "offset": "0x64",
+  "size": "0x24"
+ },
+ {
+  "property": "bAllowCreateActorFromSystemWithNoEffectType",
+  "offset": "0x88",
+  "size": "0x1"
+ },
+ {
+  "property": "PositionPinTypeColor",
+  "offset": "0x92",
+  "size": "0x16"
+ },
+ {
+  "property": "ByteCodeStripOption",
+  "offset": "0x108",
+  "size": "0x1"
+ },
+ {
+  "property": "QualityLevels",
+  "offset": "0x112",
+  "size": "0x16"
+ },
+ {
+  "property": "ComponentRendererWarningsPerClass",
+  "offset": "0x128",
+  "size": "0x80"
+ },
+ {
+  "property": "DefaultRenderTargetFormat",
+  "offset": "0x208",
+  "size": "0x1"
+ },
+ {
+  "property": "DefaultGridFormat",
+  "offset": "0x209",
+  "size": "0x1"
+ },
+ {
+  "property": "DefaultRendererMotionVectorSetting",
+  "offset": "0x210",
+  "size": "0x1"
+ },
+ {
+  "property": "DefaultPixelCoverageMode",
+  "offset": "0x211",
+  "size": "0x1"
+ },
+ {
+  "property": "DefaultSortPrecision",
+  "offset": "0x212",
+  "size": "0x1"
+ },
+ {
+  "property": "DefaultGpuTranslucentLatency",
+  "offset": "0x213",
+  "size": "0x1"
+ },
+ {
+  "property": "DefaultLightInverseExposureBlend",
+  "offset": "0x216",
+  "size": "0x4"
+ },
+ {
+  "property": "NDISkelMesh_SupportReadingDeformedGeometry",
+  "offset": "0x220",
+  "size": "0x1"
+ },
+ {
+  "property": "NDISkelMesh_Support16BitIndexWeight",
+  "offset": "0x221",
+  "size": "0x1"
+ },
+ {
+  "property": "NDISkelMesh_GpuMaxInfluences",
+  "offset": "0x222",
+  "size": "0x1"
+ },
+ {
+  "property": "NDISkelMesh_GpuUniformSamplingFormat",
+  "offset": "0x223",
+  "size": "0x1"
+ },
+ {
+  "property": "NDISkelMesh_AdjacencyTriangleIndexFormat",
+  "offset": "0x224",
+  "size": "0x1"
+ },
+ {
+  "property": "NDIStaticMesh_AllowDistanceFields",
+  "offset": "0x225",
+  "size": "0x1"
+ },
+ {
+  "property": "NDICollisionQuery_AsyncGpuTraceProviderOrder",
+  "offset": "0x232",
+  "size": "0x16"
+ },
+ {
+  "property": "SimCacheAuxiliaryFileBasePath",
+  "offset": "0x248",
+  "size": "0x16"
+ },
+ {
+  "property": "SimCacheMaxCPUMemoryVolumetrics",
+  "offset": "0x264",
+  "size": "0x8"
+ },
+ {
+  "property": "PlatformSetRedirects",
+  "offset": "0x272",
+  "size": "0x16"
+ }
+]

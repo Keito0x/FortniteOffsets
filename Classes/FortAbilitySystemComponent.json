@@ -1,0 +1,17 @@
+[
+ {
+  "property": "OnClientVehicleBlockingChanged",
+  "offset": "0x4712",
+  "size": "0x16"
+ },
+ {
+  "property": "LandingMontagePair",
+  "offset": "0x5416",
+  "size": "0x32"
+ },
+ {
+  "property": "RepSharedAnimInfo",
+  "offset": "0x5456",
+  "size": "0x16"
+ }
+]

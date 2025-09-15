@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Skeleton",
+  "offset": "0x56",
+  "size": "0x8"
+ },
+ {
+  "property": "SkeletalMeshes",
+  "offset": "0x64",
+  "size": "0x16"
+ }
+]

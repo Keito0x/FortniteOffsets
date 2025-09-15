@@ -1,0 +1,557 @@
+[
+ {
+  "property": "TagQueryToFly",
+  "offset": "0x512",
+  "size": "0x72"
+ },
+ {
+  "property": "bUseNativeUpdateForMovement",
+  "offset": "0x584",
+  "size": "0x1"
+ },
+ {
+  "property": "FlyingStatusConfigs",
+  "offset": "0x592",
+  "size": "0x16"
+ },
+ {
+  "property": "FlyingThroughCeilingGE",
+  "offset": "0x608",
+  "size": "0x8"
+ },
+ {
+  "property": "FlyingThroughCeilingTag",
+  "offset": "0x616",
+  "size": "0x4"
+ },
+ {
+  "property": "EnergyDrainCueTag",
+  "offset": "0x620",
+  "size": "0x4"
+ },
+ {
+  "property": "CrashEnabledCueTag",
+  "offset": "0x624",
+  "size": "0x4"
+ },
+ {
+  "property": "HitBonkCueTag",
+  "offset": "0x628",
+  "size": "0x4"
+ },
+ {
+  "property": "EventTagToTriggerWhenMiniBoosting",
+  "offset": "0x632",
+  "size": "0x4"
+ },
+ {
+  "property": "EventTagToTriggerCrashImpact",
+  "offset": "0x636",
+  "size": "0x4"
+ },
+ {
+  "property": "TagsToPreventLowFrictionLanding",
+  "offset": "0x640",
+  "size": "0x32"
+ },
+ {
+  "property": "LowFrictionLandingGE",
+  "offset": "0x672",
+  "size": "0x8"
+ },
+ {
+  "property": "TagToSetByCallerDuration",
+  "offset": "0x680",
+  "size": "0x4"
+ },
+ {
+  "property": "BaseFlyingCost",
+  "offset": "0x688",
+  "size": "0x40"
+ },
+ {
+  "property": "FlyingStatusToStopBaseCost",
+  "offset": "0x728",
+  "size": "0x4"
+ },
+ {
+  "property": "ExtraLeapCrashCost",
+  "offset": "0x736",
+  "size": "0x40"
+ },
+ {
+  "property": "HeightIncreasePer1Cost",
+  "offset": "0x776",
+  "size": "0x40"
+ },
+ {
+  "property": "DodgeSpeedMin",
+  "offset": "0x816",
+  "size": "0x40"
+ },
+ {
+  "property": "DodgeSpeedMax",
+  "offset": "0x856",
+  "size": "0x40"
+ },
+ {
+  "property": "DodgeSpeedDecayInitialDelay",
+  "offset": "0x896",
+  "size": "0x40"
+ },
+ {
+  "property": "DodgeSpeedRampExponent",
+  "offset": "0x936",
+  "size": "0x40"
+ },
+ {
+  "property": "DodgeSpeedDecayExponent",
+  "offset": "0x976",
+  "size": "0x40"
+ },
+ {
+  "property": "DodgeDuration",
+  "offset": "0x1016",
+  "size": "0x40"
+ },
+ {
+  "property": "StartedFlyingTransitionDuration",
+  "offset": "0x1056",
+  "size": "0x40"
+ },
+ {
+  "property": "StartedFlyingSpeedBoundForInterpMin",
+  "offset": "0x1096",
+  "size": "0x40"
+ },
+ {
+  "property": "StartedFlyingSpeedBoundForInterpMax",
+  "offset": "0x1136",
+  "size": "0x40"
+ },
+ {
+  "property": "StartedFlyingVelocityInterpSpeedAtMinSpeed",
+  "offset": "0x1176",
+  "size": "0x40"
+ },
+ {
+  "property": "StartedFlyingVelocityInterpSpeedAtMaxSpeed",
+  "offset": "0x1216",
+  "size": "0x40"
+ },
+ {
+  "property": "FlyingLookPitchClampMin",
+  "offset": "0x1256",
+  "size": "0x40"
+ },
+ {
+  "property": "FlyingLookPitchClampMax",
+  "offset": "0x1296",
+  "size": "0x40"
+ },
+ {
+  "property": "DefaultLookPitchAngleOffset",
+  "offset": "0x1336",
+  "size": "0x40"
+ },
+ {
+  "property": "CrashingLookPitchClampMin",
+  "offset": "0x1376",
+  "size": "0x40"
+ },
+ {
+  "property": "CrashingLookPitchClampMax",
+  "offset": "0x1416",
+  "size": "0x40"
+ },
+ {
+  "property": "CrashingInputWeightLookDirection",
+  "offset": "0x1456",
+  "size": "0x40"
+ },
+ {
+  "property": "FlyingInputWeightLockDirection",
+  "offset": "0x1496",
+  "size": "0x40"
+ },
+ {
+  "property": "FlyingInputWeightHorizontal",
+  "offset": "0x1536",
+  "size": "0x40"
+ },
+ {
+  "property": "PitchInterpSpeedWhileCrashing",
+  "offset": "0x1576",
+  "size": "0x40"
+ },
+ {
+  "property": "PitchInterpSpeedAtBaseSpeed",
+  "offset": "0x1616",
+  "size": "0x40"
+ },
+ {
+  "property": "PitchInterpSpeedAtMaxLateralSpeed",
+  "offset": "0x1656",
+  "size": "0x40"
+ },
+ {
+  "property": "PitchInterpSpeedAtMaxTotalSpeed",
+  "offset": "0x1696",
+  "size": "0x40"
+ },
+ {
+  "property": "YawInterpSpeedWhileCrashing",
+  "offset": "0x1736",
+  "size": "0x40"
+ },
+ {
+  "property": "YawInterpSpeedAtMinBrakeSpeed",
+  "offset": "0x1776",
+  "size": "0x40"
+ },
+ {
+  "property": "YawInterpSpeedAtBaseSpeed",
+  "offset": "0x1816",
+  "size": "0x40"
+ },
+ {
+  "property": "YawInterpSpeedAtMaxLateralSpeed",
+  "offset": "0x1856",
+  "size": "0x40"
+ },
+ {
+  "property": "InputInterpSpeedHorizontal",
+  "offset": "0x1896",
+  "size": "0x40"
+ },
+ {
+  "property": "CrashingMovementInterpSpeed",
+  "offset": "0x1936",
+  "size": "0x40"
+ },
+ {
+  "property": "AscendingLookPitchClampMin",
+  "offset": "0x1976",
+  "size": "0x40"
+ },
+ {
+  "property": "CeilingHeightIncreaseSpeedWhileAscendingMin",
+  "offset": "0x2016",
+  "size": "0x40"
+ },
+ {
+  "property": "CeilingHeightIncreaseSpeedWhileAscendingMax",
+  "offset": "0x2056",
+  "size": "0x40"
+ },
+ {
+  "property": "MaxCeilingHeightAddLimitFromAscend",
+  "offset": "0x2096",
+  "size": "0x40"
+ },
+ {
+  "property": "AscendingSpeedZUpAddedMin",
+  "offset": "0x2136",
+  "size": "0x40"
+ },
+ {
+  "property": "AscendingSpeedZUpAddedMax",
+  "offset": "0x2176",
+  "size": "0x40"
+ },
+ {
+  "property": "MaxCeilingHeightAddLimitFromBoost",
+  "offset": "0x2216",
+  "size": "0x40"
+ },
+ {
+  "property": "CeilingHeightIncreaseSpeedWhileBoostingMin",
+  "offset": "0x2256",
+  "size": "0x40"
+ },
+ {
+  "property": "CeilingHeightIncreaseSpeedWhileBoostingMax",
+  "offset": "0x2296",
+  "size": "0x40"
+ },
+ {
+  "property": "PercentMaxLookPitchForMaxBoostCeilingHeightIncrease",
+  "offset": "0x2336",
+  "size": "0x40"
+ },
+ {
+  "property": "PreCrashWindUpDuration",
+  "offset": "0x2376",
+  "size": "0x40"
+ },
+ {
+  "property": "CrashingSpeedBase",
+  "offset": "0x2416",
+  "size": "0x40"
+ },
+ {
+  "property": "CrashingSpeedAddedAtMaxDistanceFromCeilingHeight",
+  "offset": "0x2456",
+  "size": "0x40"
+ },
+ {
+  "property": "DistanceFromCeilingHeightForMaxCrashingSpeedAdded",
+  "offset": "0x2496",
+  "size": "0x40"
+ },
+ {
+  "property": "CrashingLookPitchClampFinalMax",
+  "offset": "0x2536",
+  "size": "0x40"
+ },
+ {
+  "property": "CrashingLookPitchClampDelayBeforeLerpToFinalMax",
+  "offset": "0x2576",
+  "size": "0x40"
+ },
+ {
+  "property": "CrashingLookPitchClampDurationToLerpToFinalMax",
+  "offset": "0x2616",
+  "size": "0x40"
+ },
+ {
+  "property": "PreCrashingSpeedBase",
+  "offset": "0x2656",
+  "size": "0x40"
+ },
+ {
+  "property": "PreCrashingInterpToSpeedMod",
+  "offset": "0x2696",
+  "size": "0x40"
+ },
+ {
+  "property": "DistanceFromCeilingHeightForCrashMode",
+  "offset": "0x2736",
+  "size": "0x40"
+ },
+ {
+  "property": "MinAngleToPreventCrash",
+  "offset": "0x2776",
+  "size": "0x40"
+ },
+ {
+  "property": "CrashImpactIgnoreWaterDuration",
+  "offset": "0x2816",
+  "size": "0x40"
+ },
+ {
+  "property": "MaxAngleForLowFrictionLanding",
+  "offset": "0x2856",
+  "size": "0x40"
+ },
+ {
+  "property": "LowFrictionDurationMin",
+  "offset": "0x2896",
+  "size": "0x40"
+ },
+ {
+  "property": "LowFrictionDurationMax",
+  "offset": "0x2936",
+  "size": "0x40"
+ },
+ {
+  "property": "LowFrictionDurationScalar",
+  "offset": "0x2976",
+  "size": "0x40"
+ },
+ {
+  "property": "SpeedForMinLowFrictionMult",
+  "offset": "0x3016",
+  "size": "0x40"
+ },
+ {
+  "property": "SpeedForMaxLowFrictionMult",
+  "offset": "0x3056",
+  "size": "0x40"
+ },
+ {
+  "property": "LowFrictionMultFromSpeedMin",
+  "offset": "0x3096",
+  "size": "0x40"
+ },
+ {
+  "property": "LowFrictionMultFromSpeedMax",
+  "offset": "0x3136",
+  "size": "0x40"
+ },
+ {
+  "property": "ImpactAngleForMaxLowFrictionDuration",
+  "offset": "0x3176",
+  "size": "0x40"
+ },
+ {
+  "property": "ImpactAngleForMinLowFrictionDuration",
+  "offset": "0x3216",
+  "size": "0x40"
+ },
+ {
+  "property": "LowFrictionMultFromImpactAngleMax",
+  "offset": "0x3256",
+  "size": "0x40"
+ },
+ {
+  "property": "LowFrictionMultFromImpactAngleMin",
+  "offset": "0x3296",
+  "size": "0x40"
+ },
+ {
+  "property": "FlyingSpeedBase",
+  "offset": "0x3336",
+  "size": "0x40"
+ },
+ {
+  "property": "FlyingSpeedAddedAtMaxDistanceFromCeilingHeight",
+  "offset": "0x3376",
+  "size": "0x40"
+ },
+ {
+  "property": "FlyingDownZSpeedAddedWhileFalling",
+  "offset": "0x3416",
+  "size": "0x40"
+ },
+ {
+  "property": "DistanceFromCeilingHeightForMaxFlyingSpeedAdded",
+  "offset": "0x3456",
+  "size": "0x40"
+ },
+ {
+  "property": "AirBrakingDefaultMultiMin",
+  "offset": "0x3496",
+  "size": "0x40"
+ },
+ {
+  "property": "AirBrakingDownSpeedMultiMin",
+  "offset": "0x3536",
+  "size": "0x40"
+ },
+ {
+  "property": "ForwardInputThresholdToTriggerMiniBoost",
+  "offset": "0x3576",
+  "size": "0x40"
+ },
+ {
+  "property": "PercentMaxCeilingHeightToAddFromDefaultForwardFlyingInput",
+  "offset": "0x3616",
+  "size": "0x40"
+ },
+ {
+  "property": "CeilingHeightIncreaseSpeedWhileHoldingForwardMin",
+  "offset": "0x3656",
+  "size": "0x40"
+ },
+ {
+  "property": "CeilingHeightIncreaseSpeedWhileHoldingForwardMax",
+  "offset": "0x3696",
+  "size": "0x40"
+ },
+ {
+  "property": "CeilingHeightDecreaseSpeedWhileFlyingAsPctDistanceFromMaxHeight",
+  "offset": "0x3736",
+  "size": "0x40"
+ },
+ {
+  "property": "CeilingHeightMinDecreaseSpeedWhileFlying",
+  "offset": "0x3776",
+  "size": "0x40"
+ },
+ {
+  "property": "CeilingHeightMinDecreaseSpeedWhileBoosting",
+  "offset": "0x3816",
+  "size": "0x40"
+ },
+ {
+  "property": "CeilingHeightDecreaseSpeedWhileBoostingAsPctDistanceFromMaxHeight",
+  "offset": "0x3856",
+  "size": "0x40"
+ },
+ {
+  "property": "CeilingHeightMinDecreaseSpeedWhileAscending",
+  "offset": "0x3896",
+  "size": "0x40"
+ },
+ {
+  "property": "CeilingHeightDecreaseSpeedWhileAscendingAsPctDistanceFromMaxHeight",
+  "offset": "0x3936",
+  "size": "0x40"
+ },
+ {
+  "property": "HeightAboveWorldInterpSpeedIncreasing",
+  "offset": "0x3976",
+  "size": "0x40"
+ },
+ {
+  "property": "HeightAboveWorldInterpSpeedDecreasing",
+  "offset": "0x4016",
+  "size": "0x40"
+ },
+ {
+  "property": "HeightForMinAddedCeilingDecay",
+  "offset": "0x4056",
+  "size": "0x40"
+ },
+ {
+  "property": "HeightForMaxAddedCeilingDecay",
+  "offset": "0x4096",
+  "size": "0x40"
+ },
+ {
+  "property": "MaxAddedCeilingDecayFromHeight",
+  "offset": "0x4136",
+  "size": "0x40"
+ },
+ {
+  "property": "EnergyThresholdForAddedCeilingDecay",
+  "offset": "0x4176",
+  "size": "0x40"
+ },
+ {
+  "property": "MaxAddedCeilingDecayFromEnergy",
+  "offset": "0x4216",
+  "size": "0x40"
+ },
+ {
+  "property": "GlobalCeilingHeightMax",
+  "offset": "0x4256",
+  "size": "0x40"
+ },
+ {
+  "property": "GlobalCeilingHeightDiminishingReturnsExponent",
+  "offset": "0x4296",
+  "size": "0x40"
+ },
+ {
+  "property": "GlobalCeilingHeightDiminishingReturnsRange",
+  "offset": "0x4336",
+  "size": "0x40"
+ },
+ {
+  "property": "SkimmingMinRequiredAngleToSurface",
+  "offset": "0x4376",
+  "size": "0x40"
+ },
+ {
+  "property": "SkimmingMinRequiredVelocityAlongSurface",
+  "offset": "0x4416",
+  "size": "0x40"
+ },
+ {
+  "property": "SkimmingMinRequiredHeightAboveWorld",
+  "offset": "0x4456",
+  "size": "0x40"
+ },
+ {
+  "property": "MaxAngleForGroundHit",
+  "offset": "0x4496",
+  "size": "0x40"
+ },
+ {
+  "property": "VelocityClampOnBonk",
+  "offset": "0x4536",
+  "size": "0x40"
+ }
+]

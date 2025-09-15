@@ -1,0 +1,67 @@
+[
+ {
+  "property": "SourceMode",
+  "offset": "0x56",
+  "size": "0x1"
+ },
+ {
+  "property": "DefaultMesh",
+  "offset": "0x64",
+  "size": "0x8"
+ },
+ {
+  "property": "SoftSourceActor",
+  "offset": "0x72",
+  "size": "0x32"
+ },
+ {
+  "property": "YYYSXÿïøéYYYYYY¶G;†]Œ¦¦YYYYYYYYYYYYYYYYÙYYYYYYYYYYYYYYYYYYYYYYYÙYYYYYYYYYYYYYYYqË†]Œ¦¦:Ì©Y›¦¦YYYYYYYYYYYYYYYYßYYYYYYYYÙYYYÙYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYA[¸	]Œ¦¦A[¸	]Œ¦¦ÙYYYYYYYYYYYYYYYY€°‰]Œ¦¦QÏ\ˆ]Œ¦¦˜Œ°‰]Œ¦¦]YYYYYYY]J†]Œ¦¦ÙYYYYYYY1Ë†]Œ¦¦YYYYYYYYYYSXÿïøéYYYYYYYY1j+Y›¦¦-lc–]Œ¦¦÷t]Œ¦¦YYYYYYYYÛYYYYYYYYYYYYYYYYYYYYYYYY]YYYYîŒ]Œ¦¦YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYÙYYYYYYYYYYYYYYYJ†]Œ¦¦IP·Y›¦¦å€]Œ¦¦YYYYYYYYßY]YYYYYÛYYYÛYYYYYYYYYYYYYYYYYYYå€]Œ¦¦ÙYYYYYYYìc–]Œ¦¦ivt]Œ¦¦YYYYYYYYÛYYYYYYY9×™†]Œ¦¦YYYYYYYYØt0‰]Œ¦¦]YYYYYYY}Ê†]Œ¦¦XYYYYYYYQÊ†]Œ¦¦YYYYYYY",
+  "offset": "0x104",
+  "size": "0x8"
+ },
+ {
+  "property": "SectionFilter",
+  "offset": "0x112",
+  "size": "0x16"
+ },
+ {
+  "property": "bCaptureTransformsPerFrame",
+  "offset": "0x128",
+  "size": "0x1"
+ },
+ {
+  "property": "bUsePhysicsBodyVelocity",
+  "offset": "0x129",
+  "size": "0x1"
+ },
+ {
+  "property": "bAllowSamplingFromStreamingLODs",
+  "offset": "0x130",
+  "size": "0x1"
+ },
+ {
+  "property": "Unknown_ffield",
+  "offset": "0x132",
+  "size": "0x4"
+ },
+ {
+  "property": "LODIndexUserParameter",
+  "offset": "0x136",
+  "size": "0x24"
+ },
+ {
+  "property": "MeshParameterBinding",
+  "offset": "0x160",
+  "size": "0x24"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x184",
+  "size": "0x4"
+ },
+ {
+  "property": "FilteredSockets",
+  "offset": "0x192",
+  "size": "0x16"
+ }
+]

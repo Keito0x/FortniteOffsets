@@ -1,0 +1,7 @@
+[
+ {
+  "property": "SupportedPlatforms",
+  "offset": "0x120",
+  "size": "0x4"
+ }
+]

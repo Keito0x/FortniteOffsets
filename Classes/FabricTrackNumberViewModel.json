@@ -1,0 +1,22 @@
+[
+ {
+  "property": "CurrentTrackNumber",
+  "offset": "0x104",
+  "size": "0x4"
+ },
+ {
+  "property": "TotalNumberOfTracks",
+  "offset": "0x108",
+  "size": "0x4"
+ },
+ {
+  "property": "bEnabled",
+  "offset": "0x112",
+  "size": "0x1"
+ },
+ {
+  "property": "bVisible",
+  "offset": "0x113",
+  "size": "0x1"
+ }
+]

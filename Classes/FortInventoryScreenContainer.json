@@ -1,0 +1,22 @@
+[
+ {
+  "property": "InventoryScreenInputComponent",
+  "offset": "0x1120",
+  "size": "0x8"
+ },
+ {
+  "property": "BackInputRowHandle",
+  "offset": "0x1128",
+  "size": "0x16"
+ },
+ {
+  "property": "BlockedInputActions",
+  "offset": "0x1144",
+  "size": "0x16"
+ },
+ {
+  "property": "BlockedInputAxes",
+  "offset": "0x1160",
+  "size": "0x16"
+ }
+]

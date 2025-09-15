@@ -1,0 +1,142 @@
+[
+ {
+  "property": "MainNavData",
+  "offset": "0x40",
+  "size": "0x8"
+ },
+ {
+  "property": "AbstractNavData",
+  "offset": "0x48",
+  "size": "0x8"
+ },
+ {
+  "property": "DefaultAgentName",
+  "offset": "0x56",
+  "size": "0x4"
+ },
+ {
+  "property": "CrowdManagerClass",
+  "offset": "0x64",
+  "size": "0x32"
+ },
+ {
+  "property": "bAutoCreateNavigationData",
+  "offset": "0x96",
+  "size": "0x1"
+ },
+ {
+  "property": "bSpawnNavDataInNavBoundsLevel",
+  "offset": "0x96",
+  "size": "0x1"
+ },
+ {
+  "property": "bAllowClientSideNavigation",
+  "offset": "0x96",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldDiscardSubLevelNavData",
+  "offset": "0x96",
+  "size": "0x1"
+ },
+ {
+  "property": "bTickWhilePaused",
+  "offset": "0x96",
+  "size": "0x1"
+ },
+ {
+  "property": "bSupportRebuilding",
+  "offset": "0x96",
+  "size": "0x1"
+ },
+ {
+  "property": "bInitialBuildingLocked",
+  "offset": "0x96",
+  "size": "0x1"
+ },
+ {
+  "property": "bSkipAgentHeightCheckWhenPickingNavData",
+  "offset": "0x97",
+  "size": "0x1"
+ },
+ {
+  "property": "GeometryExportTriangleCountWarningThreshold",
+  "offset": "0x100",
+  "size": "0x4"
+ },
+ {
+  "property": "bGenerateNavigationOnlyAroundNavigationInvokers",
+  "offset": "0x104",
+  "size": "0x1"
+ },
+ {
+  "property": "ActiveTilesUpdateInterval",
+  "offset": "0x108",
+  "size": "0x4"
+ },
+ {
+  "property": "InvokersMaximumDistanceFromSeed",
+  "offset": "0x112",
+  "size": "0x8"
+ },
+ {
+  "property": "DataGatheringMode",
+  "offset": "0x120",
+  "size": "0x1"
+ },
+ {
+  "property": "DirtyAreaWarningSizeThreshold",
+  "offset": "0x124",
+  "size": "0x4"
+ },
+ {
+  "property": "GatheringNavModifiersWarningLimitTime",
+  "offset": "0x128",
+  "size": "0x4"
+ },
+ {
+  "property": "SupportedAgents",
+  "offset": "0x136",
+  "size": "0x16"
+ },
+ {
+  "property": "SupportedAgentsMask",
+  "offset": "0x152",
+  "size": "0x4"
+ },
+ {
+  "property": "BuildBounds",
+  "offset": "0x160",
+  "size": "0x56"
+ },
+ {
+  "property": "NavDataSet",
+  "offset": "0x216",
+  "size": "0x16"
+ },
+ {
+  "property": "NavDataRegistrationQueue",
+  "offset": "0x232",
+  "size": "0x16"
+ },
+ {
+  "property": "OnNavDataRegisteredEvent",
+  "offset": "0x264",
+  "size": "0x16"
+ },
+ {
+  "property": "OnNavigationGenerationFinishedDelegate",
+  "offset": "0x280",
+  "size": "0x16"
+ },
+ {
+  "property": "OperationMode",
+  "offset": "0x536",
+  "size": "0x1"
+ },
+ {
+  "property": "Repository",
+  "offset": "0x1184",
+  "size": "0x8"
+ }
+]

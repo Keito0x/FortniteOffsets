@@ -1,0 +1,157 @@
+[
+ {
+  "property": "Speed",
+  "offset": "0x1496",
+  "size": "0x4"
+ },
+ {
+  "property": "UpwardVelocity",
+  "offset": "0x1500",
+  "size": "0x4"
+ },
+ {
+  "property": "MovementDirection",
+  "offset": "0x1504",
+  "size": "0x4"
+ },
+ {
+  "property": "LowerBodyCurrentWeight",
+  "offset": "0x1508",
+  "size": "0x4"
+ },
+ {
+  "property": "LowerBodyBlendTime",
+  "offset": "0x1512",
+  "size": "0x4"
+ },
+ {
+  "property": "RunVariation",
+  "offset": "0x1516",
+  "size": "0x4"
+ },
+ {
+  "property": "WalkVariation",
+  "offset": "0x1520",
+  "size": "0x4"
+ },
+ {
+  "property": "MovementStyle",
+  "offset": "0x1524",
+  "size": "0x1"
+ },
+ {
+  "property": "BlockGetUp",
+  "offset": "0x1528",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsStunned",
+  "offset": "0x1528",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsKnockedback",
+  "offset": "0x1528",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsStaggered",
+  "offset": "0x1528",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsSleeping",
+  "offset": "0x1528",
+  "size": "0x1"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x1528",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsDead",
+  "offset": "0x1528",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsSprinting",
+  "offset": "0x1528",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsCowering",
+  "offset": "0x1529",
+  "size": "0x1"
+ },
+ {
+  "property": "bHasWeapon",
+  "offset": "0x1529",
+  "size": "0x1"
+ },
+ {
+  "property": "bAdditiveHitReactLoop",
+  "offset": "0x1529",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseAltSleepAnim",
+  "offset": "0x1529",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldUseMovementLocomotion",
+  "offset": "0x1529",
+  "size": "0x1"
+ },
+ {
+  "property": "bCanLookAtAimTarget",
+  "offset": "0x1529",
+  "size": "0x1"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x1529",
+  "size": "0x1"
+ },
+ {
+  "property": "bTransitionToIdle",
+  "offset": "0x1529",
+  "size": "0x1"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x1532",
+  "size": "0x1"
+ },
+ {
+  "property": "bStartTurn",
+  "offset": "0x1533",
+  "size": "0x1"
+ },
+ {
+  "property": "TurnAngle",
+  "offset": "0x1536",
+  "size": "0x4"
+ },
+ {
+  "property": "TurnRate",
+  "offset": "0x1540",
+  "size": "0x4"
+ },
+ {
+  "property": "ForwardHeading",
+  "offset": "0x1544",
+  "size": "0x4"
+ },
+ {
+  "property": "MovementHeading",
+  "offset": "0x1548",
+  "size": "0x4"
+ },
+ {
+  "property": "HeadingDelta",
+  "offset": "0x1552",
+  "size": "0x4"
+ }
+]

@@ -1,0 +1,32 @@
+[
+ {
+  "property": "Text_CategoryTitle",
+  "offset": "0x1720",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_BackToTop",
+  "offset": "0x1728",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_CloseTouch",
+  "offset": "0x1736",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_Back",
+  "offset": "0x1744",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_MobileAccept",
+  "offset": "0x1752",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_MobileShowGameDetails",
+  "offset": "0x1760",
+  "size": "0x8"
+ }
+]

@@ -1,0 +1,87 @@
+[
+ {
+  "property": "SourceFilename",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "Hinting",
+  "offset": "0x64",
+  "size": "0x1"
+ },
+ {
+  "property": "LoadingPolicy",
+  "offset": "0x65",
+  "size": "0x1"
+ },
+ {
+  "property": "LayoutMethod",
+  "offset": "0x66",
+  "size": "0x1"
+ },
+ {
+  "property": "AscendOverriddenValue",
+  "offset": "0x68",
+  "size": "0x4"
+ },
+ {
+  "property": "bIsAscendOverridden",
+  "offset": "0x72",
+  "size": "0x1"
+ },
+ {
+  "property": "DescendOverriddenValue",
+  "offset": "0x76",
+  "size": "0x4"
+ },
+ {
+  "property": "bIsDescendOverridden",
+  "offset": "0x80",
+  "size": "0x1"
+ },
+ {
+  "property": "StrikeBrushHeightPercentage",
+  "offset": "0x84",
+  "size": "0x4"
+ },
+ {
+  "property": "bEnableDistanceFieldRendering",
+  "offset": "0x104",
+  "size": "0x1"
+ },
+ {
+  "property": "MinDistanceFieldPpem",
+  "offset": "0x108",
+  "size": "0x4"
+ },
+ {
+  "property": "MidDistanceFieldPpem",
+  "offset": "0x112",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxDistanceFieldPpem",
+  "offset": "0x116",
+  "size": "0x4"
+ },
+ {
+  "property": "MinMultiDistanceFieldPpem",
+  "offset": "0x120",
+  "size": "0x4"
+ },
+ {
+  "property": "MidMultiDistanceFieldPpem",
+  "offset": "0x124",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxMultiDistanceFieldPpem",
+  "offset": "0x128",
+  "size": "0x4"
+ },
+ {
+  "property": "PlatformRasterizationModeOverrides",
+  "offset": "0x132",
+  "size": "0x4"
+ }
+]

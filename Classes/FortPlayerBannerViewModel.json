@@ -1,0 +1,37 @@
+[
+ {
+  "property": "IconId",
+  "offset": "0x120",
+  "size": "0x4"
+ },
+ {
+  "property": "IconTexture",
+  "offset": "0x128",
+  "size": "0x8"
+ },
+ {
+  "property": "ColorId",
+  "offset": "0x136",
+  "size": "0x4"
+ },
+ {
+  "property": "PrimaryColor",
+  "offset": "0x140",
+  "size": "0x16"
+ },
+ {
+  "property": "SecondaryColor",
+  "offset": "0x156",
+  "size": "0x16"
+ },
+ {
+  "property": "CurrentLevel",
+  "offset": "0x172",
+  "size": "0x4"
+ },
+ {
+  "property": "bUseLargeTexture",
+  "offset": "0x176",
+  "size": "0x1"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "property": "CategorySize",
+  "offset": "0x136",
+  "size": "0x1"
+ },
+ {
+  "property": "bHasNewContent",
+  "offset": "0x137",
+  "size": "0x1"
+ }
+]

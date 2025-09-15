@@ -1,0 +1,42 @@
+[
+ {
+  "property": "ParticleSystemComponent",
+  "offset": "0x680",
+  "size": "0x8"
+ },
+ {
+  "property": "bDestroyOnSystemFinish",
+  "offset": "0x688",
+  "size": "0x1"
+ },
+ {
+  "property": "bPostUpdateTickGroup",
+  "offset": "0x688",
+  "size": "0x1"
+ },
+ {
+  "property": "bCurrentlyActive",
+  "offset": "0x688",
+  "size": "0x1"
+ },
+ {
+  "property": "OnParticleSpawn",
+  "offset": "0x696",
+  "size": "0x16"
+ },
+ {
+  "property": "OnParticleBurst",
+  "offset": "0x712",
+  "size": "0x16"
+ },
+ {
+  "property": "OnParticleDeath",
+  "offset": "0x728",
+  "size": "0x16"
+ },
+ {
+  "property": "OnParticleCollide",
+  "offset": "0x744",
+  "size": "0x16"
+ }
+]

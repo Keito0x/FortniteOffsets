@@ -1,0 +1,7 @@
+[
+ {
+  "property": "CustomClockSourcePath",
+  "offset": "0x88",
+  "size": "0x24"
+ }
+]

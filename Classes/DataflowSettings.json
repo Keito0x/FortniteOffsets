@@ -1,0 +1,17 @@
+[
+ {
+  "property": "NodeColorsMap",
+  "offset": "0x48",
+  "size": "0x80"
+ },
+ {
+  "property": "PinSettingsMap",
+  "offset": "0x128",
+  "size": "0x80"
+ },
+ {
+  "property": "",
+  "offset": "0x98741524",
+  "size": "0x0"
+ }
+]

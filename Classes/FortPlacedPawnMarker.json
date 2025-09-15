@@ -1,0 +1,22 @@
+[
+ {
+  "property": "CapsuleComponent",
+  "offset": "0x688",
+  "size": "0x8"
+ },
+ {
+  "property": "GoodSprite",
+  "offset": "0x696",
+  "size": "0x8"
+ },
+ {
+  "property": "BadSprite",
+  "offset": "0x704",
+  "size": "0x8"
+ },
+ {
+  "property": "bIsPIEPlayerStart",
+  "offset": "0x712",
+  "size": "0x1"
+ }
+]

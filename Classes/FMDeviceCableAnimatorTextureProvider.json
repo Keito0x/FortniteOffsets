@@ -1,0 +1,17 @@
+[
+ {
+  "property": "CableDataParam",
+  "offset": "0x232",
+  "size": "0x4"
+ },
+ {
+  "property": "DecayRate",
+  "offset": "0x236",
+  "size": "0x4"
+ },
+ {
+  "property": "TextureProvider",
+  "offset": "0x240",
+  "size": "0x8"
+ }
+]

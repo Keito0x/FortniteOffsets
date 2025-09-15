@@ -1,0 +1,32 @@
+[
+ {
+  "property": "VehiclePreviewActorClass",
+  "offset": "0x48",
+  "size": "0x32"
+ },
+ {
+  "property": "VehiclePreviewActorOverrides",
+  "offset": "0x80",
+  "size": "0x16"
+ },
+ {
+  "property": "DefaultBoostPreviewActorClass",
+  "offset": "0x96",
+  "size": "0x32"
+ },
+ {
+  "property": "DefaultTrailPreviewActorClass",
+  "offset": "0x128",
+  "size": "0x32"
+ },
+ {
+  "property": "VehiclePreviewPrefabAssetClass",
+  "offset": "0x160",
+  "size": "0x32"
+ },
+ {
+  "property": "VehiclePreviewDefaultPreviewBody",
+  "offset": "0x192",
+  "size": "0x80"
+ }
+]

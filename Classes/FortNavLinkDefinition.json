@@ -1,0 +1,27 @@
+[
+ {
+  "property": "Pattern",
+  "offset": "0x80",
+  "size": "0x8"
+ },
+ {
+  "property": "AdditionalPatterns",
+  "offset": "0x88",
+  "size": "0x16"
+ },
+ {
+  "property": "StairsRailing",
+  "offset": "0x104",
+  "size": "0x16"
+ },
+ {
+  "property": "FloorRailing",
+  "offset": "0x120",
+  "size": "0x1"
+ },
+ {
+  "property": "PatternType",
+  "offset": "0x121",
+  "size": "0x1"
+ }
+]

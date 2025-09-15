@@ -1,0 +1,22 @@
+[
+ {
+  "property": "XInputActionsData",
+  "offset": "0x200",
+  "size": "0x16"
+ },
+ {
+  "property": "YInputActionsData",
+  "offset": "0x216",
+  "size": "0x16"
+ },
+ {
+  "property": "SignedSizeInputActionsData",
+  "offset": "0x232",
+  "size": "0x16"
+ },
+ {
+  "property": "RotationInputActionsData",
+  "offset": "0x248",
+  "size": "0x16"
+ }
+]

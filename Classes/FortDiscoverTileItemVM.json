@@ -1,0 +1,37 @@
+[
+ {
+  "property": "ItemType",
+  "offset": "0x272",
+  "size": "0x1"
+ },
+ {
+  "property": "ColumnSize",
+  "offset": "0x276",
+  "size": "0x4"
+ },
+ {
+  "property": "bDisplayAsSquareTile",
+  "offset": "0x280",
+  "size": "0x1"
+ },
+ {
+  "property": "bDisplayAsMiniGenreTile",
+  "offset": "0x281",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseTopTenStyle",
+  "offset": "0x282",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsInInterestsChooserRow",
+  "offset": "0x283",
+  "size": "0x1"
+ },
+ {
+  "property": "DebugVM",
+  "offset": "0x288",
+  "size": "0x8"
+ }
+]

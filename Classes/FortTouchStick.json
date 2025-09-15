@@ -1,0 +1,107 @@
+[
+ {
+  "property": "WidgetBehavior",
+  "offset": "0x1000",
+  "size": "0x8"
+ },
+ {
+  "property": "bAlwaysShowWhenTouched",
+  "offset": "0x1008",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsTouched",
+  "offset": "0x1009",
+  "size": "0x1"
+ },
+ {
+  "property": "TouchStartTime",
+  "offset": "0x1012",
+  "size": "0x4"
+ },
+ {
+  "property": "LastTouchTime",
+  "offset": "0x1016",
+  "size": "0x4"
+ },
+ {
+  "property": "TouchStartPos",
+  "offset": "0x1024",
+  "size": "0x16"
+ },
+ {
+  "property": "MoveStickPos",
+  "offset": "0x1040",
+  "size": "0x16"
+ },
+ {
+  "property": "Image_Move_Thumb",
+  "offset": "0x1056",
+  "size": "0x8"
+ },
+ {
+  "property": "DeadZonePropertyTag",
+  "offset": "0x1064",
+  "size": "0x4"
+ },
+ {
+  "property": "AlwaysShowPropertyTag",
+  "offset": "0x1068",
+  "size": "0x4"
+ },
+ {
+  "property": "ResetStickPositionPropertyTag",
+  "offset": "0x1072",
+  "size": "0x4"
+ },
+ {
+  "property": "DynamicStickPropertyTag",
+  "offset": "0x1076",
+  "size": "0x4"
+ },
+ {
+  "property": "AnimateDynamicStickPropertyTag",
+  "offset": "0x1080",
+  "size": "0x4"
+ },
+ {
+  "property": "IdleOpacityPropertyTag",
+  "offset": "0x1084",
+  "size": "0x4"
+ },
+ {
+  "property": "MovementOpacityPropertyTag",
+  "offset": "0x1088",
+  "size": "0x4"
+ },
+ {
+  "property": "MoveStickCanvas",
+  "offset": "0x1096",
+  "size": "0x8"
+ },
+ {
+  "property": "ThumbstickMoveScale",
+  "offset": "0x1104",
+  "size": "0x4"
+ },
+ {
+  "property": "CustomIdleOpacity",
+  "offset": "0x1168",
+  "size": "0x4"
+ },
+ {
+  "property": "CustomMovementOpacity",
+  "offset": "0x1172",
+  "size": "0x4"
+ },
+ {
+  "property": "bShouldUseDynamicMoveStick",
+  "offset": "0x1179",
+  "size": "0x1"
+ },
+ {
+  "property": "bUpdateStickWhenOriginChanges",
+  "offset": "0x1180",
+  "size": "0x1"
+ }
+]

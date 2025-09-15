@@ -1,0 +1,22 @@
+[
+ {
+  "property": "bAllowReservationsToProceedToLobby",
+  "offset": "0x768",
+  "size": "0x1"
+ },
+ {
+  "property": "bWorldRecordLoaded",
+  "offset": "0x768",
+  "size": "0x1"
+ },
+ {
+  "property": "LastReservationCountForPermissionTimeoutChange",
+  "offset": "0x772",
+  "size": "0x4"
+ },
+ {
+  "property": "LobbyPermissionTimeout",
+  "offset": "0x776",
+  "size": "0x4"
+ }
+]

@@ -1,0 +1,17 @@
+[
+ {
+  "property": "OnToggleFullscreenMap",
+  "offset": "0x200",
+  "size": "0x16"
+ },
+ {
+  "property": "MiniMapInputComponent",
+  "offset": "0x216",
+  "size": "0x8"
+ },
+ {
+  "property": "bAllowToggleMap",
+  "offset": "0x513",
+  "size": "0x1"
+ }
+]

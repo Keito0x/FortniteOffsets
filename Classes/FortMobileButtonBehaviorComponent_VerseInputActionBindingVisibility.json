@@ -1,0 +1,22 @@
+[
+ {
+  "property": "InputMapping",
+  "offset": "0x72",
+  "size": "0x8"
+ },
+ {
+  "property": "SubscribedVisibility",
+  "offset": "0x80",
+  "size": "0x1"
+ },
+ {
+  "property": "UnsubscribedVisibility",
+  "offset": "0x81",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseInheritedVisibilityWhenUnsubscribed",
+  "offset": "0x82",
+  "size": "0x1"
+ }
+]

@@ -1,0 +1,57 @@
+[
+ {
+  "property": "LODSettings",
+  "offset": "0x40",
+  "size": "0x112"
+ },
+ {
+  "property": "bEnableUseRefSkeletalMeshAsPlaceholder",
+  "offset": "0x152",
+  "size": "0x1"
+ },
+ {
+  "property": "bPreserveUserLODsOnFirstGeneration",
+  "offset": "0x153",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableMeshCache",
+  "offset": "0x154",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableMeshStreaming",
+  "offset": "0x155",
+  "size": "0x1"
+ },
+ {
+  "property": "LowPriorityTextures",
+  "offset": "0x160",
+  "size": "0x16"
+ },
+ {
+  "property": "CustomizableObjectClassTags",
+  "offset": "0x176",
+  "size": "0x16"
+ },
+ {
+  "property": "PopulationClassTags",
+  "offset": "0x192",
+  "size": "0x16"
+ },
+ {
+  "property": "CustomizableObjectParametersTags",
+  "offset": "0x208",
+  "size": "0x80"
+ },
+ {
+  "property": "BulkData",
+  "offset": "0x288",
+  "size": "0x8"
+ },
+ {
+  "property": "Private",
+  "offset": "0x296",
+  "size": "0x8"
+ }
+]

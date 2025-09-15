@@ -1,0 +1,17 @@
+[
+ {
+  "property": "JunoTag",
+  "offset": "0x776",
+  "size": "0x4"
+ },
+ {
+  "property": "DelMarTag",
+  "offset": "0x780",
+  "size": "0x4"
+ },
+ {
+  "property": "SparksAssetTypes",
+  "offset": "0x784",
+  "size": "0x16"
+ }
+]

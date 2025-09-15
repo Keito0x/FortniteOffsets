@@ -1,0 +1,22 @@
+[
+ {
+  "property": "bIgnoreCooldowns",
+  "offset": "0x48",
+  "size": "0x1"
+ },
+ {
+  "property": "bIgnoreCosts",
+  "offset": "0x49",
+  "size": "0x1"
+ },
+ {
+  "property": "AbilitySystemGlobalScaler",
+  "offset": "0x52",
+  "size": "0x4"
+ },
+ {
+  "property": "DebugDrawMaxDistance",
+  "offset": "0x56",
+  "size": "0x4"
+ }
+]

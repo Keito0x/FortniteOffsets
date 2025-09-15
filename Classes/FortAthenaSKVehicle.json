@@ -1,0 +1,162 @@
+[
+ {
+  "property": "WheelOffsetFR",
+  "offset": "0x8512",
+  "size": "0x4"
+ },
+ {
+  "property": "WheelOffsetFL",
+  "offset": "0x8516",
+  "size": "0x4"
+ },
+ {
+  "property": "WheelOffsetLimitF",
+  "offset": "0x8520",
+  "size": "0x4"
+ },
+ {
+  "property": "WheelOffsetBR",
+  "offset": "0x8524",
+  "size": "0x4"
+ },
+ {
+  "property": "WheelOffsetBL",
+  "offset": "0x8528",
+  "size": "0x4"
+ },
+ {
+  "property": "WheelOffsetLimitB",
+  "offset": "0x8532",
+  "size": "0x4"
+ },
+ {
+  "property": "WheelOffsetLerpPerSecondUp",
+  "offset": "0x8536",
+  "size": "0x4"
+ },
+ {
+  "property": "WheelOffsetLerpPerSecondDown",
+  "offset": "0x8540",
+  "size": "0x4"
+ },
+ {
+  "property": "AxleOffsetZ",
+  "offset": "0x8544",
+  "size": "0x4"
+ },
+ {
+  "property": "AxleOffsetZ_B",
+  "offset": "0x8548",
+  "size": "0x4"
+ },
+ {
+  "property": "AxleCenterF",
+  "offset": "0x8552",
+  "size": "0x4"
+ },
+ {
+  "property": "AxleCenterB",
+  "offset": "0x8556",
+  "size": "0x4"
+ },
+ {
+  "property": "AxleRollF",
+  "offset": "0x8560",
+  "size": "0x4"
+ },
+ {
+  "property": "AxleRollB",
+  "offset": "0x8564",
+  "size": "0x4"
+ },
+ {
+  "property": "WheelRotationFR",
+  "offset": "0x8568",
+  "size": "0x4"
+ },
+ {
+  "property": "WheelRotationFL",
+  "offset": "0x8572",
+  "size": "0x4"
+ },
+ {
+  "property": "WheelRotationBR",
+  "offset": "0x8576",
+  "size": "0x4"
+ },
+ {
+  "property": "WheelRotationBL",
+  "offset": "0x8580",
+  "size": "0x4"
+ },
+ {
+  "property": "WheelRotationVelocityFR",
+  "offset": "0x8584",
+  "size": "0x4"
+ },
+ {
+  "property": "WheelRotationVelocityFL",
+  "offset": "0x8588",
+  "size": "0x4"
+ },
+ {
+  "property": "WheelRotationVelocityBR",
+  "offset": "0x8592",
+  "size": "0x4"
+ },
+ {
+  "property": "WheelRotationVelocityBL",
+  "offset": "0x8596",
+  "size": "0x4"
+ },
+ {
+  "property": "WheelSpinFR",
+  "offset": "0x8600",
+  "size": "0x4"
+ },
+ {
+  "property": "WheelSpinFL",
+  "offset": "0x8604",
+  "size": "0x4"
+ },
+ {
+  "property": "WheelSpinBR",
+  "offset": "0x8608",
+  "size": "0x4"
+ },
+ {
+  "property": "WheelSpinBL",
+  "offset": "0x8612",
+  "size": "0x4"
+ },
+ {
+  "property": "WheelSpinVelocityFR",
+  "offset": "0x8616",
+  "size": "0x4"
+ },
+ {
+  "property": "WheelSpinVelocityFL",
+  "offset": "0x8620",
+  "size": "0x4"
+ },
+ {
+  "property": "WheelSpinVelocityBR",
+  "offset": "0x8624",
+  "size": "0x4"
+ },
+ {
+  "property": "WheelSpinVelocityBL",
+  "offset": "0x8628",
+  "size": "0x4"
+ },
+ {
+  "property": "WheelSpinDampingPerSecond",
+  "offset": "0x8632",
+  "size": "0x4"
+ },
+ {
+  "property": "WheelFXSockets",
+  "offset": "0x8640",
+  "size": "0x16"
+ }
+]

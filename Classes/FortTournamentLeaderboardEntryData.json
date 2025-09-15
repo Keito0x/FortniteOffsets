@@ -1,0 +1,62 @@
+[
+ {
+  "property": "DisplayIndex",
+  "offset": "0x248",
+  "size": "0x4"
+ },
+ {
+  "property": "EntryIndex",
+  "offset": "0x252",
+  "size": "0x4"
+ },
+ {
+  "property": "TrackedStatsTimesAchieved",
+  "offset": "0x256",
+  "size": "0x80"
+ },
+ {
+  "property": "TrackedStatsPoints",
+  "offset": "0x336",
+  "size": "0x80"
+ },
+ {
+  "property": "TotalVictoryRoyales",
+  "offset": "0x416",
+  "size": "0x4"
+ },
+ {
+  "property": "TotalEliminations",
+  "offset": "0x420",
+  "size": "0x4"
+ },
+ {
+  "property": "AveragePlacement",
+  "offset": "0x424",
+  "size": "0x4"
+ },
+ {
+  "property": "bUseQualifiedIcons",
+  "offset": "0x428",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsTeamQualified",
+  "offset": "0x429",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsMatchPointWinner",
+  "offset": "0x430",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsSeriesPointLeaderboards",
+  "offset": "0x431",
+  "size": "0x1"
+ },
+ {
+  "property": "SessionsTeamEntries",
+  "offset": "0x432",
+  "size": "0x16"
+ }
+]

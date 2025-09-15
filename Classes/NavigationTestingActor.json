@@ -1,0 +1,187 @@
+[
+ {
+  "property": "CapsuleComponent",
+  "offset": "0x696",
+  "size": "0x8"
+ },
+ {
+  "property": "InvokerComponent",
+  "offset": "0x704",
+  "size": "0x8"
+ },
+ {
+  "property": "bActAsNavigationInvoker",
+  "offset": "0x712",
+  "size": "0x1"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x720",
+  "size": "0x48"
+ },
+ {
+  "property": "QueryingExtent",
+  "offset": "0x768",
+  "size": "0x24"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x792",
+  "size": "0x8"
+ },
+ {
+  "property": "ProjectedLocation",
+  "offset": "0x800",
+  "size": "0x24"
+ },
+ {
+  "property": "bProjectedLocationValid",
+  "offset": "0x824",
+  "size": "0x1"
+ },
+ {
+  "property": "bSearchStart",
+  "offset": "0x824",
+  "size": "0x1"
+ },
+ {
+  "property": "CostLimitFactor",
+  "offset": "0x828",
+  "size": "0x4"
+ },
+ {
+  "property": "MinimumCostLimit",
+  "offset": "0x832",
+  "size": "0x4"
+ },
+ {
+  "property": "bBacktracking",
+  "offset": "0x836",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseHierarchicalPathfinding",
+  "offset": "0x836",
+  "size": "0x1"
+ },
+ {
+  "property": "bGatherDetailedInfo",
+  "offset": "0x836",
+  "size": "0x1"
+ },
+ {
+  "property": "bRequireNavigableEndLocation",
+  "offset": "0x836",
+  "size": "0x1"
+ },
+ {
+  "property": "bDrawDistanceToWall",
+  "offset": "0x836",
+  "size": "0x1"
+ },
+ {
+  "property": "bDrawIfNavDataIsReadyInRadius",
+  "offset": "0x836",
+  "size": "0x1"
+ },
+ {
+  "property": "bDrawIfNavDataIsReadyToQueryTargetActor",
+  "offset": "0x836",
+  "size": "0x1"
+ },
+ {
+  "property": "bDrawRaycastToQueryTargetActor",
+  "offset": "0x836",
+  "size": "0x1"
+ },
+ {
+  "property": "QueryTargetActor",
+  "offset": "0x840",
+  "size": "0x8"
+ },
+ {
+  "property": "bShowNodePool",
+  "offset": "0x848",
+  "size": "0x1"
+ },
+ {
+  "property": "bShowBestPath",
+  "offset": "0x848",
+  "size": "0x1"
+ },
+ {
+  "property": "bShowDiffWithPreviousStep",
+  "offset": "0x848",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldBeVisibleInGame",
+  "offset": "0x848",
+  "size": "0x1"
+ },
+ {
+  "property": "RadiusUsedToValidateNavData",
+  "offset": "0x852",
+  "size": "0x4"
+ },
+ {
+  "property": "CostDisplayMode",
+  "offset": "0x856",
+  "size": "0x1"
+ },
+ {
+  "property": "TextCanvasOffset",
+  "offset": "0x864",
+  "size": "0x16"
+ },
+ {
+  "property": "bPathExist",
+  "offset": "0x880",
+  "size": "0x1"
+ },
+ {
+  "property": "bPathIsPartial",
+  "offset": "0x880",
+  "size": "0x1"
+ },
+ {
+  "property": "bPathSearchOutOfNodes",
+  "offset": "0x880",
+  "size": "0x1"
+ },
+ {
+  "property": "PathfindingTime",
+  "offset": "0x884",
+  "size": "0x4"
+ },
+ {
+  "property": "PathCost",
+  "offset": "0x888",
+  "size": "0x8"
+ },
+ {
+  "property": "PathfindingSteps",
+  "offset": "0x896",
+  "size": "0x4"
+ },
+ {
+  "property": "OtherActor",
+  "offset": "0x904",
+  "size": "0x8"
+ },
+ {
+  "property": "FilterClass",
+  "offset": "0x912",
+  "size": "0x8"
+ },
+ {
+  "property": "ShowStepIndex",
+  "offset": "0x920",
+  "size": "0x4"
+ },
+ {
+  "property": "OffsetFromCornersDistance",
+  "offset": "0x924",
+  "size": "0x4"
+ }
+]

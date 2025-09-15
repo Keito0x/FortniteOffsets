@@ -1,0 +1,7 @@
+[
+ {
+  "property": "FortGameSessionDedicated",
+  "offset": "0x2000",
+  "size": "0x8"
+ }
+]

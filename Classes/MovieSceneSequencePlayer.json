@@ -1,0 +1,97 @@
+[
+ {
+  "property": "Observer",
+  "offset": "0x544",
+  "size": "0x16"
+ },
+ {
+  "property": "OnPlay",
+  "offset": "0x560",
+  "size": "0x16"
+ },
+ {
+  "property": "OnPlayReverse",
+  "offset": "0x576",
+  "size": "0x16"
+ },
+ {
+  "property": "OnStop",
+  "offset": "0x592",
+  "size": "0x16"
+ },
+ {
+  "property": "OnPause",
+  "offset": "0x608",
+  "size": "0x16"
+ },
+ {
+  "property": "OnFinished",
+  "offset": "0x624",
+  "size": "0x16"
+ },
+ {
+  "property": "Status",
+  "offset": "0x656",
+  "size": "0x1"
+ },
+ {
+  "property": "bReversePlayback",
+  "offset": "0x660",
+  "size": "0x1"
+ },
+ {
+  "property": "Sequence",
+  "offset": "0x672",
+  "size": "0x8"
+ },
+ {
+  "property": "StartTime",
+  "offset": "0x680",
+  "size": "0x4"
+ },
+ {
+  "property": "DurationFrames",
+  "offset": "0x684",
+  "size": "0x4"
+ },
+ {
+  "property": "DurationSubFrames",
+  "offset": "0x688",
+  "size": "0x4"
+ },
+ {
+  "property": "CurrentNumLoops",
+  "offset": "0x692",
+  "size": "0x4"
+ },
+ {
+  "property": "SerialNumber",
+  "offset": "0x696",
+  "size": "0x4"
+ },
+ {
+  "property": "PlaybackSettings",
+  "offset": "0x700",
+  "size": "0x40"
+ },
+ {
+  "property": "RootTemplateInstance",
+  "offset": "0x744",
+  "size": "0x32"
+ },
+ {
+  "property": "NetSyncProps",
+  "offset": "0x916",
+  "size": "0x20"
+ },
+ {
+  "property": "PlaybackClient",
+  "offset": "0x936",
+  "size": "0x16"
+ },
+ {
+  "property": "TickManager",
+  "offset": "0x952",
+  "size": "0x8"
+ }
+]

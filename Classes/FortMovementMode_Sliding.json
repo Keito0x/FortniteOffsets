@@ -1,0 +1,72 @@
+[
+ {
+  "property": "DashPeriod",
+  "offset": "0x488",
+  "size": "0x40"
+ },
+ {
+  "property": "SlidingAnimLayer",
+  "offset": "0x528",
+  "size": "0x8"
+ },
+ {
+  "property": "GCSliding",
+  "offset": "0x536",
+  "size": "0x4"
+ },
+ {
+  "property": "GCCameraShakeSliding",
+  "offset": "0x540",
+  "size": "0x4"
+ },
+ {
+  "property": "GCSpeedLines",
+  "offset": "0x544",
+  "size": "0x4"
+ },
+ {
+  "property": "EventSlidingStarted",
+  "offset": "0x548",
+  "size": "0x4"
+ },
+ {
+  "property": "SlidingBlockOriginalGATag",
+  "offset": "0x552",
+  "size": "0x4"
+ },
+ {
+  "property": "CameraModeModifier",
+  "offset": "0x560",
+  "size": "0x8"
+ },
+ {
+  "property": "CameraStartShake",
+  "offset": "0x568",
+  "size": "0x8"
+ },
+ {
+  "property": "FNMaterialsCollection",
+  "offset": "0x576",
+  "size": "0x8"
+ },
+ {
+  "property": "RemoveSpeedLinesAt",
+  "offset": "0x584",
+  "size": "0x40"
+ },
+ {
+  "property": "AddSpeedLinesAt",
+  "offset": "0x624",
+  "size": "0x40"
+ },
+ {
+  "property": "CanSlopeSlide",
+  "offset": "0x664",
+  "size": "0x40"
+ },
+ {
+  "property": "ExitIntoSlopeSlidingOnEndTags",
+  "offset": "0x704",
+  "size": "0x32"
+ }
+]

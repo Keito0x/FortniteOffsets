@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Motd",
+  "offset": "0x1120",
+  "size": "0x8"
+ },
+ {
+  "property": "MediaPlayer",
+  "offset": "0x1128",
+  "size": "0x8"
+ }
+]

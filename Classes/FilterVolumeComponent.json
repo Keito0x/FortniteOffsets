@@ -1,0 +1,22 @@
+[
+ {
+  "property": "ExteriorLPF",
+  "offset": "0x208",
+  "size": "0x4"
+ },
+ {
+  "property": "ExteriorLPFTime",
+  "offset": "0x212",
+  "size": "0x4"
+ },
+ {
+  "property": "InteriorLPF",
+  "offset": "0x216",
+  "size": "0x4"
+ },
+ {
+  "property": "InteriorLPFTime",
+  "offset": "0x220",
+  "size": "0x4"
+ }
+]

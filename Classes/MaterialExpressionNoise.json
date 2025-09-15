@@ -1,0 +1,67 @@
+[
+ {
+  "property": "Position",
+  "offset": "0x176",
+  "size": "0x40"
+ },
+ {
+  "property": "WorldPositionOriginType",
+  "offset": "0x216",
+  "size": "0x1"
+ },
+ {
+  "property": "FilterWidth",
+  "offset": "0x224",
+  "size": "0x40"
+ },
+ {
+  "property": "Scale",
+  "offset": "0x264",
+  "size": "0x4"
+ },
+ {
+  "property": "Quality",
+  "offset": "0x268",
+  "size": "0x4"
+ },
+ {
+  "property": "NoiseFunction",
+  "offset": "0x272",
+  "size": "0x1"
+ },
+ {
+  "property": "bTurbulence",
+  "offset": "0x276",
+  "size": "0x1"
+ },
+ {
+  "property": "Levels",
+  "offset": "0x280",
+  "size": "0x4"
+ },
+ {
+  "property": "OutputMin",
+  "offset": "0x284",
+  "size": "0x4"
+ },
+ {
+  "property": "OutputMax",
+  "offset": "0x288",
+  "size": "0x4"
+ },
+ {
+  "property": "LevelScale",
+  "offset": "0x292",
+  "size": "0x4"
+ },
+ {
+  "property": "bTiling",
+  "offset": "0x296",
+  "size": "0x1"
+ },
+ {
+  "property": "RepeatSize",
+  "offset": "0x300",
+  "size": "0x4"
+ }
+]

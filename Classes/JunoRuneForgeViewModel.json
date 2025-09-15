@@ -1,0 +1,32 @@
+[
+ {
+  "property": "ItemViewModel",
+  "offset": "0x120",
+  "size": "0x8"
+ },
+ {
+  "property": "PlayerEssenceViewModel",
+  "offset": "0x128",
+  "size": "0x8"
+ },
+ {
+  "property": "SelectedRuneToForgeViewModel",
+  "offset": "0x136",
+  "size": "0x8"
+ },
+ {
+  "property": "SelectedRuneToForgeIndex",
+  "offset": "0x144",
+  "size": "0x4"
+ },
+ {
+  "property": "RuneForgeState",
+  "offset": "0x148",
+  "size": "0x1"
+ },
+ {
+  "property": "",
+  "offset": "0x98741524",
+  "size": "0x0"
+ }
+]

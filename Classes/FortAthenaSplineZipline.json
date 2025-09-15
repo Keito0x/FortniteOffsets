@@ -1,0 +1,12 @@
+[
+ {
+  "property": "ZiplineSpline",
+  "offset": "0x3240",
+  "size": "0x8"
+ },
+ {
+  "property": "AttachLinesToPolesHotfix",
+  "offset": "0x3248",
+  "size": "0x40"
+ }
+]

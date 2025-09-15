@@ -1,0 +1,27 @@
+[
+ {
+  "property": "OnWidgetCreated",
+  "offset": "0x576",
+  "size": "0x16"
+ },
+ {
+  "property": "OnWidgetAdded",
+  "offset": "0x592",
+  "size": "0x16"
+ },
+ {
+  "property": "ScreenWidget",
+  "offset": "0x632",
+  "size": "0x8"
+ },
+ {
+  "property": "ScreenWidgetComponent",
+  "offset": "0x640",
+  "size": "0x8"
+ },
+ {
+  "property": "CopyComponentsToWidget",
+  "offset": "0x648",
+  "size": "0x80"
+ }
+]

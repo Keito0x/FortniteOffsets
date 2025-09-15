@@ -1,0 +1,23 @@
+[
+ {
+  "property": "BaseAthenaCharacterItemDefinition",
+  "offset": "0x224",
+  "size": "0x32"
+ },
+ {
+  "property": "AssembledMeshSchema",
+  "offset": "0x256",
+  "size": "0x32"
+ },
+ {
+  "property": "LowDetailsAssembledMeshSchema",
+  "offset": "0x288",
+  "size": "0x32"
+ },
+ {
+  "property": "UecS³TSµ“ğ5ˆˆl»÷wƒˆˆğò×Ü×\×İ×]\ÜİŞS·C÷wwDUğã5e_÷wwDğÈ)eW÷wwDğã-eo÷wwQ³U³–S³S²õ¯îıwSïS³5ec÷wwSğ(×üSµğ³CtwwQ²Ds5ËöS²lëWğ8•ğ°®sww³³µšğ0švwwéˆˆˆÈğ5¦sww×³•S·ˆTwwww‚¿AõwS”Uegwwww‚İS³Sã
+Q³S³]eoS÷ŸK™SãS±}wSëSğÔS*ˆˆˆˆˆˆˆèSëS+ˆˆˆˆˆˆˆÈSğV—S³UecSµM S²Qec»÷wS³UegS²UegS÷UeoS÷UecÕïS²UeoQ÷MKÖ2qä3sÓˆÑëÍQ²TsÓãQ²MeoÒ±qdS³ÈuwQ²IegÓãˆQöHsÑ÷„S²|S³œSã˜Q÷ŒSãS³‹Ó³\uwS²pS³hQ³ŠQ³HsS²",
+  "offset": "0x320",
+  "size": "0x4"
+ }
+]

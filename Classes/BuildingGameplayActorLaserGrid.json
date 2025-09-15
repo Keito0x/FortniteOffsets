@@ -1,0 +1,172 @@
+[
+ {
+  "property": "OnLaserGridTriggered",
+  "offset": "0x2496",
+  "size": "0x16"
+ },
+ {
+  "property": "OnLaserGridOutletDestroyed",
+  "offset": "0x2512",
+  "size": "0x16"
+ },
+ {
+  "property": "LaserGridPatterns",
+  "offset": "0x2528",
+  "size": "0x16"
+ },
+ {
+  "property": "LaserPatternChangeWarningTime",
+  "offset": "0x2544",
+  "size": "0x4"
+ },
+ {
+  "property": "LaserOutletToBuildingAttachmentMap",
+  "offset": "0x2552",
+  "size": "0x80"
+ },
+ {
+  "property": "IgnoreActorTags",
+  "offset": "0x2632",
+  "size": "0x32"
+ },
+ {
+  "property": "LaserCapsuleComponentClass",
+  "offset": "0x2664",
+  "size": "0x8"
+ },
+ {
+  "property": "LaserCapsuleCollisionRotationOffset",
+  "offset": "0x2672",
+  "size": "0x24"
+ },
+ {
+  "property": "LaserCustomDataIndexForRandomizedVisuals",
+  "offset": "0x2696",
+  "size": "0x4"
+ },
+ {
+  "property": "LaserGridConnections",
+  "offset": "0x2704",
+  "size": "0x280"
+ },
+ {
+  "property": "LocalLaserGridConnections",
+  "offset": "0x2984",
+  "size": "0x16"
+ },
+ {
+  "property": "LaserConnectionOffset",
+  "offset": "0x3008",
+  "size": "0x96"
+ },
+ {
+  "property": "LaserOutletConnectionOffset",
+  "offset": "0x3104",
+  "size": "0x24"
+ },
+ {
+  "property": "SoundOutletTransitionOn",
+  "offset": "0x3128",
+  "size": "0x8"
+ },
+ {
+  "property": "SoundLaserTransitionPrimaryOutlet",
+  "offset": "0x3136",
+  "size": "0x8"
+ },
+ {
+  "property": "SoundLaserTransitionSecondaryOutlet",
+  "offset": "0x3144",
+  "size": "0x8"
+ },
+ {
+  "property": "SoundLaserTransition",
+  "offset": "0x3152",
+  "size": "0x8"
+ },
+ {
+  "property": "OutletMaterialCustomDataIndex_EmissiveEnabled",
+  "offset": "0x3160",
+  "size": "0x4"
+ },
+ {
+  "property": "OutletMaterialCustomDataIndex_DisableEmissivePulse",
+  "offset": "0x3164",
+  "size": "0x4"
+ },
+ {
+  "property": "OutletMaterialCustomDataIndex_AnimTimestamp",
+  "offset": "0x3168",
+  "size": "0x4"
+ },
+ {
+  "property": "OutletMaterialCustomDataIndex_AnimTimestampDuration",
+  "offset": "0x3172",
+  "size": "0x4"
+ },
+ {
+  "property": "MaterialCosineWavePeriod",
+  "offset": "0x3176",
+  "size": "0x4"
+ },
+ {
+  "property": "OutletMaterialTransitionOffTimestampOffset",
+  "offset": "0x3184",
+  "size": "0x16"
+ },
+ {
+  "property": "LaserMaterialCustomDataIndex_PulseEnabled",
+  "offset": "0x3200",
+  "size": "0x4"
+ },
+ {
+  "property": "LaserMaterialCustomDataIndex_RandomFlickeringSpeed",
+  "offset": "0x3204",
+  "size": "0x4"
+ },
+ {
+  "property": "LaserMaterialCustomDataIndex_AnimTimestamp",
+  "offset": "0x3208",
+  "size": "0x4"
+ },
+ {
+  "property": "LaserMaterialCustomDataIndex_PulseTimeOffset",
+  "offset": "0x3212",
+  "size": "0x4"
+ },
+ {
+  "property": "LaserMaterialRandomFlickeringSpeed",
+  "offset": "0x3216",
+  "size": "0x16"
+ },
+ {
+  "property": "LaserGridOutlets",
+  "offset": "0x3232",
+  "size": "0x288"
+ },
+ {
+  "property": "HISMComponentOutlet",
+  "offset": "0x3520",
+  "size": "0x8"
+ },
+ {
+  "property": "HISMComponentLaser",
+  "offset": "0x3528",
+  "size": "0x8"
+ },
+ {
+  "property": "bEnabled",
+  "offset": "0x3536",
+  "size": "0x1"
+ },
+ {
+  "property": "LaserGridPatternIndex",
+  "offset": "0x3540",
+  "size": "0x4"
+ },
+ {
+  "property": "LaserPatternTimerHandle",
+  "offset": "0x3544",
+  "size": "0x8"
+ }
+]

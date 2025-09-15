@@ -1,0 +1,22 @@
+[
+ {
+  "property": "bEnableNormalizedNotifyProgress",
+  "offset": "0x144",
+  "size": "0x1"
+ },
+ {
+  "property": "bApplyRateScaleToProgress",
+  "offset": "0x145",
+  "size": "0x1"
+ },
+ {
+  "property": "NotifyProgressUserParameter",
+  "offset": "0x148",
+  "size": "0x4"
+ },
+ {
+  "property": "AnimCurves",
+  "offset": "0x152",
+  "size": "0x16"
+ }
+]

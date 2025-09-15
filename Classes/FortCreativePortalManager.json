@@ -1,0 +1,12 @@
+[
+ {
+  "property": "AllPortals",
+  "offset": "0x680",
+  "size": "0x16"
+ },
+ {
+  "property": "PendingPortalReservations",
+  "offset": "0x696",
+  "size": "0x16"
+ }
+]

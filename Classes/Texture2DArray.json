@@ -1,0 +1,17 @@
+[
+ {
+  "property": "AddressX",
+  "offset": "0x328",
+  "size": "0x1"
+ },
+ {
+  "property": "AddressY",
+  "offset": "0x329",
+  "size": "0x1"
+ },
+ {
+  "property": "AddressZ",
+  "offset": "0x330",
+  "size": "0x1"
+ }
+]

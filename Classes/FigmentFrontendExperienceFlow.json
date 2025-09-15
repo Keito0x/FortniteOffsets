@@ -1,0 +1,22 @@
+[
+ {
+  "property": "VideoPlayerClass",
+  "offset": "0x96",
+  "size": "0x32"
+ },
+ {
+  "property": "FlowStepArray",
+  "offset": "0x128",
+  "size": "0x16"
+ },
+ {
+  "property": "bEnableTrailer",
+  "offset": "0x144",
+  "size": "0x1"
+ },
+ {
+  "property": "",
+  "offset": "0x98741524",
+  "size": "0x0"
+ }
+]

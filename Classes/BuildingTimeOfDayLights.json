@@ -1,0 +1,12 @@
+[
+ {
+  "property": "TimeOfDayControlledLightDataArray",
+  "offset": "0x3024",
+  "size": "0x16"
+ },
+ {
+  "property": "FourLayerColorInfo",
+  "offset": "0x3040",
+  "size": "0x16"
+ }
+]

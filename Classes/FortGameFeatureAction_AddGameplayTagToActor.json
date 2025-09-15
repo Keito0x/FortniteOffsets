@@ -1,0 +1,12 @@
+[
+ {
+  "property": "ActorClass",
+  "offset": "0x40",
+  "size": "0x8"
+ },
+ {
+  "property": "TagsToAdd",
+  "offset": "0x48",
+  "size": "0x32"
+ }
+]

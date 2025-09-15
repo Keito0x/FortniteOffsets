@@ -1,0 +1,12 @@
+[
+ {
+  "property": "bCheckBaseLoadout",
+  "offset": "0x48",
+  "size": "0x1"
+ },
+ {
+  "property": "Swaps",
+  "offset": "0x56",
+  "size": "0x16"
+ }
+]

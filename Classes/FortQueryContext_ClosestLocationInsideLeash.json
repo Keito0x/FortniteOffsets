@@ -1,0 +1,17 @@
+[
+ {
+  "property": "NavFilterClass",
+  "offset": "0x40",
+  "size": "0x8"
+ },
+ {
+  "property": "bUseInnerRadius",
+  "offset": "0x48",
+  "size": "0x1"
+ },
+ {
+  "property": "bForcePositionOnLeash",
+  "offset": "0x49",
+  "size": "0x1"
+ }
+]

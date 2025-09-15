@@ -1,0 +1,17 @@
+[
+ {
+  "property": "AllyName",
+  "offset": "0x144",
+  "size": "0x16"
+ },
+ {
+  "property": "AllyIcon",
+  "offset": "0x160",
+  "size": "0x32"
+ },
+ {
+  "property": "bIsDismissCommandAvailable",
+  "offset": "0x192",
+  "size": "0x1"
+ }
+]

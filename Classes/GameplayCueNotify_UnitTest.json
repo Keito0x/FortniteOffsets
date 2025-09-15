@@ -1,0 +1,17 @@
+[
+ {
+  "property": "GameplayCueTag",
+  "offset": "0x40",
+  "size": "0x4"
+ },
+ {
+  "property": "GameplayCueName",
+  "offset": "0x44",
+  "size": "0x4"
+ },
+ {
+  "property": "IsOverride",
+  "offset": "0x48",
+  "size": "0x1"
+ }
+]

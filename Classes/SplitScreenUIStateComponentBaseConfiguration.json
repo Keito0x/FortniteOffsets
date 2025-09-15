@@ -1,0 +1,37 @@
+[
+ {
+  "property": "PlayerStateChart",
+  "offset": "0x40",
+  "size": "0x8"
+ },
+ {
+  "property": "bIgnoreTransitionParametersOnActivation",
+  "offset": "0x48",
+  "size": "0x1"
+ },
+ {
+  "property": "UrgencyOnPlayerAdd",
+  "offset": "0x49",
+  "size": "0x1"
+ },
+ {
+  "property": "AnimationHintsOnPlayerAdd",
+  "offset": "0x56",
+  "size": "0x32"
+ },
+ {
+  "property": "bIgnoreTransitionParametersOnDeactivation",
+  "offset": "0x88",
+  "size": "0x1"
+ },
+ {
+  "property": "UrgencyOnPlayerRemove",
+  "offset": "0x89",
+  "size": "0x1"
+ },
+ {
+  "property": "AnimationHintsOnPlayerRemove",
+  "offset": "0x96",
+  "size": "0x32"
+ }
+]

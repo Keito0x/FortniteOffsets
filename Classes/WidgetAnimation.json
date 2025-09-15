@@ -1,0 +1,22 @@
+[
+ {
+  "property": "MovieScene",
+  "offset": "0x104",
+  "size": "0x8"
+ },
+ {
+  "property": "AnimationBindings",
+  "offset": "0x112",
+  "size": "0x16"
+ },
+ {
+  "property": "bLegacyFinishOnStop",
+  "offset": "0x128",
+  "size": "0x1"
+ },
+ {
+  "property": "DisplayLabel",
+  "offset": "0x136",
+  "size": "0x16"
+ }
+]

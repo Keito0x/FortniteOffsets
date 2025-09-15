@@ -1,0 +1,47 @@
+[
+ {
+  "property": "InnerRadius",
+  "offset": "0x144",
+  "size": "0x56"
+ },
+ {
+  "property": "OuterRadius",
+  "offset": "0x200",
+  "size": "0x56"
+ },
+ {
+  "property": "NumberOfRings",
+  "offset": "0x256",
+  "size": "0x56"
+ },
+ {
+  "property": "PointsPerRing",
+  "offset": "0x312",
+  "size": "0x56"
+ },
+ {
+  "property": "ArcDirection",
+  "offset": "0x368",
+  "size": "0x32"
+ },
+ {
+  "property": "ArcAngle",
+  "offset": "0x400",
+  "size": "0x56"
+ },
+ {
+  "property": "bUseSpiralPattern",
+  "offset": "0x456",
+  "size": "0x1"
+ },
+ {
+  "property": "Center",
+  "offset": "0x464",
+  "size": "0x8"
+ },
+ {
+  "property": "bDefineArc",
+  "offset": "0x472",
+  "size": "0x1"
+ }
+]

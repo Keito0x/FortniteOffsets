@@ -1,0 +1,12 @@
+[
+ {
+  "property": "ShieldMaximumSpeed",
+  "offset": "0x2496",
+  "size": "0x40"
+ },
+ {
+  "property": "ProjectileMovementComponentFloor",
+  "offset": "0x2536",
+  "size": "0x8"
+ }
+]

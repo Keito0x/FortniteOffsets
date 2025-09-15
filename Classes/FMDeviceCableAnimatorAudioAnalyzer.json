@@ -1,0 +1,67 @@
+[
+ {
+  "property": "FftTextureParam",
+  "offset": "0x232",
+  "size": "0x4"
+ },
+ {
+  "property": "WaveformTextureParam",
+  "offset": "0x236",
+  "size": "0x4"
+ },
+ {
+  "property": "AmplitudeTextureParam",
+  "offset": "0x240",
+  "size": "0x4"
+ },
+ {
+  "property": "AmplitudeDataParam",
+  "offset": "0x244",
+  "size": "0x4"
+ },
+ {
+  "property": "CableQualityParam",
+  "offset": "0x248",
+  "size": "0x4"
+ },
+ {
+  "property": "CableReactivityParam",
+  "offset": "0x252",
+  "size": "0x4"
+ },
+ {
+  "property": "WaveformNumSamplesHeld",
+  "offset": "0x256",
+  "size": "0x4"
+ },
+ {
+  "property": "WaveformSmoothingDistance",
+  "offset": "0x260",
+  "size": "0x4"
+ },
+ {
+  "property": "WaveformSmoothingFactor",
+  "offset": "0x264",
+  "size": "0x4"
+ },
+ {
+  "property": "WaveformDecayPerSecond",
+  "offset": "0x268",
+  "size": "0x4"
+ },
+ {
+  "property": "WaveformTexture",
+  "offset": "0x272",
+  "size": "0x8"
+ },
+ {
+  "property": "AmplitudeTexture",
+  "offset": "0x280",
+  "size": "0x8"
+ },
+ {
+  "property": "PatchWrapper",
+  "offset": "0x288",
+  "size": "0x8"
+ }
+]

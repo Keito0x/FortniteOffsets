@@ -1,0 +1,72 @@
+[
+ {
+  "property": "ExitCaftClass",
+  "offset": "0x48",
+  "size": "0x8"
+ },
+ {
+  "property": "ExitCraftSpawnerClass",
+  "offset": "0x56",
+  "size": "0x8"
+ },
+ {
+  "property": "ExitCraftAnchorClass",
+  "offset": "0x64",
+  "size": "0x8"
+ },
+ {
+  "property": "ExitCraftInfo",
+  "offset": "0x72",
+  "size": "0x608"
+ },
+ {
+  "property": "SpecialActorSpawnerTag",
+  "offset": "0x680",
+  "size": "0x4"
+ },
+ {
+  "property": "SpawnerMinimapIconBrush",
+  "offset": "0x688",
+  "size": "0x176"
+ },
+ {
+  "property": "SpawnerMinimapIconScale",
+  "offset": "0x864",
+  "size": "0x16"
+ },
+ {
+  "property": "SpawnerCompassIconBrush",
+  "offset": "0x880",
+  "size": "0x176"
+ },
+ {
+  "property": "SpawnerCompassIconScale",
+  "offset": "0x1056",
+  "size": "0x16"
+ },
+ {
+  "property": "SpecialActorCraftTag",
+  "offset": "0x1072",
+  "size": "0x4"
+ },
+ {
+  "property": "CraftMinimapIconBrush",
+  "offset": "0x1088",
+  "size": "0x176"
+ },
+ {
+  "property": "CraftMinimapIconScale",
+  "offset": "0x1264",
+  "size": "0x16"
+ },
+ {
+  "property": "CraftCompassIconBrush",
+  "offset": "0x1280",
+  "size": "0x176"
+ },
+ {
+  "property": "CraftCompassIconScale",
+  "offset": "0x1456",
+  "size": "0x16"
+ }
+]

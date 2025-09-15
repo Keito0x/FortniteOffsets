@@ -1,0 +1,132 @@
+[
+ {
+  "property": "MinimapIconColorTeammate",
+  "offset": "0x744",
+  "size": "0x16"
+ },
+ {
+  "property": "MinimapIconColorEnemy",
+  "offset": "0x760",
+  "size": "0x16"
+ },
+ {
+  "property": "OnDropZoneExited",
+  "offset": "0x792",
+  "size": "0x16"
+ },
+ {
+  "property": "bCanOverrideSkin",
+  "offset": "0x824",
+  "size": "0x1"
+ },
+ {
+  "property": "NumSpawnSlots",
+  "offset": "0x828",
+  "size": "0x4"
+ },
+ {
+  "property": "SpawnOffsetRadius",
+  "offset": "0x832",
+  "size": "0x4"
+ },
+ {
+  "property": "FlightInfo",
+  "offset": "0x856",
+  "size": "0x72"
+ },
+ {
+  "property": "FlightStartTime",
+  "offset": "0x928",
+  "size": "0x4"
+ },
+ {
+  "property": "FlightEndTime",
+  "offset": "0x932",
+  "size": "0x4"
+ },
+ {
+  "property": "DropStartTime",
+  "offset": "0x936",
+  "size": "0x4"
+ },
+ {
+  "property": "DropEndTime",
+  "offset": "0x940",
+  "size": "0x4"
+ },
+ {
+  "property": "bWasSpawnedForAircraftPhase",
+  "offset": "0x944",
+  "size": "0x1"
+ },
+ {
+  "property": "bPreventDestroyOnFlightEnd",
+  "offset": "0x945",
+  "size": "0x1"
+ },
+ {
+  "property": "ReplicatedFlightTimestamp",
+  "offset": "0x948",
+  "size": "0x4"
+ },
+ {
+  "property": "FlightElapsedTime",
+  "offset": "0x952",
+  "size": "0x4"
+ },
+ {
+  "property": "ClientFlightTimerDrift",
+  "offset": "0x956",
+  "size": "0x4"
+ },
+ {
+  "property": "MiniMapIconScale",
+  "offset": "0x964",
+  "size": "0x4"
+ },
+ {
+  "property": "MiniMapIconBrush",
+  "offset": "0x976",
+  "size": "0x176"
+ },
+ {
+  "property": "MiniMapTeamIndicatorIconScale",
+  "offset": "0x1152",
+  "size": "0x4"
+ },
+ {
+  "property": "MiniMapTeamIndicatorIconBrush",
+  "offset": "0x1168",
+  "size": "0x176"
+ },
+ {
+  "property": "DefaultBusSkin",
+  "offset": "0x1344",
+  "size": "0x8"
+ },
+ {
+  "property": "SpawnedCosmeticActor",
+  "offset": "0x1352",
+  "size": "0x8"
+ },
+ {
+  "property": "AsyncLoadingSkin",
+  "offset": "0x1360",
+  "size": "0x8"
+ },
+ {
+  "property": "AircraftIndex",
+  "offset": "0x1384",
+  "size": "0x4"
+ },
+ {
+  "property": "Indicator",
+  "offset": "0x1392",
+  "size": "0x8"
+ },
+ {
+  "property": "TeamIndicator",
+  "offset": "0x1400",
+  "size": "0x8"
+ }
+]

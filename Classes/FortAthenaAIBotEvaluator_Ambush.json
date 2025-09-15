@@ -1,0 +1,22 @@
+[
+ {
+  "property": "LastKnownPositionName",
+  "offset": "0x416",
+  "size": "0x4"
+ },
+ {
+  "property": "DestinationKeyName",
+  "offset": "0x420",
+  "size": "0x4"
+ },
+ {
+  "property": "MoveToDestinationKeyName",
+  "offset": "0x424",
+  "size": "0x4"
+ },
+ {
+  "property": "AggressivenessName",
+  "offset": "0x428",
+  "size": "0x4"
+ }
+]

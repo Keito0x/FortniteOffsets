@@ -1,0 +1,12 @@
+[
+ {
+  "property": "bDebugIgnoreFullyDeployed",
+  "offset": "0x3152",
+  "size": "0x1"
+ },
+ {
+  "property": "PlayerParachute",
+  "offset": "0x3160",
+  "size": "0x8"
+ }
+]

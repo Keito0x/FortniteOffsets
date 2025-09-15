@@ -1,0 +1,17 @@
+[
+ {
+  "property": "bDisableWhenOwnerIsNotViewTarget",
+  "offset": "0x1264",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldRampUpWeightWhenEnabled",
+  "offset": "0x1265",
+  "size": "0x1"
+ },
+ {
+  "property": "WeightIncreasePerSecond",
+  "offset": "0x1268",
+  "size": "0x4"
+ }
+]

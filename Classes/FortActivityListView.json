@@ -1,0 +1,27 @@
+[
+ {
+  "property": "DirectionalNavigationTimeThreshold",
+  "offset": "0x1096",
+  "size": "0x4"
+ },
+ {
+  "property": "orientation",
+  "offset": "0x1100",
+  "size": "0x1"
+ },
+ {
+  "property": "EntrySpacing",
+  "offset": "0x1104",
+  "size": "0x4"
+ },
+ {
+  "property": "bCircularNavigationEnabled",
+  "offset": "0x1108",
+  "size": "0x1"
+ },
+ {
+  "property": "TileTypes",
+  "offset": "0x1112",
+  "size": "0x80"
+ }
+]

@@ -1,0 +1,17 @@
+[
+ {
+  "property": "SkinWeightProfile",
+  "offset": "0x40",
+  "size": "0x4"
+ },
+ {
+  "property": "bEnableLayeredSkinning",
+  "offset": "0x44",
+  "size": "0x1"
+ },
+ {
+  "property": "AttributeBufferArray",
+  "offset": "0x48",
+  "size": "0x16"
+ }
+]

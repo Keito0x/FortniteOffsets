@@ -1,0 +1,52 @@
+[
+ {
+  "property": "FulfillmentId",
+  "offset": "0x104",
+  "size": "0x16"
+ },
+ {
+  "property": "Name",
+  "offset": "0x120",
+  "size": "0x16"
+ },
+ {
+  "property": "TileMaterial",
+  "offset": "0x136",
+  "size": "0x32"
+ },
+ {
+  "property": "Stages",
+  "offset": "0x168",
+  "size": "0x16"
+ },
+ {
+  "property": "CutoffDate",
+  "offset": "0x184",
+  "size": "0x8"
+ },
+ {
+  "property": "AcquisitionCutoffDate",
+  "offset": "0x192",
+  "size": "0x8"
+ },
+ {
+  "property": "AcquireStartDate",
+  "offset": "0x200",
+  "size": "0x8"
+ },
+ {
+  "property": "AcquisitionCutoffDateText",
+  "offset": "0x208",
+  "size": "0x16"
+ },
+ {
+  "property": "UnlockedStages",
+  "offset": "0x224",
+  "size": "0x4"
+ },
+ {
+  "property": "Progress",
+  "offset": "0x228",
+  "size": "0x1"
+ }
+]

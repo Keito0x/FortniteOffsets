@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Subtype",
+  "offset": "0x1120",
+  "size": "0x1"
+ },
+ {
+  "property": "Slot",
+  "offset": "0x1124",
+  "size": "0x4"
+ }
+]

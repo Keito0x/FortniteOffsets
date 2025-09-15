@@ -1,0 +1,317 @@
+[
+ {
+  "property": "VisibilityCellSize",
+  "offset": "0x688",
+  "size": "0x4"
+ },
+ {
+  "property": "VisibilityAggressiveness",
+  "offset": "0x692",
+  "size": "0x1"
+ },
+ {
+  "property": "bPrecomputeVisibility",
+  "offset": "0x693",
+  "size": "0x1"
+ },
+ {
+  "property": "bPlaceCellsOnlyAlongCameraTracks",
+  "offset": "0x693",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableWorldBoundsChecks",
+  "offset": "0x693",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableNavigationSystem",
+  "offset": "0x693",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableAISystem",
+  "offset": "0x693",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableWorldComposition",
+  "offset": "0x693",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseClientSideLevelStreamingVolumes",
+  "offset": "0x693",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableWorldOriginRebasing",
+  "offset": "0x693",
+  "size": "0x1"
+ },
+ {
+  "property": "bWorldGravitySet",
+  "offset": "0x694",
+  "size": "0x1"
+ },
+ {
+  "property": "bGlobalGravitySet",
+  "offset": "0x694",
+  "size": "0x1"
+ },
+ {
+  "property": "bMinimizeBSPSections",
+  "offset": "0x694",
+  "size": "0x1"
+ },
+ {
+  "property": "bForceNoPrecomputedLighting",
+  "offset": "0x694",
+  "size": "0x1"
+ },
+ {
+  "property": "bForceVolumetricLightmapsOnly",
+  "offset": "0x694",
+  "size": "0x1"
+ },
+ {
+  "property": "bHighPriorityLoading",
+  "offset": "0x694",
+  "size": "0x1"
+ },
+ {
+  "property": "bHighPriorityLoadingLocal",
+  "offset": "0x694",
+  "size": "0x1"
+ },
+ {
+  "property": "bOverrideDefaultBroadphaseSettings",
+  "offset": "0x694",
+  "size": "0x1"
+ },
+ {
+  "property": "bGenerateSingleClusterForLevel",
+  "offset": "0x695",
+  "size": "0x1"
+ },
+ {
+  "property": "bAllowTimeDilation",
+  "offset": "0x695",
+  "size": "0x1"
+ },
+ {
+  "property": "bReuseAddressAndPort",
+  "offset": "0x695",
+  "size": "0x1"
+ },
+ {
+  "property": "AISystemClass",
+  "offset": "0x696",
+  "size": "0x32"
+ },
+ {
+  "property": "LevelInstancePivotOffset",
+  "offset": "0x728",
+  "size": "0x24"
+ },
+ {
+  "property": "NavigationSystemConfig",
+  "offset": "0x752",
+  "size": "0x8"
+ },
+ {
+  "property": "NavigationSystemConfigOverride",
+  "offset": "0x760",
+  "size": "0x8"
+ },
+ {
+  "property": "WorldPartition",
+  "offset": "0x768",
+  "size": "0x8"
+ },
+ {
+  "property": "BaseNavmeshDataLayers",
+  "offset": "0x776",
+  "size": "0x16"
+ },
+ {
+  "property": "WorldToMeters",
+  "offset": "0x792",
+  "size": "0x4"
+ },
+ {
+  "property": "KillZ",
+  "offset": "0x796",
+  "size": "0x4"
+ },
+ {
+  "property": "KillZDamageType",
+  "offset": "0x800",
+  "size": "0x8"
+ },
+ {
+  "property": "WorldGravityZ",
+  "offset": "0x808",
+  "size": "0x4"
+ },
+ {
+  "property": "GlobalGravityZ",
+  "offset": "0x812",
+  "size": "0x4"
+ },
+ {
+  "property": "DefaultPhysicsVolumeClass",
+  "offset": "0x816",
+  "size": "0x8"
+ },
+ {
+  "property": "PhysicsCollisionHandlerClass",
+  "offset": "0x824",
+  "size": "0x8"
+ },
+ {
+  "property": "DefaultGameMode",
+  "offset": "0x832",
+  "size": "0x8"
+ },
+ {
+  "property": "GameNetworkManagerClass",
+  "offset": "0x840",
+  "size": "0x8"
+ },
+ {
+  "property": "PackedLightAndShadowMapTextureSize",
+  "offset": "0x848",
+  "size": "0x4"
+ },
+ {
+  "property": "DefaultColorScale",
+  "offset": "0x856",
+  "size": "0x24"
+ },
+ {
+  "property": "DefaultMaxDistanceFieldOcclusionDistance",
+  "offset": "0x880",
+  "size": "0x4"
+ },
+ {
+  "property": "GlobalDistanceFieldViewDistance",
+  "offset": "0x884",
+  "size": "0x4"
+ },
+ {
+  "property": "DynamicIndirectShadowsSelfShadowingIntensity",
+  "offset": "0x888",
+  "size": "0x4"
+ },
+ {
+  "property": "VolumetricLightmapLoadingRange",
+  "offset": "0x892",
+  "size": "0x4"
+ },
+ {
+  "property": "NaniteSettings",
+  "offset": "0x896",
+  "size": "0x1"
+ },
+ {
+  "property": "DefaultReverbSettings",
+  "offset": "0x904",
+  "size": "0x32"
+ },
+ {
+  "property": "DefaultAmbientZoneSettings",
+  "offset": "0x936",
+  "size": "0x36"
+ },
+ {
+  "property": "DefaultBaseSoundMix",
+  "offset": "0x976",
+  "size": "0x8"
+ },
+ {
+  "property": "´Yõ¶¶)!Ü]åYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYŸYYYYYYYYYYYYYYY…Ü]å¶¶aè´Yõ¶¶iÂÄ]å¶¶YYYYYYYYﬂY]YYYYYŸYYYŸYYYYYYYYYYYYYYYYYYYÂÄ]å¶¶ŸYYYYYYYI:9]å¶¶	@Ü]å¶¶YYYYYYYYŸYYYYYYY9GÜ]å¶¶y∂9]å¶¶±9]å¶¶]YYYYYYY}HÜ]å¶¶XYYYYYYYQHÜ]å¶¶YYYYYYYYYYSXˇÔ¯ÈYYYYYYYY1+Yõ¶¶5ìt]å¶¶5±9]å¶¶YYYYYYYY]YYYYYYYYYYYYYYYYYYYYYYYY]YYYYÜ‰e]å¶¶YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYŸYYYYYYYYYYYYYYY1HÜ]å¶¶1ÿ™*Yõ¶¶IÂÄ]å¶¶YYYYYYYYﬂY]YYYYY]YYY]YYYYYYYYYYYYYYYYYYYuÂÄ]å¶¶ŸYYYYYYY	t]å¶¶)rt]å¶¶YYYYYYYY]YYYYYYYYYYYYYYYYYYYYYYYY«˘ã]å¶¶]YYYYYYY»Ü]å¶¶XYYYYYYYq»Ü]å¶¶YYYYYYYYYYSXˇÔ¯ÈYYYYYYYYQrH",
+  "offset": "0x984",
+  "size": "0x4"
+ },
+ {
+  "property": "CinematicTimeDilation",
+  "offset": "0x988",
+  "size": "0x4"
+ },
+ {
+  "property": "DemoPlayTimeDilation",
+  "offset": "0x992",
+  "size": "0x4"
+ },
+ {
+  "property": "MinGlobalTimeDilation",
+  "offset": "0x996",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxGlobalTimeDilation",
+  "offset": "0x1000",
+  "size": "0x4"
+ },
+ {
+  "property": "MinCinematicTimeDilation",
+  "offset": "0x1004",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxCinematicTimeDilation",
+  "offset": "0x1008",
+  "size": "0x4"
+ },
+ {
+  "property": "MinUndilatedFrameTime",
+  "offset": "0x1012",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxUndilatedFrameTime",
+  "offset": "0x1016",
+  "size": "0x4"
+ },
+ {
+  "property": "BroadphaseSettings",
+  "offset": "0x1024",
+  "size": "0x128"
+ },
+ {
+  "property": "ReplicationViewers",
+  "offset": "0x1152",
+  "size": "0x16"
+ },
+ {
+  "property": "AssetUserData",
+  "offset": "0x1168",
+  "size": "0x16"
+ },
+ {
+  "property": "PauserPlayerState",
+  "offset": "0x1184",
+  "size": "0x8"
+ },
+ {
+  "property": "MaxNumberOfBookmarks",
+  "offset": "0x1192",
+  "size": "0x4"
+ },
+ {
+  "property": "DefaultBookmarkClass",
+  "offset": "0x1200",
+  "size": "0x8"
+ },
+ {
+  "property": "BookmarkArray",
+  "offset": "0x1208",
+  "size": "0x16"
+ },
+ {
+  "property": "LastBookmarkClass",
+  "offset": "0x1224",
+  "size": "0x8"
+ }
+]

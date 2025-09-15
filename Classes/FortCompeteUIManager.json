@@ -1,0 +1,67 @@
+[
+ {
+  "property": "OnSetTournamentLeaderboardScreenSelectedEntry",
+  "offset": "0x104",
+  "size": "0x16"
+ },
+ {
+  "property": "FrontendNotificationDataMap",
+  "offset": "0x120",
+  "size": "0x80"
+ },
+ {
+  "property": "CalendarFilterVM",
+  "offset": "0x296",
+  "size": "0x8"
+ },
+ {
+  "property": "BookmarksVM",
+  "offset": "0x304",
+  "size": "0x8"
+ },
+ {
+  "property": "CompeteGameUserSettings",
+  "offset": "0x312",
+  "size": "0x8"
+ },
+ {
+  "property": "LeaderboardEntries",
+  "offset": "0x1424",
+  "size": "0x16"
+ },
+ {
+  "property": "LeaderboardLocalPlayerEntry",
+  "offset": "0x1440",
+  "size": "0x8"
+ },
+ {
+  "property": "LeaderboardScreenSelectedEntry",
+  "offset": "0x1448",
+  "size": "0x8"
+ },
+ {
+  "property": "LeaderboardClass",
+  "offset": "0x1456",
+  "size": "0x32"
+ },
+ {
+  "property": "PlayersProfiles",
+  "offset": "0x1488",
+  "size": "0x80"
+ },
+ {
+  "property": "LiveGames",
+  "offset": "0x1720",
+  "size": "0x16"
+ },
+ {
+  "property": "HabaneroModeAnimatedMessage",
+  "offset": "0x1752",
+  "size": "0x8"
+ },
+ {
+  "property": "bShowDebugInfo",
+  "offset": "0x1792",
+  "size": "0x1"
+ }
+]

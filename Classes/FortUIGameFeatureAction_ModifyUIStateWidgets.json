@@ -1,0 +1,12 @@
+[
+ {
+  "property": "StateWidgetClassOverrides",
+  "offset": "0x40",
+  "size": "0x80"
+ },
+ {
+  "property": "StateWidgetClassesByTag",
+  "offset": "0x120",
+  "size": "0x80"
+ }
+]

@@ -1,0 +1,67 @@
+[
+ {
+  "property": "Root",
+  "offset": "0x680",
+  "size": "0x8"
+ },
+ {
+  "property": "TopLeft",
+  "offset": "0x688",
+  "size": "0x8"
+ },
+ {
+  "property": "TopRight",
+  "offset": "0x696",
+  "size": "0x8"
+ },
+ {
+  "property": "BottomLeft",
+  "offset": "0x704",
+  "size": "0x8"
+ },
+ {
+  "property": "BottomRight",
+  "offset": "0x712",
+  "size": "0x8"
+ },
+ {
+  "property": "Center",
+  "offset": "0x720",
+  "size": "0x8"
+ },
+ {
+  "property": "NumCornerRows",
+  "offset": "0x728",
+  "size": "0x4"
+ },
+ {
+  "property": "NumCornerCols",
+  "offset": "0x732",
+  "size": "0x4"
+ },
+ {
+  "property": "SquareSideLength",
+  "offset": "0x736",
+  "size": "0x4"
+ },
+ {
+  "property": "Thickness",
+  "offset": "0x740",
+  "size": "0x4"
+ },
+ {
+  "property": "CubeMesh",
+  "offset": "0x744",
+  "size": "0x8"
+ },
+ {
+  "property": "OddCubeMaterial",
+  "offset": "0x752",
+  "size": "0x8"
+ },
+ {
+  "property": "EvenCubeMaterial",
+  "offset": "0x760",
+  "size": "0x8"
+ }
+]

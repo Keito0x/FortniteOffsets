@@ -1,0 +1,27 @@
+[
+ {
+  "property": "Refundable",
+  "offset": "0x288",
+  "size": "0x1"
+ },
+ {
+  "property": "refund_legacy_item",
+  "offset": "0x289",
+  "size": "0x1"
+ },
+ {
+  "property": "alteration_base_rarities",
+  "offset": "0x296",
+  "size": "0x16"
+ },
+ {
+  "property": "bGrantedByAbility",
+  "offset": "0x312",
+  "size": "0x1"
+ },
+ {
+  "property": "RequiredTeamLevel",
+  "offset": "0x316",
+  "size": "0x4"
+ }
+]

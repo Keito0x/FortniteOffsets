@@ -1,0 +1,862 @@
+[
+ {
+  "property": "OnInteractionFailedCallback",
+  "offset": "0x19904",
+  "size": "0x16"
+ },
+ {
+  "property": "ItemInteractionActor",
+  "offset": "0x19920",
+  "size": "0x8"
+ },
+ {
+  "property": "PreviousVelocityXY",
+  "offset": "0x20024",
+  "size": "0x24"
+ },
+ {
+  "property": "OnReviveSound",
+  "offset": "0x20048",
+  "size": "0x8"
+ },
+ {
+  "property": "ReviveFromDBNOTime",
+  "offset": "0x20056",
+  "size": "0x4"
+ },
+ {
+  "property": "CanBeDamagedInDBNO",
+  "offset": "0x20060",
+  "size": "0x1"
+ },
+ {
+  "property": "DBNOStartTime",
+  "offset": "0x20064",
+  "size": "0x4"
+ },
+ {
+  "property": "DeathTime",
+  "offset": "0x20068",
+  "size": "0x4"
+ },
+ {
+  "property": "DBNOInvulnerableTime",
+  "offset": "0x20072",
+  "size": "0x4"
+ },
+ {
+  "property": "CachedDBNOInvulnerableTime",
+  "offset": "0x20076",
+  "size": "0x4"
+ },
+ {
+  "property": "ConvertFromDBNOTime",
+  "offset": "0x20080",
+  "size": "0x4"
+ },
+ {
+  "property": "ServerWorldTimeRevivalTime",
+  "offset": "0x20084",
+  "size": "0x4"
+ },
+ {
+  "property": "bWasCrouchedBeforeDBNO",
+  "offset": "0x20096",
+  "size": "0x1"
+ },
+ {
+  "property": "LastCrouchUpdateTime",
+  "offset": "0x20104",
+  "size": "0x8"
+ },
+ {
+  "property": "ItemSpecialActorID",
+  "offset": "0x20112",
+  "size": "0x4"
+ },
+ {
+  "property": "ItemSpecialActorCategoryTag",
+  "offset": "0x20116",
+  "size": "0x4"
+ },
+ {
+  "property": "BecameSpecialActorTime",
+  "offset": "0x20124",
+  "size": "0x4"
+ },
+ {
+  "property": "bPlaytestWithNoMouse",
+  "offset": "0x20128",
+  "size": "0x1"
+ },
+ {
+  "property": "LandEmitterTemplate",
+  "offset": "0x20144",
+  "size": "0x8"
+ },
+ {
+  "property": "CustomDepthComponent",
+  "offset": "0x20152",
+  "size": "0x8"
+ },
+ {
+  "property": "IgnoreLandGhostModeTags",
+  "offset": "0x20160",
+  "size": "0x32"
+ },
+ {
+  "property": "LandWindEmitterTemplate",
+  "offset": "0x20192",
+  "size": "0x8"
+ },
+ {
+  "property": "LandFXLocationOffset",
+  "offset": "0x20200",
+  "size": "0x24"
+ },
+ {
+  "property": "LandFXRotateYawMaxDegrees",
+  "offset": "0x20224",
+  "size": "0x4"
+ },
+ {
+  "property": "LandFXMaxDrawDistance",
+  "offset": "0x20228",
+  "size": "0x4"
+ },
+ {
+  "property": "LandForceIntensityVelocityZFactor",
+  "offset": "0x20232",
+  "size": "0x4"
+ },
+ {
+  "property": "MinLandForceIntensity",
+  "offset": "0x20236",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxLandForceIntensity",
+  "offset": "0x20240",
+  "size": "0x4"
+ },
+ {
+  "property": "MinLandForceDuration",
+  "offset": "0x20244",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxLandForceDuration",
+  "offset": "0x20248",
+  "size": "0x4"
+ },
+ {
+  "property": "LandFXCoolDownTime",
+  "offset": "0x20252",
+  "size": "0x4"
+ },
+ {
+  "property": "LandFXPawnRecentRenderTolerance",
+  "offset": "0x20256",
+  "size": "0x4"
+ },
+ {
+  "property": "bShouldPawnInstantDie",
+  "offset": "0x20280",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldPawnDBNODisplayOnKillFeed",
+  "offset": "0x20281",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldPawnDeathDisplayOnKillFeed",
+  "offset": "0x20282",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldPawnLeaveEliminationIndicator",
+  "offset": "0x20283",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldPawnAwardPoints",
+  "offset": "0x20284",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldTriggerDeathAnalytics",
+  "offset": "0x20285",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldDropItemsOnDeath",
+  "offset": "0x20286",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldSkipMovementFullSimulation",
+  "offset": "0x20287",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldForceMovementFullSimulationWhenFallingAndDead",
+  "offset": "0x20288",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableGroundInteractionEffects",
+  "offset": "0x20289",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableUpdateHealthPostProcess",
+  "offset": "0x20289",
+  "size": "0x1"
+ },
+ {
+  "property": "AbilityRangeCheckOverride",
+  "offset": "0x20292",
+  "size": "0x4"
+ },
+ {
+  "property": "QuickChatRequestBankOverride",
+  "offset": "0x20296",
+  "size": "0x8"
+ },
+ {
+  "property": "ResurrectionPlayerStartActorComponent",
+  "offset": "0x20304",
+  "size": "0x8"
+ },
+ {
+  "property": "ResurrectionPlayerStart",
+  "offset": "0x20312",
+  "size": "0x8"
+ },
+ {
+  "property": "CachedCustomMinimapTeamIndicator",
+  "offset": "0x20320",
+  "size": "0x8"
+ },
+ {
+  "property": "AttributeReplicationProxy",
+  "offset": "0x20328",
+  "size": "0x44"
+ },
+ {
+  "property": "GravityAttributeReplicationProxy",
+  "offset": "0x20372",
+  "size": "0x16"
+ },
+ {
+  "property": "ReplayRepAnimMontageInfo",
+  "offset": "0x20392",
+  "size": "0x56"
+ },
+ {
+  "property": "SimulatedProxyActiveGameplayCues",
+  "offset": "0x20448",
+  "size": "0x704"
+ },
+ {
+  "property": "SimulatedProxyMinimalReplicationGameplayCues",
+  "offset": "0x21152",
+  "size": "0x704"
+ },
+ {
+  "property": "FastReplicationMinimalReplicationTags",
+  "offset": "0x21856",
+  "size": "0x104"
+ },
+ {
+  "property": "FastReplicationReplicatedLooseTags",
+  "offset": "0x22568",
+  "size": "0x104"
+ },
+ {
+  "property": "bEnableMinimalReplicationTagsAndCues",
+  "offset": "0x22672",
+  "size": "0x1"
+ },
+ {
+  "property": "bADSWhileNotOnGround",
+  "offset": "0x22673",
+  "size": "0x1"
+ },
+ {
+  "property": "DefaultCrouchedFootstepSound",
+  "offset": "0x22680",
+  "size": "0x8"
+ },
+ {
+  "property": "DefaultCrouchSprintFootstepSound",
+  "offset": "0x22688",
+  "size": "0x8"
+ },
+ {
+  "property": "OnFortPlayerDied",
+  "offset": "0x22696",
+  "size": "0x16"
+ },
+ {
+  "property": "OnFortDeathCause",
+  "offset": "0x22712",
+  "size": "0x16"
+ },
+ {
+  "property": "OnFortPlayerHitByVehicle",
+  "offset": "0x22728",
+  "size": "0x16"
+ },
+ {
+  "property": "KillerForSpectatorRotation",
+  "offset": "0x22744",
+  "size": "0x8"
+ },
+ {
+  "property": "bCheckVisibilityViaSmartObjectPhysicsRoot",
+  "offset": "0x22753",
+  "size": "0x1"
+ },
+ {
+  "property": "bDelaySimProxyCollisionInAircraftPhase",
+  "offset": "0x22754",
+  "size": "0x1"
+ },
+ {
+  "property": "TimeToDelaySkydiveCollision",
+  "offset": "0x22756",
+  "size": "0x4"
+ },
+ {
+  "property": "SkydiveAudioMovementVolumeInterpSpeed",
+  "offset": "0x22776",
+  "size": "0x4"
+ },
+ {
+  "property": "SkydiveAudioForwardDotInterpSpeed",
+  "offset": "0x22792",
+  "size": "0x4"
+ },
+ {
+  "property": "SkydiveAudioRightDotInterpSpeed",
+  "offset": "0x22796",
+  "size": "0x4"
+ },
+ {
+  "property": "DamageFXSignificance",
+  "offset": "0x22804",
+  "size": "0x24"
+ },
+ {
+  "property": "ScreenEffectHealthDamage",
+  "offset": "0x22840",
+  "size": "0x8"
+ },
+ {
+  "property": "ScreenEffectShieldDamage",
+  "offset": "0x22848",
+  "size": "0x8"
+ },
+ {
+  "property": "AdditiveHitReactsMontage",
+  "offset": "0x22856",
+  "size": "0x8"
+ },
+ {
+  "property": "DamageTagsToNotDisplayDirectionDamage",
+  "offset": "0x22864",
+  "size": "0x32"
+ },
+ {
+  "property": "DamageTagsToNotAddCameraShake",
+  "offset": "0x22896",
+  "size": "0x32"
+ },
+ {
+  "property": "TagsToNotPlayCircleAndStreakFX",
+  "offset": "0x22928",
+  "size": "0x32"
+ },
+ {
+  "property": "OnPlayerLootedContainer",
+  "offset": "0x22960",
+  "size": "0x16"
+ },
+ {
+  "property": "DisplayHitNotify",
+  "offset": "0x22976",
+  "size": "0x16"
+ },
+ {
+  "property": "OnShieldBreak",
+  "offset": "0x22992",
+  "size": "0x16"
+ },
+ {
+  "property": "OnCurrentMovementStyleChanged",
+  "offset": "0x23008",
+  "size": "0x16"
+ },
+ {
+  "property": "bIsPlayerPawnReady",
+  "offset": "0x23064",
+  "size": "0x1"
+ },
+ {
+  "property": "LastFiredLocation",
+  "offset": "0x23072",
+  "size": "0x24"
+ },
+ {
+  "property": "LastFiredDirection",
+  "offset": "0x23096",
+  "size": "0x24"
+ },
+ {
+  "property": "LastFiredTime",
+  "offset": "0x23120",
+  "size": "0x4"
+ },
+ {
+  "property": "PrototypeShootingModel",
+  "offset": "0x23168",
+  "size": "0x8"
+ },
+ {
+  "property": "FallInstigator",
+  "offset": "0x23176",
+  "size": "0x8"
+ },
+ {
+  "property": "FallDamageTags",
+  "offset": "0x23184",
+  "size": "0x32"
+ },
+ {
+  "property": "LastFloorBeforeFalling",
+  "offset": "0x23216",
+  "size": "0x8"
+ },
+ {
+  "property": "LastFallDistance",
+  "offset": "0x23224",
+  "size": "0x4"
+ },
+ {
+  "property": "SkydiveDebugTimer",
+  "offset": "0x23228",
+  "size": "0x4"
+ },
+ {
+  "property": "MeleeCombatSlowSpeedMultiplier",
+  "offset": "0x23232",
+  "size": "0x4"
+ },
+ {
+  "property": "MeleeCombatSlowDuration",
+  "offset": "0x23244",
+  "size": "0x4"
+ },
+ {
+  "property": "EncryptedPawnReplayData",
+  "offset": "0x23248",
+  "size": "0x48"
+ },
+ {
+  "property": "InAirAudioComp",
+  "offset": "0x23304",
+  "size": "0x8"
+ },
+ {
+  "property": "PSC_PlayerWalkLand",
+  "offset": "0x23312",
+  "size": "0x8"
+ },
+ {
+  "property": "PSC_PlayerRunLand",
+  "offset": "0x23320",
+  "size": "0x8"
+ },
+ {
+  "property": "PSC_HitDamage",
+  "offset": "0x23328",
+  "size": "0x8"
+ },
+ {
+  "property": "UseNiagaraPlayerHitDamageTags",
+  "offset": "0x23336",
+  "size": "0x32"
+ },
+ {
+  "property": "NiagaraPlayerRunDustKickupComp",
+  "offset": "0x23376",
+  "size": "0x8"
+ },
+ {
+  "property": "NiagaraPlayerWalkDustKickupComp",
+  "offset": "0x23384",
+  "size": "0x8"
+ },
+ {
+  "property": "NiagaraPlayerHitDamageComp",
+  "offset": "0x23392",
+  "size": "0x8"
+ },
+ {
+  "property": "NiagaraPlayerLandDustPuffComp",
+  "offset": "0x23400",
+  "size": "0x8"
+ },
+ {
+  "property": "NiagaraPlayerRunDustKickup",
+  "offset": "0x23408",
+  "size": "0x8"
+ },
+ {
+  "property": "NiagaraPlayerWalkDustKickup",
+  "offset": "0x23416",
+  "size": "0x8"
+ },
+ {
+  "property": "NiagaraPlayerHitDamage",
+  "offset": "0x23424",
+  "size": "0x8"
+ },
+ {
+  "property": "NiagaraPlayerLandDustPuff",
+  "offset": "0x23432",
+  "size": "0x8"
+ },
+ {
+  "property": "PlayerKickupFXSocketName",
+  "offset": "0x23440",
+  "size": "0x4"
+ },
+ {
+  "property": "PlayerKickupSurfaceParameterName",
+  "offset": "0x23444",
+  "size": "0x4"
+ },
+ {
+  "property": "PlayerKickupSurfaceParamList",
+  "offset": "0x23448",
+  "size": "0x16"
+ },
+ {
+  "property": "ContrailsComponent",
+  "offset": "0x23464",
+  "size": "0x8"
+ },
+ {
+  "property": "MobileInteractionComponents",
+  "offset": "0x23472",
+  "size": "0x16"
+ },
+ {
+  "property": "MinimapIconColorFiftyFiftyPlayer",
+  "offset": "0x23488",
+  "size": "0x16"
+ },
+ {
+  "property": "MaxIndicatorVisibilityDistForReplays",
+  "offset": "0x23504",
+  "size": "0x4"
+ },
+ {
+  "property": "ConsumableUseAudio",
+  "offset": "0x23512",
+  "size": "0x8"
+ },
+ {
+  "property": "InAirAudioParameterValue",
+  "offset": "0x23520",
+  "size": "0x4"
+ },
+ {
+  "property": "InAirAudioFallDistanceThreshold",
+  "offset": "0x23524",
+  "size": "0x4"
+ },
+ {
+  "property": "WalkDustActivateSpeed",
+  "offset": "0x23532",
+  "size": "0x4"
+ },
+ {
+  "property": "WalkDustResetSpeed",
+  "offset": "0x23540",
+  "size": "0x4"
+ },
+ {
+  "property": "RunParticleActivateSpeed",
+  "offset": "0x23548",
+  "size": "0x4"
+ },
+ {
+  "property": "ImmersionDepthToSplashScaleInput_Min",
+  "offset": "0x23572",
+  "size": "0x4"
+ },
+ {
+  "property": "ImmersionDepthToSplashScaleInput_Max",
+  "offset": "0x23576",
+  "size": "0x4"
+ },
+ {
+  "property": "ImmersionDepthToSplashScaleOutput_Min",
+  "offset": "0x23580",
+  "size": "0x4"
+ },
+ {
+  "property": "ImmersionDepthToSplashScaleOutput_Max",
+  "offset": "0x23584",
+  "size": "0x4"
+ },
+ {
+  "property": "SoundFX_WaterExit_3P",
+  "offset": "0x23592",
+  "size": "0x8"
+ },
+ {
+  "property": "SoundFX_WaterExit_1P",
+  "offset": "0x23600",
+  "size": "0x8"
+ },
+ {
+  "property": "SoundFX_WaterEntry_3P",
+  "offset": "0x23608",
+  "size": "0x8"
+ },
+ {
+  "property": "SoundFX_WaterEntry_1P",
+  "offset": "0x23616",
+  "size": "0x8"
+ },
+ {
+  "property": "WaterAudioLocationOffset",
+  "offset": "0x23624",
+  "size": "0x24"
+ },
+ {
+  "property": "WaterAudioVolumeMultiplier_Local",
+  "offset": "0x23648",
+  "size": "0x4"
+ },
+ {
+  "property": "WaterAudioVolumeMultiplier_Remote",
+  "offset": "0x23652",
+  "size": "0x4"
+ },
+ {
+  "property": "VelocityToWaterEntrySpeedParamInput_Min",
+  "offset": "0x23656",
+  "size": "0x4"
+ },
+ {
+  "property": "VelocityToWaterEntrySpeedParamInput_Max",
+  "offset": "0x23660",
+  "size": "0x4"
+ },
+ {
+  "property": "VelocityToWaterEntrySpeedParamOutput_Min",
+  "offset": "0x23664",
+  "size": "0x4"
+ },
+ {
+  "property": "VelocityToWaterEntrySpeedParamOutput_Max",
+  "offset": "0x23668",
+  "size": "0x4"
+ },
+ {
+  "property": "EntrySpeedParameterName",
+  "offset": "0x23672",
+  "size": "0x4"
+ },
+ {
+  "property": "LastHealthPostProcessWeight",
+  "offset": "0x23676",
+  "size": "0x4"
+ },
+ {
+  "property": "HealthPostProcessStartTime",
+  "offset": "0x23680",
+  "size": "0x4"
+ },
+ {
+  "property": "HealthPostProcessMuteTime",
+  "offset": "0x23684",
+  "size": "0x4"
+ },
+ {
+  "property": "bIsCreativeGhostModeActivated",
+  "offset": "0x23744",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsCreativeModeratorModeActivated",
+  "offset": "0x23745",
+  "size": "0x1"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x23848",
+  "size": "0x8"
+ },
+ {
+  "property": "InvulnerabilityTags",
+  "offset": "0x23928",
+  "size": "0x32"
+ },
+ {
+  "property": "UnicornPawnSampler",
+  "offset": "0x24176",
+  "size": "0x8"
+ },
+ {
+  "property": "bShowMarkerIcon",
+  "offset": "0x24184",
+  "size": "0x1"
+ },
+ {
+  "property": "MarkerDisplay",
+  "offset": "0x24192",
+  "size": "0x176"
+ },
+ {
+  "property": "/)ï]å¶¶)®ïYYYYYYYYYYYYYYYYYYYYYYYYYYYœ’XzÌoÎcÎkDŒŒnÎÃIà]å¶¶ÍÎŒIËm`ÓY[YYŸYYYYYYDŒŒnYYYYYYYY‡ÓjcœÈ„cAfÜ]å¶¶ŸYYY`ËIËuÊYYYYYYŸYYYYYYYYYYYYYYY—YymÎÔÎyG¯ó]å¶¶YYYYYYYY€Y5YYYYYI/)ï]å¶¶)®ï]å¶¶YÍN§Yõ¶¶yÚK—Ÿõ¶¶=Ö]å¶¶U]å¶¶YYYYYYYYYYYYYYYYŸYŸŸYŸŸYxY_YYYYYnYeYYYYY1e®Yõ¶¶Y9ÅXYYYYYYYYYYYY=hÔå]å¶¶ŸYZYYYYYEÃIà]å¶¶EÃIà]å¶¶YYZYŸYYYqÃIà]å¶¶qÃIà]å¶¶YYYYYYYYYYYYYYYYaÃIà]å¶¶aÃIà]å¶¶1Ûàñ]å¶¶YYYYYYYYYYYYYYYYYYYYYYYYŸYYYYYYYYYYYYYYYYYYYYYYYËm`ÓÔÎDŒY`’XzÌoÎÎ‡IËm`ÓÔUœIà]å¶¶YYYYYYYYY[YYŸYYYYYYYYYYYYYYYYYYÄP◊nîÔ˜¿AfÜ]å¶¶ŸYYYYYYY;ÊYYYYYYŸYYYYYYYYYYYYYYY“Yy?≠yG¯ó]å¶¶YYYYYYYY€Y5YYYYYI",
+  "offset": "0x24368",
+  "size": "0x24"
+ },
+ {
+  "property": "bCanBeMarkedAsTeammate",
+  "offset": "0x24392",
+  "size": "0x1"
+ },
+ {
+  "property": "DamageForceFeedback",
+  "offset": "0x24416",
+  "size": "0x8"
+ },
+ {
+  "property": "DamageCameraShakeClass",
+  "offset": "0x24424",
+  "size": "0x8"
+ },
+ {
+  "property": "DamageTagsExcludedFromCameraShake",
+  "offset": "0x24432",
+  "size": "0x32"
+ },
+ {
+  "property": "UpdateSharedReplicationWhileAttachedCount",
+  "offset": "0x24488",
+  "size": "0x4"
+ },
+ {
+  "property": "BP_RotationSpeedWhenTurnedOffByAnim",
+  "offset": "0x24492",
+  "size": "0x4"
+ },
+ {
+  "property": "BP_RotationSpeedOnDetach",
+  "offset": "0x24496",
+  "size": "0x4"
+ },
+ {
+  "property": "BP_MaxRotationSpeedWhenAttached",
+  "offset": "0x24500",
+  "size": "0x4"
+ },
+ {
+  "property": "BP_TimeToReachMaxRotationSpeed",
+  "offset": "0x24504",
+  "size": "0x4"
+ },
+ {
+  "property": "BP_AddedRotationInfluenceFromForwardVectorOnAttach",
+  "offset": "0x24508",
+  "size": "0x4"
+ },
+ {
+  "property": "YawNegative90",
+  "offset": "0x24512",
+  "size": "0x24"
+ },
+ {
+  "property": "CallerID_update_mesh_rotation",
+  "offset": "0x24536",
+  "size": "0x16"
+ },
+ {
+  "property": "AttachPointNormalizeTolerance",
+  "offset": "0x24552",
+  "size": "0x4"
+ },
+ {
+  "property": "ForwardProjectedNormalizeTolerance",
+  "offset": "0x24556",
+  "size": "0x4"
+ },
+ {
+  "property": "Swinging_AttachBGA",
+  "offset": "0x24560",
+  "size": "0x8"
+ },
+ {
+  "property": "Swinging_RightVec",
+  "offset": "0x24568",
+  "size": "0x24"
+ },
+ {
+  "property": "Swinging_LastAttachTime",
+  "offset": "0x24592",
+  "size": "0x4"
+ },
+ {
+  "property": "bSwingingShouldRotateMesh",
+  "offset": "0x24596",
+  "size": "0x1"
+ },
+ {
+  "property": "bSwinging_UseProgrammaticRotation",
+  "offset": "0x24597",
+  "size": "0x1"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x24598",
+  "size": "0x1"
+ },
+ {
+  "property": "DBNORevivingActorsCount",
+  "offset": "0x24599",
+  "size": "0x1"
+ },
+ {
+  "property": "RimLightComponent",
+  "offset": "0x24608",
+  "size": "0x8"
+ },
+ {
+  "property": "TornOffLifespan",
+  "offset": "0x24616",
+  "size": "0x4"
+ },
+ {
+  "property": "VoiceChatSoundClass",
+  "offset": "0x24640",
+  "size": "0x8"
+ },
+ {
+  "property": "VoiceChatComp",
+  "offset": "0x24648",
+  "size": "0x8"
+ },
+ {
+  "property": "OnVoiceChatComponetCreated",
+  "offset": "0x24656",
+  "size": "0x16"
+ }
+]

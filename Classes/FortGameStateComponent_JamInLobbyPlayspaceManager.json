@@ -1,0 +1,12 @@
+[
+ {
+  "property": "PlayspaceClassToSpawn",
+  "offset": "0x200",
+  "size": "0x32"
+ },
+ {
+  "property": "JamInLobbyConfig",
+  "offset": "0x264",
+  "size": "0x8"
+ }
+]

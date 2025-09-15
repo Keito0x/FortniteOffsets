@@ -1,0 +1,32 @@
+[
+ {
+  "property": "GameplayTags",
+  "offset": "0x248",
+  "size": "0x32"
+ },
+ {
+  "property": "RayCastFarDistance",
+  "offset": "0x280",
+  "size": "0x4"
+ },
+ {
+  "property": "RayCastNearDistance",
+  "offset": "0x284",
+  "size": "0x4"
+ },
+ {
+  "property": "bInventoryRequirement",
+  "offset": "0x288",
+  "size": "0x1"
+ },
+ {
+  "property": "BlockedByTags",
+  "offset": "0x296",
+  "size": "0x32"
+ },
+ {
+  "property": "GameplayEventTag",
+  "offset": "0x328",
+  "size": "0x4"
+ }
+]

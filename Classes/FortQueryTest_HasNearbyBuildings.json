@@ -1,0 +1,32 @@
+[
+ {
+  "property": "bIncludeCenter",
+  "offset": "0x504",
+  "size": "0x1"
+ },
+ {
+  "property": "bIncludeFloors",
+  "offset": "0x504",
+  "size": "0x1"
+ },
+ {
+  "property": "bIncludeFloorsAbove",
+  "offset": "0x504",
+  "size": "0x1"
+ },
+ {
+  "property": "bIncludeWalls",
+  "offset": "0x504",
+  "size": "0x1"
+ },
+ {
+  "property": "ExtentXY",
+  "offset": "0x508",
+  "size": "0x4"
+ },
+ {
+  "property": "ExtentZ",
+  "offset": "0x512",
+  "size": "0x4"
+ }
+]

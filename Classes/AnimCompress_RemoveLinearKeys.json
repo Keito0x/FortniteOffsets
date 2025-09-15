@@ -1,0 +1,47 @@
+[
+ {
+  "property": "MaxPosDiff",
+  "offset": "0x64",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxAngleDiff",
+  "offset": "0x68",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxScaleDiff",
+  "offset": "0x72",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxEffectorDiff",
+  "offset": "0x76",
+  "size": "0x4"
+ },
+ {
+  "property": "MinEffectorDiff",
+  "offset": "0x80",
+  "size": "0x4"
+ },
+ {
+  "property": "EffectorDiffSocket",
+  "offset": "0x84",
+  "size": "0x4"
+ },
+ {
+  "property": "ParentKeyScale",
+  "offset": "0x88",
+  "size": "0x4"
+ },
+ {
+  "property": "bRetarget",
+  "offset": "0x92",
+  "size": "0x1"
+ },
+ {
+  "property": "bActuallyFilterLinearKeys",
+  "offset": "0x92",
+  "size": "0x1"
+ }
+]

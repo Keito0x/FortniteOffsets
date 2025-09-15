@@ -1,0 +1,32 @@
+[
+ {
+  "property": "WidgetName",
+  "offset": "0x960",
+  "size": "0x16"
+ },
+ {
+  "property": "AppendWidgetAndBehaviorNames",
+  "offset": "0x976",
+  "size": "0x1"
+ },
+ {
+  "property": "InBoundsHighlightColor",
+  "offset": "0x980",
+  "size": "0x16"
+ },
+ {
+  "property": "OutOfBoundsProxyHighlightColor",
+  "offset": "0x996",
+  "size": "0x16"
+ },
+ {
+  "property": "Image_SelectionHighlight",
+  "offset": "0x1064",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_OutOfBoundsIndicator",
+  "offset": "0x1072",
+  "size": "0x8"
+ }
+]

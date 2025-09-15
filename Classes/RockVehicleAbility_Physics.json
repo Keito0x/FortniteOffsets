@@ -1,0 +1,12 @@
+[
+ {
+  "property": "bShouldStayActive",
+  "offset": "0x208",
+  "size": "0x1"
+ },
+ {
+  "property": "InputState",
+  "offset": "0x216",
+  "size": "0x64"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "property": "SongItemDef",
+  "offset": "0x1680",
+  "size": "0x8"
+ },
+ {
+  "property": "LoopType",
+  "offset": "0x1688",
+  "size": "0x1"
+ }
+]

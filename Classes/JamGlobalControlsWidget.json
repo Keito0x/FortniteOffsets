@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Button_Close",
+  "offset": "0x1120",
+  "size": "0x8"
+ },
+ {
+  "property": "GameplayAbility",
+  "offset": "0x1144",
+  "size": "0x8"
+ }
+]

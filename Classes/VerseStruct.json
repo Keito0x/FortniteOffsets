@@ -1,0 +1,42 @@
+[
+ {
+  "property": "VerseClassFlags",
+  "offset": "0x192",
+  "size": "0x4"
+ },
+ {
+  "property": "QualifiedName",
+  "offset": "0x200",
+  "size": "0x16"
+ },
+ {
+  "property": "InitFunction",
+  "offset": "0x216",
+  "size": "0x8"
+ },
+ {
+  "property": "ModuleClass",
+  "offset": "0x224",
+  "size": "0x8"
+ },
+ {
+  "property": "Guid",
+  "offset": "0x232",
+  "size": "0x16"
+ },
+ {
+  "property": "FactoryFunction",
+  "offset": "0x248",
+  "size": "0x8"
+ },
+ {
+  "property": "OverrideFactoryFunction",
+  "offset": "0x256",
+  "size": "0x8"
+ },
+ {
+  "property": "ConstructorEffects",
+  "offset": "0x264",
+  "size": "0x1"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "property": "CosmeticDefContainingVariants",
+  "offset": "0x144",
+  "size": "0x8"
+ },
+ {
+  "property": "bAddToPawnHightlightSet",
+  "offset": "0x152",
+  "size": "0x1"
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "property": "OnWidgetActivated",
+  "offset": "0x1128",
+  "size": "0x16"
+ },
+ {
+  "property": "OnWidgetDeactivated",
+  "offset": "0x1144",
+  "size": "0x16"
+ },
+ {
+  "property": "bConsumeAllActions",
+  "offset": "0x98741524",
+  "size": "0x1030489949"
+ },
+ {
+  "property": "",
+  "offset": "0x98741524",
+  "size": "0x0"
+ }
+]

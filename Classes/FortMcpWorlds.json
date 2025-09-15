@@ -1,0 +1,22 @@
+[
+ {
+  "property": "TheaterInfo",
+  "offset": "0x64",
+  "size": "0x48"
+ },
+ {
+  "property": "TheaterQueryRetry",
+  "offset": "0x112",
+  "size": "0x4"
+ },
+ {
+  "property": "LastTheaterRefresh",
+  "offset": "0x120",
+  "size": "0x8"
+ },
+ {
+  "property": "LastWorld",
+  "offset": "0x128",
+  "size": "0x32"
+ }
+]

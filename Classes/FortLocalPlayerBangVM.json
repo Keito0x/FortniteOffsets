@@ -1,0 +1,27 @@
+[
+ {
+  "property": "BangType",
+  "offset": "0x120",
+  "size": "0x1"
+ },
+ {
+  "property": "Count",
+  "offset": "0x124",
+  "size": "0x4"
+ },
+ {
+  "property": "bIsEnabled",
+  "offset": "0x128",
+  "size": "0x1"
+ },
+ {
+  "property": "CalloutName",
+  "offset": "0x132",
+  "size": "0x4"
+ },
+ {
+  "property": "CalloutType",
+  "offset": "0x136",
+  "size": "0x1"
+ }
+]

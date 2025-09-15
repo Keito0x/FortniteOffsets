@@ -1,0 +1,67 @@
+[
+ {
+  "property": "WidgetStyle",
+  "offset": "0x384",
+  "size": "0x912"
+ },
+ {
+  "property": "ColorAndOpacity",
+  "offset": "0x1296",
+  "size": "0x16"
+ },
+ {
+  "property": "BackgroundColor",
+  "offset": "0x1312",
+  "size": "0x16"
+ },
+ {
+  "property": "ClickMethod",
+  "offset": "0x1328",
+  "size": "0x1"
+ },
+ {
+  "property": "TouchMethod",
+  "offset": "0x1329",
+  "size": "0x1"
+ },
+ {
+  "property": "PressMethod",
+  "offset": "0x1330",
+  "size": "0x1"
+ },
+ {
+  "property": "IsFocusable",
+  "offset": "0x1331",
+  "size": "0x1"
+ },
+ {
+  "property": "OnClicked",
+  "offset": "0x1336",
+  "size": "0x16"
+ },
+ {
+  "property": "OnPressed",
+  "offset": "0x1352",
+  "size": "0x16"
+ },
+ {
+  "property": "OnReleased",
+  "offset": "0x1368",
+  "size": "0x16"
+ },
+ {
+  "property": "OnHovered",
+  "offset": "0x1384",
+  "size": "0x16"
+ },
+ {
+  "property": "OnUnhovered",
+  "offset": "0x1400",
+  "size": "0x16"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x1512",
+  "size": "0x1"
+ }
+]

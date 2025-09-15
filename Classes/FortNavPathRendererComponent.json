@@ -1,0 +1,52 @@
+[
+ {
+  "property": "PathVFX",
+  "offset": "0x192",
+  "size": "0x8"
+ },
+ {
+  "property": "PathVFXOffset",
+  "offset": "0x200",
+  "size": "0x24"
+ },
+ {
+  "property": "PathColors",
+  "offset": "0x224",
+  "size": "0x16"
+ },
+ {
+  "property": "PathVFXComponent",
+  "offset": "0x240",
+  "size": "0x8"
+ },
+ {
+  "property": "PathRendererList",
+  "offset": "0x248",
+  "size": "0x16"
+ },
+ {
+  "property": "AllPathsPoints",
+  "offset": "0x264",
+  "size": "0x16"
+ },
+ {
+  "property": "NavPathPoints",
+  "offset": "0x280",
+  "size": "0x16"
+ },
+ {
+  "property": "NavPathPointsStatus",
+  "offset": "0x296",
+  "size": "0x16"
+ },
+ {
+  "property": "PathMode",
+  "offset": "0x312",
+  "size": "0x1"
+ },
+ {
+  "property": "CurrentPathColorIndex",
+  "offset": "0x316",
+  "size": "0x4"
+ }
+]

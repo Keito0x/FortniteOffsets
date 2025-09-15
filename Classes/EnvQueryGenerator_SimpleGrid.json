@@ -1,0 +1,17 @@
+[
+ {
+  "property": "GridSize",
+  "offset": "0x144",
+  "size": "0x56"
+ },
+ {
+  "property": "SpaceBetween",
+  "offset": "0x200",
+  "size": "0x56"
+ },
+ {
+  "property": "GenerateAround",
+  "offset": "0x256",
+  "size": "0x8"
+ }
+]

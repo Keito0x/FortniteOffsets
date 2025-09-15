@@ -1,0 +1,27 @@
+[
+ {
+  "property": "InnerSlotPadding",
+  "offset": "0x384",
+  "size": "0x16"
+ },
+ {
+  "property": "WrapSize",
+  "offset": "0x400",
+  "size": "0x4"
+ },
+ {
+  "property": "bExplicitWrapSize",
+  "offset": "0x404",
+  "size": "0x1"
+ },
+ {
+  "property": "HorizontalAlignment",
+  "offset": "0x405",
+  "size": "0x1"
+ },
+ {
+  "property": "orientation",
+  "offset": "0x406",
+  "size": "0x1"
+ }
+]

@@ -1,0 +1,7 @@
+[
+ {
+  "property": "SocketErrorDisconnectDelay",
+  "offset": "0x7844",
+  "size": "0x4"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "property": "FlagImage",
+  "offset": "0x5624",
+  "size": "0x8"
+ },
+ {
+  "property": "DynamicEntryBox_TeamEntries",
+  "offset": "0x5632",
+  "size": "0x8"
+ }
+]

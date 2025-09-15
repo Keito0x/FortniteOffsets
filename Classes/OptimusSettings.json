@@ -1,0 +1,17 @@
+[
+ {
+  "property": "DefaultMode",
+  "offset": "0x48",
+  "size": "0x1"
+ },
+ {
+  "property": "DefaultDeformer",
+  "offset": "0x56",
+  "size": "0x32"
+ },
+ {
+  "property": "DefaultRecomputeTangentDeformer",
+  "offset": "0x88",
+  "size": "0x32"
+ }
+]

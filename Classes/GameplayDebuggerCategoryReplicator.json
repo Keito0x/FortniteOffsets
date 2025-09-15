@@ -1,0 +1,32 @@
+[
+ {
+  "property": "OwnerPC",
+  "offset": "0x680",
+  "size": "0x8"
+ },
+ {
+  "property": "bIsEnabled",
+  "offset": "0x688",
+  "size": "0x1"
+ },
+ {
+  "property": "ReplicatedData",
+  "offset": "0x696",
+  "size": "0x24"
+ },
+ {
+  "property": "DebugActor",
+  "offset": "0x720",
+  "size": "0x16"
+ },
+ {
+  "property": "VisLogSync",
+  "offset": "0x736",
+  "size": "0x16"
+ },
+ {
+  "property": "RenderingComp",
+  "offset": "0x752",
+  "size": "0x8"
+ }
+]

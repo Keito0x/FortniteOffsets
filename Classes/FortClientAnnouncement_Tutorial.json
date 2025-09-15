@@ -1,0 +1,12 @@
+[
+ {
+  "property": "TutorialData",
+  "offset": "0x800",
+  "size": "0x320"
+ },
+ {
+  "property": "AutoContinueDelay",
+  "offset": "0x1120",
+  "size": "0x4"
+ }
+]

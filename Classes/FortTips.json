@@ -1,0 +1,17 @@
+[
+ {
+  "property": "Tips",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "OverrideTips",
+  "offset": "0x64",
+  "size": "0x1"
+ },
+ {
+  "property": "DisplayOnPlatforms",
+  "offset": "0x68",
+  "size": "0x4"
+ }
+]

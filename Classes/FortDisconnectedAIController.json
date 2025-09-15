@@ -1,0 +1,72 @@
+[
+ {
+  "property": "bStartAILogicOnPossess",
+  "offset": "0x888",
+  "size": "0x1"
+ },
+ {
+  "property": "bStopAILogicOnUnposses",
+  "offset": "0x888",
+  "size": "0x1"
+ },
+ {
+  "property": "bLOSflag",
+  "offset": "0x888",
+  "size": "0x1"
+ },
+ {
+  "property": "bSkipExtraLOSChecks",
+  "offset": "0x888",
+  "size": "0x1"
+ },
+ {
+  "property": "bAllowStrafe",
+  "offset": "0x888",
+  "size": "0x1"
+ },
+ {
+  "property": "bWantsPlayerState",
+  "offset": "0x888",
+  "size": "0x1"
+ },
+ {
+  "property": "bSetControlRotationFromPawnOrientation",
+  "offset": "0x888",
+  "size": "0x1"
+ },
+ {
+  "property": "PathFollowingComponent",
+  "offset": "0x896",
+  "size": "0x8"
+ },
+ {
+  "property": "BrainComponent",
+  "offset": "0x904",
+  "size": "0x8"
+ },
+ {
+  "property": "PerceptionComponent",
+  "offset": "0x912",
+  "size": "0x8"
+ },
+ {
+  "property": "Blackboard",
+  "offset": "0x920",
+  "size": "0x8"
+ },
+ {
+  "property": "CachedGameplayTasksComponent",
+  "offset": "0x928",
+  "size": "0x8"
+ },
+ {
+  "property": "DefaultNavigationFilterClass",
+  "offset": "0x936",
+  "size": "0x8"
+ },
+ {
+  "property": "ReceiveMoveCompleted",
+  "offset": "0x944",
+  "size": "0x16"
+ }
+]

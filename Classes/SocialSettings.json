@@ -1,0 +1,57 @@
+[
+ {
+  "property": "OssNamesWithEnvironmentIdPrefix",
+  "offset": "0x40",
+  "size": "0x16"
+ },
+ {
+  "property": "DefaultMaxPartySize",
+  "offset": "0x56",
+  "size": "0x4"
+ },
+ {
+  "property": "bPreferPlatformInvites",
+  "offset": "0x60",
+  "size": "0x1"
+ },
+ {
+  "property": "bMustSendPrimaryInvites",
+  "offset": "0x61",
+  "size": "0x1"
+ },
+ {
+  "property": "bLeavePartyOnDisconnect",
+  "offset": "0x62",
+  "size": "0x1"
+ },
+ {
+  "property": "bSetDesiredPrivacyOnLocalPlayerBecomesLeader",
+  "offset": "0x63",
+  "size": "0x1"
+ },
+ {
+  "property": "UserListAutoUpdateRate",
+  "offset": "0x64",
+  "size": "0x4"
+ },
+ {
+  "property": "MinNicknameLength",
+  "offset": "0x68",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxNicknameLength",
+  "offset": "0x72",
+  "size": "0x4"
+ },
+ {
+  "property": "SocialPlatformDescriptions",
+  "offset": "0x80",
+  "size": "0x16"
+ },
+ {
+  "property": "SonyOSSNames",
+  "offset": "0x96",
+  "size": "0x16"
+ }
+]

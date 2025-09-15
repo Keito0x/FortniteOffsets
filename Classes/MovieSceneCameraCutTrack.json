@@ -1,0 +1,17 @@
+[
+ {
+  "property": "bCanBlend",
+  "offset": "0x272",
+  "size": "0x1"
+ },
+ {
+  "property": "Sections",
+  "offset": "0x280",
+  "size": "0x16"
+ },
+ {
+  "property": "bAutoArrangeSections",
+  "offset": "0x296",
+  "size": "0x1"
+ }
+]

@@ -1,0 +1,27 @@
+[
+ {
+  "property": "TagQueryToMatch",
+  "offset": "0x504",
+  "size": "0x72"
+ },
+ {
+  "property": "bRejectIncompatibleItems",
+  "offset": "0x576",
+  "size": "0x1"
+ },
+ {
+  "property": "bUpdatedToUseQuery",
+  "offset": "0x577",
+  "size": "0x1"
+ },
+ {
+  "property": "TagsToMatch",
+  "offset": "0x578",
+  "size": "0x1"
+ },
+ {
+  "property": "GameplayTags",
+  "offset": "0x584",
+  "size": "0x32"
+ }
+]

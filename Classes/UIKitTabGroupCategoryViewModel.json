@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Category",
+  "offset": "0x104",
+  "size": "0x8"
+ },
+ {
+  "property": "Tabs",
+  "offset": "0x112",
+  "size": "0x16"
+ }
+]

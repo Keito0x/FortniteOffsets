@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Text_NumFriends",
+  "offset": "0x5632",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_ActiveInviteBang",
+  "offset": "0x5640",
+  "size": "0x8"
+ }
+]

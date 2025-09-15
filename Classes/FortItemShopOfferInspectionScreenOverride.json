@@ -1,0 +1,12 @@
+[
+ {
+  "property": "OfferId",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "OfferInspectionScreenOverrideClass",
+  "offset": "0x64",
+  "size": "0x32"
+ }
+]

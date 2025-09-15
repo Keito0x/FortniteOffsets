@@ -1,0 +1,132 @@
+[
+ {
+  "property": "AntiGravityScalerWhenEmpty",
+  "offset": "0x8656",
+  "size": "0x4"
+ },
+ {
+  "property": "CameraPitchInterpSpeed",
+  "offset": "0x8660",
+  "size": "0x4"
+ },
+ {
+  "property": "CameraYawInterpSpeed",
+  "offset": "0x8664",
+  "size": "0x4"
+ },
+ {
+  "property": "PropSpeed",
+  "offset": "0x8668",
+  "size": "0x4"
+ },
+ {
+  "property": "PropRotation",
+  "offset": "0x8672",
+  "size": "0x4"
+ },
+ {
+  "property": "AirbrakeDragCoefficient",
+  "offset": "0x8676",
+  "size": "0x4"
+ },
+ {
+  "property": "BoostAction",
+  "offset": "0x8680",
+  "size": "0x216"
+ },
+ {
+  "property": "AileronRoll",
+  "offset": "0x8896",
+  "size": "0x224"
+ },
+ {
+  "property": "AileronRollDoubleClickSpeed",
+  "offset": "0x9120",
+  "size": "0x4"
+ },
+ {
+  "property": "bFreelookAutoRecenter",
+  "offset": "0x9124",
+  "size": "0x1"
+ },
+ {
+  "property": "FreelookPitchConstraintDegrees",
+  "offset": "0x9128",
+  "size": "0x4"
+ },
+ {
+  "property": "FreelookYawConstraintDegrees",
+  "offset": "0x9132",
+  "size": "0x4"
+ },
+ {
+  "property": "FreelookSensitivity",
+  "offset": "0x9136",
+  "size": "0x4"
+ },
+ {
+  "property": "MouseSteerSensitivity",
+  "offset": "0x9140",
+  "size": "0x4"
+ },
+ {
+  "property": "FreelookInterpolation",
+  "offset": "0x9144",
+  "size": "0x4"
+ },
+ {
+  "property": "FreelookReturnAcceleration",
+  "offset": "0x9148",
+  "size": "0x4"
+ },
+ {
+  "property": "FreelookReturnDecelleration",
+  "offset": "0x9152",
+  "size": "0x4"
+ },
+ {
+  "property": "ShootCenterPointSocket",
+  "offset": "0x9156",
+  "size": "0x4"
+ },
+ {
+  "property": "ShootAimAheadDistance",
+  "offset": "0x9160",
+  "size": "0x4"
+ },
+ {
+  "property": "OnEngineStatusChanged",
+  "offset": "0x9184",
+  "size": "0x16"
+ },
+ {
+  "property": "FortAirVehicleConfigs",
+  "offset": "0x9200",
+  "size": "0x8"
+ },
+ {
+  "property": "bIsFlying",
+  "offset": "0x9210",
+  "size": "0x1"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x9213",
+  "size": "0x1"
+ },
+ {
+  "property": "bAutoStartEngineInAir",
+  "offset": "0x9217",
+  "size": "0x1"
+ },
+ {
+  "property": "bEngineStartIsBeingHeld",
+  "offset": "0x9218",
+  "size": "0x1"
+ },
+ {
+  "property": "ControlState",
+  "offset": "0x10448",
+  "size": "0x56"
+ }
+]

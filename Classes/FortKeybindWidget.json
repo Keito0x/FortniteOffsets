@@ -1,0 +1,177 @@
+[
+ {
+  "property": "BoundAction",
+  "offset": "0x816",
+  "size": "0x4"
+ },
+ {
+  "property": "BoundInputAction",
+  "offset": "0x824",
+  "size": "0x8"
+ },
+ {
+  "property": "InputContextOverride",
+  "offset": "0x832",
+  "size": "0x8"
+ },
+ {
+  "property": "BoundActionFallbacks",
+  "offset": "0x840",
+  "size": "0x16"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x856",
+  "size": "0x4"
+ },
+ {
+  "property": "BoundKeyFallback",
+  "offset": "0x864",
+  "size": "0x24"
+ },
+ {
+  "property": "bShowSecondaryBoundKey",
+  "offset": "0x888",
+  "size": "0x1"
+ },
+ {
+  "property": "InputTypeOverride",
+  "offset": "0x889",
+  "size": "0x1"
+ },
+ {
+  "property": "GamepadTypeOverride",
+  "offset": "0x890",
+  "size": "0x1"
+ },
+ {
+  "property": "PresetNameOverride",
+  "offset": "0x892",
+  "size": "0x4"
+ },
+ {
+  "property": "bForcedHoldKeybind",
+  "offset": "0x896",
+  "size": "0x1"
+ },
+ {
+  "property": "ForcedHoldKeybindStatus",
+  "offset": "0x897",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsHoldKeybind",
+  "offset": "0x898",
+  "size": "0x1"
+ },
+ {
+  "property": "bShowKeybindBorder",
+  "offset": "0x899",
+  "size": "0x1"
+ },
+ {
+  "property": "FrameSize",
+  "offset": "0x904",
+  "size": "0x16"
+ },
+ {
+  "property": "bShowTimeCountDown",
+  "offset": "0x920",
+  "size": "0x1"
+ },
+ {
+  "property": "BoundKey",
+  "offset": "0x928",
+  "size": "0x24"
+ },
+ {
+  "property": "HoldProgressBrush",
+  "offset": "0x960",
+  "size": "0x176"
+ },
+ {
+  "property": "KeyBindTextBorder",
+  "offset": "0x1136",
+  "size": "0x176"
+ },
+ {
+  "property": "bShowUnboundStatus",
+  "offset": "0x1312",
+  "size": "0x1"
+ },
+ {
+  "property": "bShowUnboundStatusOnTouch",
+  "offset": "0x1313",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseKeyboardTextureForKeys",
+  "offset": "0x1314",
+  "size": "0x1"
+ },
+ {
+  "property": "KeyBindTextFont",
+  "offset": "0x1320",
+  "size": "0x88"
+ },
+ {
+  "property": "CountdownTextFont",
+  "offset": "0x1408",
+  "size": "0x88"
+ },
+ {
+  "property": "CountdownText",
+  "offset": "0x1496",
+  "size": "0x40"
+ },
+ {
+  "property": "KeybindText",
+  "offset": "0x1536",
+  "size": "0x40"
+ },
+ {
+  "property": "KeybindTextPadding",
+  "offset": "0x1576",
+  "size": "0x16"
+ },
+ {
+  "property": "KeybindFrameMinimumSize",
+  "offset": "0x1592",
+  "size": "0x16"
+ },
+ {
+  "property": "PercentageMaterialParameterName",
+  "offset": "0x1608",
+  "size": "0x4"
+ },
+ {
+  "property": "ProgressPercentageMID",
+  "offset": "0x1616",
+  "size": "0x8"
+ },
+ {
+  "property": "YYYYYYYY[YYYYYYYYYYYYYYYYYYYYYYZYYYYY9ÕIà]å¶¶9ÕIà]å¶¶YYYYYYYYYYYYYYYY)ÕIà]å¶¶)ÕIà]å¶¶YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYŸYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYœ’XzÌoÎcÎkDŒŒnÎÃIà]å¶¶ÍÎŒIËm`ÓY[YYŸYYYYYYDŒŒnYYYYYYYY‡ÓjcœÈ„cAfÜ]å¶¶ŸYYY`ËIËuÊYYYYYYŸYYYYYYYYYYYYYYY—YymÎÔÎyG¯ó]å¶¶YYYYYYYY€Y5YYYYYI/)ï]å¶¶)®ï]å¶¶YÍN§Yõ¶¶yÚK—Ÿõ¶¶=Ö]å¶¶U]å¶¶YYYYYYYYYYYYYYYYŸYŸŸYŸŸYxY_YYYYYnYeYYYYY1e®Yõ¶¶Y9ÅXYYYYYYYYYYYY=hÔå]å¶¶ŸYZYYYYYEÃIà]å¶¶EÃIà]å¶¶YYZYŸYYYqÃIà]å¶¶qÃIà]å¶¶YYYYYYYYYYYYYYYYaÃIà]å¶¶aÃIà]å¶¶1Ûàñ]å¶¶YYYYYYYYYYYYYYYYYYYYYYYYŸYYYYYYYYYYYYYYYYYYYYYYYËm`ÓÔÎDŒY`’XzÌoÎÎ‡IËm`ÓÔUœIà]å¶¶Y",
+  "offset": "0x1624",
+  "size": "0x1"
+ },
+ {
+  "property": "FrameMultiBrush",
+  "offset": "0x1632",
+  "size": "0x1056"
+ },
+ {
+  "property": "CachedKeyBrush",
+  "offset": "0x2768",
+  "size": "0x176"
+ },
+ {
+  "property": "TouchOverrideImageSet",
+  "offset": "0x2944",
+  "size": "0x8"
+ },
+ {
+  "property": "TouchOverrideImageName",
+  "offset": "0x2952",
+  "size": "0x4"
+ }
+]

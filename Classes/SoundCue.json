@@ -1,0 +1,52 @@
+[
+ {
+  "property": "FirstNode",
+  "offset": "0x384",
+  "size": "0x8"
+ },
+ {
+  "property": "Unknown_ffield",
+  "offset": "0x392",
+  "size": "0x4"
+ },
+ {
+  "property": "Unknown_ffield",
+  "offset": "0x396",
+  "size": "0x4"
+ },
+ {
+  "property": "AttenuationOverrides",
+  "offset": "0x400",
+  "size": "0x976"
+ },
+ {
+  "property": "SubtitlePriority",
+  "offset": "0x1376",
+  "size": "0x4"
+ },
+ {
+  "property": "bPrimeOnLoad",
+  "offset": "0x1384",
+  "size": "0x1"
+ },
+ {
+  "property": "bOverrideAttenuation",
+  "offset": "0x1384",
+  "size": "0x1"
+ },
+ {
+  "property": "bExcludeFromRandomNodeBranchCulling",
+  "offset": "0x1384",
+  "size": "0x1"
+ },
+ {
+  "property": "bHasPlayWhenSilent",
+  "offset": "0x1384",
+  "size": "0x1"
+ },
+ {
+  "property": "CookedQualityIndex",
+  "offset": "0x1388",
+  "size": "0x4"
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "property": "Image_SquadMemberPortrait",
+  "offset": "0x1232",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_SquadMemberName",
+  "offset": "0x1240",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_PartyMemberIndicator",
+  "offset": "0x1248",
+  "size": "0x8"
+ },
+ {
+  "property": "CachedSquadMember",
+  "offset": "0x1256",
+  "size": "0x8"
+ }
+]

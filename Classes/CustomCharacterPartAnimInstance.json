@@ -1,0 +1,443 @@
+[
+ {
+  "property": "CharacterCustomizationFinished",
+  "offset": "0x1504",
+  "size": "0x16"
+ },
+ {
+  "property": "CurrentWeapon",
+  "offset": "0x1520",
+  "size": "0x8"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x1528",
+  "size": "0x1"
+ },
+ {
+  "property": "bIgnoreSignificanceManagerAndAlwaysTick",
+  "offset": "0x1528",
+  "size": "0x1"
+ },
+ {
+  "property": "bHideUntilFirstAnimationUpdate",
+  "offset": "0x1528",
+  "size": "0x1"
+ },
+ {
+  "property": "bUnhideOnNextUpdate",
+  "offset": "0x1528",
+  "size": "0x1"
+ },
+ {
+  "property": "bCanPlayCustomAnimations",
+  "offset": "0x1528",
+  "size": "0x1"
+ },
+ {
+  "property": "bUpdateOwnerAnimInputProperty",
+  "offset": "0x1528",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsRelaxedLevel2",
+  "offset": "0x1528",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsRiding",
+  "offset": "0x1528",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsSkydiving",
+  "offset": "0x1529",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsSkydivingFromBus",
+  "offset": "0x1529",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsParachuteOpened",
+  "offset": "0x1529",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsSkydiveDiveMode",
+  "offset": "0x1529",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsSkydiveFloating",
+  "offset": "0x1529",
+  "size": "0x1"
+ },
+ {
+  "property": "bParachuteOpenedAndStandingUpright",
+  "offset": "0x1529",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsCrouching",
+  "offset": "0x1529",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsSprinting",
+  "offset": "0x1529",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsAccelerating2D",
+  "offset": "0x1530",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsMoving2D",
+  "offset": "0x1530",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsBackpedaling",
+  "offset": "0x1530",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsUsingJetpack",
+  "offset": "0x1530",
+  "size": "0x1"
+ },
+ {
+  "property": "bGoopJumpExecuted",
+  "offset": "0x1532",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsSlopeSliding",
+  "offset": "0x1536",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsSurfaceSwimming",
+  "offset": "0x1536",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsWaterJump",
+  "offset": "0x1536",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsSwimSprinting",
+  "offset": "0x1536",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsPlayingEmote",
+  "offset": "0x1536",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsPlayingMeleeAnim",
+  "offset": "0x1536",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsPlayingFullBodySlotInFrontEnd",
+  "offset": "0x1536",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsInFrontEnd",
+  "offset": "0x1536",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldDisplayFrontendReactivity",
+  "offset": "0x1537",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsPreviewingItemInFrontEnd",
+  "offset": "0x1537",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsOnPawn",
+  "offset": "0x1537",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsInVehicle",
+  "offset": "0x1537",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsValetDriver",
+  "offset": "0x1537",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsValetPassenger",
+  "offset": "0x1537",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsInShoppingCart",
+  "offset": "0x1537",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsInCannon",
+  "offset": "0x1537",
+  "size": "0x1"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x1538",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsTargetingConsumableThrow",
+  "offset": "0x1538",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsCrouchSprinting",
+  "offset": "0x1538",
+  "size": "0x1"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x1538",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsOnGround",
+  "offset": "0x1540",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsInAir",
+  "offset": "0x1540",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsLandingPredicted",
+  "offset": "0x1544",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsInVehicleSeat",
+  "offset": "0x1544",
+  "size": "0x1"
+ },
+ {
+  "property": "bVehicleSeatForcesCrouch",
+  "offset": "0x1544",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsFerretVehicleDriver",
+  "offset": "0x1544",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsFerretVehiclePassenger",
+  "offset": "0x1544",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsGolfCartVehicleDriver",
+  "offset": "0x1544",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsGolfCartVehicleFrontPassenger",
+  "offset": "0x1544",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsGolfCartVehicleBackPassenger",
+  "offset": "0x1544",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsAntelopeVehicleDriver",
+  "offset": "0x1545",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsAntelopeVehiclePassenger",
+  "offset": "0x1545",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsMotorcycleDriver",
+  "offset": "0x1545",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsMotorcyclePassenger",
+  "offset": "0x1545",
+  "size": "0x1"
+ },
+ {
+  "property": "bHasMotorcyclePassenger",
+  "offset": "0x1545",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsJackalVehicleDriver",
+  "offset": "0x1545",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsOctopusVehicleDriver",
+  "offset": "0x1545",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsOstrichVehicleDriver",
+  "offset": "0x1545",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsOstrichVehicleGunner",
+  "offset": "0x1546",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsMeatballDriver",
+  "offset": "0x1546",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsMeatballPassenger",
+  "offset": "0x1546",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsDBNOCarrying",
+  "offset": "0x1546",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsDBNOCarried",
+  "offset": "0x1546",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsTacticalSprinting",
+  "offset": "0x1546",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsLeftArmHidden",
+  "offset": "0x1546",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsRightArmHidden",
+  "offset": "0x1546",
+  "size": "0x1"
+ },
+ {
+  "property": "bOverrideRBANSimSpaceInFrontEnd",
+  "offset": "0x1547",
+  "size": "0x1"
+ },
+ {
+  "property": "VehicleSeatIndex",
+  "offset": "0x1548",
+  "size": "0x4"
+ },
+ {
+  "property": "VehicleSlotExposure",
+  "offset": "0x1552",
+  "size": "0x1"
+ },
+ {
+  "property": "GameplayTagAnimations",
+  "offset": "0x1560",
+  "size": "0x16"
+ },
+ {
+  "property": "CrouchingWithRigidBodyEnabled",
+  "offset": "0x1576",
+  "size": "0x4"
+ },
+ {
+  "property": "RidingSpeed2D",
+  "offset": "0x1580",
+  "size": "0x4"
+ },
+ {
+  "property": "CurrentLOD",
+  "offset": "0x1584",
+  "size": "0x4"
+ },
+ {
+  "property": "SkydivingExternalForceInput",
+  "offset": "0x1592",
+  "size": "0x232"
+ },
+ {
+  "property": "SlopeInfoInput",
+  "offset": "0x1824",
+  "size": "0x96"
+ },
+ {
+  "property": "PlayerGliderType",
+  "offset": "0x1920",
+  "size": "0x1"
+ },
+ {
+  "property": "WeaponCoreAnim",
+  "offset": "0x1921",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsOnGrindRail",
+  "offset": "0x1922",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsFlyingHorizontally",
+  "offset": "0x1922",
+  "size": "0x1"
+ },
+ {
+  "property": "bIsFlyingVertically",
+  "offset": "0x1922",
+  "size": "0x1"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x1924",
+  "size": "0x1"
+ },
+ {
+  "property": "±€§ï$n	&y½ •¶ éŠ¿=3GÐ³$Qï[­N<ïäTã)ï
+¯w’§Ð-TÊŒ_±…¸XË&3OÂÚÝNg5äúBÀY4âÑo†œŸPâ$ÄÝv‚Ô—kÝáÔ pÀÌç©×Uá·Î",
+  "offset": "0x1928",
+  "size": "0x1"
+ },
+ {
+  "property": "OwnerSkeletalMeshComponent",
+  "offset": "0x1932",
+  "size": "0x8"
+ },
+ {
+  "property": "PendingCustomizationFinishedEvent",
+  "offset": "0x1944",
+  "size": "0x8"
+ },
+ {
+  "property": "PendingPickaxeCustomizationFinishedEvent",
+  "offset": "0x1952",
+  "size": "0x8"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "property": "SpectrumType",
+  "offset": "0x40",
+  "size": "0x1"
+ },
+ {
+  "property": "Octaves",
+  "offset": "0x48",
+  "size": "0x16"
+ }
+]

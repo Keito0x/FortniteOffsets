@@ -1,0 +1,37 @@
+[
+ {
+  "property": "HandlerPriority",
+  "offset": "0x40",
+  "size": "0x1"
+ },
+ {
+  "property": "HandlerBehavior",
+  "offset": "0x41",
+  "size": "0x1"
+ },
+ {
+  "property": "Unknown_ffield",
+  "offset": "0x44",
+  "size": "0x4"
+ },
+ {
+  "property": "OnInstantInteractionEffects",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "OnBeginInteractionEffects",
+  "offset": "0x64",
+  "size": "0x16"
+ },
+ {
+  "property": "OngoingInteractionEffects",
+  "offset": "0x80",
+  "size": "0x16"
+ },
+ {
+  "property": "OnEndInteractionEffects",
+  "offset": "0x96",
+  "size": "0x16"
+ }
+]

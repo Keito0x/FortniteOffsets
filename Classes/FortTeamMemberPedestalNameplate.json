@@ -1,0 +1,62 @@
+[
+ {
+  "property": "Text_ReadyStatus",
+  "offset": "0x5728",
+  "size": "0x8"
+ },
+ {
+  "property": "InputIndicator_ActiveInputType",
+  "offset": "0x5736",
+  "size": "0x8"
+ },
+ {
+  "property": "PowerRatingWidgetSwitcher",
+  "offset": "0x5744",
+  "size": "0x8"
+ },
+ {
+  "property": "PowerRating_CampaignPower",
+  "offset": "0x5752",
+  "size": "0x8"
+ },
+ {
+  "property": "Moonbeam_PowerRating_CampaignPower",
+  "offset": "0x5760",
+  "size": "0x8"
+ },
+ {
+  "property": "Phoenix_PowerRating_CampaignPower",
+  "offset": "0x5768",
+  "size": "0x8"
+ },
+ {
+  "property": "SizeBox_HotfixControlled",
+  "offset": "0x5776",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_PlayerLevel",
+  "offset": "0x5784",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_HeroIcon",
+  "offset": "0x5792",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_AddFriend",
+  "offset": "0x5800",
+  "size": "0x8"
+ },
+ {
+  "property": "HabaneroWidget",
+  "offset": "0x5808",
+  "size": "0x8"
+ },
+ {
+  "property": "bTeamMemberPedestalNameplateAddFriendButtonEnabled",
+  "offset": "0x5816",
+  "size": "0x1"
+ }
+]

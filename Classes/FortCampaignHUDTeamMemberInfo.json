@@ -1,0 +1,57 @@
+[
+ {
+  "property": "Image_HeroIcon",
+  "offset": "0x5664",
+  "size": "0x8"
+ },
+ {
+  "property": "PowerRating_MemberRating",
+  "offset": "0x5672",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_BluGloCount",
+  "offset": "0x5680",
+  "size": "0x8"
+ },
+ {
+  "property": "VoiceIcon_Status",
+  "offset": "0x5688",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_MemberName",
+  "offset": "0x5696",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_LeaderIcon",
+  "offset": "0x5704",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_PlatformIcon",
+  "offset": "0x5712",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_HealthBar",
+  "offset": "0x5720",
+  "size": "0x8"
+ },
+ {
+  "property": "Image_ShieldBar",
+  "offset": "0x5728",
+  "size": "0x8"
+ },
+ {
+  "property": "Color_PlayerNameAlive",
+  "offset": "0x5736",
+  "size": "0x20"
+ },
+ {
+  "property": "Color_PlayerNameDead",
+  "offset": "0x5756",
+  "size": "0x20"
+ }
+]

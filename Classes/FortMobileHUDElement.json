@@ -1,0 +1,32 @@
+[
+ {
+  "property": "SizePropertyTag",
+  "offset": "0x880",
+  "size": "0x4"
+ },
+ {
+  "property": "Image_Background",
+  "offset": "0x904",
+  "size": "0x8"
+ },
+ {
+  "property": "ForcedZOrder",
+  "offset": "0x912",
+  "size": "0x4"
+ },
+ {
+  "property": "bShouldFillParent",
+  "offset": "0x916",
+  "size": "0x1"
+ },
+ {
+  "property": "ContextSensitiveTagContainer",
+  "offset": "0x920",
+  "size": "0x32"
+ },
+ {
+  "property": "ScaleBox_HUDWidgetScale",
+  "offset": "0x952",
+  "size": "0x8"
+ }
+]

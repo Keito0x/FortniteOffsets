@@ -1,0 +1,97 @@
+[
+ {
+  "property": "BoneCompressionSettings",
+  "offset": "0x176",
+  "size": "0x8"
+ },
+ {
+  "property": "CurveCompressionSettings",
+  "offset": "0x184",
+  "size": "0x8"
+ },
+ {
+  "property": "VariableFrameStrippingSettings",
+  "offset": "0x320",
+  "size": "0x8"
+ },
+ {
+  "property": "AdditiveAnimType",
+  "offset": "0x328",
+  "size": "0x1"
+ },
+ {
+  "property": "RefPoseType",
+  "offset": "0x329",
+  "size": "0x1"
+ },
+ {
+  "property": "RefFrameIndex",
+  "offset": "0x332",
+  "size": "0x4"
+ },
+ {
+  "property": "RefPoseSeq",
+  "offset": "0x336",
+  "size": "0x8"
+ },
+ {
+  "property": "RetargetSource",
+  "offset": "0x344",
+  "size": "0x4"
+ },
+ {
+  "property": "RetargetSourceAssetReferencePose",
+  "offset": "0x352",
+  "size": "0x16"
+ },
+ {
+  "property": "Interpolation",
+  "offset": "0x368",
+  "size": "0x1"
+ },
+ {
+  "property": "bEnableRootMotion",
+  "offset": "0x369",
+  "size": "0x1"
+ },
+ {
+  "property": "RootMotionRootLock",
+  "offset": "0x370",
+  "size": "0x1"
+ },
+ {
+  "property": "bForceRootLock",
+  "offset": "0x371",
+  "size": "0x1"
+ },
+ {
+  "property": "bUseNormalizedRootMotionScale",
+  "offset": "0x372",
+  "size": "0x1"
+ },
+ {
+  "property": "bRootMotionSettingsCopiedFromMontage",
+  "offset": "0x373",
+  "size": "0x1"
+ },
+ {
+  "property": "StripAnimDataOnDedicatedServer",
+  "offset": "0x374",
+  "size": "0x1"
+ },
+ {
+  "property": "AuthoredSyncMarkers",
+  "offset": "0x376",
+  "size": "0x16"
+ },
+ {
+  "property": "PlatformTargetFrameRate",
+  "offset": "0x408",
+  "size": "0x8"
+ },
+ {
+  "property": "AttributeCurves",
+  "offset": "0x416",
+  "size": "0x80"
+ }
+]

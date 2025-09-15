@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Deformer",
+  "offset": "0x40",
+  "size": "0x8"
+ },
+ {
+  "property": "Bindings",
+  "offset": "0x48",
+  "size": "0x16"
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "property": "FromComponent",
+  "offset": "0x1000",
+  "size": "0x8"
+ },
+ {
+  "property": "ToComponent",
+  "offset": "0x1008",
+  "size": "0x8"
+ },
+ {
+  "property": "BlendTime",
+  "offset": "0x1016",
+  "size": "0x4"
+ },
+ {
+  "property": "bBlendBool",
+  "offset": "0x1020",
+  "size": "0x1"
+ }
+]

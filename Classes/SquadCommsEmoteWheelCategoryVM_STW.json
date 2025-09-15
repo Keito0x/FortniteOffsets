@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Config",
+  "offset": "0x120",
+  "size": "0x8"
+ },
+ {
+  "property": "EquippedItems",
+  "offset": "0x128",
+  "size": "0x16"
+ }
+]

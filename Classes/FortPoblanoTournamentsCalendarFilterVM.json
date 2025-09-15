@@ -1,0 +1,77 @@
+[
+ {
+  "property": "SectionExperienceFilter",
+  "offset": "0x104",
+  "size": "0x40"
+ },
+ {
+  "property": "SectionExperienceValues",
+  "offset": "0x144",
+  "size": "0x80"
+ },
+ {
+  "property": "SectionTeamSizeFilter",
+  "offset": "0x224",
+  "size": "0x40"
+ },
+ {
+  "property": "SectionTeamSizeValues",
+  "offset": "0x264",
+  "size": "0x80"
+ },
+ {
+  "property": "SectionRegionFilter",
+  "offset": "0x344",
+  "size": "0x40"
+ },
+ {
+  "property": "SectionRegionValues",
+  "offset": "0x384",
+  "size": "0x80"
+ },
+ {
+  "property": "SectionTournamentTypeFilter",
+  "offset": "0x464",
+  "size": "0x40"
+ },
+ {
+  "property": "SectionTournamentTypeValues",
+  "offset": "0x504",
+  "size": "0x80"
+ },
+ {
+  "property": "SectionTournamentStatusFilter",
+  "offset": "0x584",
+  "size": "0x40"
+ },
+ {
+  "property": "SectionTournamentStatusValues",
+  "offset": "0x624",
+  "size": "0x80"
+ },
+ {
+  "property": "SectionElegibilityFilter",
+  "offset": "0x704",
+  "size": "0x40"
+ },
+ {
+  "property": "SectionElegibilityValues",
+  "offset": "0x744",
+  "size": "0x80"
+ },
+ {
+  "property": "SectionBookmarksFilter",
+  "offset": "0x824",
+  "size": "0x40"
+ },
+ {
+  "property": "SectionBookmarksValues",
+  "offset": "0x864",
+  "size": "0x80"
+ },
+ {
+  "property": "CompeteUIManager",
+  "offset": "0x952",
+  "size": "0x8"
+ }
+]

@@ -1,0 +1,47 @@
+[
+ {
+  "property": "SourceWidth",
+  "offset": "0x952",
+  "size": "0x4"
+ },
+ {
+  "property": "SourceHeight",
+  "offset": "0x956",
+  "size": "0x4"
+ },
+ {
+  "property": "BarnDoorAngle",
+  "offset": "0x960",
+  "size": "0x4"
+ },
+ {
+  "property": "BarnDoorLength",
+  "offset": "0x964",
+  "size": "0x4"
+ },
+ {
+  "property": "LightFunctionConeAngle",
+  "offset": "0x968",
+  "size": "0x4"
+ },
+ {
+  "property": "SourceTexture",
+  "offset": "0x976",
+  "size": "0x8"
+ },
+ {
+  "property": "SourceTextureScale",
+  "offset": "0x984",
+  "size": "0x8"
+ },
+ {
+  "property": "SourceTextureOffset",
+  "offset": "0x992",
+  "size": "0x8"
+ },
+ {
+  "property": "bLightRequiresBrokenEVMath",
+  "offset": "0x1000",
+  "size": "0x1"
+ }
+]

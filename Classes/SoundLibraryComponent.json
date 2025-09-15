@@ -1,0 +1,37 @@
+[
+ {
+  "property": "ComponentTag",
+  "offset": "0x208",
+  "size": "0x4"
+ },
+ {
+  "property": "ContextClass",
+  "offset": "0x216",
+  "size": "0x8"
+ },
+ {
+  "property": "Libraries",
+  "offset": "0x224",
+  "size": "0x16"
+ },
+ {
+  "property": "OnSoundLibraryPlayEvent",
+  "offset": "0x240",
+  "size": "0x16"
+ },
+ {
+  "property": "OnEventPlayedDelegate",
+  "offset": "0x256",
+  "size": "0x16"
+ },
+ {
+  "property": "OnEventStoppedDelegate",
+  "offset": "0x272",
+  "size": "0x16"
+ },
+ {
+  "property": "Context",
+  "offset": "0x368",
+  "size": "0x8"
+ }
+]

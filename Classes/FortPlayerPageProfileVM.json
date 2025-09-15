@@ -1,0 +1,27 @@
+[
+ {
+  "property": "Name",
+  "offset": "0x392",
+  "size": "0x16"
+ },
+ {
+  "property": "Bio",
+  "offset": "0x408",
+  "size": "0x16"
+ },
+ {
+  "property": "AvatarImageUrl",
+  "offset": "0x424",
+  "size": "0x16"
+ },
+ {
+  "property": "HeaderImageUrl",
+  "offset": "0x440",
+  "size": "0x16"
+ },
+ {
+  "property": "",
+  "offset": "0x98741524",
+  "size": "0x0"
+ }
+]

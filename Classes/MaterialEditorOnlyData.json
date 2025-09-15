@@ -1,0 +1,142 @@
+[
+ {
+  "property": "BaseColor",
+  "offset": "0x64",
+  "size": "0x64"
+ },
+ {
+  "property": "Metallic",
+  "offset": "0x128",
+  "size": "0x48"
+ },
+ {
+  "property": "Specular",
+  "offset": "0x176",
+  "size": "0x48"
+ },
+ {
+  "property": "Roughness",
+  "offset": "0x224",
+  "size": "0x48"
+ },
+ {
+  "property": "Anisotropy",
+  "offset": "0x272",
+  "size": "0x48"
+ },
+ {
+  "property": "Normal",
+  "offset": "0x320",
+  "size": "0x56"
+ },
+ {
+  "property": "Tangent",
+  "offset": "0x376",
+  "size": "0x56"
+ },
+ {
+  "property": "EmissiveColor",
+  "offset": "0x432",
+  "size": "0x64"
+ },
+ {
+  "property": "Opacity",
+  "offset": "0x496",
+  "size": "0x48"
+ },
+ {
+  "property": "OpacityMask",
+  "offset": "0x544",
+  "size": "0x48"
+ },
+ {
+  "property": "WorldPositionOffset",
+  "offset": "0x592",
+  "size": "0x56"
+ },
+ {
+  "property": "Displacement",
+  "offset": "0x648",
+  "size": "0x48"
+ },
+ {
+  "property": "SubsurfaceColor",
+  "offset": "0x696",
+  "size": "0x64"
+ },
+ {
+  "property": "ClearCoat",
+  "offset": "0x760",
+  "size": "0x48"
+ },
+ {
+  "property": "ClearCoatRoughness",
+  "offset": "0x808",
+  "size": "0x48"
+ },
+ {
+  "property": "AmbientOcclusion",
+  "offset": "0x856",
+  "size": "0x48"
+ },
+ {
+  "property": "Refraction",
+  "offset": "0x904",
+  "size": "0x48"
+ },
+ {
+  "property": "CustomizedUVs",
+  "offset": "0x952",
+  "size": "0x448"
+ },
+ {
+  "property": "MaterialAttributes",
+  "offset": "0x1400",
+  "size": "0x48"
+ },
+ {
+  "property": "PixelDepthOffset",
+  "offset": "0x1448",
+  "size": "0x48"
+ },
+ {
+  "property": "ShadingModelFromMaterialExpression",
+  "offset": "0x1496",
+  "size": "0x40"
+ },
+ {
+  "property": "SurfaceThickness",
+  "offset": "0x1544",
+  "size": "0x48"
+ },
+ {
+  "property": "FrontMaterial",
+  "offset": "0x1592",
+  "size": "0x40"
+ },
+ {
+  "property": "ExpressionCollection",
+  "offset": "0x1640",
+  "size": "0x48"
+ },
+ {
+  "property": "ParameterGroupData",
+  "offset": "0x1688",
+  "size": "0x16"
+ },
+ {
+  "property": "SubstrateConversionVersion",
+  "offset": "0x1704",
+  "size": "0x4"
+ },
+ {
+  "property": "SubstrateVersion",
+  "offset": "0x1708",
+  "size": "0x4"
+ },
+ {
+  "property": "bIsSubsutrateAutoConvertedAndNotSaved",
+  "offset": "0x1712",
+  "size": "0x1"
+ }
+]

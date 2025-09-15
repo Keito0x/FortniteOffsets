@@ -1,0 +1,12 @@
+[
+ {
+  "property": "bWindowButtonsEnabled",
+  "offset": "0x384",
+  "size": "0x1"
+ },
+ {
+  "property": "bDoubleClickTogglesFullscreen",
+  "offset": "0x385",
+  "size": "0x1"
+ }
+]

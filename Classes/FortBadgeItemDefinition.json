@@ -1,0 +1,37 @@
+[
+ {
+  "property": "DisplayText",
+  "offset": "0x168",
+  "size": "0x16"
+ },
+ {
+  "property": "FailedDisplayText",
+  "offset": "0x184",
+  "size": "0x16"
+ },
+ {
+  "property": "BadgeColor",
+  "offset": "0x200",
+  "size": "0x16"
+ },
+ {
+  "property": "UIMissionPointsOffset",
+  "offset": "0x216",
+  "size": "0x4"
+ },
+ {
+  "property": "BadgeScoringValuesHandle",
+  "offset": "0x224",
+  "size": "0x16"
+ },
+ {
+  "property": "BadgeCardPackReward",
+  "offset": "0x240",
+  "size": "0x32"
+ },
+ {
+  "property": "ItemRewards",
+  "offset": "0x272",
+  "size": "0x16"
+ }
+]

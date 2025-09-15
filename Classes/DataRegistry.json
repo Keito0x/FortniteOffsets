@@ -1,0 +1,37 @@
+[
+ {
+  "property": "RegistryType",
+  "offset": "0x40",
+  "size": "0x4"
+ },
+ {
+  "property": "IdFormat",
+  "offset": "0x44",
+  "size": "0x4"
+ },
+ {
+  "property": "ItemStruct",
+  "offset": "0x48",
+  "size": "0x8"
+ },
+ {
+  "property": "DataSources",
+  "offset": "0x56",
+  "size": "0x16"
+ },
+ {
+  "property": "RuntimeSources",
+  "offset": "0x72",
+  "size": "0x16"
+ },
+ {
+  "property": "TimerUpdateFrequency",
+  "offset": "0x88",
+  "size": "0x4"
+ },
+ {
+  "property": "DefaultCachePolicy",
+  "offset": "0x92",
+  "size": "0x20"
+ }
+]

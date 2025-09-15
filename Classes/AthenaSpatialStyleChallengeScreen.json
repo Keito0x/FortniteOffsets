@@ -1,0 +1,42 @@
+[
+ {
+  "property": "Button_Previous",
+  "offset": "0x1336",
+  "size": "0x8"
+ },
+ {
+  "property": "Button_Next",
+  "offset": "0x1344",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_Title",
+  "offset": "0x1352",
+  "size": "0x8"
+ },
+ {
+  "property": "Text_Description",
+  "offset": "0x1360",
+  "size": "0x8"
+ },
+ {
+  "property": "EntryBox_CharacterChoices",
+  "offset": "0x1368",
+  "size": "0x8"
+ },
+ {
+  "property": "ButtonGroup_CharacterChoices",
+  "offset": "0x1376",
+  "size": "0x8"
+ },
+ {
+  "property": "ChallengeDetails_CharacterDetails",
+  "offset": "0x1384",
+  "size": "0x8"
+ },
+ {
+  "property": "StyleChallengeData",
+  "offset": "0x1392",
+  "size": "0x8"
+ }
+]

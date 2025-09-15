@@ -1,0 +1,42 @@
+[
+ {
+  "property": "DefaultLensPresetName",
+  "offset": "0x48",
+  "size": "0x16"
+ },
+ {
+  "property": "DefaultLensFocalLength",
+  "offset": "0x64",
+  "size": "0x4"
+ },
+ {
+  "property": "DefaultLensFStop",
+  "offset": "0x68",
+  "size": "0x4"
+ },
+ {
+  "property": "LensPresets",
+  "offset": "0x72",
+  "size": "0x16"
+ },
+ {
+  "property": "DefaultFilmbackPreset",
+  "offset": "0x88",
+  "size": "0x16"
+ },
+ {
+  "property": "FilmbackPresets",
+  "offset": "0x104",
+  "size": "0x16"
+ },
+ {
+  "property": "DefaultCropPresetName",
+  "offset": "0x120",
+  "size": "0x16"
+ },
+ {
+  "property": "CropPresets",
+  "offset": "0x136",
+  "size": "0x16"
+ }
+]

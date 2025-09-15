@@ -1,0 +1,47 @@
+[
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x48",
+  "size": "0x4"
+ },
+ {
+  "property": "CompatibilityProductTag",
+  "offset": "0x52",
+  "size": "0x4"
+ },
+ {
+  "property": "ProductName",
+  "offset": "0x56",
+  "size": "0x16"
+ },
+ {
+  "property": "PrimaryLoadoutSchema",
+  "offset": "0x72",
+  "size": "0x8"
+ },
+ {
+  "property": "StyleText",
+  "offset": "0x80",
+  "size": "0x16"
+ },
+ {
+  "property": "RatingBoardToHighestAgeRatingIDTable",
+  "offset": "0x96",
+  "size": "0x80"
+ },
+ {
+  "property": "bHideNonProductSpecificVariants",
+  "offset": "0x176",
+  "size": "0x1"
+ },
+ {
+  "property": "bAllowAutoExpandingItems",
+  "offset": "0x177",
+  "size": "0x1"
+ },
+ {
+  "property": "bDisplayCompatibilityTag",
+  "offset": "0x178",
+  "size": "0x1"
+ }
+]

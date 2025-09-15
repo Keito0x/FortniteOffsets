@@ -1,0 +1,42 @@
+[
+ {
+  "property": "SocialUser",
+  "offset": "0x2016",
+  "size": "0x8"
+ },
+ {
+  "property": "MinDesiredSize",
+  "offset": "0x2024",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxDesiredSize",
+  "offset": "0x2028",
+  "size": "0x4"
+ },
+ {
+  "property": "bShowSecondName",
+  "offset": "0x2032",
+  "size": "0x1"
+ },
+ {
+  "property": "PlatformIconDisplayRule",
+  "offset": "0x2033",
+  "size": "0x1"
+ },
+ {
+  "property": "bWrapToNextLine",
+  "offset": "0x2034",
+  "size": "0x1"
+ },
+ {
+  "property": "SecondNameColor",
+  "offset": "0x2036",
+  "size": "0x4"
+ },
+ {
+  "property": "SecondNameFontSize",
+  "offset": "0x2040",
+  "size": "0x4"
+ }
+]

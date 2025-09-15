@@ -1,0 +1,12 @@
+[
+ {
+  "property": "JunoActionClass",
+  "offset": "0x40",
+  "size": "0x8"
+ },
+ {
+  "property": "JunoActionExecutionConfig",
+  "offset": "0x48",
+  "size": "0x1"
+ }
+]

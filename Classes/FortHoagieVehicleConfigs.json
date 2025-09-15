@@ -1,0 +1,612 @@
+[
+ {
+  "property": "StrafeForce",
+  "offset": "0x2576",
+  "size": "0x4"
+ },
+ {
+  "property": "StrafeForceMin",
+  "offset": "0x2580",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxStrafeSpeedKmh",
+  "offset": "0x2584",
+  "size": "0x4"
+ },
+ {
+  "property": "StrafeTooFastBrakeForce",
+  "offset": "0x2588",
+  "size": "0x4"
+ },
+ {
+  "property": "LandedBrakeForce",
+  "offset": "0x2592",
+  "size": "0x4"
+ },
+ {
+  "property": "LiftForce",
+  "offset": "0x2596",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxLiftSpeedKmh",
+  "offset": "0x2600",
+  "size": "0x4"
+ },
+ {
+  "property": "LiftTooFastBrakeForce",
+  "offset": "0x2604",
+  "size": "0x4"
+ },
+ {
+  "property": "LateralDragCoefficient",
+  "offset": "0x2608",
+  "size": "0x4"
+ },
+ {
+  "property": "LateralDragCoefficient2",
+  "offset": "0x2612",
+  "size": "0x4"
+ },
+ {
+  "property": "LiftDragCoefficient",
+  "offset": "0x2616",
+  "size": "0x4"
+ },
+ {
+  "property": "LiftDragCoefficient2",
+  "offset": "0x2620",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxPitchForCameraYaw",
+  "offset": "0x2624",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxCameraYawAngle",
+  "offset": "0x2628",
+  "size": "0x4"
+ },
+ {
+  "property": "CameraYawStiff",
+  "offset": "0x2632",
+  "size": "0x4"
+ },
+ {
+  "property": "CameraYawDamp",
+  "offset": "0x2636",
+  "size": "0x4"
+ },
+ {
+  "property": "CameraYawStrength",
+  "offset": "0x2640",
+  "size": "0x4"
+ },
+ {
+  "property": "UprightStiff",
+  "offset": "0x2644",
+  "size": "0x4"
+ },
+ {
+  "property": "UprightDamp",
+  "offset": "0x2648",
+  "size": "0x4"
+ },
+ {
+  "property": "bUseVehiclePivotForCameraPitch",
+  "offset": "0x2652",
+  "size": "0x1"
+ },
+ {
+  "property": "ThrustTorqueAnglePercent",
+  "offset": "0x2656",
+  "size": "0x4"
+ },
+ {
+  "property": "BoostThrustTorqueAnglePercent",
+  "offset": "0x2660",
+  "size": "0x4"
+ },
+ {
+  "property": "ThrustTorqueStiff",
+  "offset": "0x2664",
+  "size": "0x4"
+ },
+ {
+  "property": "ThrustTorqueDamp",
+  "offset": "0x2668",
+  "size": "0x4"
+ },
+ {
+  "property": "ThrustTorqueMaxAccel",
+  "offset": "0x2672",
+  "size": "0x4"
+ },
+ {
+  "property": "ThrustTorque",
+  "offset": "0x2676",
+  "size": "0x4"
+ },
+ {
+  "property": "YawTorque",
+  "offset": "0x2680",
+  "size": "0x4"
+ },
+ {
+  "property": "YawTorqueDampingSpeed",
+  "offset": "0x2684",
+  "size": "0x4"
+ },
+ {
+  "property": "BoostForce",
+  "offset": "0x2688",
+  "size": "0x4"
+ },
+ {
+  "property": "BoostMaxSpeedKmh",
+  "offset": "0x2692",
+  "size": "0x4"
+ },
+ {
+  "property": "BoostDuration",
+  "offset": "0x2696",
+  "size": "0x4"
+ },
+ {
+  "property": "BoostCooldown",
+  "offset": "0x2700",
+  "size": "0x4"
+ },
+ {
+  "property": "BoostTorqueStiff",
+  "offset": "0x2704",
+  "size": "0x4"
+ },
+ {
+  "property": "BoostTorqueDamp",
+  "offset": "0x2708",
+  "size": "0x4"
+ },
+ {
+  "property": "AfterBoostBrakingForce",
+  "offset": "0x2712",
+  "size": "0x4"
+ },
+ {
+  "property": "AfterBoostBrakingDuration",
+  "offset": "0x2716",
+  "size": "0x4"
+ },
+ {
+  "property": "AfterBoostBrakingMinSpeed",
+  "offset": "0x2720",
+  "size": "0x4"
+ },
+ {
+  "property": "PitchAngleRequiredForFullThrust",
+  "offset": "0x2724",
+  "size": "0x4"
+ },
+ {
+  "property": "DistanceToGroundForLanding",
+  "offset": "0x2728",
+  "size": "0x4"
+ },
+ {
+  "property": "StartupDelay",
+  "offset": "0x2732",
+  "size": "0x4"
+ },
+ {
+  "property": "LandingSequenceDelay",
+  "offset": "0x2736",
+  "size": "0x4"
+ },
+ {
+  "property": "LandingSequenceDelayWithPassengers",
+  "offset": "0x2740",
+  "size": "0x4"
+ },
+ {
+  "property": "RotorsRadius",
+  "offset": "0x2744",
+  "size": "0x4"
+ },
+ {
+  "property": "RotorBoxHalfExtantX",
+  "offset": "0x2748",
+  "size": "0x4"
+ },
+ {
+  "property": "RotorBoxHalfExtantY",
+  "offset": "0x2752",
+  "size": "0x4"
+ },
+ {
+  "property": "RotorsRadiusInner",
+  "offset": "0x2756",
+  "size": "0x4"
+ },
+ {
+  "property": "NoDriverBrakeForce",
+  "offset": "0x2760",
+  "size": "0x4"
+ },
+ {
+  "property": "TimeBetweenRotorDamageTicks",
+  "offset": "0x2764",
+  "size": "0x4"
+ },
+ {
+  "property": "AutoLandingForce",
+  "offset": "0x2768",
+  "size": "0x4"
+ },
+ {
+  "property": "RotorDamageBoxSweepLength",
+  "offset": "0x2772",
+  "size": "0x4"
+ },
+ {
+  "property": "CriticalStateLiftForce",
+  "offset": "0x2776",
+  "size": "0x4"
+ },
+ {
+  "property": "IdleRotationMultiplier",
+  "offset": "0x2780",
+  "size": "0x4"
+ },
+ {
+  "property": "LiftPitchDegrees",
+  "offset": "0x2784",
+  "size": "0x4"
+ },
+ {
+  "property": "MinAltitudeForIdleNoise",
+  "offset": "0x2788",
+  "size": "0x4"
+ },
+ {
+  "property": "DefaultLinearDamp",
+  "offset": "0x2792",
+  "size": "0x4"
+ },
+ {
+  "property": "DefaultAngularDamp",
+  "offset": "0x2796",
+  "size": "0x4"
+ },
+ {
+  "property": "LandingLinearDamp",
+  "offset": "0x2800",
+  "size": "0x4"
+ },
+ {
+  "property": "LandingAngularDamp",
+  "offset": "0x2804",
+  "size": "0x4"
+ },
+ {
+  "property": "LandingLiftAlpha",
+  "offset": "0x2808",
+  "size": "0x4"
+ },
+ {
+  "property": "CriticalStateThrustMultiplier",
+  "offset": "0x2812",
+  "size": "0x4"
+ },
+ {
+  "property": "BodyUpDotThresholdForLanding",
+  "offset": "0x2816",
+  "size": "0x4"
+ },
+ {
+  "property": "CriticalHealthThreshold",
+  "offset": "0x2820",
+  "size": "0x4"
+ },
+ {
+  "property": "DamagePerImpulseWhileCritical",
+  "offset": "0x2824",
+  "size": "0x4"
+ },
+ {
+  "property": "RotorImpulseLinear",
+  "offset": "0x2828",
+  "size": "0x4"
+ },
+ {
+  "property": "RotorImpulseAngular",
+  "offset": "0x2832",
+  "size": "0x4"
+ },
+ {
+  "property": "RotorImpulseCooldown",
+  "offset": "0x2836",
+  "size": "0x4"
+ },
+ {
+  "property": "StartupLift",
+  "offset": "0x2840",
+  "size": "0x4"
+ },
+ {
+  "property": "StartupLiftTime",
+  "offset": "0x2844",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxAltitude",
+  "offset": "0x2848",
+  "size": "0x4"
+ },
+ {
+  "property": "AltitudeForSpinning",
+  "offset": "0x2852",
+  "size": "0x4"
+ },
+ {
+  "property": "RotorMaxSpeed",
+  "offset": "0x2856",
+  "size": "0x4"
+ },
+ {
+  "property": "RotorAccel",
+  "offset": "0x2860",
+  "size": "0x4"
+ },
+ {
+  "property": "RotorDecel",
+  "offset": "0x2864",
+  "size": "0x4"
+ },
+ {
+  "property": "ExplodeRotorDecel",
+  "offset": "0x2868",
+  "size": "0x4"
+ },
+ {
+  "property": "MinRotorSpeedForSkippingStartup",
+  "offset": "0x2872",
+  "size": "0x4"
+ },
+ {
+  "property": "RotorSpeedForStartupLift",
+  "offset": "0x2876",
+  "size": "0x4"
+ },
+ {
+  "property": "CriticalLiftForceDecay",
+  "offset": "0x2880",
+  "size": "0x4"
+ },
+ {
+  "property": "CriticalYawTorqueMin",
+  "offset": "0x2884",
+  "size": "0x4"
+ },
+ {
+  "property": "CriticalYawTorqueMax",
+  "offset": "0x2888",
+  "size": "0x4"
+ },
+ {
+  "property": "CriticalYawTorqueRampDuration",
+  "offset": "0x2892",
+  "size": "0x4"
+ },
+ {
+  "property": "RotorTraceRotationSpeed",
+  "offset": "0x2896",
+  "size": "0x4"
+ },
+ {
+  "property": "RotorTraceBoxSize",
+  "offset": "0x2900",
+  "size": "0x4"
+ },
+ {
+  "property": "RotorTraceBoxHeight",
+  "offset": "0x2904",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxCriticalFallForce",
+  "offset": "0x2908",
+  "size": "0x4"
+ },
+ {
+  "property": "BoostFOV",
+  "offset": "0x2912",
+  "size": "0x4"
+ },
+ {
+  "property": "GentleCrashTimeToExplode",
+  "offset": "0x2916",
+  "size": "0x4"
+ },
+ {
+  "property": "CriticalTimeForGentleCrash",
+  "offset": "0x2920",
+  "size": "0x4"
+ },
+ {
+  "property": "AutoLandingYawTorque",
+  "offset": "0x2924",
+  "size": "0x4"
+ },
+ {
+  "property": "MinHeightForAutoLandingYawTorque",
+  "offset": "0x2928",
+  "size": "0x4"
+ },
+ {
+  "property": "MinSpeedForScrapingBottom",
+  "offset": "0x2932",
+  "size": "0x4"
+ },
+ {
+  "property": "FallDamageHeightBuffer",
+  "offset": "0x2936",
+  "size": "0x4"
+ },
+ {
+  "property": "TimeBetweenRotorPlayerDamage",
+  "offset": "0x2940",
+  "size": "0x4"
+ },
+ {
+  "property": "RotorMoveSpeedRequiredToUpdateTraceDirSqr",
+  "offset": "0x2944",
+  "size": "0x4"
+ },
+ {
+  "property": "FoliageTraceRate",
+  "offset": "0x2948",
+  "size": "0x4"
+ },
+ {
+  "property": "RotorWashTicksPerFrame",
+  "offset": "0x2952",
+  "size": "0x1"
+ },
+ {
+  "property": "RotorWashSpeed",
+  "offset": "0x2956",
+  "size": "0x4"
+ },
+ {
+  "property": "CriticalHitRadius",
+  "offset": "0x2960",
+  "size": "0x4"
+ },
+ {
+  "property": "AngleNormalUpForLockMovement",
+  "offset": "0x2964",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxAutoLandingTime",
+  "offset": "0x2968",
+  "size": "0x4"
+ },
+ {
+  "property": "SpeedThresholdForCrashed",
+  "offset": "0x2972",
+  "size": "0x4"
+ },
+ {
+  "property": "CritMultiplier",
+  "offset": "0x2976",
+  "size": "0x4"
+ },
+ {
+  "property": "AltitudeForSprings",
+  "offset": "0x2980",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxCrashingTime",
+  "offset": "0x2984",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxCrashingScrapingTime",
+  "offset": "0x2988",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxCrashingTimeSpentNotMoving",
+  "offset": "0x2992",
+  "size": "0x4"
+ },
+ {
+  "property": "LandscapeRotorImpulseMag",
+  "offset": "0x2996",
+  "size": "0x4"
+ },
+ {
+  "property": "HealthThresholdForLandscapeRotorImpulse",
+  "offset": "0x3000",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxHeightBuffer",
+  "offset": "0x3004",
+  "size": "0x4"
+ },
+ {
+  "property": "bImpulseOnOuterRotorHitLandscape",
+  "offset": "0x3008",
+  "size": "0x1"
+ },
+ {
+  "property": "bSkipRotorImpulses",
+  "offset": "0x3009",
+  "size": "0x1"
+ },
+ {
+  "property": "FoliageTraceBoxSize",
+  "offset": "0x3016",
+  "size": "0x24"
+ },
+ {
+  "property": "WaterBoxSize",
+  "offset": "0x3040",
+  "size": "0x24"
+ },
+ {
+  "property": "WaterBoxOffset",
+  "offset": "0x3064",
+  "size": "0x24"
+ },
+ {
+  "property": "RotorOffsetFromActorLocationOnServer",
+  "offset": "0x3088",
+  "size": "0x24"
+ },
+ {
+  "property": "bSkipContactRotations",
+  "offset": "0x3112",
+  "size": "0x1"
+ },
+ {
+  "property": "MaxAutoLandHeightWhenOutOfFuel",
+  "offset": "0x3120",
+  "size": "0x40"
+ },
+ {
+  "property": "bCanBeBaseForCharacter",
+  "offset": "0x3160",
+  "size": "0x1"
+ },
+ {
+  "property": "RoughnessMinDamagePercent",
+  "offset": "0x3164",
+  "size": "0x4"
+ },
+ {
+  "property": "RoughnessMaxDamagePercent",
+  "offset": "0x3168",
+  "size": "0x4"
+ },
+ {
+  "property": "MinRoughnessFromDamage",
+  "offset": "0x3172",
+  "size": "0x4"
+ },
+ {
+  "property": "MaxRoughnessFromDamage",
+  "offset": "0x3176",
+  "size": "0x4"
+ },
+ {
+  "property": "RotorWashForceCutoffMargin",
+  "offset": "0x3180",
+  "size": "0x4"
+ }
+]

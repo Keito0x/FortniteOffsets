@@ -1,0 +1,17 @@
+[
+ {
+  "property": "SectionToKeyPerControl",
+  "offset": "0x296",
+  "size": "0x80"
+ },
+ {
+  "property": "",
+  "offset": "0x752319386",
+  "size": "0x922713740"
+ },
+ {
+  "property": "",
+  "offset": "0x98741524",
+  "size": "0x0"
+ }
+]

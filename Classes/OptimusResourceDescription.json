@@ -1,0 +1,27 @@
+[
+ {
+  "property": "ResourceName",
+  "offset": "0x40",
+  "size": "0x4"
+ },
+ {
+  "property": "DataType",
+  "offset": "0x48",
+  "size": "0x40"
+ },
+ {
+  "property": "ComponentBinding",
+  "offset": "0x88",
+  "size": "0x8"
+ },
+ {
+  "property": "DataDomain",
+  "offset": "0x96",
+  "size": "0x64"
+ },
+ {
+  "property": "DataInterface",
+  "offset": "0x160",
+  "size": "0x8"
+ }
+]

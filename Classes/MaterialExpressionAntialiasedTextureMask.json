@@ -1,0 +1,12 @@
+[
+ {
+  "property": "Threshold",
+  "offset": "0x544",
+  "size": "0x4"
+ },
+ {
+  "property": "Channel",
+  "offset": "0x548",
+  "size": "0x1"
+ }
+]

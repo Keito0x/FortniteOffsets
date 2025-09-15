@@ -1,0 +1,32 @@
+[
+ {
+  "property": "MapLayerContainer",
+  "offset": "0x1432",
+  "size": "0x8"
+ },
+ {
+  "property": "ToggleMapMarkerRowHandle",
+  "offset": "0x1440",
+  "size": "0x16"
+ },
+ {
+  "property": "TeleportToMapMarkerRowHandle",
+  "offset": "0x1456",
+  "size": "0x16"
+ },
+ {
+  "property": "SoftMarkerDetailsTable",
+  "offset": "0x1472",
+  "size": "0x32"
+ },
+ {
+  "property": "ZoomBounds",
+  "offset": "0x1504",
+  "size": "0x40"
+ },
+ {
+  "property": "bMapLayerContainerEnabled",
+  "offset": "0x1544",
+  "size": "0x1"
+ }
+]

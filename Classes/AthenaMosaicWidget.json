@@ -1,0 +1,27 @@
+[
+ {
+  "property": "TilesDataTable",
+  "offset": "0x376",
+  "size": "0x8"
+ },
+ {
+  "property": "MosaicScale",
+  "offset": "0x384",
+  "size": "0x4"
+ },
+ {
+  "property": "TilesMaterial",
+  "offset": "0x392",
+  "size": "0x-667914017"
+ },
+ {
+  "property": "",
+  "offset": "0x-593918746",
+  "size": "0x-1052420234"
+ },
+ {
+  "property": "",
+  "offset": "0x98741524",
+  "size": "0x0"
+ }
+]

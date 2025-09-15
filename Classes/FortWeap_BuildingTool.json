@@ -1,0 +1,42 @@
+[
+ {
+  "property": "BlueprintPaperMaterial",
+  "offset": "0x7328",
+  "size": "0x8"
+ },
+ {
+  "property": "BlueprintDiffuseTextures",
+  "offset": "0x7336",
+  "size": "0x48"
+ },
+ {
+  "property": "BlueprintEmissiveMaskTextures",
+  "offset": "0x7384",
+  "size": "0x48"
+ },
+ {
+  "property": "BlueprintPaperPulseCurve",
+  "offset": "0x7432",
+  "size": "0x8"
+ },
+ {
+  "property": "DefaultMetadata",
+  "offset": "0x7440",
+  "size": "0x8"
+ },
+ {
+  "property": "BlueprintPaperMID",
+  "offset": "0x7448",
+  "size": "0x8"
+ },
+ {
+  "property": "BlueprintPaperPulseTimeline",
+  "offset": "0x7456",
+  "size": "0x144"
+ },
+ {
+  "property": "LastResourceType",
+  "offset": "0x7600",
+  "size": "0x1"
+ }
+]

@@ -1,0 +1,57 @@
+[
+ {
+  "property": "ManagerEntry",
+  "offset": "0x40",
+  "size": "0x8"
+ },
+ {
+  "property": "RootState",
+  "offset": "0x48",
+  "size": "0x8"
+ },
+ {
+  "property": "ParentState",
+  "offset": "0x56",
+  "size": "0x8"
+ },
+ {
+  "property": "ParallelRegions",
+  "offset": "0x64",
+  "size": "0x16"
+ },
+ {
+  "property": "TaggedStates",
+  "offset": "0x80",
+  "size": "0x80"
+ },
+ {
+  "property": "ActiveLeafState",
+  "offset": "0x160",
+  "size": "0x8"
+ },
+ {
+  "property": "ActiveTransitionOperation",
+  "offset": "0x168",
+  "size": "0x8"
+ },
+ {
+  "property": "QueuedTransitionOperation",
+  "offset": "0x176",
+  "size": "0x8"
+ },
+ {
+  "property": "AvailableBacktrackPaths",
+  "offset": "0x184",
+  "size": "0x16"
+ },
+ {
+  "property": "ActiveTransitionBacktrackStep",
+  "offset": "0x200",
+  "size": "0x8"
+ },
+ {
+  "property": "ChartName",
+  "offset": "0x208",
+  "size": "0x16"
+ }
+]

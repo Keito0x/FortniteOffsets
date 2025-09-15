@@ -1,0 +1,212 @@
+[
+ {
+  "property": "PersistentLevel",
+  "offset": "0x64",
+  "size": "0x8"
+ },
+ {
+  "property": "NetDriver",
+  "offset": "0x72",
+  "size": "0x8"
+ },
+ {
+  "property": "LineBatcher",
+  "offset": "0x80",
+  "size": "0x8"
+ },
+ {
+  "property": "PersistentLineBatcher",
+  "offset": "0x88",
+  "size": "0x8"
+ },
+ {
+  "property": "ForegroundLineBatcher",
+  "offset": "0x96",
+  "size": "0x8"
+ },
+ {
+  "property": "NetworkManager",
+  "offset": "0x104",
+  "size": "0x8"
+ },
+ {
+  "property": "PhysicsCollisionHandler",
+  "offset": "0x112",
+  "size": "0x8"
+ },
+ {
+  "property": "PhysicsQueryHandler",
+  "offset": "0x120",
+  "size": "0x8"
+ },
+ {
+  "property": "ExtraReferencedObjects",
+  "offset": "0x128",
+  "size": "0x16"
+ },
+ {
+  "property": "PerModuleDataObjects",
+  "offset": "0x144",
+  "size": "0x16"
+ },
+ {
+  "property": "StreamingLevels",
+  "offset": "0x168",
+  "size": "0x16"
+ },
+ {
+  "property": "StreamingLevelsToConsider",
+  "offset": "0x184",
+  "size": "0x40"
+ },
+ {
+  "property": "ServerStreamingLevelsVisibility",
+  "offset": "0x224",
+  "size": "0x8"
+ },
+ {
+  "property": "StreamingLevelsPrefix",
+  "offset": "0x232",
+  "size": "0x16"
+ },
+ {
+  "property": "LineBatchers",
+  "offset": "0x264",
+  "size": "0x32"
+ },
+ {
+  "property": "MakingVisibleLevels",
+  "offset": "0x312",
+  "size": "0x16"
+ },
+ {
+  "property": "MakingInvisibleLevels",
+  "offset": "0x328",
+  "size": "0x16"
+ },
+ {
+  "property": "DemoNetDriver",
+  "offset": "0x344",
+  "size": "0x8"
+ },
+ {
+  "property": "MyParticleEventManager",
+  "offset": "0x352",
+  "size": "0x8"
+ },
+ {
+  "property": "DefaultPhysicsVolume",
+  "offset": "0x360",
+  "size": "0x8"
+ },
+ {
+  "property": "bAreConstraintsDirty",
+  "offset": "0x422",
+  "size": "0x1"
+ },
+ {
+  "property": "NavigationSystem",
+  "offset": "0x448",
+  "size": "0x8"
+ },
+ {
+  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+  "offset": "0x456",
+  "size": "0x8"
+ },
+ {
+  "property": "GameState",
+  "offset": "0x464",
+  "size": "0x8"
+ },
+ {
+  "property": "AISystem",
+  "offset": "0x472",
+  "size": "0x8"
+ },
+ {
+  "property": "AvoidanceManager",
+  "offset": "0x480",
+  "size": "0x8"
+ },
+ {
+  "property": "Levels",
+  "offset": "0x488",
+  "size": "0x16"
+ },
+ {
+  "property": "LevelCollections",
+  "offset": "0x504",
+  "size": "0x16"
+ },
+ {
+  "property": "OwningGameInstance",
+  "offset": "0x584",
+  "size": "0x8"
+ },
+ {
+  "property": "ParameterCollectionInstances",
+  "offset": "0x592",
+  "size": "0x16"
+ },
+ {
+  "property": "CanvasForRenderingToTarget",
+  "offset": "0x608",
+  "size": "0x8"
+ },
+ {
+  "property": "CanvasForDrawMaterialToRenderTarget",
+  "offset": "0x616",
+  "size": "0x8"
+ },
+ {
+  "property": "PhysicsField",
+  "offset": "0x736",
+  "size": "0x8"
+ },
+ {
+  "property": "ComponentsThatNeedPreEndOfFrameSync",
+  "offset": "0x744",
+  "size": "0x80"
+ },
+ {
+  "property": "ComponentsThatNeedPreEndOfFrameSync_AsyncTick",
+  "offset": "0x824",
+  "size": "0x80"
+ },
+ {
+  "property": "ComponentsThatNeedEndOfFrameUpdate",
+  "offset": "0x904",
+  "size": "0x16"
+ },
+ {
+  "property": "ComponentsThatNeedEndOfFrameUpdate_AsyncTick",
+  "offset": "0x920",
+  "size": "0x16"
+ },
+ {
+  "property": "ComponentsThatNeedEndOfFrameUpdate_OnGameThread",
+  "offset": "0x936",
+  "size": "0x16"
+ },
+ {
+  "property": "ComponentsThatNeedEndOfFrameMarkRenderStateDirty",
+  "offset": "0x952",
+  "size": "0x16"
+ },
+ {
+  "property": "WorldComposition",
+  "offset": "0x2232",
+  "size": "0x8"
+ },
+ {
+  "property": "ContentBundleManager",
+  "offset": "0x2240",
+  "size": "0x8"
+ },
+ {
+  "property": "PSCPool",
+  "offset": "0x2440",
+  "size": "0x88"
+ }
+]

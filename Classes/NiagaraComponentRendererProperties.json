@@ -1,0 +1,52 @@
+[
+ {
+  "property": "ComponentType",
+  "offset": "0x168",
+  "size": "0x8"
+ },
+ {
+  "property": "ComponentCountLimit",
+  "offset": "0x176",
+  "size": "0x4"
+ },
+ {
+  "property": "EnabledBinding",
+  "offset": "0x184",
+  "size": "0x40"
+ },
+ {
+  "property": "RendererVisibilityTagBinding",
+  "offset": "0x224",
+  "size": "0x40"
+ },
+ {
+  "property": "bAssignComponentsOnParticleID",
+  "offset": "0x264",
+  "size": "0x1"
+ },
+ {
+  "property": "bCreateComponentFirstParticleFrame",
+  "offset": "0x265",
+  "size": "0x1"
+ },
+ {
+  "property": "bOnlyActivateNewlyAquiredComponents",
+  "offset": "0x266",
+  "size": "0x1"
+ },
+ {
+  "property": "RendererVisibility",
+  "offset": "0x268",
+  "size": "0x4"
+ },
+ {
+  "property": "TemplateComponent",
+  "offset": "0x272",
+  "size": "0x8"
+ },
+ {
+  "property": "PropertyBindings",
+  "offset": "0x280",
+  "size": "0x16"
+ }
+]

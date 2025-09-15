@@ -1,0 +1,172 @@
+[
+ {
+  "property": "StandardLocomotionInput",
+  "offset": "0x4960",
+  "size": "0x208"
+ },
+ {
+  "property": "LegacyWeaponAnimSet",
+  "offset": "0x5168",
+  "size": "0x192"
+ },
+ {
+  "property": "LocomotionAnimSet",
+  "offset": "0x5360",
+  "size": "0x248"
+ },
+ {
+  "property": "ExtraAnimLayer",
+  "offset": "0x5608",
+  "size": "0x8"
+ },
+ {
+  "property": "AuthoredJogFwdSpeed",
+  "offset": "0x5616",
+  "size": "0x4"
+ },
+ {
+  "property": "ClassicLocomotionAnimAsset",
+  "offset": "0x5624",
+  "size": "0x8"
+ },
+ {
+  "property": "PreviousClassicLocomotionAnimAsset",
+  "offset": "0x5632",
+  "size": "0x8"
+ },
+ {
+  "property": "StartSpeedWarping",
+  "offset": "0x5640",
+  "size": "0x48"
+ },
+ {
+  "property": "SpeedWarping",
+  "offset": "0x5688",
+  "size": "0x48"
+ },
+ {
+  "property": "ActorSpaceVelocityDirPreTurn",
+  "offset": "0x5736",
+  "size": "0x24"
+ },
+ {
+  "property": "StopAnimDeltaAngle",
+  "offset": "0x5760",
+  "size": "0x4"
+ },
+ {
+  "property": "TransitionPlayRate",
+  "offset": "0x5764",
+  "size": "0x4"
+ },
+ {
+  "property": "StartAnimDeltaAngleNorth",
+  "offset": "0x5768",
+  "size": "0x4"
+ },
+ {
+  "property": "StartAnimDeltaAngleEast",
+  "offset": "0x5772",
+  "size": "0x4"
+ },
+ {
+  "property": "StartAnimDeltaAngleSouth",
+  "offset": "0x5776",
+  "size": "0x4"
+ },
+ {
+  "property": "StartAnimDeltaAngleWest",
+  "offset": "0x5780",
+  "size": "0x4"
+ },
+ {
+  "property": "StartSpeedWarpingAlpha",
+  "offset": "0x5784",
+  "size": "0x4"
+ },
+ {
+  "property": "PostPivotAnimDeltaAngle",
+  "offset": "0x5788",
+  "size": "0x4"
+ },
+ {
+  "property": "PrePivotTimer",
+  "offset": "0x5792",
+  "size": "0x4"
+ },
+ {
+  "property": "PrePivotAnimDeltaAngle",
+  "offset": "0x5796",
+  "size": "0x4"
+ },
+ {
+  "property": "StopCardinalDirection",
+  "offset": "0x5800",
+  "size": "0x1"
+ },
+ {
+  "property": "PrePivotCardinalDirection",
+  "offset": "0x5801",
+  "size": "0x1"
+ },
+ {
+  "property": "PostPivotCardinalDirection",
+  "offset": "0x5802",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldPlayStopTransition",
+  "offset": "0x5803",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldEarlyOutStopState",
+  "offset": "0x5803",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldPlayPivotTransition",
+  "offset": "0x5803",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldEarlyOutPivotState",
+  "offset": "0x5803",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldWalkRightFootFwd",
+  "offset": "0x5803",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldPlayPostPivotTransition",
+  "offset": "0x5803",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldPlayStartTransition",
+  "offset": "0x5803",
+  "size": "0x1"
+ },
+ {
+  "property": "bShouldEarlyOutStartState",
+  "offset": "0x5803",
+  "size": "0x1"
+ },
+ {
+  "property": "bEarlyOut_Lowerbody_Turns",
+  "offset": "0x5804",
+  "size": "0x1"
+ },
+ {
+  "property": "DisableRightArmAdditiveCurveAlpha",
+  "offset": "0x5808",
+  "size": "0x4"
+ },
+ {
+  "property": "OneHandedTransitionHackAlpha",
+  "offset": "0x5812",
+  "size": "0x4"
+ }
+]

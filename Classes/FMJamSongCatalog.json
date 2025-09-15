@@ -1,0 +1,22 @@
+[
+ {
+  "property": "SongsByShortName",
+  "offset": "0x264",
+  "size": "0x80"
+ },
+ {
+  "property": "CachedCMSCatalog",
+  "offset": "0x344",
+  "size": "0x8"
+ },
+ {
+  "property": "NumCMSRetries",
+  "offset": "0x352",
+  "size": "0x4"
+ },
+ {
+  "property": "bIsInitialScanComplete",
+  "offset": "0x356",
+  "size": "0x1"
+ }
+]

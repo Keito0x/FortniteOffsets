@@ -1,0 +1,32 @@
+[
+ {
+  "property": "FeedbackEvents",
+  "offset": "0x680",
+  "size": "0x16"
+ },
+ {
+  "property": "bUsesStWFeedbackEvents",
+  "offset": "0x696",
+  "size": "0x1"
+ },
+ {
+  "property": "BankDefinedFeedbackEvents",
+  "offset": "0x704",
+  "size": "0x16"
+ },
+ {
+  "property": "AnnouncerPawnClass",
+  "offset": "0x720",
+  "size": "0x8"
+ },
+ {
+  "property": "Announcer",
+  "offset": "0x728",
+  "size": "0x8"
+ },
+ {
+  "property": "SuppressedControllers",
+  "offset": "0x736",
+  "size": "0x16"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "property": "AnimAsset",
+  "offset": "0x48",
+  "size": "0x616"
+ },
+ {
+  "property": "OverrideAnimAssets",
+  "offset": "0x664",
+  "size": "0x16"
+ }
+]

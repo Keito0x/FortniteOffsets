@@ -1,0 +1,27 @@
+[
+ {
+  "property": "HeaderOverrideStrings",
+  "offset": "0x48",
+  "size": "0x80"
+ },
+ {
+  "property": "BodyOverrideStrings",
+  "offset": "0x128",
+  "size": "0x80"
+ },
+ {
+  "property": "ViolatorOverrideStrings",
+  "offset": "0x208",
+  "size": "0x80"
+ },
+ {
+  "property": "SubheaderOverrideStrings",
+  "offset": "0x288",
+  "size": "0x80"
+ },
+ {
+  "property": "TagRestrictionData",
+  "offset": "0x368",
+  "size": "0x80"
+ }
+]

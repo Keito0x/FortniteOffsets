@@ -1,0 +1,12 @@
+[
+ {
+  "property": "bIsFocusable",
+  "offset": "0x1096",
+  "size": "0x1"
+ },
+ {
+  "property": "ActiveChannel",
+  "offset": "0x1104",
+  "size": "0x8"
+ }
+]

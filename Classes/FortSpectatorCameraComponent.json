@@ -1,0 +1,52 @@
+[
+ {
+  "property": "SpectatorController",
+  "offset": "0x2976",
+  "size": "0x8"
+ },
+ {
+  "property": "IntendedViewTarget",
+  "offset": "0x2984",
+  "size": "0x8"
+ },
+ {
+  "property": "CurrentBlend",
+  "offset": "0x2992",
+  "size": "0x8"
+ },
+ {
+  "property": "ScreenFringeFOVCurve",
+  "offset": "0x3008",
+  "size": "0x8"
+ },
+ {
+  "property": "ZoomRate",
+  "offset": "0x3016",
+  "size": "0x4"
+ },
+ {
+  "property": "FocalLengthInterpSpeed",
+  "offset": "0x3020",
+  "size": "0x4"
+ },
+ {
+  "property": "RackFocusPlaneVisualizationMesh",
+  "offset": "0x3088",
+  "size": "0x8"
+ },
+ {
+  "property": "RackFocusPlaneVisualizationMaterial",
+  "offset": "0x3096",
+  "size": "0x8"
+ },
+ {
+  "property": "RackFocusPlaneComponent",
+  "offset": "0x3104",
+  "size": "0x8"
+ },
+ {
+  "property": "RackFocusPlaneMID",
+  "offset": "0x3112",
+  "size": "0x8"
+ }
+]

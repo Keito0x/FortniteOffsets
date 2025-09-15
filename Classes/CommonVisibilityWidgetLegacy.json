@@ -1,0 +1,77 @@
+[
+ {
+  "property": "bShowForGamepad",
+  "offset": "0x768",
+  "size": "0x1"
+ },
+ {
+  "property": "bShowForMouseAndKeyboard",
+  "offset": "0x769",
+  "size": "0x1"
+ },
+ {
+  "property": "bShowForTouch",
+  "offset": "0x770",
+  "size": "0x1"
+ },
+ {
+  "property": "bShowForPC",
+  "offset": "0x771",
+  "size": "0x1"
+ },
+ {
+  "property": "bShowForMac",
+  "offset": "0x772",
+  "size": "0x1"
+ },
+ {
+  "property": "bShowForPS4",
+  "offset": "0x773",
+  "size": "0x1"
+ },
+ {
+  "property": "bShowForPS5",
+  "offset": "0x774",
+  "size": "0x1"
+ },
+ {
+  "property": "bShowForXBox",
+  "offset": "0x775",
+  "size": "0x1"
+ },
+ {
+  "property": "bShowForXSX",
+  "offset": "0x776",
+  "size": "0x1"
+ },
+ {
+  "property": "bShowForIOS",
+  "offset": "0x777",
+  "size": "0x1"
+ },
+ {
+  "property": "bShowForAndroid",
+  "offset": "0x778",
+  "size": "0x1"
+ },
+ {
+  "property": "bShowForErebus",
+  "offset": "0x779",
+  "size": "0x1"
+ },
+ {
+  "property": "bShowForSwitch2",
+  "offset": "0x780",
+  "size": "0x1"
+ },
+ {
+  "property": "VisibleType",
+  "offset": "0x781",
+  "size": "0x1"
+ },
+ {
+  "property": "HiddenType",
+  "offset": "0x782",
+  "size": "0x1"
+ }
+]

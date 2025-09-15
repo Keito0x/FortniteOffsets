@@ -1,0 +1,272 @@
+[
+ {
+  "property": "YYYYYYYYY}ÙYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYIq‰]Œ¦¦Uæ)]Œ¦¦Yæ)]Œ¦¦YYYYYYYY®YÍÙYYYVòÛ½t_IY{qsÛóñóóóóÓñóóÓóQyÛYSYqY[[YYÙYQÛYÑQQYY[YyYY[YyYYQYYÙYQYYÑYYYY[YyYY[YyYYQYYÙYQYYÙY9¦¦¦¦¦¦ÛYÚYÝYÝYÚY]Y[YXYXYÙY¦¦¦¦XYXY¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦ÙY¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦UYYYYYYYYAÕXzíoëàèéiÌ\þMHIˆ]Œ¦¦5o+¶Y›¦¦Y[YYÙYYYYYYYYY",
+  "offset": "0x72",
+  "size": "0x8"
+ },
+ {
+  "property": "BugBGA",
+  "offset": "0x80",
+  "size": "0x8"
+ },
+ {
+  "property": "LeadInTime",
+  "offset": "0x104",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_MaxLeadInForwardOffset",
+  "offset": "0x144",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_CameraZMoveSpeed",
+  "offset": "0x264",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_MaxHeightDisplacement",
+  "offset": "0x304",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_MinPlayerGroundSpeedInfluence",
+  "offset": "0x344",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_MaxPlayerGroundSpeedInfluence",
+  "offset": "0x384",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_CameraMinForwardGroundSpeed",
+  "offset": "0x424",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_CameraMaxForwardGroundSpeed",
+  "offset": "0x464",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_MinVerticalSpeedInfluence",
+  "offset": "0x504",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_MaxVerticalSpeedInfluence",
+  "offset": "0x544",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_MinCameraVerticalSpeed",
+  "offset": "0x584",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_MaxCameraVerticalSpeed",
+  "offset": "0x624",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_SuckedInFollowModifier",
+  "offset": "0x664",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_BouncyFollowModifier",
+  "offset": "0x704",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_ForwardInterpSpeed",
+  "offset": "0x744",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_MaxPlayerHorizontalInfluenceSpeed",
+  "offset": "0x784",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_MaxCameraHorizontalSpeed",
+  "offset": "0x824",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_RightCameraSpeedModifier",
+  "offset": "0x864",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_LeftCameraSpeedModifier",
+  "offset": "0x904",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_CameraMinForwardSpeedInfluenceOnHorizontalSpeed",
+  "offset": "0x944",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_CameraMaxForwardSpeedInfluenceOnHorizontalSpeed",
+  "offset": "0x984",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_CameraMinForwardSpeedInfluenceOnHorizontalSpeedModifier",
+  "offset": "0x1024",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_CameraMaxForwardSpeedInfluenceOnHorizontalSpeedModifier",
+  "offset": "0x1064",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_CameraRightInterpSpeed",
+  "offset": "0x1104",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_CameraMaxVerticalVelocity",
+  "offset": "0x1144",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_CameraMinForwardSpeedInfluenceOnVerticalSpeed",
+  "offset": "0x1184",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_CameraMaxForwardSpeedInfluenceOnVerticalSpeed",
+  "offset": "0x1224",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_CameraMinForwardSpeedInfluenceOnVerticalSpeedModifier",
+  "offset": "0x1264",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_CameraMaxForwardSpeedInfluenceOnVerticalSpeedModifier",
+  "offset": "0x1304",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_UpCameraSpeedModifier",
+  "offset": "0x1344",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_DownCameraSpeedModifier",
+  "offset": "0x1384",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_SuckedInUpwardFollowModifier",
+  "offset": "0x1424",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_BouncyUpwardFollowModifier",
+  "offset": "0x1464",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_CameraUpVelocityOffset",
+  "offset": "0x1504",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_CameraUpwardInterpSpeed",
+  "offset": "0x1544",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_BoostedFOV",
+  "offset": "0x1584",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_BeginReadyToBoostFOV",
+  "offset": "0x1624",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_NonBoostedFOV",
+  "offset": "0x1664",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_PreBoostFOVSpeed",
+  "offset": "0x1704",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_CameraFOVInterpSpeed",
+  "offset": "0x1744",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_StraightnessModifierInflienceonHorizontalOffset",
+  "offset": "0x1784",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_RefHeightSurfaceHeightDiffInfleunceOnUpModifier",
+  "offset": "0x1824",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_VerticalScalarOffset",
+  "offset": "0x1864",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_TotalVelocityOffsetInterpSpeed",
+  "offset": "0x1904",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_BaseForwardOffset",
+  "offset": "0x1944",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_BaseVerticalOffset",
+  "offset": "0x1984",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_BaseHorizontalOffset",
+  "offset": "0x2024",
+  "size": "0x40"
+ },
+ {
+  "property": "MaxZChange_OnGround",
+  "offset": "0x2064",
+  "size": "0x40"
+ },
+ {
+  "property": "MaxZChange_InAir",
+  "offset": "0x2104",
+  "size": "0x40"
+ },
+ {
+  "property": "MaxZChange_InterpSpeed",
+  "offset": "0x2144",
+  "size": "0x40"
+ },
+ {
+  "property": "SF_MinFinalZChange",
+  "offset": "0x2184",
+  "size": "0x40"
+ },
+ {
+  "property": "bDeNativize",
+  "offset": "0x2252",
+  "size": "0x1"
+ }
+]

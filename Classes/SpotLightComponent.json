@@ -1,0 +1,12 @@
+[
+ {
+  "property": "InnerConeAngle",
+  "offset": "0x976",
+  "size": "0x4"
+ },
+ {
+  "property": "OuterConeAngle",
+  "offset": "0x980",
+  "size": "0x4"
+ }
+]

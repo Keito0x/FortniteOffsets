@@ -1,0 +1,47 @@
+[
+ {
+  "property": "OfferGroupId",
+  "offset": "0x112",
+  "size": "0x16"
+ },
+ {
+  "property": "bUseWidePreview",
+  "offset": "0x128",
+  "size": "0x1"
+ },
+ {
+  "property": "Offers",
+  "offset": "0x136",
+  "size": "0x16"
+ },
+ {
+  "property": "OwningLayout",
+  "offset": "0x152",
+  "size": "0x32"
+ },
+ {
+  "property": "CurrentStackRank",
+  "offset": "0x184",
+  "size": "0x4"
+ },
+ {
+  "property": "SeenLevel",
+  "offset": "0x188",
+  "size": "0x1"
+ },
+ {
+  "property": "TextMetadata",
+  "offset": "0x192",
+  "size": "0x80"
+ },
+ {
+  "property": "StringMetadata",
+  "offset": "0x272",
+  "size": "0x80"
+ },
+ {
+  "property": "MaxRowNum",
+  "offset": "0x352",
+  "size": "0x4"
+ }
+]

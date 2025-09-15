@@ -1,0 +1,182 @@
+[
+ {
+  "property": "PlaybackState",
+  "offset": "0x48",
+  "size": "0x24"
+ },
+ {
+  "property": "EffectsState",
+  "offset": "0x72",
+  "size": "0x16"
+ },
+ {
+  "property": "OnReplayFXStateChange",
+  "offset": "0x88",
+  "size": "0x16"
+ },
+ {
+  "property": "TimeBeforeEvent",
+  "offset": "0x104",
+  "size": "0x4"
+ },
+ {
+  "property": "OnPauseStateChanged",
+  "offset": "0x112",
+  "size": "0x16"
+ },
+ {
+  "property": "OnSessionIdWatermarkVisibilityChanged",
+  "offset": "0x128",
+  "size": "0x16"
+ },
+ {
+  "property": "OnReplayTimeChanged",
+  "offset": "0x144",
+  "size": "0x16"
+ },
+ {
+  "property": "OnReplayTimelineChanged",
+  "offset": "0x160",
+  "size": "0x16"
+ },
+ {
+  "property": "OnReplayPlaybackMultiplierChanged",
+  "offset": "0x176",
+  "size": "0x16"
+ },
+ {
+  "property": "OnReplayHudVisibilityChanged",
+  "offset": "0x192",
+  "size": "0x16"
+ },
+ {
+  "property": "OnReplayAugmentsHudVisibilityChanged",
+  "offset": "0x208",
+  "size": "0x16"
+ },
+ {
+  "property": "OnReplayHudNotificationSuppressionChanged",
+  "offset": "0x224",
+  "size": "0x16"
+ },
+ {
+  "property": "OnToggleReplayViewSettings",
+  "offset": "0x240",
+  "size": "0x16"
+ },
+ {
+  "property": "OnToggleReplayPlayerList",
+  "offset": "0x256",
+  "size": "0x16"
+ },
+ {
+  "property": "OnToggleHighlightsListEvent",
+  "offset": "0x272",
+  "size": "0x16"
+ },
+ {
+  "property": "OnReplayLevelStreamingChanged",
+  "offset": "0x288",
+  "size": "0x16"
+ },
+ {
+  "property": "OnSequencerReadyEvent",
+  "offset": "0x304",
+  "size": "0x16"
+ },
+ {
+  "property": "OnReplayTimelineFocusChanged",
+  "offset": "0x320",
+  "size": "0x16"
+ },
+ {
+  "property": "OnReplayTimelineMarkerAdded",
+  "offset": "0x336",
+  "size": "0x16"
+ },
+ {
+  "property": "OnReplayTimelineMarkersCleared",
+  "offset": "0x352",
+  "size": "0x16"
+ },
+ {
+  "property": "OnLightingToolVisibilityChangedEvent",
+  "offset": "0x368",
+  "size": "0x16"
+ },
+ {
+  "property": "OnEnablePilotLightEvent",
+  "offset": "0x384",
+  "size": "0x16"
+ },
+ {
+  "property": "OnEnablePilotFogEvent",
+  "offset": "0x400",
+  "size": "0x16"
+ },
+ {
+  "property": "OnReplayScrubStart",
+  "offset": "0x416",
+  "size": "0x16"
+ },
+ {
+  "property": "OnLoadedReplayShotIndexEvent",
+  "offset": "0x432",
+  "size": "0x16"
+ },
+ {
+  "property": "OnReplayScrubComplete",
+  "offset": "0x448",
+  "size": "0x16"
+ },
+ {
+  "property": "OnToggleSequencer",
+  "offset": "0x464",
+  "size": "0x16"
+ },
+ {
+  "property": "OnSequenceFinished",
+  "offset": "0x480",
+  "size": "0x16"
+ },
+ {
+  "property": "OnSequenceShotChanged",
+  "offset": "0x496",
+  "size": "0x16"
+ },
+ {
+  "property": "OnHighlightPlayingEvent",
+  "offset": "0x512",
+  "size": "0x16"
+ },
+ {
+  "property": "OnCollapseTab",
+  "offset": "0x528",
+  "size": "0x16"
+ },
+ {
+  "property": "OnCollapsePanel",
+  "offset": "0x544",
+  "size": "0x16"
+ },
+ {
+  "property": "OnShowSettingDescription",
+  "offset": "0x560",
+  "size": "0x16"
+ },
+ {
+  "property": "InteractiveMapIcons",
+  "offset": "0x792",
+  "size": "0x16"
+ },
+ {
+  "property": "UniqueMapIconVisibility",
+  "offset": "0x808",
+  "size": "0x80"
+ },
+ {
+  "property": "SpectatingPC",
+  "offset": "0x888",
+  "size": "0x8"
+ }
+]

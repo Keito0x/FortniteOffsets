@@ -1,0 +1,12 @@
+[
+ {
+  "property": "BlackboardComp",
+  "offset": "0x200",
+  "size": "0x8"
+ },
+ {
+  "property": "AIOwner",
+  "offset": "0x208",
+  "size": "0x8"
+ }
+]
