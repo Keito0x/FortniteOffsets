@@ -1,7 +1,0 @@
-[
- {
-  "property": "SyncDirection",
-  "offset": "0x40",
-  "size": "0x1"
- }
-]

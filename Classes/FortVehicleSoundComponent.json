@@ -1,7 +1,0 @@
-[
- {
-  "property": "OwningVehicleData",
-  "offset": "0x200",
-  "size": "0x16"
- }
-]

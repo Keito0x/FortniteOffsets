@@ -1,106 +1,0 @@
-[
- {
-  "property": "Unknown_ffield",
-  "offset": "0x1680",
-  "size": "0x4"
- },
- {
-  "property": "*ÈHn®RŽ*ÊwzÎ¥öñ*ËTn*‰i=®‰=‰šLn*ÈDn*ÊözÑõñ*Êí*Ìn‰LöŽË 6*Ë*Ë.–ê*È„ÅGŽ*’f4*Èˆ›Êõñ*’j‰LxÒ*È„eGŽ*’f4‹*Êòñ„6'Êî’ë‰Ì<(ËHN¨Ìê46Ë$4,Ë,2*Ë*Ë.*Èˆ+GŽ*’j‰ÌÜ*Ë­*Ë**ËŽ*Ëª
-*šîªÊkªîs¨È#ñ¨’â‰Ì†ªÏó‰OòªÏsŽ‰M­“&‰ÌtË,
-r®’n‰Ìý*ËLŽ*–~*Ëˆù„*’î‰Ì*Êr‰TŽ‰P.Ž,‰L&Ž*Îl:Ž£ ¡!® ® ®!®¡ïÒŽúñññ*Êòñ„Ë¦Ln´AúNÓŽ®ÐŽÌn‰ÉðññúƒðññÏr‘4‡*Žö®R‘ªšn–gze*ÈHn®RŽ*Êwzd¤öñ–êú‡qññªîz*ÈHn*=
-Ln²*Ë’c.‰Aì‰É×
-ÊbÊçÌã‰Iãñññ±‰Lß
-®Êì*Îñû‰Ïê®’à‰LÄ
-*Ïñ‰OE
-,ÊzšbÏn*B*’í‰En.Lì‰L°
-ËLfŽ*Ê4>(Ê<:*Èˆ%*Ê("í,6Ê 4,Ê82*ÊPNÊLJ=‰¥n=‰†LŽ=‰†LŽ=‰†Lv=‰†L~=‰†Lf‰ŒŠ ‡‰†Ln¨Ì|4//Èü(Êþ*îú€ÊHdÊLf¨Ê~ªÏp.‰Ï”,Ê\Ž*ÈHb*ÊwzCæ(È<>ËLŽ*È*Ž*ÈTbmLbN*Ïr‰ÏQŽ*Ïò4‡®Rªšj*Žö–gzõå*ËLf*ÊLŽ",
-  "offset": "0x1684",
-  "size": "0x4"
- },
- {
-  "property": "?ŸûÝÿÀÊ¾??¸þÛ<??Ÿ£Ñ¸}õ;??þÀ¾¸~t;??ûK«Sþ_>s£Ü¸t_}Ý¸};??ú}-W¿??û-û-ù¹ 6?û-Ü-????û-û	-ûa-???û}-{???¸”_¸·}-9¿??¸·}-?¿??¸·}-G???¸·}-O???¸·}-W???¸+½»¶?¸·}-_???™ýMù=Í????ûÏßË±ûy-U???û}-W???™ûO›þA¸þ¥>??ûm-3¿??ùy-S???ûFKr×=?ù-ú}-3¿??ù¿ùe-S???\}=S???þC#¸þ`¿??þÃ#¶Ÿc#???›«[¿Ç§VKÄÔ=?ú}-W???û}-7¿??ùy-_???Ÿc¿???ûFKÿ”ÇÀúe-_???¸XŸ¸7=-¸«}-_???ùu-_???ûÇK¬àÄÀûÜý_¸}Ç¿??ú-ú¼ú3§Ûùµôv¿?£W)ù¹ªûÄÀ£[¸}I???ã>???ùµTv¿?£WºûÃÀµ5?ûß£Ú¸ý=??úy-???™ýÛú-ú-ú¼ú/ù¹v¿?£[¸ýí???úœ3ú3ú¿ú›;«ß›ûZ›ßB>™ùÀ™£Ó¸ý·=??›þÂ>¸~Ã¾??›þB¿¸|œ<??¢=¸ýE¾??ú;CŸ£_¸ýÌ¾??ú}??¸`Ÿ´ý_¸û<??ú;}_ƒ¾ú$£R¸pÝ¸øæ;??ûSûÖýÒ¸xÒ>??¡ÀÀÀ€¸}î;?",
-  "offset": "0x1688",
-  "size": "0x32"
- },
- {
-  "property": "µEuwwQ²1e7wwwÑµ“MO²]eMU²UeKS²ôS²WgS±ñR>÷wSëðµ¥wwwS²Ô{S²S{S²÷S²ÓsSã—Ó³Ó—
-vÑ±ZˆÑë›ðµÿuwwÓ¶Švð6‹öwwÓ¶
-÷ð4Ôtwwê_uðµöww²Us×ëðµ„öwwS²5ec÷wwSïS²ñ€oýwSë—ðµttwwS³ðc-eo÷wwðc)eW÷wwUðc5e_÷wwS·C÷wwÚÙØX×Y×Ù×X×Ø–«÷wwwƒdˆˆˆS³‹ˆý²ß}w5Í8ƒ7öwwª÷www×©÷wwwµð°~‰ˆˆƒú‰ˆˆ¶èMþS÷×+èwwwÓãïjuwS±1ewww×+÷wwwS³Ýˆï“ƒþˆˆÓ—tS±1ewwwSwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwõ¯îýwSïS³5ec÷wwSð(×üSµð³CtwwQ²Ds5ËöS²lëWð8•ð°®sww³³žµšð0švwwéˆˆˆÈð5¦sww×³•S·ˆ‚öwwð¶“tww×ë™ð5½swwS¶ˆöð6<swwU³ã¶vS;Së”ð<W5•ð5Ésww²5e÷wwS³MeGQ³EeCS±ñ\h~wS³Qe[”UeOwwww³YeMU³AeKS³)e7www³5e3wwwDðÜDðÿ5eq÷wwDðÿ5ew÷wwDðÿ5ewwwDðÿ5ewwwDðÿ5ewwwðcõóYþwðÿ5ewwwÑµMVV±u…wwwwQ³‡S—ƒù³1ewww³5ewwwÑ³Ó¶	Wð¶ívwwU³%e{÷wwS±1ewwwS³:ŸuwQ±EeG²5e{÷wwS±S÷S±-ewww5uwww7S¶kð¶(÷wwS¶‹kMþ×+kwwwÓãS÷ïŒœuwS²5ewwwS³5e÷wwS±1ewww×+÷wwwS³·ÜˆS²-ewwwSðD×ðueDðã5ewwwS±=ewwwS³ä¨ŒˆS³”Sµð5÷ww²YeOS²ôS²W{ï“S±ý¼>÷wSëMaS±ñâ³ŒˆSëð5www«vwwwS±ý>÷wSëMòS³‹ˆýO^}w³—ë’ð",
-  "offset": "0x1720",
-  "size": "0x32"
- },
- {
-  "property": "ÌÌŽÞ¤ÌÌÌj¼h²ìKVÍÌÌîžÞÀLÌÌè
-ŠÞ ÌÌÌèµ¸$ÎÌê
-þÞü	ŽÞÀLÌÌè
-èLè
-–Þ ÌÌÌ¯ŽÎ ÌÌÌŒè°ÐK“LÌÌè0ÐöX–ÞÔLÌÌê+î-è«è	NUFÌèT¼èŽÞØLÌÌèK“lGè¬KøÏÌÌê	ÿÈŽ¬pMè	×P¡ìKƒ.KÈÌÌ %!K‹!ÍÌÌR333sKŽÈÌÌl.è39MÌÌK(ÏÌÌlP"KŽÈÌÌè3MK‡ÈÌÌî¸X ¬Íè€èP/K‡¬ìŽ.KŽrÈÌÌ	ŽÞ¤LÌÌèöÞüêþÞøè
-JçÓÅÌèêÞà/îÞôÌÌÌÌâÞöîúÞðè’ÞŒÌÌÌŽÞˆÌÌÌÿKg¬ÿKDŽÞÊLÌÌÿKDŽÞÌLÌÌÿKDŽÞ´ÌÌÌÿKDŽÞ¼ÌÌÌÿKDŽÞ¤ÌÌÌKØNHâEÌKDŽÞ¬ÌÌÌj¾öíí
-Î>ÌÌÌÌê<è,8BŠÞ¦Ì",
-  "offset": "0x1752",
-  "size": "0x8"
- },
- {
-  "property": "FrameIndex",
-  "offset": "0x1760",
-  "size": "0x4"
- },
- {
-  "property": "FrameCount",
-  "offset": "0x1764",
-  "size": "0x4"
- },
- {
-  "property": "¨(´@>î®½ìÓ×¨((¯—v:¨((¯¼r:0¨((ìÏ
-ìÉìOíªð±¢(°Xìj:<¨((¯wˆ£êH¯ì+((í,jH”©í3´E¯gÊ¯ïñ,((ìDìÁêÅ¯oÅ)((¶×××—¯jù,((ˆìÊè×Ý©((¯éÌ+((ˆ´Æ¯jâ,((é×©¯ic,((
-ì\¼DéH)d´Ë¯cHjÊ¯j–,((íj:@¨((ì:ì:î®7!(ì:Ë
-:((((ì:
-ì:ìv:h(((ìj:l(((¯ƒH¯ j:.¨((¯ j:(¨((¯ j:P(((¯ j:X(((¯ j:@(((¯<ª¬¡(¯ j:H(((ŽêZ		î*Ú((((ìØÈÜ¦ìn:B(((ìj:@(((ŽìXŒéV¯é²)((
-ìz:$¨((în:D(((ìQ\eÀ*(î:íj:$¨((î¨îr:D(((Kj*D(((héT4¯éw¨((éÔ4¡ˆt4(((Œ¼L¨Ð°A\ÓÃ*(íj:@(((ìj: ¨((în:H(((ˆt¨(((ìQ\èƒÐ×ír:H(((¯Oˆ¯ *:¯¼j:H(((îb:H(((ìÐ\»÷Ó×ìËêH¯jÐ¨((í:í«í$°Ìî¢ãa",
-  "offset": "0x1768",
-  "size": "0x8"
- },
- {
-  "property": "IconSize",
-  "offset": "0x1776",
-  "size": "0x24"
- },
- {
-  "property": "Unknown_ffield",
-  "offset": "0x1800",
-  "size": "0x16"
- },
- {
-  "property": "Ü
-î[R&Cu™ˆCÏ»™Ï™$úÎèŠó4‡f]¼¹ëzäQîÐ•øàž–gè5)ÛË'üïÁ©×Æ‚¶w%5èT'09ÖâÔ¯Ñ¶s'uJk£NÖ"òNbî	kCí¶ytòÓHË[ú¯áÏŸËÝg`yÜBóÌÌ«v‚CÊfOày‚ùiÅ?ÍÌö¤) ŽoÍ¡ ò®¾óüšO#Ø¹Î«b´uÜÅuôÄv:ƒ§;)ÖzÜBï^+-Øœàá¹á–11¾4GÞ¦SêØS³êFÛæ°ÉèNJ",
-  "offset": "0x1816",
-  "size": "0x24"
- },
- {
-  "property": "InitialVelocity",
-  "offset": "0x1840",
-  "size": "0x24"
- },
- {
-  "property": "Unknown_ffield",
-  "offset": "0x1864",
-  "size": "0x4"
- },
- {
-  "property": "]\ÜÝÞS·C÷wwDUðã5e_÷wwDðÈ)eW÷wwDðã-eo÷wwQ³U³–S³S²õ¯îýwSïS³5ec÷wwSð(×üSµð³CtwwQ²Ds5ËöS²lëWð8•ð°®sww³³žµšð0švwwé“ð5ˆˆl»÷wƒˆˆðò×Ü×\×Ý×",
-  "offset": "0x1868",
-  "size": "0x4"
- },
- {
-  "property": "eDðã5ewwwS±=ewwwS³ä¨ŒˆS³”Sµð5÷ww²YeOS²ôS²W{ï“S±ý¼>÷wSëMaS±ñâ³ŒˆSëð5www«vwwwS±ý>÷wSëMòS³‹ˆýO^}w³—ë’ðµEuwwQ²1e7wwwÑµ“MO²]eMU²UeKS²ôS²WgS±ñR>÷wSëðµ¥wwwS²Ô{S²S{S²÷S²ÓsSã—Ó³Ó—
-vÑ±ZˆÑë›ðµÿuwwÓ¶Švð6‹öwwÓ¶
-÷ð4Ôtwwê_uðµöww²Us×ëðµ„öwwS²5ec÷wwSïS²ñ€oýwSë—ðµttwwS³ðc-eo÷wwðc)eW÷wwUðc5e_÷wwS·C÷wwÚÙØX×Y×Ù×X×Ø–«÷wwwƒdˆˆˆS³‹ˆý²ß}w5Í8ƒ7öwwª÷www×©÷wwwµð°~pS³hQ³ŠQ³HsS²UecS³TSµ“ð5ˆˆl»÷wƒˆˆðò×Ü×\×Ý×]\ÜÝÞS·C÷wwDUðã5e_÷wwDðÈ)eW÷wwDðã-eo÷wwQ³U³–S³S²õ¯îýwSïS³5ec÷wwSð(×üSµð³CtwwQ²Ds5ËöS²lëWð8•ð°®sww³³žµšð0švwwéˆˆˆÈð5¦sww×³•S·ˆ‚öwwð¶“tww×ë™ð5½swwS¶ˆöð6<swwU³ã¶vS;Së”ð<W5•ð5Ésww²5e÷wwS³MeGQ³EeCS±ñ\h~wS³Qe[”UeOwwww³YeMU³AeKS³)e7www³5e3wwwDðÜDðÿ5eq÷wwDðÿ5ew÷wwDðÿ5ewwwDðÿ5ewwwDðÿ5ewwwðcõóYþwðÿ5ewwwÑµMVV±u…wwwwQ³‡S—ƒù³1ewww³5ewwwÑ³Ó¶	Wð¶ívwwU³%e{÷wwS±1ewwwS³:ŸuwQ±EeG²5e{÷wwS±S÷S±-ewww5uwww7S¶kð¶(÷wwS¶‹kMþ×+kwwwÓãS÷ïŒœuwS²5ewwwS³5e÷wwS±1ewww×+÷wwwS³·ÜˆS²-ewwwSðD×ðu",
-  "offset": "0x1872",
-  "size": "0x4"
- },
- {
-  "property": "GeneratedMaterial",
-  "offset": "0x1880",
-  "size": "0x8"
- }
-]

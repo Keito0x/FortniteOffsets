@@ -1,52 +1,0 @@
-[
- {
-  "property": "(YYYYYYYÿY9×™†]Œ¦¦YYYYYYYYØt0‰]Œ¦¦]YYYYYYY}Ê†]Œ¦¦XYYYYYYYQÊ†]Œ¦¦YYYYYYYYYYSXÿïøéYYYYYYYYh+Y›¦¦sƒ]Œ¦¦Usƒ]Œ¦¦YYYYYYYY]YYYYYYYYYYYYYYYYYYYYYYYY]YYYYöõe]Œ¦¦YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYÙYYYYYYYYYYYYYYY1Ê†]Œ¦¦aÝª*Y›¦¦9vå€]Œ¦¦YYYYYYYYßY]YYYYY]YYY]YYYYYYYYYYYYYYYYYYY%vå€]Œ¦¦ÙYYYYYYYišsƒ]Œ¦¦)sƒ]Œ¦¦YYYYYYYY]YYYYYYY909]Œ¦¦yá†]Œ¦¦Yc;ˆ]Œ¦¦]YYYYYYYM†]Œ¦¦XYYYYYYYqM†]Œ¦¦YYYYYYYYYYSXÿïøéYYYYYYYYQ÷+Y›¦¦EäÝ	]Œ¦¦M<0]Œ¦¦YYYYYYYY]YYYYYYYYYYYYYYYYYYYYYYYXY]YYYY&me]Œ¦¦YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYÙYYYYYYYYYYYYYYYQÍ†]Œ¦¦ÿ)Y›¦¦YYYYYYYYYYYYYYYYßY]",
-  "offset": "0x784",
-  "size": "0x16"
- },
- {
-  "property": "ø…g‰ÇØÒøø†*n×Òøø#”GØÒøø”GØÒøø¡±¦·O6_uÅøøKD-ÝÒøøV-ÝÒøøGF¨«;[Òøø‡o”GØÒøø?ƒôtÅøøg(»ÞÒøø{(»ÞÒøø‡7Ä-ÝÒøøwV-ÝÒøøgngSÒøø'¿GØÒøø=eÖÒøøCGØÒøø/GØÒøø¡±¦·©_uÅøøºƒWÒøøbnHÒøøGx3;[Òøø‡“GØÒøøG¡DwÅøøv!¡W€*SÒøøºÜÒøø/FÓWÒøøÖ“UÒøø#o×Òøøc“GØÒøø‡O“GØÒøø¡±¦·OD|Åøø+GØÒøø+GØÒøø‡‡CG$%UÒøø‡‡/GØÒøø'íÅøø‡‡'MÊÓÒøøø",
-  "offset": "0x800",
-  "size": "0x8"
- },
- {
-  "property": "Unknown_ffield",
-  "offset": "0x808",
-  "size": "0x8"
- },
- {
-  "property": "Unknown_ffield",
-  "offset": "0x816",
-  "size": "0x4"
- },
- {
-  "property": "ø……[M»ÞÒøø‡_²=ÈÒøø7(*SÒøø…g‰ÇØÒøø†*n×Òøø#”GØÒøø”GØÒøø¡±¦·O6_uÅøøKD-ÝÒøøV-ÝÒøøGF¨«;[Òøø‡o”GØÒøø?ƒôtÅøøg(»ÞÒøø{(»ÞÒøø‡7Ä-ÝÒøøwV-ÝÒøøgngSÒøø'¿GØÒøø=eÖÒøøCGØÒøø/GØÒøø¡±¦·©_uÅøøºƒWÒøøbnHÒøøGx3;[Òøø‡“GØÒøøG¡DwÅøøv!¡W€*SÒøøºÜÒøø/FÓWÒøøÖ“UÒøø#o×Òøøc“GØÒøø‡O“GØÒøø¡±¦·OD|Åøø+GØÒøø+GØÒøø‡‡CG$%UÒøø‡‡/GØÒøø'íÅøøø",
-  "offset": "0x820",
-  "size": "0x4"
- },
- {
-  "property": "øMéÅøøGM»ÞÒøø……[M»ÞÒøø‡_²=ÈÒøø7(*SÒøø…g‰ÇØÒøø†*n×Òøø#”GØÒøø”GØÒøø¡±¦·O6_uÅøøKD-ÝÒøøV-ÝÒøøGF¨«;[Òøø‡o”GØÒøø?ƒôtÅøøg(»ÞÒøø{(»ÞÒøø‡7Ä-ÝÒøøwV-ÝÒøøgngSÒøø'¿GØÒøø=eÖÒøøCGØÒøø/GØÒøø¡±¦·©_uÅøøºƒWÒøøbnHÒøøGx3;[Òøø‡“GØÒøøG¡DwÅøøv!¡W€*SÒøøºÜÒøø/FÓWÒøøÖ“UÒøø#o×Òøøc“GØÒøø‡O“GØÒøø¡±¦·OD|Åøø+GØÒøø+GØÒøø‡‡CG$%UÒøø‡‡ø",
-  "offset": "0x856",
-  "size": "0x4"
- },
- {
-  "property": "YYYYYYYYYYYYYYYYYYYYYYYJ†]Œ¦¦IP·Y›¦¦å€]Œ¦¦YYYYYYYYßY]YYYYYÛYYYÛYYYYYYYYYYYYYYYYYYYå€]Œ¦¦ÙYYYYYYYìc–]Œ¦¦ivt]Œ¦¦YYYYYYYYÛYYYYYYY9×™†]Œ¦¦YYYYYYYYØt0‰]Œ¦¦]YYYYYYY}Ê†]Œ¦¦XYYYYYYYQÊ†]Œ¦¦YYYYYYYYYYSXÿïøéYYYYYYYYh+Y›¦¦sƒ]Œ¦¦Usƒ]Œ¦¦YYYYYYYY]YYYYYYYYYYYYYYYYYYYYYYYY]YYYYöõe]Œ¦¦YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYÙYYYYYYYYYYYYYYY1Ê†]Œ¦¦aÝª*Y›¦¦9vå€]Œ¦¦YYYYYYYYßY]YYYYY]YYY]YYYYYYYYYYYYYYYYYYY%vå€]Œ¦¦ÙYYYYYYYišsƒ]Œ¦¦)sƒ]Œ¦¦YYYYYYYY]YYYYYYY909]Œ¦¦yá†]Œ¦¦Yc;ˆ]Œ¦¦]YYYYYYYM†]Œ¦¦XYYYYYYYqM†]Œ¦¦YYYYYYYYYYSXÿïøéYYYYYYYYQ÷+Y›¦¦EäÝ	]Œ¦¦M<0]Œ¦¦YYYYYYYY]YYYYYY",
-  "offset": "0x860",
-  "size": "0x4"
- },
- {
-  "property": "¦YYYYYYYY]YYYYYYYYYYYYYÙYYYYYYYYYYYYYYYJ†]Œ¦¦IP·Y›¦¦å€]Œ¦¦YYYYYYYYßY]YYYYYÛYYYÛYYYYYYYYYYYYYYYYYYYå€]Œ¦¦ÙYYYYYYYìc–]Œ¦¦ivt]Œ¦¦YYYYYYYYÛYYYYYYY9×™†]Œ¦¦YYYYYYYYØt0‰]Œ¦¦]YYYYYYY}Ê†]Œ¦¦XYYYYYYYQÊ†]Œ¦¦YYYYYYYYYYSXÿïøéYYYYYYYYh+Y›¦¦sƒ]Œ¦¦Usƒ]Œ¦¦YYYYYYYY]YYYYYYYYYYYYYYYYYYYYYYYY]YYYYöõe]Œ¦¦YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYÙYYYYYYYYYYYYYYY1Ê†]Œ¦¦aÝª*Y›¦¦9vå€]Œ¦¦YYYYYYYYßY]YYYYY]YYY]YYYYYYYYYYYYYYYYYYY%vå€]Œ¦¦ÙYYYYYYYišsƒ]Œ¦¦)sƒ]Œ¦¦YYYYYYYY]YYYYYYY909]Œ¦¦yá†]Œ¦¦Yc;ˆ]Œ¦¦]YYYYYYYM†]Œ¦¦XYYYYYYYqM†]Œ¦¦YYYYYYYYYYSXÿïøéYYYYYYYYQ÷+Y›¦¦EäÝ	]Œ¦¦M<0]Œ¦",
-  "offset": "0x864",
-  "size": "0x4"
- },
- {
-  "property": "¦EäÝ	]Œ¦¦M<YYYYYYYYYYYYYYYYYYYYYYYYYYYYÙYYYYYYYYYYYYYYYJ†]Œ¦¦IP·Y›¦¦å€]Œ¦¦YYYYYYYYßY]YYYYYÛYYYÛYYYYYYYYYYYYYYYYYYYå€]Œ¦¦ÙYYYYYYYìc–]Œ¦¦ivt]Œ¦¦YYYYYYYYÛYYYYYYY9×™†]Œ¦¦YYYYYYYYØt0‰]Œ¦¦]YYYYYYY}Ê†]Œ¦¦XYYYYYYYQÊ†]Œ¦¦YYYYYYYYYYSXÿïøéYYYYYYYYh+Y›¦¦sƒ]Œ¦¦Usƒ]Œ¦¦YYYYYYYY]YYYYYYYYYYYYYYYYYYYYYYYY]YYYYöõe]Œ¦¦YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYÙYYYYYYYYYYYYYYY1Ê†]Œ¦¦aÝª*Y›¦¦9vå€]Œ¦¦YYYYYYYYßY]YYYYY]YYY]YYYYYYYYYYYYYYYYYYY%vå€]Œ¦¦ÙYYYYYYYišsƒ]Œ¦¦)sƒ]Œ¦¦YYYYYYYY]YYYYYYY909]Œ¦¦yá†]Œ¦¦Yc;ˆ]Œ¦¦]YYYYYYYM†]Œ¦¦XYYYYYYYqM†]Œ¦¦YYYYYYYYYYSXÿïøéYYYYYYYYQ÷+Y›¦",
-  "offset": "0x868",
-  "size": "0x4"
- },
- {
-  "property": "XÿïøéYYYYYYîŒ]Œ¦¦YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYÙYYYYYYYYYYYYYYYJ†]Œ¦¦IP·Y›¦¦å€]Œ¦¦YYYYYYYYßY]YYYYYÛYYYÛYYYYYYYYYYYYYYYYYYYå€]Œ¦¦ÙYYYYYYYìc–]Œ¦¦ivt]Œ¦¦YYYYYYYYÛYYYYYYY9×™†]Œ¦¦YYYYYYYYØt0‰]Œ¦¦]YYYYYYY}Ê†]Œ¦¦XYYYYYYYQÊ†]Œ¦¦YYYYYYYYYYSXÿïøéYYYYYYYYh+Y›¦¦sƒ]Œ¦¦Usƒ]Œ¦¦YYYYYYYY]YYYYYYYYYYYYYYYYYYYYYYYY]YYYYöõe]Œ¦¦YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYÙYYYYYYYYYYYYYYY1Ê†]Œ¦¦aÝª*Y›¦¦9vå€]Œ¦¦YYYYYYYYßY]YYYYY]YYY]YYYYYYYYYYYYYYYYYYY%vå€]Œ¦¦ÙYYYYYYYišsƒ]Œ¦¦)sƒ]Œ¦¦YYYYYYYY]YYYYYYY909]Œ¦¦yá†]Œ¦¦Yc;ˆ]Œ¦¦]YYYYYYYM†]Œ¦¦XYYYYYYYqM†]Œ¦¦YYYYYYYYYYS",
-  "offset": "0x872",
-  "size": "0x4"
- }
-]

@@ -1,17 +1,0 @@
-[
- {
-  "property": "StorageItemInfoByVerseURI",
-  "offset": "0x128",
-  "size": "0x80"
- },
- {
-  "property": "Unknown_ffield",
-  "offset": "0x208",
-  "size": "0x1"
- },
- {
-  "property": "YYYYYYYYYYYYY]YYY]YYYYYYYYYYYYYYYYYYY%vå€]Œ¦¦ÙYYYYYYYišsƒ]Œ¦¦)sƒ]Œ¦¦YYYYYYYY]YYYYYYY909]Œ¦¦yá†]Œ¦¦Yc;ˆ]Œ¦¦]YYYYYYYM†]Œ¦¦XYYYYYYYqM†]Œ¦¦YYYYYYYYYYSXÿïøéYYYYYYYYQ÷+Y›¦¦EäÝ	]Œ¦¦M<0]Œ¦¦YYYYYYYY]YYYYYYYYYYYYYYYYYYYYYYYXY]YYYY&me]Œ¦¦YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYÙYYYYYYYYYYYYYYYQÍ†]Œ¦¦ÿ)Y›¦¦YYYYYYYYYYYYYYYYßY](YYYYYYYÿYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY	Þt]Œ¦¦IäA‚]Œ¦¦YYYYYYYY]YYYYYYYq	]Œ¦¦YˆÍ]Œ¦¦Y}1‰]Œ¦¦]YYYYYYY=Í†]Œ¦¦ÙYYYYYYYÍ†]Œ¦¦YYYYYYYYYYSXÿïøéYYYYYYYYÓ"Y›¦¦uL†]Œ¦¦uL†]Œ¦¦ÙYYYYYYYYYYYYYYYÙYYYYYYYYYYYYYYYYYYYYYAz{]Œ¦¦YYYYYYYYYYYYYYYYÙ",
-  "offset": "0x209",
-  "size": "0x1"
- }
-]

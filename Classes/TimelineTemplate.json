@@ -1,87 +1,0 @@
-[
- {
-  "property": "TimelineLength",
-  "offset": "0x40",
-  "size": "0x4"
- },
- {
-  "property": "LengthMode",
-  "offset": "0x44",
-  "size": "0x1"
- },
- {
-  "property": "bAutoPlay",
-  "offset": "0x45",
-  "size": "0x1"
- },
- {
-  "property": "¦ÙYYYYYYYÍYYYYYYYYYYYYYYYYYYYYY]YYYYöõe]Œ¦¦YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYÙYYYYYYYYYYYYYYY1Ê†]Œ¦¦aÝª*Y›¦¦9vå€]Œ¦¦YYYYYYYYßY]YYYYY]YYY]YYYYYYYYYYYYYYYYYYY%vå€]Œ¦¦ÙYYYYYYYišsƒ]Œ¦¦)sƒ]Œ¦¦YYYYYYYY]YYYYYYY909]Œ¦¦yá†]Œ¦¦Yc;ˆ]Œ¦¦]YYYYYYYM†]Œ¦¦XYYYYYYYqM†]Œ¦¦YYYYYYYYYYSXÿïøéYYYYYYYYQ÷+Y›¦¦EäÝ	]Œ¦¦M<0]Œ¦¦YYYYYYYY]YYYYYYYYYYYYYYYYYYYYYYYXY]YYYY&me]Œ¦¦YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYÙYYYYYYYYYYYYYYYQÍ†]Œ¦¦ÿ)Y›¦¦YYYYYYYYYYYYYYYYßY](YYYYYYYÿYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY	Þt]Œ¦¦IäA‚]Œ¦¦YYYYYYYY]YYYYYYYq	]Œ¦¦YˆÍ]Œ¦¦Y}1‰]Œ¦¦]YYYYYYY=Í†]Œ¦",
-  "offset": "0x45",
-  "size": "0x1"
- },
- {
-  "property": "bReplicated",
-  "offset": "0x45",
-  "size": "0x1"
- },
- {
-  "property": "†]Œ¦¦)K†]ŒQH†]Œ¦¦YYYYYYYYYYSXÿïøéYYYYYYYY1+Y›¦¦5“t]Œ¦¦5±9]Œ¦¦YYYYYYYY]YYYYYYYYYYYYYYYYYYYYYYYY]YYYY†äe]Œ¦¦YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYÙYYYYYYYYYYYYYYY1H†]Œ¦¦1Øª*Y›¦¦Iå€]Œ¦¦YYYYYYYYßY]YYYYY]YYY]YYYYYYYYYYYYYYYYYYYuå€]Œ¦¦ÙYYYYYYY	t]Œ¦¦)rt]Œ¦¦YYYYYYYY]YYYYYYYYYYYYYYYYYYYYYYYYÇù‹]Œ¦¦]YYYYYYYÈ†]Œ¦¦XYYYYYYYqÈ†]Œ¦¦YYYYYYYYYYSXÿïøéYYYYYYYYQrH«Y›¦¦)!†]Œ¦¦)!†]Œ¦¦YYYYYYYYÙYYYYYYYÙYYYYYYYÙYYYYYYYYYYYYYYÞ]Œ¦¦YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYÙYYYYYYYYYYYYYYYQK†]Œ¦¦1›¾5Y›¦¦YYYYYYYYYYYYYYYYßYÈYYYYØYYY[YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY)K",
-  "offset": "0x45",
-  "size": "0x1"
- },
- {
-  "property": "EventTracks",
-  "offset": "0x48",
-  "size": "0x16"
- },
- {
-  "property": "FloatTracks",
-  "offset": "0x64",
-  "size": "0x16"
- },
- {
-  "property": "VectorTracks",
-  "offset": "0x80",
-  "size": "0x16"
- },
- {
-  "property": "LinearColorTracks",
-  "offset": "0x96",
-  "size": "0x16"
- },
- {
-  "property": "MetaDataArray",
-  "offset": "0x112",
-  "size": "0x16"
- },
- {
-  "property": "TimelineGuid",
-  "offset": "0x128",
-  "size": "0x16"
- },
- {
-  "property": "TimelineTickGroup",
-  "offset": "0x144",
-  "size": "0x1"
- },
- {
-  "property": "VariableName",
-  "offset": "0x148",
-  "size": "0x4"
- },
- {
-  "property": "DirectionPropertyName",
-  "offset": "0x152",
-  "size": "0x4"
- },
- {
-  "property": "UpdateFunctionName",
-  "offset": "0x156",
-  "size": "0x4"
- },
- {
-  "property": "FinishedFunctionName",
-  "offset": "0x160",
-  "size": "0x4"
- }
-]

@@ -1,42 +1,0 @@
-[
- {
-  "property": "BadMatchTriggers",
-  "offset": "0x40",
-  "size": "0x16"
- },
- {
-  "property": "PhasesToInclude",
-  "offset": "0x56",
-  "size": "0x16"
- },
- {
-  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYyîç]å¶¶yîç]å¶¶ŸYYYYYYYYYYYYYYYaŒè]å¶¶YYYYYYYY¿ŒÉ]å¶¶]YYYYYYY]ÃÜ]å¶¶ŸYYYYYYY1LÜ]å¶¶YYYYYYYYYYSXˇÔ¯ÈYYYYYYYY1±&$Yõ¶¶ÃÜ]å¶¶ÃÜ]å¶¶ŸYYYYYYYŸYYYYYYYŸYYYYYYYYYYYYYYYYYYYYYyke]å¶¶YYYYYYYYYYYYYYYYŸYYYYYYYYYYYYYYYYYYYYYYYŸYYYYYYYYYYYYYYYÃÜ]å¶¶A⁄O!Yõ¶¶YYYYYYYYYYYYYYYYﬂYYYYYYYYŸYYYŸYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYmgV]å¶¶mgV]å¶¶ŸYYYYYYYŸYYYYYYYYYYYYYYYYYYYYYYYy§“]å¶¶]YYYYYYY}OÜ]å¶¶ŸYYYYYYYQOÜ]å¶¶YYYYYYYYYYSXˇÔ¯ÈYYYYYYYY1˜+Yõ¶¶UKt]å¶¶mÔcñ]å¶¶YYYYYYYYﬂYYYYYYYYYYYYYYYYYYYYYYYY]YYYYéˇ]å¶¶YYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
-  "offset": "0x72",
-  "size": "0x16"
- },
- {
-  "property": "ReportProbability",
-  "offset": "0x88",
-  "size": "0x8"
- },
- {
-  "property": "Unknown_ffield",
-  "offset": "0x96",
-  "size": "0x8"
- },
- {
-  "property": "bEnabled",
-  "offset": "0x104",
-  "size": "0x1"
- },
- {
-  "property": "bEnableCsvProfile",
-  "offset": "0x105",
-  "size": "0x1"
- },
- {
-  "property": "bUploadAllCsvs",
-  "offset": "0x106",
-  "size": "0x1"
- }
-]

@@ -1,22 +1,0 @@
-[
- {
-  "property": "OnReaction",
-  "offset": "0x208",
-  "size": "0x16"
- },
- {
-  "property": "CollisionReactionConfiguration",
-  "offset": "0x512",
-  "size": "0x512"
- },
- {
-  "property": "LandscapeClampingHelper",
-  "offset": "0x1024",
-  "size": "0x8"
- },
- {
-  "property": "yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyya{˜)}¬††a{˜)}¬††ùyyyyyyyyyyyyyyyy ©}¬††qï|¨}¬††¸¬©}¬††}yyyyyyy}j9¦}¬††ùyyyyyyyë9¦}¬††yyyyyyyyyysxßÏØÉyyyyyyyyJ!y»††LC¶}¬††5×T-}¬††yyyyyyyyûyyyyyyyyyyyyyyyyyyyyyyy98y}yyyyÎ¬9-}¬††yyyyyyyyyy}¬††	k9¦}¬††ùyyyyyyyùyyyyyyyyyyyyyyyyyyyyyyyu^b¬}¬††}yyyyyyyk9¦}¬††ùyyyyyyy1k9¦}¬††yyyyyyyyyysxßÏØÉyyyyyyyyQßh‹y»††Uë9¦}¬††Uë9¦}¬††ùyyyyyyyyyyyyyyyùyyyyyyyyyyyyyyy99yyyyyy–g¦}¬††yyyyyyyyyyyyyyyyùyyyyyyyyyyyyyyyyyyyyyyyùyyyyyyyyyyyyyyyQë9¦}¬††1ì‰y»††yyyyyyyyyyyyyyyyÿyyyyyyyyùyyyùyyy",
-  "offset": "0x1040",
-  "size": "0x16"
- }
-]

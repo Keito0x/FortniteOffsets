@@ -1,29 +1,0 @@
-[
- {
-  "property": "Priority",
-  "offset": "0x192",
-  "size": "0x4"
- },
- {
-  "property": "^}wі—л’рµEuwwQІ1e7wwwСµ“MOІ]eMUІUeKSІфSІWgS±сR>чwSлрµҐwwwSІФ{SІS{SІчSІУsSг—УіУ—
-vС±Z€Сл›рµяuwwУ¶Љvр6‹цwwУ¶
-чр4ФtwwксвіЊ€Sлр5www«vwwwS±э>чwSлMтSі‹€эO",
-  "offset": "0x200",
-  "size": "0x8"
- },
- {
-  "property": "ДооYАДоо‘Доо9„АДоо)„АДоо)„АДооy»АЮДоо‘ %(¦§Ј†(ќ2Ґ'ЈЈЁ %(¦§‡АДооQ‘Иџ&Ь§ї€Q	.ОДоо‘s®‘љ71GwCе1°ЯДоо“}gaЭДооaUаЭДоо)ЎмУооA€(‘УооMЎНEДоо	L\Доо‘‘‘‘0*-®[аУоо@‘uАДооuАДоо‘aАДооaАДоо‡АДоо‡АДоо‘ќ2Ґ'ЈEАДоо/~ЭДооQ‘Доо7с“}gaЭДооaUаЭДоо11Cm)qaУоо)АДоо)АДооYА",
-  "offset": "0x208",
-  "size": "0x8"
- },
- {
-  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
-  "offset": "0x216",
-  "size": "0x1"
- },
- {
-  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
-  "offset": "0x217",
-  "size": "0x1"
- }
-]

@@ -1,7 +1,0 @@
-[
- {
-  "property": "GameplayTagQuery",
-  "offset": "0x40",
-  "size": "0x72"
- }
-]

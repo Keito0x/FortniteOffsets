@@ -1,22 +1,0 @@
-[
- {
-  "property": "AnimMontage",
-  "offset": "0x48",
-  "size": "0x32"
- },
- {
-  "property": "PlayRate",
-  "offset": "0x80",
-  "size": "0x4"
- },
- {
-  "property": "StartSectionName",
-  "offset": "0x84",
-  "size": "0x4"
- },
- {
-  "property": "¦ÙYYYYYYYÍYYYYYYYYYYYYYYYYYYYYY]YYYYöõe]Œ¦¦YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYÙYYYYYYYYYYYYYYY1Ê†]Œ¦¦aÝª*Y›¦¦9vå€]Œ¦¦YYYYYYYYßY]YYYYY]YYY]YYYYYYYYYYYYYYYYYYY%vå€]Œ¦¦ÙYYYYYYYišsƒ]Œ¦¦)sƒ]Œ¦¦YYYYYYYY]YYYYYYY909]Œ¦¦yá†]Œ¦¦Yc;ˆ]Œ¦¦]YYYYYYYM†]Œ¦¦XYYYYYYYqM†]Œ¦¦YYYYYYYYYYSXÿïøéYYYYYYYYQ÷+Y›¦¦EäÝ	]Œ¦¦M<0]Œ¦¦YYYYYYYY]YYYYYYYYYYYYYYYYYYYYYYYXY]YYYY&me]Œ¦¦YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYÙYYYYYYYYYYYYYYYQÍ†]Œ¦¦ÿ)Y›¦¦YYYYYYYYYYYYYYYYßY](YYYYYYYÿYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY	Þt]Œ¦¦IäA‚]Œ¦¦YYYYYYYY]YYYYYYYq	]Œ¦¦YˆÍ]Œ¦¦Y}1‰]Œ¦¦]YYYYYYY=Í†]Œ¦",
-  "offset": "0x88",
-  "size": "0x1"
- }
-]

@@ -1,17 +1,0 @@
-[
- {
-  "property": "ReactionsDataRegistry",
-  "offset": "0x192",
-  "size": "0x48"
- },
- {
-  "property": "AnalyticFlushFrequencyInSeconds",
-  "offset": "0x240",
-  "size": "0x4"
- },
- {
-  "property": "YYYYYYYYYYYYYYYYYYYYYYYYYA[¸	]Œ¦¦A[¸	]Œ¦¦ÙYYYYYYYYYYYYYYYY€°‰]Œ¦¦QÏ\ˆ]Œ¦¦˜Œ°‰]Œ¦¦]YYYYYYY]J†]Œ¦¦ÙYYYYYYY1Ë†]Œ¦¦YYYYYYYYYYSXÿïøéYYYYYYYY1j+Y›¦¦-lc–]Œ¦¦÷t]Œ¦¦YYYYYYYYÛYYYYYYYYYYYYYYYYYYYYYYYY]YYYYîŒ]Œ¦¦YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYÙYYYYYYYYYYYYYYYJ†]Œ¦¦IP·Y›¦¦å€]Œ¦¦YYYYYYYYßY]YYYYYÛYYYÛYYYYYYYYYYYYYYYYYYYå€]Œ¦¦ÙYYYYYYYìc–]Œ¦¦ivt]Œ¦¦YYYYYYYYÛYYYYYYY9×™†]Œ¦¦YYYYYYYYØt0‰]Œ¦¦]YYYYYYY}Ê†]Œ¦¦XYYYYYYYQÊ†]Œ¦¦YYYYYYYYYYSXÿïøéYYYYYYYYh+Y›¦¦sƒ]Œ¦¦Usƒ]Œ¦¦YYYYYYYY]YYYYYYYYYYYYYYYYYYYYYYYY]YYYYöõe]Œ¦¦YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYÙYYYY",
-  "offset": "0x432",
-  "size": "0x8"
- }
-]

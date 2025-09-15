@@ -1,52 +1,0 @@
-[
- {
-  "property": "Avatar_SocialAvatarIcon",
-  "offset": "0x896",
-  "size": "0x8"
- },
- {
-  "property": "PlayerAvatar",
-  "offset": "0x904",
-  "size": "0x8"
- },
- {
-  "property": "Border_OnlineStatusIndicator",
-  "offset": "0x912",
-  "size": "0x8"
- },
- {
-  "property": "Border_OnlineStatusOutline",
-  "offset": "0x920",
-  "size": "0x8"
- },
- {
-  "property": "œ{K{œK}Ş½KYYYŞ=KYYY}ŸÛÆ¡¦Ÿ{KMıY}ŸßóÏÒY}ŸÓ†¬¦ûÁ½¦Ó«åSY›9ŞnÙYYœ×ÎÏÒYŞ¨×ŞèÙYY¢°¢¸MÙYYŞ›™ÙYY}ŸKAùÙYYY}$-w~ ¦œ{KAŞ=Zœ{KCŞ=z[œ{KEŞ=z]œ{KGŞ=z_œ{KyŞ=zQŞò9ŞÍKYYYŞÍ{KaŞÍ{KiŞÍ{KqŞÍ{KyŞÍ{KA}œKYYY}Á)}œß|GÓY}Å¹Ş›8YYY}!}™;	YYYô÷övùv¸}ŸÛ…F¡¦Ÿ{KMıY}ŸßdOÒY}ŸÓ°¬¦ûÁ½¦Ó\åSY›9ŞYYY }¹¬ZœÏÿOÒYŞ«×Ş_ÙYY¢³¢»MÙYYŞ›ÊÙYY}ŸKA}$ı5-çÿ ¦ÿ!ı˜)ÆŞê&¦¦ı˜*9Ù¢û:­ú&¦¦˜%ÆcĞùÆYYYıÍ9}Ù¥Á0-í©[0¦ÓµçSY„ÒYYY­Ö$¦¦¦Ó­åSY}œKÙYYÙ}œK)YYYÁ0¦ÓçSY„ÌYYY­£¥¦¦}"¦¦¦¦¦¦æ}ŸeÙ­&¦¦??????????ùrròóğ}™/	YYY}>}œÛ­ÇÓY}Á)}KYYYŞMÛ¢rPYŞÑÙºùQ}œDœ`]Şò9ŞÑKYYYŞÑ{KcŞÑ{KkŞÑ{KsŞÑ{K{ŞMÛ!jĞYŞÑ{KAº{Ky!©0¸ÿ›"cÃxŸ[£YYYY¡}¹­×K}{K{ı˜&yŞ˜ÇÙYYÿ!}ŸK{áy}$-7[Y}ŸgKœúy}Ÿ}Ù:{[}˜%EŞ˜ŸÙYY}˜¥EcĞùEYYYıÍ=}Ù¥Á0-£([Y",
-  "offset": "0x928",
-  "size": "0x8"
- },
- {
-  "property": "Overlay_FortniteCrew",
-  "offset": "0x936",
-  "size": "0x8"
- },
- {
-  "property": "Overlay_BattlePass",
-  "offset": "0x944",
-  "size": "0x8"
- },
- {
-  "property": "Text_SocialName",
-  "offset": "0x952",
-  "size": "0x8"
- },
- {
-  "property": "RichText_PlatformNames",
-  "offset": "0x960",
-  "size": "0x8"
- },
- {
-  "property": "VoiceIcon_Status",
-  "offset": "0x968",
-  "size": "0x8"
- }
-]

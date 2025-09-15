@@ -1,17 +1,0 @@
-[
- {
-  "property": "’=ÑÑ´i¸’’mmmmmmmmëmimmmmmìmmmìmmmmmmmmmmmmmmmmmmmW¢i¸’’mmmmmmmmëmmmmmmmmmmmmmmmmmmmmmmmM|¾i¸’’immmmmmm)û-²i¸’’lmmmmmmmEû-²i¸’’mmmmmmmmmmglËÛÌİmmmmmmmm%*éí¯’’a9i¸’’Ï-²i¸’’mmmmmmmmìmmmmmmmmmmmmmmmmmmmmmmm-,mimmmmÊ9-9i¸’’mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmímmmmmmmmmmmmmmmez-²i¸’’rm¯’",
-  "offset": "0x48",
-  "size": "0x40"
- },
- {
-  "property": "MaxConvertResistance",
-  "offset": "0x88",
-  "size": "0x40"
- },
- {
-  "property": "ConvertDamage",
-  "offset": "0x128",
-  "size": "0x40"
- }
-]

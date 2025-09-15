@@ -1,66 +1,0 @@
-[
- {
-  "property": "ToastWidget_New",
-  "offset": "0x880",
-  "size": "0x8"
- },
- {
-  "property": "Toast_BattlePassPageUnlocked",
-  "offset": "0x888",
-  "size": "0x8"
- },
- {
-  "property": "<¨((¯êè¨((î:0¨((Ë(	ª((ín:X(((°A×¢‚"(õ¢(((ÜåU××°A\7]×Ü¤Ó×××¢„"(ín:|¨((ì¨õ!(((ÜiU××ín:X(((°A×¢¢"(õˆ(((Ü…U×××¢º"(ì+õ(((ÜžU×××¢¡"(ín:|¨((ì¨ín:X(((°A×¢Ä–"(õ£(((Ü§U×××¢Ü”"(ín:|¨((ì¨ín:X(((°A×¢ÿ–"(õ½(((ÜÒÔ××tS××××××—î¨Ü}W××NNNNNNNNNNˆƒ‚è^x(((ìOíªÜ¶¢(°Xìj:d(((¯<ªÓ!(¯ ¨Ëˆ }}}}í5í,¯ƒH¯ j:h(((¯ 
-:¯ 
-:¯ 
-:¯ 
-:
-¯<ªP¡(¯ 
-:0Ë
-:PØAÉŽêS²	î*Ò((((ìÐÈÜ¦ì:ì
-:
-ŒéW¯é¶¨((ŽìPî:
-ììU\ìF*(î:í‹î¨K
-*héT4¯éî¨((éÔ4¡ˆt4(((Œ¼L¨Ô°A\ÒY*(í
-:
-í:¯Ììn:j(((¯Lìj:l(((îªb·Ð×î
-:<Œì(î®‚¾£(î¢÷Ý×Š°Ì×¢Ú”"(êH¯j¨((í¦¿¾£(¯uÙ¦¯i™¨((ÓÁÓÉ",
-  "offset": "0x896",
-  "size": "0x8"
- },
- {
-  "property": "Unknown_ffield",
-  "offset": "0x904",
-  "size": "0x8"
- },
- {
-  "property": "VoiceChannelChangePopup",
-  "offset": "0x912",
-  "size": "0x8"
- },
- {
-  "property": "ToastWidgetDonut",
-  "offset": "0x920",
-  "size": "0x8"
- },
- {
-  "property": "ToastSocialWidget",
-  "offset": "0x928",
-  "size": "0x8"
- },
- {
-  "property": "ToastSocialWidget_New",
-  "offset": "0x936",
-  "size": "0x8"
- },
- {
-  "property": "NotificationQueue",
-  "offset": "0x944",
-  "size": "0x8"
- },
- {
-  "property": "CurrentNotification",
-  "offset": "0x952",
-  "size": "0x8"
- }
-]

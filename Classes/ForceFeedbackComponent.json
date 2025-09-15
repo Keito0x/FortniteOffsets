@@ -1,52 +1,0 @@
-[
- {
-  "property": "ForceFeedbackEffect",
-  "offset": "0x576",
-  "size": "0x8"
- },
- {
-  "property": "bAutoDestroy",
-  "offset": "0x584",
-  "size": "0x1"
- },
- {
-  "property": "bStopWhenOwnerDestroyed",
-  "offset": "0x584",
-  "size": "0x1"
- },
- {
-  "property": "bLooping",
-  "offset": "0x584",
-  "size": "0x1"
- },
- {
-  "property": "Ü]å¶¶)KÜ]åQHÜ]å¶¶YYYYYYYYYYSXˇÔ¯ÈYYYYYYYY1+Yõ¶¶5ìt]å¶¶5±9]å¶¶YYYYYYYY]YYYYYYYYYYYYYYYYYYYYYYYY]YYYYÜ‰e]å¶¶YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYŸYYYYYYYYYYYYYYY1HÜ]å¶¶1ÿ™*Yõ¶¶IÂÄ]å¶¶YYYYYYYYﬂY]YYYYY]YYY]YYYYYYYYYYYYYYYYYYYuÂÄ]å¶¶ŸYYYYYYY	t]å¶¶)rt]å¶¶YYYYYYYY]YYYYYYYYYYYYYYYYYYYYYYYY«˘ã]å¶¶]YYYYYYY»Ü]å¶¶XYYYYYYYq»Ü]å¶¶YYYYYYYYYYSXˇÔ¯ÈYYYYYYYYQrH´Yõ¶¶)!Ü]å¶¶)!Ü]å¶¶YYYYYYYYŸYYYYYYYŸYYYYYYYŸYYYYYYYYYYYYYYﬁù]å¶¶YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYŸYYYYYYYYYYYYYYYQKÜ]å¶¶1õæ5Yõ¶¶YYYYYYYYYYYYYYYYﬂY»YYYYÿYYY[YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY)K",
-  "offset": "0x584",
-  "size": "0x1"
- },
- {
-  "property": "bOverrideAttenuation",
-  "offset": "0x584",
-  "size": "0x1"
- },
- {
-  "property": "IntensityMultiplier",
-  "offset": "0x588",
-  "size": "0x4"
- },
- {
-  "property": "AttenuationSettings",
-  "offset": "0x592",
-  "size": "0x8"
- },
- {
-  "property": "AttenuationOverrides",
-  "offset": "0x600",
-  "size": "0x192"
- },
- {
-  "property": "OnForceFeedbackFinished",
-  "offset": "0x792",
-  "size": "0x16"
- }
-]

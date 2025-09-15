@@ -1,7 +1,0 @@
-[
- {
-  "property": "InteractionType",
-  "offset": "0x40",
-  "size": "0x80"
- }
-]
